@@ -13,7 +13,7 @@ def len_ngrams(term_list):
     return length
 
 
-def pos_ngram_generator(nlp_doc, gen_list, term_list):
+def pos_ngram_generator(nlp_doc, term_list):
     pos_doc = []
     for sentence in nlp_doc.sents:  # loop over sentences to get all n-grams within the sentence
         sent_list = [i.text for i in sentence]
@@ -25,8 +25,8 @@ def pos_ngram_generator(nlp_doc, gen_list, term_list):
             for ngram, pos in zip(ngrams, pos_grams):
                 ngram_string = " ".join(ngram)
                 if ngram_string in term_list:
-                    if pos not in gen_list and pos not in pos_doc:
-                        pos_doc.append(pos)
+                    pos_string = " ".join(pos)
+                    pos_doc.append(pos_string)
 
     return pos_doc
 
@@ -55,9 +55,36 @@ for subdir in os.listdir(en_train_path):
                 doc = nlp(f.read())
                 f.close()
 
-            pos_labels_global.extend(pos_ngram_generator(doc, pos_labels_global, term_label_pairs))
+            pos_labels_global.extend(pos_ngram_generator(doc, term_label_pairs))
+
+
+# for the financial (test) corpus, we need a slightly different approach
+
+fin_annotations_dir = "/home/gillesfloreal/PycharmProjects/ASTRA/finc_en_test/annotations"
+fin_texts_dir = "/home/gillesfloreal/PycharmProjects/ASTRA/finc_en_test/texts"
+
+# first get all unique annotations in a list (data is slightly different so first method does not apply)
+fin_annotation_labels = []
+for fin_annotation in os.listdir(fin_annotations_dir):
+    fin_annotation_path = fin_annotations_dir + "/" + fin_annotation
+    with open(fin_annotation_path, 'r', encoding='utf8') as f:
+        for line in f.readlines():
+            line_split = line.split('\t')
+            fin_annotation_labels.append(line_split[0])
+
+fin_annotation_labels = list(set(fin_annotation_labels))
+
+for fin_text in os.listdir(fin_texts_dir):
+    fin_text_path = fin_texts_dir + "/" + fin_text
+    with open(fin_text_path, 'r', encoding='utf8') as f:
+        fin_doc = nlp(f.read())
+        f.close()
+
+        pos_labels_global.extend(pos_ngram_generator(fin_doc, fin_annotation_labels))
 
 target_path = "/home/gillesfloreal/PycharmProjects/ASTRA/ling_prepr/pos_tags.json"
 
 with open(target_path, 'w', encoding='utf8') as target:
-    json.dump(pos_labels_global, target)
+    json.dump(list(set(pos_labels_global)), target)
+
+# results in 134 unique POS-tags

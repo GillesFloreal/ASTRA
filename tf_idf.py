@@ -7,8 +7,8 @@ import math
 def ngram_generator(doc):
     ngrams_doc = []
     for sentence in doc.sents:  # loop over sentences to get all n-grams within the sentence
-        sent_list = [i.token_ for i in sentence]
-        for i in range(1, 4):  # n-grams chosen between 1 and 4
+        sent_list = [i.text for i in sentence]
+        for i in range(1, 6):  # n-grams chosen between 1 and 4
             ngrams = list(nltk.ngrams(sent_list, i))
             ngram_string = [" ".join(ngram) for ngram in ngrams]
             ngrams_doc.extend(ngram_string)
@@ -54,6 +54,4 @@ def tf_idf(file_path, domain):
     return tfidf_dict
 
 
-path = "/home/gillesfloreal/PycharmProjects/ASTRA/en_train/corp/texts/annotated/corp_en_01.txt"
-print(tf_idf(path, 'corp'))
 
