@@ -1,0 +1,142 @@
+T1	Named_Entity 0 14	Euro Exim Bank
+T2	Named_Entity 38 52	Euro Exim Bank
+T3	Named_Entity 54 57	EEB
+T4	Named_Entity 79 88	St. Lucia
+T5	Named_Entity 124 130	London
+T6	Term_Common 312 333	financial institution
+T7	Term_Common 312 321	financial
+T8	Term 352 381	international banking licence
+T9	Term 366 381	banking licence
+T10	Term_Common 366 373	banking
+T11	Named_Entity 391 430	Financial Services Regulatory Authority
+T12	Named_Entity 434 443	St. Lucia
+T13	Named_Entity 478 513	Caribbean Association of Banks Inc.
+T14	Named_Entity 561 564	EEB
+T15	Term_Common 699 704	trade
+T16	Term_Common 705 718	Trade finance
+T17	Term_Common 705 710	Trade
+T18	Term_Common 711 718	finance
+T19	Named_Entity 737 740	EEB
+T20	Term 743 752	portfolio
+T21	Named_Entity 845 848	EEB
+T22	Term 850 872	trade finance offering
+T23	Term_Common 850 863	trade finance
+T24	Term_Common 850 855	trade
+T25	Term_Common 856 863	finance
+T26	Term_Common 905 910	trade
+T27	Term 913 916	EEB
+T28	Term_Out_of_Domain 1181 1202	Anti-Money Laundering
+T29	Term_Out_of_Domain 1207 1235	Know Your Customer processes
+T30	Term_Common 1358 1363	rates
+T31	Named_Entity 1365 1368	EEB
+T32	Term_Common 1465 1472	markets
+T33	Term_Common 1503 1508	trade
+T34	Term_Out_of_Domain 1581 1594	KYC processes
+T35	Named_Entity 1630 1633	EEB
+T36	Term_Common 1733 1738	trade
+T37	Term_Common 1726 1738	global trade
+T38	Term_Common 1772 1776	bank
+T39	Term 1907 1933	trade finance instructions
+T40	Term_Common 1907 1920	trade finance
+T41	Term_Common 1907 1912	trade
+T42	Term_Common 1913 1920	finance
+T43	Term_Common 2011 2027	financial sector
+T44	Term_Common 2011 2020	financial
+T45	Named_Entity 2029 2032	EEB
+T46	Named_Entity 2143 2147	Asia
+T47	Term 2190 2197	Fintech
+T48	Term_Common 2233 2248	digital banking
+T49	Term_Common 2241 2248	banking
+T50	Term_Out_of_Domain 2270 2286	crytpocurrencies
+T51	Term_Common 2308 2327	financial solutions
+T52	Term_Common 2308 2317	financial
+T53	Named_Entity 2389 2392	EEB
+T54	Named_Entity 2451 2488	Best Global Trade Services Bank Award
+T55	Named_Entity 2627 2630	EEB
+T56	Named_Entity 2732 2738	Ripple
+T57	Named_Entity 2742 2745	EEB
+T58	Named_Entity 2761 2767	Ripple
+T59	Term_Out_of_Domain 2771 2781	blockchain
+T60	Term 2788 2815	financial settlement system
+T61	Term 2788 2808	financial settlement
+T62	Term_Common 2788 2797	financial
+T63	Named_Entity 2906 2909	EEB
+T64	Term 3055 3080	trade finance instruments
+T65	Term_Common 3055 3068	trade finance
+T66	Term_Common 3055 3060	trade
+T67	Term_Common 3061 3068	finance
+T68	Named_Entity 3146 3154	xCurrent
+T69	Named_Entity 3238 3244	xRapid
+T70	Named_Entity 3257 3267	Ripple XRP
+T71	Term_Out_of_Domain 3268 3282	cryptocurrency
+T72	Named_Entity 3337 3340	EEB
+T73	Term_Common 3485 3489	bank
+T74	Named_Entity 3502 3508	Ripple
+T75	Named_Entity 3518 3521	EEB
+T76	Term 3545 3560	trade solutions
+T77	Term_Common 3545 3550	trade
+T78	Named_Entity 3628 3631	EEB
+T79	Named_Entity 3650 3678	Euro Exim Bank Smart Banking
+T80	Named_Entity 3706 3723	Google Play Store
+T81	Named_Entity 3728 3743	Apple App Store
+T82	Named_Entity 3745 3748	EEB
+T83	Term_Common 3898 3902	bank
+T84	Term_Common 3977 3984	markets
+T85	Named_Entity 3985 3988	EEB
+T86	Term_Common 4042 4049	markets
+T87	Term_Common 4033 4049	emerging markets
+T88	Term_Common 3968 3984	Emerging markets
+T89	Term_Common 4064 4083	global market place
+T90	Term_Common 4064 4077	global market
+T91	Term_Common 4071 4077	market
+T92	Term 4109 4127	financial services
+T93	Term_Common 4109 4118	financial
+T94	Term_Common 4166 4172	credit
+T95	Term 4155 4172	letters of credit
+T96	Term 4211 4242	international trade settlements
+T97	Term 4225 4242	trade settlements
+T98	Term_Common 4225 4230	trade
+T99	Named_Entity 4337 4346	RippleNet
+T100	Named_Entity 4348 4351	EEB
+T101	Term_Common 4390 4406	emerging markets
+T102	Term_Common 4399 4406	markets
+T103	Named_Entity 4610 4616	Africa
+T104	Term_Common 4653 4658	trade
+T105	Term 4714 4735	financial instruments
+T106	Term_Common 4714 4723	financial
+T107	Term_Common 4760 4765	trade
+T108	Term_Common 4791 4796	banks
+T109	Named_Entity 4850 4853	EEB
+T110	Term_Common 4868 4880	global trade
+T111	Term_Common 4875 4880	trade
+T112	Term_Out_of_Domain 4899 4915	cryptocurrencies
+T113	Term_Common 4945 4961	emerging markets
+T114	Term_Common 4954 4961	markets
+T115	Named_Entity 5027 5030	EEB
+T116	Term_Common 5088 5101	trade finance
+T117	Term_Common 5088 5093	trade
+T118	Term_Common 5094 5101	finance
+T119	Term_Common 5105 5115	Free Trade
+T120	Term_Common 5110 5115	Trade
+T121	Term_Common 5247 5252	trade
+T122	Term 5273 5294	Free Trade Agreements
+T123	Term 5296 5299	FTA
+T124	Term_Common 5273 5283	Free Trade
+T125	Term_Common 5278 5283	Trade
+T126	Term 5392 5417	regional trade agreements
+T127	Term_Common 5401 5417	trade agreements
+T128	Term_Common 5401 5406	trade
+T129	Term_Common 5539 5554	trade landscape
+T130	Term_Common 5539 5544	trade
+T131	Named_Entity 5556 5559	EEB
+T132	Term_Common 5572 5584	global trade
+T133	Term_Common 5579 5584	trade
+T134	Term 5695 5710	trade corridors
+T135	Term_Common 5695 5700	trade
+T136	Term 5734 5745	trade flows
+T137	Term_Common 5734 5739	trade
+T138	Term_Common 5844 5858	global markets
+T139	Term_Common 5851 5858	markets
+T140	Term_Out_of_Domain 5876 5880	SMEs
+T141	Named_Entity 6001 6004	EEB
+T142	Term 864 872	offering

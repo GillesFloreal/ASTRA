@@ -1,0 +1,127 @@
+T1	Term_Common 30 39	investors
+T2	Term_Common 45 57	stock market
+T3	Term_Common 45 50	stock
+T4	Term_Common 51 57	market
+T5	Named_Entity 74 81	Zerodha
+T6	Term_Common 100 106	trades
+T7	Named_Entity 112 114	US
+T8	Named_Entity 119 128	Robinhood
+T9	Term_Common 181 193	stock market
+T10	Term_Common 181 186	stock
+T11	Term_Common 187 193	market
+T14	Term 362 379	investor accounts
+T15	Term_Common 362 370	investor
+T16	Term 460 481	securities depository
+T17	Term 460 470	securities
+T18	Named_Entity 482 486	CDSL
+T19	Named_Entity 501 505	Asia
+T20	Term_Common 523 535	stock market
+T21	Term_Common 523 528	stock
+T22	Term_Common 529 535	market
+T23	Term 539 553	capitalisation
+T24	Named_Entity 569 574	China
+T25	Named_Entity 576 585	Hong Kong
+T26	Named_Entity 590 595	Japan
+T27	Term_Common 716 722	stocks
+T28	Named_Entity 746 751	India
+T29	Term 818 831	equity market
+T30	Term_Common 825 831	market
+T31	Term_Common 891 902	investments
+T32	Term_Common 955 969	interest rates
+T33	Term_Common 955 963	interest
+T34	Term_Common 964 969	rates
+T35	Term_Common 981 997	debt investments
+T36	Term_Common 981 985	debt
+T37	Term_Common 986 997	investments
+T38	Named_Entity 1016 1023	Zerodha
+T39	Term 1039 1057	discount brokerage
+T40	Term 1048 1057	brokerage
+T41	Named_Entity 1078 1083	India
+T42	Named_Entity 1132 1141	Robinhood
+T43	Named_Entity 1155 1157	US
+T44	Named_Entity 1209 1222	Nithin Kamath
+T45	Named_Entity 1313 1322	Robinhood
+T46	Named_Entity 1353 1359	Kamath
+T47	Term 1520 1528	equities
+T48	Named_Entity 1607 1614	Zerodha
+T49	Term_Common 1770 1783	Stock markets
+T50	Term_Common 1770 1775	Stock
+T51	Term_Common 1776 1783	markets
+T52	Term_Common 1837 1846	investors
+T53	Named_Entity 1870 1886	ICICI Securities
+T54	Named_Entity 2035 2054	Interactive Brokers
+T55	Named_Entity 2091 2093	US
+T56	Term_Common 2081 2087	invest
+T57	Term_Common 2094 2101	markets
+T58	Named_Entity 2104 2117	Vijay Chandok
+T59	Named_Entity 2119 2124	ICICI
+T60	Term_Common 2201 2208	trading
+T61	Term_Common 2186 2208	do-it-yourself trading
+T62	Term_Common 2243 2252	investing
+T63	Term 2261 2273	mutual funds
+T64	Term 2268 2273	funds
+T65	Named_Entity 2275 2280	India
+T66	Term 2283 2303	mutual fund industry
+T67	Term 2283 2294	mutual fund
+T68	Term 2290 2294	fund
+T69	Term 2357 2375	equity-based funds
+T70	Term 2370 2375	funds
+T71	Term 2357 2363	equity
+T72	Term 2447 2458	mutual fund
+T73	Term 2454 2458	fund
+T74	Part_of_Term 2460 2468	industry
+T75	Part_of_Term 2447 2458	mutual fund
+R1	Split_Term Arg1:T75 Arg2:T74	
+T76	Term_Common 2520 2529	investors
+T77	Term_Common 2551 2557	market
+T78	Term_Common 2609 2618	Investors
+T79	Term_Common 2657 2666	investing
+T80	Term 2672 2686	equity markets
+T81	Term 2672 2678	equity
+T82	Term_Common 2679 2686	markets
+T84	Term 2785 2801	retail investors
+T85	Term_Common 2792 2801	investors
+T86	Named_Entity 2813 2821	Nifty 50
+T87	Term 2822 2827	index
+T88	Named_Entity 2843 2848	India
+T89	Named_Entity 2922 2927	Nifty
+T90	Named_Entity 2930 2940	Midcap 100
+T91	Term 2941 2946	index
+T92	Term 3003 3015	penny stocks
+T93	Term_Common 3009 3015	stocks
+T94	Named_Entity 3053 3060	Zerodha
+T95	Term 3043 3051	volatile
+T96	Named_Entity 3066 3072	Kamath
+T97	Term_Common 3082 3091	brokerage
+T98	Term_Common 3153 3163	investment
+T99	Term_Common 3240 3245	trade
+T100	Term 3333 3339	assets
+T101	Named_Entity 3355 3360	India
+T104	Term_Common 3458 3467	investors
+T105	Term_Out_of_Domain 3511 3533	gross domestic product
+T106	Named_Entity 3647 3652	India
+T109	Named_Entity 3811 3817	Brazil
+T110	Named_Entity 3858 3860	US
+T111	Named_Entity 3863 3876	SR Srinivasan
+T112	Term 3880 3897	financial adviser
+T113	Term_Common 3880 3889	financial
+T114	Named_Entity 3907 3916	Bangalore
+T115	Term_Common 4006 4014	invested
+T116	Term_Common 4018 4024	stocks
+T117	Term_Common 4040 4046	stocks
+T118	Term 4078 4090	penny stocks
+T119	Term_Common 4084 4090	stocks
+T120	Named_Entity 4252 4267	Pradeep Mahtani
+T121	Term 4272 4290	investment adviser
+T122	Term_Common 4272 4282	investment
+T123	Named_Entity 4300 4306	Mumbai
+T124	Term_Common 4349 4355	invest
+T125	Term 4359 4371	mutual funds
+T126	Term 4366 4371	funds
+T127	Term_Common 4411 4417	stocks
+T128	Term_Common 4433 4442	investors
+T129	Term_Common 4547 4553	stocks
+T130	Term_Common 4619 4625	invest
+T131	Term 818 824	equity
+T132	Named_Entity 1236 1245	Bangalore
+T83	Term_Common 2690 2700	Brokerages

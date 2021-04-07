@@ -1,0 +1,25 @@
+T2	Named_Entity 81 84	CBO
+T3	Named_Entity 122 133	White House
+T7	Term_Common 263 269	fiscal
+T10	Term_Common 363 369	fiscal
+T12	Term_Common 424 430	fiscal
+T13	Named_Entity 441 468	Congressional Budget Office
+T17	Term_Common 759 770	fiscal year
+T18	Term_Common 759 765	fiscal
+T21	Term_Common 935 949	fiscal deficit
+T22	Term_Common 935 941	fiscal
+T25	Named_Entity 1148 1151	CBO
+T27	Term_Common 1423 1429	fiscal
+T28	Named_Entity 1531 1562	U.S. Department of the Treasury
+T29	Named_Entity 1584 1588	U.S.
+T33	Term_Common 1764 1768	debt
+T34	Named_Entity 1922 1935	David Wessell
+T35	Named_Entity 1953 2002	The Hutchins Center on Fiscal and Monetary Policy
+T36	Named_Entity 2010 2029	Brookings Institute
+T37	Named_Entity 2052 2056	U.S.
+T42	Named_Entity 2206 2218	Donald Trump
+T43	Named_Entity 2297 2308	White House
+T45	Named_Entity 2325 2341	Kayleigh McEnany
+T46	Named_Entity 2362 2367	Trump
+T47	Term_Common 2408 2421	national debt
+T48	Term_Common 2417 2421	debt

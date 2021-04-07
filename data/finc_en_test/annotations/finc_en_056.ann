@@ -1,0 +1,59 @@
+T1	Named_Entity 0 5	China
+T2	Term_Out_of_Domain 6 18	AI start-ups
+T3	Term_Out_of_Domain 6 8	AI
+T4	Term_Out_of_Domain 372 385	AI powerhouse
+T5	Term_Out_of_Domain 372 374	AI
+T6	Term_Common 44 51	funding
+T7	Term_Common 63 73	Investment
+T8	Named_Entity 91 98	Beijing
+T9	Term_Out_of_Domain 105 113	AI drive
+T10	Term_Out_of_Domain 105 107	AI
+T11	Named_Entity 138 142	36Kr
+T12	Term_Common 151 162	Fundraising
+T13	Term_Out_of_Domain 174 207	artificial intelligence start-ups
+T14	Term_Out_of_Domain 174 197	artificial intelligence
+T15	Named_Entity 404 406	US
+T16	Named_Entity 360 365	China
+T17	Named_Entity 240 247	Beijing
+T18	Term_Out_of_Domain 272 280	AI drive
+T19	Term_Out_of_Domain 272 274	AI
+T20	Named_Entity 353 357	36Kr
+T21	Term_Out_of_Domain 592 594	AI
+T22	Named_Entity 598 603	China
+T23	Named_Entity 648 661	36Kr Holdings
+T24	Named_Entity 663 669	Nikkei
+T25	Named_Entity 699 703	36Kr
+T26	Term_Out_of_Domain 761 763	AI
+T27	Named_Entity 767 772	China
+T28	Term_Out_of_Domain 863 871	AI drive
+T29	Term_Out_of_Domain 863 865	AI
+T30	Term_Common 920 930	investment
+T31	Term_Common 966 971	funds
+T32	Term 984 999	venture capital
+T33	Term 992 999	capital
+T34	Term_Common 1017 1027	investment
+T35	Term_Out_of_Domain 1033 1043	AI-focused
+T36	Term_Common 1107 1112	funds
+T37	Named_Entity 1134 1141	Beijing
+T38	Term_Common 1226 1236	investment
+T39	Term_Out_of_Domain 1263 1275	AI start-ups
+T40	Term_Out_of_Domain 1263 1265	AI
+T41	Named_Entity 1280 1302	Cambricon Technologies
+T42	Term_Common 1317 1323	stocks
+T43	Named_Entity 1337 1353	Horizon Robotics
+T44	Named_Entity 1356 1364	Shenzhen
+T45	Named_Entity 1433 1448	UBTech Robotics
+T46	Term_Out_of_Domain 1474 1485	AI start-up
+T47	Term_Out_of_Domain 1474 1476	AI
+T48	Named_Entity 1486 1505	Malong Technologies
+T49	Named_Entity 1509 1517	Shanghai
+T50	Term_Out_of_Domain 1567 1588	cloud service company
+T51	Term_Out_of_Domain 1567 1580	cloud service
+T52	Named_Entity 1589 1628	Shanghai Qiniu Information Technologies
+T53	Named_Entity 1759 1764	China
+T54	Term_Out_of_Domain 1793 1805	AI start-ups
+T55	Term_Out_of_Domain 1793 1795	AI
+T56	Term_Common 1830 1841	fundraising
+T57	Term_Out_of_Domain 1033 1035	AI
+T58	Term 475 493	Unlisted companies
+T59	Term 475 483	Unlisted

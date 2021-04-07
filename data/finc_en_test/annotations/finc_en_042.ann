@@ -1,0 +1,133 @@
+T1	Term 1 12	Fund groups
+T2	Term 1 5	Fund
+T3	Named_Entity 18 20	UK
+T4	Named_Entity 29 31	EU
+T5	Term 32 51	green finance rules
+T6	Term 32 45	green finance
+T7	Term_Common 38 45	finance
+T8	Named_Entity 52 67	Aviva Investors
+T9	Named_Entity 72 93	Columbia Threadneedle
+T10	Named_Entity 104 106	UK
+T11	Term 109 128	green finance goals
+T12	Term 109 122	green finance
+T13	Term_Common 115 122	finance
+T14	Term 200 214	asset managers
+T15	Term 200 205	asset
+T16	Named_Entity 225 240	Aviva Investors
+T17	Named_Entity 242 263	Columbia Threadneedle
+T18	Named_Entity 268 274	Hermes
+T19	Named_Entity 289 291	UK
+T20	Named_Entity 320 322	EU
+T21	Term 325 344	green finance rules
+T22	Term 325 338	green finance
+T23	Term_Common 331 338	finance
+T24	Named_Entity 381 387	Europe
+T25	Term 391 412	sustainable investing
+T26	Term_Common 403 412	investing
+T27	Named_Entity 419 468	UK Sustainable Investment and Finance Association
+T28	Term 476 489	asset manager
+T29	Term 476 481	asset
+T30	Term_Common 491 495	bank
+T31	Term_Common 500 509	financial
+T32	Term_Common 500 525	financial adviser members
+T33	Part_of_Term_Common 510 525	adviser members
+T34	Part_of_Term_Common 491 495	bank
+R1	Split_Term_Com Arg1:T34 Arg2:T33	
+T35	Term 542 548	assets
+T36	Named_Entity 569 577	Treasury
+T37	Named_Entity 684 689	UKSIF
+T38	Named_Entity 712 714	UK
+T39	Term 742 771	sustainable finance rule book
+T40	Term 742 761	sustainable finance
+T41	Term_Common 754 761	finance
+T42	Term_Out_of_Domain 931 934	ESG
+T43	Term 971 986	private capital
+T44	Term 979 986	capital
+T45	Term_Out_of_Domain 1036 1048	greenwashing
+T46	Named_Entity 1050 1056	Europe
+T47	Term 1108 1138	sustainable finance regulation
+T48	Term 1108 1127	sustainable finance
+T49	Term_Common 1120 1127	finance
+T50	Named_Entity 1197 1199	UK
+T51	Named_Entity 1242 1244	EU
+T52	Term_Out_of_Domain 1335 1341	Brexit
+T53	Named_Entity 1412 1414	UK
+T54	Named_Entity 1470 1472	EU
+T55	Term 1565 1583	financial services
+T56	Part_of_Term 1565 1583	financial services
+T57	Part_of_Term 1603 1612	expertise
+R2	Split_Term Arg1:T56 Arg2:T57	
+T58	Term_Common 1565 1574	financial
+T59	Named_Entity 1614 1619	UKSIF
+T60	Named_Entity 1638 1646	Treasury
+T61	Named_Entity 1676 1678	UK
+T62	Named_Entity 1722 1724	EU
+T63	Named_Entity 1743 1749	Brexit
+T64	Named_Entity 1822 1835	Boris Johnson
+T65	Named_Entity 1841 1843	UK
+T66	Term 1934 1953	sustainable finance
+T67	Term_Common 1946 1953	finance
+T68	Named_Entity 1994 2004	Ben Nelmes
+T69	Named_Entity 2031 2036	UKSIF
+T70	Named_Entity 2054 2056	UK
+T71	Named_Entity 2087 2089	EU
+T72	Term 2145 2164	sustainable finance
+T73	Term_Common 2157 2164	finance
+T74	Named_Entity 2202 2211	John Glen
+T75	Named_Entity 2223 2228	UKSIF
+T76	Named_Entity 2369 2371	EU
+T77	Term 2471 2489	financial services
+T78	Term_Common 2471 2480	financial
+T79	Part_of_Term 2509 2518	expertise
+T80	Part_of_Term 2471 2489	financial services
+R3	Split_Term Arg1:T80 Arg2:T79	
+T81	Named_Entity 2575 2577	EU
+T82	Term 2594 2613	sustainable finance
+T83	Term_Common 2606 2613	finance
+T84	Named_Entity 2617 2630	Steve Waygood
+T85	Term 2632 2668	chief responsible investment officer
+T86	Term_Common 2638 2660	responsible investment
+T87	Term_Common 2650 2660	investment
+T88	Named_Entity 2672 2687	Aviva Investors
+T89	Named_Entity 2698 2700	UK
+T90	Named_Entity 2722 2724	EU
+T91	Named_Entity 2791 2797	London
+T92	Term 2808 2832	global green finance hub
+T93	Term 2815 2832	green finance hub
+T94	Term 2815 2828	green finance
+T95	Term_Common 2821 2828	finance
+T96	Named_Entity 2858 2860	EU
+T97	Term_Common 2913 2922	financing
+T98	Named_Entity 2994 2996	UK
+T99	Term_Common 2997 3006	investors
+T100	Named_Entity 3047 3049	EU
+T101	Term_Common 3089 3106	financial adviser
+T102	Term_Common 3089 3098	financial
+T103	Term_Out_of_Domain 3116 3119	ESG
+T104	Term_Common 3139 3148	investing
+T105	Named_Entity 3151 3156	UKSIF
+T106	Named_Entity 3185 3194	Schroders
+T107	Named_Entity 3196 3218	Standard Life Aberdeen
+T108	Named_Entity 3223 3226	M&G
+T109	Named_Entity 3294 3296	UK
+T110	Term 3328 3349	global asset managers
+T111	Term 3335 3349	asset managers
+T112	Term 3335 3340	asset
+T113	Term 3424 3438	Asset managers
+T114	Term 3424 3429	Asset
+T115	Named_Entity 3505 3511	Nelmes
+T116	Named_Entity 3576 3578	EU
+T117	Named_Entity 3606 3608	UK
+T118	Named_Entity 3653 3661	Treasury
+T119	Named_Entity 3791 3793	EU
+T120	Named_Entity 3855 3857	UK
+T121	Named_Entity 3909 3911	EU
+T122	Term_Out_of_Domain 3914 3917	ESG
+T123	Term_Out_of_Domain 351 357	Brexit
+T124	Term_Common 642 651	investing
+T125	Term_Out_of_Domain 931 941	ESG sector
+T126	Term_Out_of_Domain 3116 3131	ESG preferences
+T127	Term_Out_of_Domain 3914 3941	ESG disclosure requirements
+T128	Term 818 864	social, governance and environmental investing
+T129	Term_Common 855 864	investing
+T130	Term_Common 1120 1138	finance regulation

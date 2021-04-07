@@ -1,0 +1,116 @@
+T1	Term_Common 40 60	interest rate policy
+T2	Term_Common 40 53	interest rate
+T4	Term_Common 49 53	rate
+T5	Named_Entity 0 3	Fed
+T6	Term 4 11	minutes
+T7	Named_Entity 95 97	US
+T8	Term_Common 98 110	central bank
+T9	Term_Common 106 110	bank
+T10	Named_Entity 139 154	Federal Reserve
+T11	Term_Common 197 206	investors
+T12	Term_Common 236 248	central bank
+T13	Term_Common 244 248	bank
+T14	Term_Common 340 354	interest rates
+T3	Term_Common 349 354	rates
+T15	Named_Entity 411 415	FOMC
+T16	Named_Entity 429 431	US
+T17	Term_Common 432 444	central bank
+T18	Term_Common 440 444	bank
+T19	Term_Common 472 486	interest rates
+T20	Term_Common 481 486	rates
+T21	Term_Common 666 671	rates
+T22	Term_Common 763 772	investors
+T23	Term_Common 820 832	central bank
+T24	Term_Common 828 832	bank
+T25	Term 940 947	minutes
+T26	Named_Entity 1025 1028	Fed
+T27	Term_Common 1223 1237	interest rates
+T28	Term_Common 1232 1237	rates
+T29	Named_Entity 1387 1390	Fed
+T30	Term_Common 1468 1484	financial shifts
+T31	Term_Common 1468 1477	financial
+T32	Term 1511 1524	asset bubbles
+T33	Term 1511 1516	asset
+T34	Named_Entity 1742 1757	Stephen Stanley
+T35	Named_Entity 1778 1794	Amherst Pierpont
+T36	Term 1805 1812	minutes
+T37	Term_Common 1867 1876	investors
+T38	Term 2033 2040	minutes
+T39	Term_Common 2132 2139	Markets
+T40	Named_Entity 2228 2235	Stanley
+T41	Named_Entity 2288 2292	FOMC
+T42	Named_Entity 2424 2430	Dallas
+T43	Named_Entity 2431 2434	Fed
+T44	Named_Entity 2445 2458	Robert Kaplan
+T45	Named_Entity 2499 2502	Fed
+T46	Term_Common 2519 2530	policy rate
+T47	Term_Common 2526 2530	rate
+T48	Named_Entity 2556 2569	Neel Kashkari
+T49	Named_Entity 2592 2603	Minneapolis
+T50	Named_Entity 2604 2607	Fed
+T51	Term_Common 2624 2629	rates
+T52	Named_Entity 2708 2711	Fed
+T53	Term 2712 2719	minutes
+T54	Named_Entity 2777 2779	US
+T55	Named_Entity 2829 2839	Washington
+T56	Named_Entity 3277 3280	Fed
+T57	Term 3546 3553	minutes
+T58	Term_Common 3605 3617	bankruptcies
+T59	Term 3622 3630	defaults
+T60	Term_Common 3650 3666	financial system
+T61	Term_Common 3650 3659	financial
+T62	Term_Common 3707 3713	credit
+T63	Term_Common 3750 3759	investors
+T64	Named_Entity 3785 3788	Fed
+T65	Term 3842 3857	asset purchases
+T66	Term 3842 3847	asset
+T67	Term 3905 3924	Treasury securities
+T68	Term 3905 3913	Treasury
+T69	Term 3914 3924	securities
+T70	Term 3973 3999	mortgage-backed securities
+T71	Term 3989 3999	securities
+T72	Term_Common 4014 4035	market interest rates
+T73	Term_Common 4014 4020	market
+T74	Term_Common 4021 4035	interest rates
+T75	Term_Common 4030 4035	rates
+T76	Term 4082 4101	Treasury department
+T77	Term 4082 4090	Treasury
+T78	Term_Common 4105 4109	fund
+T79	Term_Common 4166 4185	market participants
+T80	Term_Common 4166 4172	market
+T81	Named_Entity 4198 4200	US
+T82	Term_Common 4201 4213	central bank
+T83	Term_Common 4209 4213	bank
+T84	Term_Common 4246 4250	debt
+T86	Named_Entity 4317 4320	Fed
+T87	Term_Common 4341 4361	financial conditions
+T88	Term_Common 4341 4350	financial
+T89	Term 4395 4402	minutes
+T90	Term 4595 4619	asset purchase programme
+T91	Term 4595 4600	asset
+T92	Term 4825 4840	asset purchases
+T93	Term 4825 4830	asset
+T94	Term 4883 4890	minutes
+T95	Named_Entity 4931 4933	US
+T96	Named_Entity 4947 4964	Capital Economics
+T97	Named_Entity 4978 4980	US
+T98	Term 4981 4991	Treasuries
+T99	Term 5026 5033	minutes
+T100	Named_Entity 5130 5137	S&P 500
+T101	Term_Common 40 48	interest
+T102	Term_Common 340 348	interest
+T103	Term_Common 472 480	interest
+T106	Term_Common 1223 1231	interest
+T107	Term_Common 2853 2868	fiscal stimulus
+T108	Term_Common 2853 2859	fiscal
+T109	Term_Common 3072 3086	fiscal support
+T110	Term_Common 3072 3078	fiscal
+T111	Term_Common 3106 3120	fiscal support
+T112	Term_Common 3106 3112	fiscal
+T113	Term 3262 3269	minutes
+T116	Term_Common 4021 4029	interest
+T85	Term_Common 2519 2542	policy rate flexibility
+T104	Term_Common 2860 2868	stimulus
+T105	Term 3932 3942	maturities
+T114	Term_Common 4117 4134	stimulus packages
+T115	Term_Common 4117 4125	stimulus

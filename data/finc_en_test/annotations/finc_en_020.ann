@@ -1,0 +1,103 @@
+T1	Term_Common 0 9	Investors
+T2	Named_Entity 49 57	TalkTalk
+T3	Named_Entity 66 75	Toscafund
+T4	Named_Entity 85 93	TalkTalk
+T5	Named_Entity 119 138	Hargreaves Lansdown
+T6	Named_Entity 163 170	Lombard
+T7	Named_Entity 216 229	Martin Hughes
+T8	Term 242 248	hedgie
+T9	Named_Entity 249 258	Toscafund
+T10	Named_Entity 268 284	Charles Dunstone
+T11	Named_Entity 297 305	TalkTalk
+T12	Named_Entity 348 356	TalkTalk
+T13	Term_Common 390 396	shares
+T14	Term_Common 495 501	shares
+T15	Named_Entity 542 550	TalkTalk
+T16	Named_Entity 595 604	Toscafund
+T17	Named_Entity 681 690	Toscafund
+T18	Term_Common 747 759	stock market
+T19	Term_Common 753 759	market
+T20	Named_Entity 780 787	Charles
+T21	Term_Common 795 801	shares
+T22	Term_Common 808 823	unlisted entity
+T23	Named_Entity 851 858	Charles
+T24	Named_Entity 882 890	TalkTalk
+T25	Named_Entity 1089 1097	TalkTalk
+T26	Named_Entity 1316 1324	TalkTalk
+T27	Term 1393 1399	ebitda
+T28	Term_Common 1370 1378	net debt
+T29	Term_Common 1374 1378	debt
+T30	Named_Entity 1433 1444	FibreNation
+T31	Named_Entity 1448 1452	York
+T32	Named_Entity 1456 1469	Goldman Sachs
+T33	Named_Entity 1477 1486	CityFibre
+T34	Named_Entity 1684 1692	TalkTalk
+T35	Named_Entity 1823 1831	TalkTalk
+T36	Named_Entity 1921 1934	Martin Hughes
+T37	Named_Entity 2051 2062	Daisy Group
+T38	Named_Entity 2072 2074	UK
+T39	Term_Common 2195 2207	Shareholders
+T40	Named_Entity 2305 2314	Toscafund
+T41	Named_Entity 2347 2355	TalkTalk
+T42	Term_Common 2358 2364	shares
+T43	Term_Common 2383 2387	debt
+T44	Term 2463 2469	ebitda
+T45	Named_Entity 2624 2634	Hargreaves
+T46	Term_Out_of_Domain 2636 2642	Brexit
+T47	Term_Out_of_Domain 2650 2656	Brexit
+T48	Term_Common 2665 2674	investors
+T49	Named_Entity 2713 2732	Hargreaves Lansdown
+T50	Named_Entity 2761 2778	Cat Rutter Pooley
+T51	Term_Out_of_Domain 2833 2839	Brexit
+T52	Named_Entity 2891 2893	HL
+T53	Term_Out_of_Domain 2964 2970	Brexit
+T54	Term_Out_of_Domain 3044 3050	Brexit
+T55	Term_Common 3132 3143	day traders
+T56	Term_Common 3136 3143	traders
+T57	Term_Common 3157 3169	stock market
+T58	Term_Common 3163 3169	market
+T59	Term_Common 3205 3220	trading volumes
+T60	Term_Common 3205 3212	trading
+T61	Named_Entity 3233 3235	HL
+T62	Named_Entity 3339 3349	Hargreaves
+T63	Term_Common 3485 3492	markets
+T64	Term_Common 3517 3528	day traders
+T65	Term_Common 3521 3528	traders
+T66	Term_Common 3597 3611	interest rates
+T67	Term_Common 3606 3611	rates
+T68	Named_Entity 3639 3641	UK
+T69	Term 3642 3658	equity investors
+T70	Term 3642 3648	equity
+T71	Term_Common 3649 3658	investors
+T72	Named_Entity 3724 3726	UK
+T73	Term_Common 3727 3733	shares
+T74	Named_Entity 3778 3786	FTSE 100
+T75	Named_Entity 3867 3889	Investment Association
+T76	Named_Entity 3920 3922	UK
+T77	Term 3923 3928	funds
+T78	Named_Entity 4019 4021	HL
+T79	Term_Common 4041 4055	interest rates
+T80	Term_Common 4050 4055	rates
+T81	Term_Common 4117 4122	banks
+T82	Named_Entity 4210 4223	Shore Capital
+T83	Named_Entity 4232 4245	Paul McGinnis
+T84	Term_Common 4331 4336	rates
+T85	Term_Common 4378 4391	central banks
+T86	Term_Common 4386 4391	banks
+T87	Term_Common 4451 4456	rates
+T88	Named_Entity 4554 4556	HL
+T89	Term_Common 4586 4606	stockbroking clients
+T90	Term_Out_of_Domain 4756 4762	Brexit
+T91	Term_Out_of_Domain 4783 4789	Brexit
+T92	Named_Entity 4810 4820	Hargreaves
+T93	Term_Common 4961 4967	invest
+T94	Term_Common 5046 5058	stock market
+T95	Term_Common 5052 5058	market
+T96	Term_Common 5046 5051	stock
+T97	Term 1243 1258	working capital
+T98	Term 1251 1258	capital
+T99	Named_Entity 4523 4531	McGinnis
+T100	Term_Common 4586 4598	stockbroking
+T101	Term 4616 4622	assets
+T102	Term_Common 747 752	stock
+T103	Term_Common 3157 3162	stock

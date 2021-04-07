@@ -1,0 +1,34 @@
+Reliance Jio battles falling share of active users on network
+Indian telecom operator has wooed big investors by touting fast-growing subscriber numbers
+
+	Reliance Jio, Mukesh Ambani’s Indian mobile operator, is battling a falling share of active customers even as the company touts its breakneck growth to attract billions of dollars from top foreign investors.
+
+Four-year-old Jio has used rock-bottom prices to become India’s largest operator with its customer base soaring to 397m in June, the most recent month for which data is available. This enormous footprint helped Mr Ambani, Asia’s richest man, this year sell stakes in Jio worth $20bn to 13 global investors, including Facebook and Google.
+
+Yet Jio has faced a slide in the portion of active users in its subscriber base even as its total subscriber numbers have continued to grow. Jio’s share of active users fell in June to close to a three-year low of 78 per cent from 84 per cent a year earlier, according to data from the Telecom Regulatory Authority of India.
+
+TRAI defines active users as the peak number of subscribers connected to the network at a given time during that month. That meant 87m of Jio’s users were inactive at the time of TRAI’s measurements.
+
+By contrast the share of active users at its two competitors Vodafone Idea and Airtel rose to 90 per cent and 98 per cent over a similar period, as the pair consciously weed out subscribers who do not regularly top up their plans. By number of active subscribers, Airtel was even with Jio at 310m in June.
+
+TRAI reports the monthly subscriber bases of India’s three private telecom operators, breaking out the total number of registered SIM cards versus those connected to the network. The companies then take varied approaches in how they present those figures to their investors every quarter, though there is no suggestion any of the companies are misreporting.
+
+Airtel and Vodafone Idea use narrower definitions of revenue-generating, active customers, which helps to boost their revenues per user. Jio, however, gives its investors a broader figure based on the total that it reports to TRAI.
+
+But the falling share of active Jio users has prompted scrutiny from some analysts and industry observers, who question how so many customers who are apparently not connected to the network can contribute to revenues. “The sheer magnitude of this absolute gap [of 87m] is startling,” wrote analysts from Kotak Institutional Equities this month, calling it a “conundrum”.
+
+“We are unable to comprehend why [Reliance] Jio’s subscriber base would exhibit much different behaviour” when compared with Airtel, Kotak said.
+
+In a statement responding to a list of questions, Jio’s parent company Reliance Industries said that the Financial Times’ queries displayed a “limited understanding of concepts or malicious intent to create controversy”.
+
+“There are various reasons that a customer, especially data customers, may not be active on the network at a given point of time,” it continued. Reliance added that it follows all regulatory guidelines. For that reason, “Jio reports a consistent number of customers across all reporting formats unlike some of the other operators”.
+
+Among possible explanations for the large gap in Jio’s base is that customers who obtained a Jio SIM card on the cheap may use it sparingly as a back-up, or for data-only dongles.
+
+The coronavirus pandemic could have forced more casual customers to pare down their usage, such as migrant workers who have returned to their home villages and no longer need — or cannot afford — to renew their plans as often.
+
+But the trend risks complicating Mr Ambani’s vision of transforming the operator into India’s first homegrown tech giant, using its nearly 400m-strong 4G customer base as a springboard to sell everything from ecommerce to fintech. “We are well equipped to address any potential challenges in achieving our Digital Society vision,” Reliance said.
+
+The tycoon is aiming to reach 500m customers within three years. But, having enjoyed roaring growth, some analysts say Jio needs to show it can boost engagement with its less active customers.
+
+Jio “will continue to follow this strategy of discounting”, said Vivekanand Subbaraman, an analyst at brokerage Ambit Capital. By offering enough new services and perks at affordable prices, “they think those inactive customers will also become active at some point in time”. 

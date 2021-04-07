@@ -1,0 +1,268 @@
+T1	Named_Entity 0 3	Lex
+T2	Term_Common 18 32	rescue finance
+T3	Term_Common 25 32	finance
+T4	Named_Entity 67 69	US
+T5	Named_Entity 195 208	Fritz Joussen
+T6	Named_Entity 229 232	Tui
+T7	Named_Entity 234 240	Europe
+T8	Named_Entity 329 331	US
+T9	Term_Common 460 465	loans
+T10	Named_Entity 492 501	Frankfurt
+T11	Term 502 518	development bank
+T12	Term_Common 514 518	bank
+T13	Term_Common 553 565	stockholders
+T14	Named_Entity 525 528	Tui
+T15	Term 592 606	private credit
+T16	Term_Common 600 606	credit
+T17	Named_Entity 679 686	Joussen
+T19	Named_Entity 879 881	US
+T20	Named_Entity 883 890	S&P 500
+T21	Term_Common 891 914	non-financial companies
+T22	Term_Common 891 904	non-financial
+T23	Named_Entity 998 1001	Lex
+T24	Term_Common 1173 1178	funds
+T25	Term_Common 1273 1296	non-financial companies
+T26	Term_Common 1273 1286	non-financial
+T28	Term 1313 1318	index
+T29	Named_Entity 1335 1338	Tui
+T30	Named_Entity 1349 1351	UK
+T31	Named_Entity 1356 1358	US
+T33	Term 1549 1554	bonds
+T34	Named_Entity 1635 1638	S&P
+T36	Named_Entity 1965 1968	Tui
+T37	Term 1998 2007	liquidity
+T38	Named_Entity 2405 2423	US Federal Reserve
+T40	Term 2542 2557	corporate bonds
+T41	Term 2552 2557	bonds
+T42	Term_Common 2563 2581	financial backstop
+T43	Term_Common 2563 2572	financial
+T44	Named_Entity 2614 2616	US
+T45	Term_Common 2630 2636	borrow
+T46	Term_Common 2708 2712	debt
+T47	Named_Entity 2737 2746	Refinitiv
+T48	Named_Entity 2785 2788	Fed
+T49	Named_Entity 2841 2855	Richard Zogheb
+T50	Term 2865 2892	global debt capital markets
+T51	Term_Common 2865 2877	global debt 
+T52	Term_Common 2872 2876	debt
+T53	Term 2877 2892	capital markets
+T54	Term 2877 2884	capital
+T55	Term_Common 2885 2892	markets
+T56	Named_Entity 2896 2900	Citi
+T57	Named_Entity 2904 2912	New York
+T58	Term_Common 2935 2945	financings
+T59	Term 2977 2986	debt sale
+T60	Term_Common 2977 2981	debt
+T61	Named_Entity 2990 2994	Ford
+T62	Term 3002 3015	bond offering
+T63	Term 3002 3006	bond
+T64	Named_Entity 3041 3045	Citi
+T65	Named_Entity 3096 3107	Wall Street
+T66	Named_Entity 3112 3126	City of London
+T67	Term_Common 3127 3137	financiers
+T68	Term 3217 3234	capital formation
+T69	Term 3217 3224	capital
+T70	Term_Common 3334 3350	financial crisis
+T71	Term_Common 3334 3343	financial
+T72	Named_Entity 3362 3364	UK
+T73	Term_Common 3365 3384	brokerage executive
+T74	Term_Common 3365 3374	brokerage
+T75	Term_Common 3394 3414	emergency financings
+T76	Term_Common 3404 3414	financings
+T77	Named_Entity 3461 3464	Lex
+T78	Term_Common 3563 3583	financial resilience
+T79	Term_Common 3563 3572	financial
+T80	Named_Entity 3648 3655	S&P 500
+T81	Term_Common 3656 3679	non-financial companies
+T82	Term_Common 3656 3669	non-financial
+T83	Named_Entity 3753 3760	S&P 500
+T84	Term_Common 4022 4029	brokers
+T85	Term 4040 4057	solvency measures
+T86	Term 4040 4048	solvency
+T87	Term 4067 4075	leverage
+T88	Term 4085 4094	liquidity
+T89	Named_Entity 4096 4098	US
+T90	Term 4143 4149	equity
+T91	Term_Common 4161 4165	debt
+T92	Term_Common 4227 4236	financing
+T93	Named_Entity 4240 4251	Walt Disney
+T94	Named_Entity 4532 4550	Christine McCarthy
+T95	Named_Entity 4552 4558	Disney
+T96	Term 4561 4584	chief financial officer
+T97	Term_Common 4567 4576	financial
+T98	Term 4593 4602	bond sale
+T99	Term_Common 4593 4597	bond
+T101	Named_Entity 4962 4968	Amazon
+T102	Term 5070 5090	Private equity power
+T103	Term 5070 5084	Private equity
+T104	Term 5078 5084	equity
+T105	Term 5110 5132	private equity capital
+T106	Term 5110 5124	private equity
+T107	Term 5125 5132	capital
+T108	Named_Entity 5150 5152	US
+T109	Named_Entity 5255 5261	Preqin
+T110	Term_Common 5318 5323	loans
+T111	Term_Common 5304 5323	high-interest loans
+T112	Term 5365 5380	minority stakes
+T113	Term_Common 5374 5380	stakes
+T114	Named_Entity 5414 5417	KKR
+T115	Term_Common 5491 5501	debt-laden
+T116	Named_Entity 5518 5522	Coty
+T117	Term_Common 5549 5559	financings
+T118	Term 5573 5602	investment grade corporations
+T119	Term_Common 5573 5583	investment
+T120	Named_Entity 5611 5617	Disney
+T121	Term_Common 5623 5632	investors
+T122	Term_Common 5698 5702	debt
+T123	Term 5751 5756	bonds
+T124	Named_Entity 5788 5797	Refinitiv
+T126	Term_Common 5924 5928	debt
+T127	Term 5981 5988	issuers
+T128	Named_Entity 6112 6115	S&P
+T129	Term_Common 6130 6142	default rate
+T130	Term_Common 6138 6142	rate
+T131	Named_Entity 6158 6160	US
+T132	Named_Entity 6319 6336	American Airlines
+T133	Named_Entity 6341 6359	United Continental
+T134	Named_Entity 6386 6389	Lex
+T135	Named_Entity 6420 6427	S&P 500
+T136	Term_Common 6669 6676	markets
+T137	Named_Entity 6693 6695	US
+T138	Term 6775 6781	assets
+T139	Named_Entity 6844 6851	Britain
+T140	Named_Entity 6915 6922	S&P 500
+T142	Term_Common 7004 7017	non-financial
+T143	Named_Entity 7018 7020	UK
+T144	Part_of_Term_Common 7021 7033	corporations
+T145	Part_of_Term_Common 7004 7017	non-financial
+R1	Split_Term_Com Arg1:T145 Arg2:T144	
+T146	Named_Entity 7231 7239	FTSE 350
+T147	Term_Common 7240 7263	non-financial companies
+T148	Term_Common 7240 7253	non-financial
+T149	Named_Entity 7297 7299	UK
+T150	Named_Entity 7354 7357	Lex
+T151	Named_Entity 7514 7517	IAG
+T152	Named_Entity 7530 7545	British Airways
+T153	Named_Entity 7550 7556	Iberia
+T154	Named_Entity 7854 7857	Lex
+T155	Named_Entity 8132 8140	FTSE 350
+T156	Named_Entity 8229 8242	Taylor Wimpey
+T157	Named_Entity 8429 8436	S&P 500
+T158	Named_Entity 8566 8568	US
+T159	Term_Common 8677 8697	Financial resilience
+T160	Term_Common 8677 8686	Financial
+T161	Term_Common 8804 8808	debt
+T162	Term 8928 8937	liquidity
+T163	Term_Common 9059 9071	Shareholders
+T164	Term 9130 9136	equity
+T165	Named_Entity 9159 9162	IAG
+T166	Term 9210 9219	dividends
+T167	Term 9224 9232	buybacks
+T168	Term 9240 9252	loan capital
+T169	Term_Common 9240 9244	loan
+T170	Term 9245 9252	capital
+T171	Named_Entity 9304 9319	Benjamin Nelson
+T172	Term 9342 9363	senior credit officer
+T173	Term_Common 9349 9355	credit
+T174	Named_Entity 9381 9386	Moody
+T175	Term 9431 9458	revolving credit facilities
+T176	Term 9431 9447	revolving credit
+T177	Term_Common 9441 9447	credit
+T178	Term 9470 9487	standby financing
+T179	Term_Common 9478 9487	financing
+T180	Term 9554 9571	expansion capital
+T181	Term 9564 9571	capital
+T182	Named_Entity 9605 9614	Whitbread
+T183	Named_Entity 9660 9671	Premier Inn
+T184	Named_Entity 9725 9740	Alison Brittain
+T185	Named_Entity 9878 9887	Whitbread
+T186	Term_Common 9928 9934	credit
+T187	Term 9960 9975	equity offering
+T188	Term 9960 9966	equity
+T189	Named_Entity 10153 10161	Brittain
+T191	Term_Common 10232 10238	market
+T192	Named_Entity 10241 10261	Jean-Francois Astier
+T193	Term 10271 10293	global capital markets
+T194	Term 10278 10293	capital markets
+T195	Term 10278 10285	capital
+T196	Term_Common 10286 10293	markets
+T197	Named_Entity 10297 10305	Barclays
+T198	Term_Common 10325 10335	financings
+T199	Term_Out_of_Domain 10475 10478	M&A
+T201	Term 10597 10612	liquidity funds
+T202	Term 10597 10606	liquidity
+T203	Term 10607 10612	funds
+T204	Term 10633 10640	capital
+T205	Term_Common 10739 10759	financial resilience
+T206	Term_Common 10739 10748	financial
+T208	Named_Entity 10929 10935	Astier
+T210	Term 10973 10997	Covid-19 liquidity funds
+T211	Part_of_Term 10587 10595	Covid-19
+T212	Part_of_Term 10597 10612	liquidity funds
+R2	Split_Term Arg1:T211 Arg2:T212	
+T213	Term 10982 10997	liquidity funds
+T214	Term 10982 10991	liquidity
+T215	Term 10992 10997	funds
+T216	Term_Common 11001 11010	Investors
+T217	Term_Common 11133 11146	balance sheet
+T218	Named_Entity 11184 11198	Richard Taylor
+T219	Named_Entity 11208 11212	Emea
+T220	Term 11213 11228	equity research
+T221	Term 11213 11219	equity
+T222	Named_Entity 11232 11241	Jefferies
+T223	Term 11264 11279	working capital
+T224	Term 11272 11279	capital
+T225	Term_Common 11433 11443	investment
+T226	Term_Common 11482 11486	fund
+T227	Term_Common 11518 11527	investors
+T228	Named_Entity 11571 11573	UK
+T229	Named_Entity 11634 11636	UK
+T230	Term_Common 11650 11655	share
+T231	Named_Entity 11720 11724	Citi
+T232	Named_Entity 11797 11811	Luke Templeman
+T233	Named_Entity 11815 11828	Deutsche Bank
+T234	Term_Out_of_Domain 11869 11886	zombie businesses
+T235	Term_Common 12018 12027	borrowers
+T236	Term 12046 12064	capital structures
+T237	Term 12046 12053	capital
+T238	Term 12086 12093	default
+T239	Named_Entity 12138 12155	Gregg Lemos-Stein
+T240	Named_Entity 12206 12209	S&P
+T241	Term 12229 12237	defaults
+T242	Term_Out_of_Domain 12376 12389	zombie status
+T243	Term_Common 12506 12511	debts
+T244	Term_Common 12716 12721	taxes
+T245	Term_Common 12744 12756	Public debts
+T246	Term_Common 12751 12756	debts
+T247	Named_Entity 12869 12872	IMF
+T248	Named_Entity 12963 12966	Tui
+T249	Term_Common 12978 12995	private investors
+T250	Term_Common 12986 12995	investors
+T251	Term 13008 13015	capital
+T252	Term_Common 13249 13263	balance sheets
+T254	Named_Entity 13388 13394	Taylor
+T255	Named_Entity 74 76	UK
+T256	Term 77 93	listed companies
+T257	Term 77 83	listed
+T258	Term_Common 693 709	loan application
+T259	Term_Common 693 697	loan
+T27	Named_Entity 1304 1312	FTSE 350
+T260	Term 5118 5124	equity
+T261	Named_Entity 8246 8248	UK
+T262	Named_Entity 9620 9622	UK
+T207	Named_Entity 10840 10842	US
+T264	Term 10843 10851	Treasury
+T265	Term_Out_of_Domain 12795 12817	gross domestic product
+T18	Term 3007 3015	offering
+T32	Term 3590 3607	listed businesses
+T35	Term 3590 3596	listed
+T39	Named_Entity 3587 3589	US
+T100	Term 6859 6875	listed companies
+T125	Term 6859 6865	listed
+T266	Named_Entity 6856 6858	UK
+T141	Term 8141 8157	listed companies
+T267	Term 8141 8147	listed
+T263	Term 9623 9638	listed business
+T268	Term 9623 9629	listed
+T269	Term 9967 9975	offering
+T190	Term 10896 10901	gilts

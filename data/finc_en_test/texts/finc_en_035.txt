@@ -1,0 +1,52 @@
+Colombian fintechs fill Latin American banking gaps
+Investors pour $1bn into an industry spurred by financial inclusion and undeterred by money laundering curbs
+
+When it comes to smartphone apps, banks in Latin America have been behind the curve. Movizzon, a Colombian fintech company, is helping them change that.
+
+The company buys thousands of smartphones into which it installs two apps: its own, and that of its bank clients. Movizzon’s app then takes control of the dummy phones, logging into the banks’ apps every couple of minutes and making transactions, like transferring money or paying off a credit card.
+
+Whenever there is a glitch, such as a login failure or a system freeze, Movizzon’s technology alerts the banks immediately, often via WhatsApp or email. Because banks now have live feeds of app glitches, they can resolve problems as they happen, which means they no longer have to deal with thousands of disgruntled customers all at once.
+
+Movizzon has even helped banks avoid their smartphone apps collapsing, by pointing out glitch patterns over months and years. Its success is reflected in its number of customers; more than 20 banks including BBVA, Banco Itaú and Banco Falabella, in 10 countries in Latin America.
+
+76%
+Proportion of the Colombian population using fintech services
+The company was founded in Chile in 2014. But in 2016 its founders transferred its headquarters to Bogotá, because Colombia’s capital, equidistant from Mexico and Chile, is a convenient place from which to travel to close deals with clients throughout the region.
+
+More importantly, says Antonio Arancibia, Movizzon’s co founder, Colombia’s finch industry is a great “ecosystem” for growing his company. It is well positioned in “permanent development” and has a growing influence, he says. What he means is that Colombia’s fintech industry has already taken off.
+
+A 2019 Ernst & Young report found Colombia has the highest “fintech adoption” rate in Latin America, with 76 per cent of its population using fintech services and the industry growing at about 120 per cent a year. Investors have poured more than $1bn into the industry in the past three years, $300m of which came during the first five months of the pandemic, according to Fintech Colombia. 
+
+Investors find Colombia attractive because it is a large market with a history of stable macroeconomic policy. The rise of Rappi, an online delivery tech start-up, put Colombia on the map when it raised $1bn from SoftBank last year.
+
+Venture capital funds have had their eye on the country’s tech start-ups ever since. More importantly, says Clementina Giraldo, a financial innovation consultant, the government has focused on boosting start-ups for at least 10 years.
+
+	It founded Innpulsa, an agency that trains entrepreneurs and innovators and awards them funding, in 2012. The government has also made it cheaper and quicker than before to create businesses: it now takes five days or fewer, instead of at least two weeks, to register a new company or partnership.
+
+Colombia also has Latin America’s first regulatory “sandbox”, a two-year arrangement that allows start-ups in the finance sector to experiment with business models without meeting the full requirements of a traditional financial services licence, as long as they are under a regulator’s supervision.
+
+But perhaps what best explains this growing fintech industry is Colombia’s need for financial inclusion. About 84 per cent of Colombians have had access to some kind of financial product in their lives, but fintech industry leaders believe only 30 per cent of them use any regularly.
+
+	That leaves many people in need of financial services, and fintechs are changing the way the finance sector works in Colombia by offering products to people who have been left out by traditional banks. 
+
+Most fintechs in Colombia are of two types. The first is a “digital wallet”, or mobile apps used to pay for services, buy products and transfer money. They have seen a surge in users during the pandemic, mostly because the government is using them to disperse large amounts of Covid-19 stimulus money and welfare payments.
+
+Movii, a challenger bank, is the best example of a digital wallet provider. Users need only an ID and a smartphone to open an account that carries no fees. That makes it easy for people in rural areas to open up an account. Customers who do not have a smartphone (the case for 20 per cent of Colombians) get a Movii debit card.
+
+Seventy per cent of Movii’s 1.1m users, up from 300,000 at the beginning of the year, do not have a traditional bank account. At least 200,000 use the app to receive welfare payments.
+
+The second type of fintech, such as Zinobe which offers the Lineru service, focuses on alternative financing. Some lend to people with credit ratings not accepted by traditional banks. To mitigate risk, it lends no more than $540 at a 25 per cent rate for a maximum of 90 days. More than 200,000 Colombians have borrowed from Lineru, 76 per cent of whom would find it hard to qualify for a bank loan. Many people use Lineru loans for expenses such as medical bills.
+
+80%
+Proportion of Colombians with a smartphone
+Mesfix, another fintech, describes what it does as “crowdfactoring”, or a blend of crowdfunding and factoring. The idea, says founder Felipe Tascon, is a digital B2C service to sell invoices as if they were any other product.
+
+Mesfix is financing hundreds of small and medium sized businesses with $26m a month, by enabling businesses and investors to buy and sell invoices. 
+
+Despite the progress Colombia needs to do more to become the “great fintech capital” that Iván Duque, Colombia’s president, wants it to be. Its finance sector is one of the most regulated in the world, mostly because of the country’s history of drug trafficking and money laundering.
+
+Banks must pay a hefty fee and qualify for hard-to-get licences to take deposits or donations from more than 20 people. Mesfix is able to dispense with this requirement because it never touches the money that flows through its digital crowdfactoring platform.
+
+Another obstacle that discourages start-ups is a 0.4 per cent tax on many financial transactions - in an effort to make up for Colombia’s low tax-collecting capacity.
+
+By making life easier for fintechs, the government can boost Colombia’s post-pandemic economic recovery, argues the industry. Movii and others say they have shown that fintechs can boost consumer spending by enabling citizens to use their accounts for more than just receiving money, making it easier for people to make digital purchases and payments. In the future, says Hernando Rubio, Movii’s chief executive, digital wallets will help hundreds of thousands to establish credit histories and thus access loans.

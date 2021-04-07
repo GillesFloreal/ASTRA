@@ -1,0 +1,117 @@
+T1	Named_Entity 0 8	Plymouth
+T2	Term 39 51	swaps market
+T3	Term 39 44	swaps
+T4	Term_Common 45 51	market
+T5	Named_Entity 75 77	UK
+T6	Named_Entity 155 166	Hammersmith
+T7	Named_Entity 171 177	Fulham
+T8	Named_Entity 178 199	Plymouth City Council
+T9	Term 214 232	interest rate swap
+T10	Term_Common 214 227	interest rate
+T11	Term_Common 214 222	interest
+T12	Term_Common 223 227	rate
+T13	Term 228 232	swap
+T14	Term_Common 255 263	finances
+T15	Term_Common 282 297	borrowing costs
+T16	Term_Common 282 291	borrowing
+T17	Term_Common 380 386	market
+T18	Term 396 407	derivatives
+T19	Named_Entity 430 439	Santander
+T20	Named_Entity 461 469	Plymouth
+T21	Term_Common 504 518	interest rates
+T22	Term_Common 513 518	rates
+T24	Term_Common 579 584	debts
+T25	Term_Common 663 678	borrowing costs
+T26	Term_Common 663 672	borrowing
+T27	Term_Common 758 768	investment
+T28	Named_Entity 780 788	Plymouth
+T29	Term_Common 836 842	market
+T30	Named_Entity 931 933	UK
+T31	Term_Common 960 969	financing
+T32	Named_Entity 1074 1080	London
+T33	Named_Entity 1089 1100	Hammersmith
+T34	Named_Entity 1105 1111	Fulham
+T35	Term 1150 1168	derivatives trades
+T36	Term 1150 1161	derivatives
+T37	Term_Common 1162 1168	trades
+T38	Named_Entity 1180 1194	House of Lords
+T39	Term_Common 1360 1364	loss
+T40	Term_Common 1369 1374	banks
+T41	Term_Common 1400 1406	trades
+T42	Named_Entity 1409 1419	Paul Looby
+T43	Named_Entity 1421 1429	Plymouth
+T44	Term_Common 1440 1458	financial planning
+T45	Term_Common 1440 1449	financial
+T46	Part_of_Term_Common 1440 1449	financial
+T47	Part_of_Term_Common 1463 1472	reporting
+R1	Split_Term_Com Arg1:T46 Arg2:T47	
+T48	Named_Entity 1585 1596	Hammersmith
+T49	Named_Entity 1601 1607	Fulham
+T50	Term_Common 1726 1734	finances
+T51	Term 1740 1758	interest rate swap
+T52	Term 1754 1758	swap
+T53	Term_Common 1749 1753	rate
+T54	Term_Common 1740 1748	interest
+T55	Term_Common 1740 1753	interest rate
+T56	Term 1771 1790	derivative contract
+T57	Term 1771 1781	derivative
+T58	Term 1840 1866	floating interest payments
+T59	Term_Common 1849 1857	interest
+T60	Named_Entity 1905 1920	Bank of England
+T61	Term_Common 1921 1935	interest rates
+T62	Term_Common 1921 1929	interest
+T63	Term_Common 1930 1935	rates
+T64	Named_Entity 1972 1980	Plymouth
+T65	Term 1999 2003	swap
+T67	Term_Common 2042 2046	debt
+T68	Term_Common 2053 2062	financing
+T69	Term_Common 2079 2084	loans
+T71	Term_Common 2169 2178	borrowing
+T72	Term_Common 2226 2231	rates
+T73	Term_Common 2240 2250	refinances
+T74	Term_Common 2264 2274	fixed rate
+T75	Term_Common 2270 2274	rate
+T76	Term 2308 2321	floating rate
+T77	Term_Common 2317 2321	rate
+T78	Term_Common 2360 2374	interest rates
+T79	Term_Common 2360 2368	interest
+T80	Term_Common 2369 2374	rates
+T81	Term 2410 2415	swaps
+T83	Term_Common 2485 2490	loans
+T84	Named_Entity 2495 2500	Looby
+T85	Named_Entity 2509 2520	Hammersmith
+T86	Named_Entity 2525 2531	Fulham
+T87	Term 2577 2589	swaps market
+T88	Term 2577 2582	swaps
+T89	Term_Common 2583 2589	market
+T90	Named_Entity 2641 2646	Lords
+T91	Term 2674 2694	derivative positions
+T92	Term 2674 2684	derivative
+T93	Term 2702 2716	notional value
+T94	Term 608 622	notional value
+T95	Term_Common 2760 2764	debt
+T96	Term_Common 2818 2832	interest rates
+T97	Term_Common 2818 2826	interest
+T98	Term_Common 2827 2832	rates
+T99	Term_Common 2860 2866	losses
+T100	Term_Common 2872 2877	rates
+T101	Named_Entity 2898 2906	Plymouth
+T102	Named_Entity 2978 2983	Looby
+T103	Term_Common 2953 2972	interest rate rises
+T104	Term_Common 2953 2966	interest rate
+T105	Term_Common 2953 2961	interest
+T106	Term_Common 2962 2966	rate
+T107	Named_Entity 2991 3011	Stuart Selby-Jerrold
+T108	Named_Entity 3016 3025	Santander
+T109	Named_Entity 3026 3028	UK
+T110	Named_Entity 3102 3113	Hammersmith
+T111	Named_Entity 3118 3124	Fulham
+T112	Named_Entity 3238 3246	Plymouth
+T113	Term_Common 3261 3275	interest costs
+T114	Term_Common 3261 3269	interest
+T115	Term_Common 3389 3407	financing strategy
+T116	Term_Common 3389 3398	financing
+T117	Term_Common 504 512	interest
+T23	Term 1840 1857	floating interest
+T66	Term 990 1005	funding squeeze
+T70	Term_Common 990 997	funding

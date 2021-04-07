@@ -1,0 +1,79 @@
+T1	Term 28 40	greenwashing
+T2	Named_Entity 0 2	EU
+T4	Term_Out_of_Domain 107 110	ESG
+T5	Term 111 120	portfolio
+T6	Named_Entity 133 135	EU
+T8	Named_Entity 292 298	Europe
+T9	Named_Entity 333 352	European Commission
+T11	Named_Entity 651 659	Brussels
+T12	Term 690 702	greenwashing
+T15	Named_Entity 844 846	EU
+T16	Term 956 972	asset management
+T17	Named_Entity 1008 1023	Financial Times
+T19	Named_Entity 1282 1290	Brussels
+T21	Term_Common 1439 1458	investment industry
+T23	Term_Out_of_Domain 866 882	green transition
+T25	Term_Common 307 326	investment industry
+T26	Named_Entity 1578 1586	Brussels
+T28	Named_Entity 1951 1953	EU
+T30	Named_Entity 2077 2080	BVI
+T31	Named_Entity 2042 2056	Thomas Richter
+T32	Term 2093 2109	asset management
+T3	Term 56 70	Asset managers
+T7	Term 248 262	asset managers
+T10	Term 368 379	fund groups
+T13	Term 713 722	ESG funds
+T14	Term 752 766	asset managers
+T22	Term_Common 793 804	investments
+T33	Term_Common 982 994	trade bodies
+T18	Term 1137 1151	asset managers
+T20	Term_Out_of_Domain 1408 1411	ESG
+T34	Term_Out_of_Domain 1408 1419	ESG metrics
+T35	Term_Out_of_Domain 713 716	ESG
+T29	Term 2018 2029	fund groups
+T36	Term 2283 2299	fund disclosures
+T37	Term 2354 2368	asset managers
+T38	Named_Entity 2429 2431	EU
+T39	Term_Common 2434 2455	financial supervisors
+T40	Term_Common 2606 2618	trade bodies
+T41	Named_Entity 2620 2633	John Berrigan
+T42	Named_Entity 2975 2991	Victor van Hoorn
+T43	Named_Entity 3047 3054	Eurosif
+T44	Term 3189 3203	asset managers
+T45	Term 23 40	anti-greenwashing
+T46	Term 56 61	Asset
+T47	Term_Common 307 317	investment
+T48	Term 368 372	fund
+T49	Term_Common 1439 1449	investment
+T50	Term 2018 2022	fund
+T51	Term 2283 2287	fund
+T52	Term_Common 2434 2443	financial
+T53	Term 752 757	asset
+T27	Term 1673 1687	asset managers
+T54	Term 1673 1678	asset
+T55	Term 2093 2098	asset
+T56	Term 2354 2359	asset
+T57	Term 248 253	asset
+T24	Term 502 512	portfolios
+T58	Term 956 961	asset
+T59	Term_Common 982 987	trade
+T60	Term 1137 1142	asset
+T61	Term_Out_of_Domain 1898 1918	coronavirus pandemic
+T62	Term_Out_of_Domain 1898 1909	coronavirus
+T63	Term 2093 2122	asset management trade bodies
+T64	Term_Common 2110 2122	trade bodies
+T65	Term_Common 2110 2115	trade
+T66	Term 956 994	asset management industry trade bodies
+T67	Term 956 981	asset management industry
+T68	Term 2667 2690	financial services unit
+T69	Term 2667 2685	financial services
+T70	Term_Common 2667 2676	financial
+T71	Term 3015 3046	sustainable finance association
+T72	Term 3015 3034	sustainable finance
+T73	Term_Common 3027 3034	finance
+T74	Term 3189 3194	asset
+T75	Term 107 120	ESG portfolio
+T76	Term 108 125	SG portfolio risk
+T77	Term_Out_of_Domain 450 492	environmental, social and governance risks
+T78	Term 618 645	sustainable investing rules
+T79	Term 618 639	sustainable investing

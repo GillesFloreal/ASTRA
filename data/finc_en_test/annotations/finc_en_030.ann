@@ -1,0 +1,215 @@
+T1	Term 0 10	Zero rates
+T2	Term_Common 5 10	rates
+T3	Term 35 68	family office investment managers
+T4	Term 49 68	investment managers
+T5	Term_Common 49 59	investment
+T6	Term 100 107	capital
+T7	Named_Entity 203 209	Europe
+T8	Named_Entity 436 439	UBS
+T9	Term_Common 431 435	bank
+T10	Term_Common 496 509	interest rate
+T11	Term_Common 496 504	interest
+T12	Term_Common 505 509	rate
+T13	Term_Common 530 538	deposits
+T14	Term_Common 791 804	cash deposits
+T15	Term_Common 796 804	deposits
+T16	Named_Entity 822 825	UBS
+T17	Term_Common 487 509	negative interest rate
+T18	Term_Common 871 894	negative interest rates
+T19	Term_Common 880 894	interest rates
+T20	Term_Common 880 888	interest
+T21	Term_Common 889 894	rates
+T22	Term_Common 913 925	central bank
+T23	Term_Common 921 925	bank
+T24	Term_Common 945 950	banks
+T25	Term 1018 1033	wealth managers
+T26	Named_Entity 1047 1050	UBS
+T27	Named_Entity 1072 1083	Switzerland
+T28	Term 1113 1130	wealth management
+T29	Term 1157 1163	assets
+T30	Term_Common 1194 1208	negative rates
+T31	Term_Common 1203 1208	rates
+T32	Term_Common 1235 1239	bank
+T33	Term_Common 1242 1258	Commercial banks
+T34	Term_Common 1253 1258	banks
+T35	Named_Entity 1299 1320	European Central Bank
+T36	Named_Entity 1322 1341	Swiss National Bank
+T37	Named_Entity 1346 1359	Bank of Japan
+T38	Term_Common 1376 1407	negative interest rate policies
+T39	Term_Common 1376 1398	negative interest rate
+T40	Term_Common 1385 1398	interest rate
+T41	Term_Common 1385 1393	interest
+T42	Term_Common 1394 1398	rate
+T43	Named_Entity 1438 1453	Stéphane Monier
+T44	Term_Common 1461 1471	investment
+T45	Named_Entity 1483 1496	Lombard Odier
+T46	Named_Entity 1504 1506	US
+T47	Named_Entity 1508 1523	Federal Reserve
+T48	Named_Entity 1528 1543	Bank of England
+T49	Term_Common 1605 1619	negative rates
+T50	Term_Common 1614 1619	rates
+T51	Named_Entity 1668 1670	UK
+T52	Named_Entity 1696 1704	Sandaire
+T53	Term_Common 1732 1742	investment
+T54	Term 1455 1479	chief investment officer
+T55	Term 1726 1750	chief investment officer
+T56	Named_Entity 1752 1766	StJohn Gardner
+T57	Term_Common 1868 1881	bank accounts
+T58	Term_Common 1868 1872	bank
+T59	Term_Common 1936 1944	interest
+T60	Named_Entity 2022 2037	Bank of England
+T61	Term_Common 2069 2092	negative interest rates
+T62	Term_Common 2078 2092	interest rates
+T63	Term_Common 2078 2086	interest
+T64	Term_Common 2087 2092	rates
+T65	Named_Entity 2142 2149	Gardner
+T66	Term_Common 2222 2236	negative rates
+T67	Term_Common 2231 2236	rates
+T68	Term_Common 2272 2285	central banks
+T69	Term_Common 2280 2285	banks
+T70	Term_Common 2297 2311	interest rates
+T71	Term_Common 2297 2305	interest
+T72	Term_Common 2306 2311	rates
+T73	Term_Common 2405 2426	government borrowings
+T74	Term_Common 2416 2426	borrowings
+T75	Term_Common 2482 2502	government borrowing
+T76	Term_Common 2493 2502	borrowing
+T77	Term_Common 2530 2544	interest rates
+T78	Term_Common 2530 2538	interest
+T79	Term_Common 2539 2544	rates
+T80	Named_Entity 2579 2590	Katie Nixon
+T81	Term 2592 2616	chief investment officer
+T82	Term_Common 2598 2608	investment
+T83	Named_Entity 2620 2652	Northern Trust Wealth Management
+T84	Term 2669 2694	asset management services
+T85	Term 2669 2685	asset management
+T86	Term 2669 2674	asset
+T87	Term_Common 2722 2731	low rates
+T88	Term_Common 2726 2731	rates
+T89	Named_Entity 2799 2801	US
+T90	Term_Common 2802 2814	central bank
+T91	Term_Common 2810 2814	bank
+T92	Term 2833 2858	zero-interest rate policy
+T93	Term_Common 2833 2851	zero-interest rate
+T94	Term_Common 2847 2851	rate
+T95	Term 2914 2933	investment managers
+T96	Term_Common 2914 2924	investment
+T97	Term 2972 2979	capital
+T98	Named_Entity 3057 3072	Rothschild & Co
+T99	Term 3075 3096	wealth management arm
+T100	Term 3075 3092	wealth management
+T101	Named_Entity 3124 3139	Albert Einstein
+T102	Term_Common 3150 3167	compound interest
+T103	Term_Common 3159 3167	interest
+T104	Term 3334 3348	wealth manager
+T105	Named_Entity 3438 3462	Hassium Asset Management
+T106	Named_Entity 3466 3468	UK
+T107	Term 3475 3489	wealth manager
+T108	Term 3529 3538	portfolio
+T109	Term_Common 3600 3609	investors
+T110	Term 3685 3699	equity markets
+T111	Term 3685 3691	equity
+T112	Term_Common 3692 3699	markets
+T113	Term_Common 3725 3730	funds
+T114	Term_Common 3750 3756	shares
+T115	Term_Common 3808 3817	investors
+T116	Term_Common 3845 3851	invest
+T117	Term 3855 3863	equities
+T118	Term_Common 3876 3885	Investors
+T119	Term_Common 3943 3949	invest
+T120	Term 3965 3971	assets
+T121	Named_Entity 4019 4026	Gardner
+T122	Named_Entity 4191 4205	Kevin Gardiner
+T123	Term 4207 4235	global investment strategist
+T124	Term_Common 4214 4235	investment strategist
+T125	Term_Common 4214 4224	investment
+T126	Named_Entity 4239 4249	Rothschild
+T127	Term 4250 4267	wealth management
+T128	Term 4331 4340	liquidity
+T129	Named_Entity 4357 4364	Hassium
+T130	Named_Entity 4381 4391	Yogi Dewan
+T131	Term 4442 4448	assets
+T132	Term_Common 4506 4515	Investors
+T133	Term_Common 4537 4548	credit risk
+T134	Term_Common 4537 4543	credit
+T135	Term 4553 4567	liquidity risk
+T136	Term 4553 4562	liquidity
+T137	Term_Common 4571 4578	markets
+T138	Term_Common 4686 4692	assets
+T139	Named_Entity 4765 4771	Monier
+T140	Term 4798 4813	corporate bonds
+T141	Term 4808 4813	bonds
+T142	Term 4938 4943	bonds
+T143	Term_Common 4921 4931	investment
+T144	Term 4980 4991	asset class
+T145	Term 4980 4985	asset
+T146	Term_Common 5005 5018	central banks
+T147	Term_Common 5013 5018	banks
+T148	Term 5020 5045	asset purchase programmes
+T149	Term 5020 5025	asset
+T150	Term 5122 5138	government bonds
+T151	Term 5133 5138	bonds
+T152	Part_of_Term 5133 5138	bonds
+T153	Part_of_Term 5108 5117	corporate
+R1	Split_Term Arg1:T153 Arg2:T152	
+T154	Term_Common 5156 5170	interest rates
+T155	Term_Common 5156 5164	interest
+T156	Term_Common 5165 5170	rates
+T157	Term 5183 5199	Government bonds
+T158	Term 5194 5199	bonds
+T159	Named_Entity 5253 5261	Sandaire
+T160	Named_Entity 5264 5271	Gardner
+T161	Named_Entity 5286 5288	UK
+T162	Term 5302 5307	gilts
+T163	Term 5344 5354	securities
+T164	Named_Entity 5312 5323	US Treasury
+T165	Term_Common 5387 5410	foreign exchange losses
+T166	Term_Common 5387 5403	foreign exchange
+T167	Named_Entity 5636 5644	Gardiner
+T168	Named_Entity 5648 5658	Rothschild
+T169	Named_Entity 5873 5878	Dewan
+T170	Term 5935 5957	multi-asset portfolios
+T171	Term 5947 5957	portfolios
+T172	Term 5941 5946	asset
+T173	Term 5990 5998	equities
+T174	Term 6003 6008	bonds
+T175	Term 6043 6049	Assets
+T176	Named_Entity 6120 6125	Nixon
+T177	Term_Common 6181 6188	funding
+T178	Term 6247 6253	assets
+T179	Term_Common 6268 6289	investment philosophy
+T180	Term_Common 6268 6278	investment
+T181	Term 6299 6305	assets
+T182	Term 6409 6418	liquidity
+T183	Term_Common 6545 6562	financial support
+T184	Term_Common 6545 6554	financial
+T185	Named_Entity 6625 6633	Sandaire
+T186	Named_Entity 6636 6643	Gardner
+T187	Term 6773 6788	equity holdings
+T188	Term 6773 6779	equity
+T189	Term_Common 6780 6788	holdings
+T190	Term 6794 6810	volatile markets
+T191	Term_Common 6803 6810	markets
+T192	Named_Entity 6812 6817	Nixon
+T193	Term 6904 6918	wealth manager
+T194	Named_Entity 6954 6967	Lombard Odier
+T195	Term 7011 7020	portfolio
+T196	Named_Entity 7030 7037	Hassium
+T197	Named_Entity 7137 7147	Rothschild
+T198	Term 7203 7213	portfolios
+T199	Term_Common 7279 7293	market outlook
+T200	Term_Common 7279 7285	market
+T201	Named_Entity 7299 7307	Sandaire
+T202	Term 7329 7345	income portfolio
+T203	Term 7336 7345	portfolio
+T204	Named_Entity 7553 7567	Northern Trust
+T205	Named_Entity 7716 7724	Gardiner
+T206	Term 7645 7667	asset allocation model
+T207	Term 7645 7661	asset allocation
+T208	Term 7645 7650	asset
+T209	Named_Entity 7728 7738	Rothschild
+T210	Term_Common 6432 6436	fund
+T211	Term 7468 7479	liabilities
+T212	Term_Common 4862 4887	economic stimulus schemes
+T213	Term_Common 4871 4887	stimulus schemes
+T214	Term_Common 4871 4879	stimulus

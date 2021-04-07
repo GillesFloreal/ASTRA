@@ -1,0 +1,111 @@
+T1	Named_Entity 0 5	China
+T2	Named_Entity 8 13	Lufax
+T3	Named_Entity 24 26	US
+T4	Term 27 30	IPO
+T5	Term_Common 67 80	Online lender
+T6	Term_Common 74 80	lender
+T7	Named_Entity 112 120	New York
+T8	Named_Entity 129 134	Trump
+T9	Term 145 155	delistings
+T10	Named_Entity 158 163	Lufax
+T11	Named_Entity 172 177	China
+T12	Term_Common 188 212	online lending platforms
+T13	Term_Common 195 212	lending platforms
+T14	Term_Common 195 202	lending
+T15	Named_Entity 240 242	US
+T16	Term 243 266	initial public offering
+T17	Named_Entity 279 284	Trump
+T18	Term 327 333	delist
+T19	Named_Entity 391 396	China
+T20	Named_Entity 415 432	Ping An Insurance
+T21	Term_Common 461 474	funding round
+T22	Term_Common 461 468	funding
+T23	Named_Entity 508 545	US Securities and Exchange Commission
+T24	Named_Entity 611 634	New York Stock Exchange
+T25	Term 635 642	listing
+T26	Named_Entity 667 672	Lufax
+T27	Named_Entity 753 755	US
+T28	Term_Common 756 763	markets
+T29	Named_Entity 871 873	US
+T30	Named_Entity 900 905	Trump
+T31	Term_Common 972 979	markets
+T32	Named_Entity 1003 1005	US
+T33	Named_Entity 1117 1124	Alibaba
+T34	Named_Entity 1129 1135	JD.com
+T35	Named_Entity 1169 1178	Hong Kong
+T36	Named_Entity 1219 1221	US
+T37	Term_Common 1222 1231	exchanges
+T38	Named_Entity 1255 1258	SEC
+T39	Named_Entity 1260 1265	Lufax
+T40	Named_Entity 1342 1351	Hong Kong
+T41	Named_Entity 1356 1358	US
+T42	Term_Common 1472 1491	financial condition
+T43	Term_Common 1472 1481	financial
+T44	Named_Entity 1522 1524	US
+T45	Term_Common 1525 1534	investors
+T46	Term 1599 1606	fintech
+T47	Term_Common 1628 1634	banker
+T48	Named_Entity 1665 1670	Lufax
+T49	Named_Entity 1697 1699	US
+T50	Term 1685 1689	list
+T51	Term 1720 1724	list
+T52	Term_Common 1852 1858	shares
+T53	Named_Entity 1873 1884	Wall Street
+T54	Term 1885 1889	IPOs
+T55	Named_Entity 1978 1986	Dealogic
+T56	Named_Entity 1989 2002	Zennon Kapron
+T57	Named_Entity 2032 2042	Kapronasia
+T58	Named_Entity 2060 2062	US
+T59	Term_Common 2063 2070	markets
+T60	Term_Common 2109 2129	financial technology
+T61	Term_Common 2109 2118	financial
+T62	Term_Common 2142 2153	stock price
+T63	Term_Common 2142 2147	stock
+T64	Term_Common 2252 2263	stock price
+T65	Term_Common 2252 2257	stock
+T66	Term_Common 2306 2314	investor
+T67	Term_Common 2335 2341	stocks
+T68	Term 2425 2432	fintech
+T69	Named_Entity 2462 2464	US
+T70	Term_Common 2465 2472	markets
+T71	Named_Entity 2478 2484	Kapron
+T72	Term_Common 2518 2547	peer-to-peer lending platform
+T73	Term_Common 2531 2547	lending platform
+T74	Term_Common 2531 2538	lending
+T75	Named_Entity 2557 2562	Lufax
+T76	Term 2583 2604	online wealth manager
+T77	Term 2590 2604	wealth manager
+T78	Term_Common 2622 2627	loans
+T79	Term_Common 2633 2638	banks
+T80	Term 2642 2658	retail borrowers
+T81	Term_Common 2649 2658	borrowers
+T82	Named_Entity 2811 2813	US
+T83	Term 2827 2834	listing
+T84	Term_Out_of_Domain 2932 2935	P2P
+T85	Named_Entity 2988 2993	China
+T86	Term_Common 3004 3025	online finance sector
+T87	Term_Common 3011 3025	finance sector
+T88	Term_Common 3011 3018	finance
+T89	Term 3078 3094	Listing activity
+T90	Term 3078 3085	Listing
+T91	Named_Entity 3152 3161	Ant Group
+T92	Term_Common 3262 3268	shares
+T93	Named_Entity 3272 3281	Hong Kong
+T94	Named_Entity 3286 3294	Shanghai
+T95	Term 3295 3304	offerings
+T96	Named_Entity 3367 3378	KE Holdings
+T97	Named_Entity 3416 3430	Beike Zhaofang
+T98	Term 3484 3487	IPO
+T99	Named_Entity 3495 3497	US
+T100	Named_Entity 3513 3518	Lufax
+T101	Named_Entity 3523 3530	Ping An
+T102	Term 3567 3575	offering
+T103	Named_Entity 3579 3592	Goldman Sachs
+T104	Named_Entity 3594 3609	BofA Securities
+T105	Named_Entity 3611 3614	UBS
+T106	Named_Entity 3616 3620	HSBC
+T107	Named_Entity 3625 3644	China PA Securities
+T108	Term 258 266	offering
+T111	Term 1599 1616	fintech companies
+T112	Term 103 108	float
+T113	Term 938 944	delist

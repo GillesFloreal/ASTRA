@@ -1,0 +1,51 @@
+T1	Named_Entity 0 12	Reliance Jio
+T3	Term_Common 100 109	investors
+T4	Named_Entity 155 167	Reliance Jio
+T5	Named_Entity 169 182	Mukesh Ambani
+T2	Term_Common 344 361	foreign investors
+T6	Term_Common 352 361	investors
+T7	Named_Entity 578 584	Ambani
+T8	Named_Entity 586 590	Asia
+T9	Named_Entity 631 634	Jio
+T10	Term_Common 653 669	global investors
+T11	Term_Common 660 669	investors
+T12	Named_Entity 681 689	Facebook
+T13	Named_Entity 694 700	Google
+T14	Named_Entity 707 710	Jio
+T15	Named_Entity 844 847	Jio
+T16	Named_Entity 989 1026	Telecom Regulatory Authority of India
+T17	Named_Entity 1029 1033	TRAI
+T18	Named_Entity 1167 1170	Jio
+T19	Named_Entity 1208 1212	TRAI
+T20	Named_Entity 1291 1304	Vodafone Idea
+T21	Named_Entity 1309 1315	Airtel
+T22	Named_Entity 1494 1500	Airtel
+T23	Named_Entity 1515 1518	Jio
+T24	Named_Entity 1537 1541	TRAI
+T25	Term_Common 1801 1810	investors
+T26	Named_Entity 1896 1902	Airtel
+T27	Named_Entity 1907 1920	Vodafone Idea
+T28	Term_Common 2057 2066	investors
+T29	Named_Entity 2122 2126	TRAI
+T30	Named_Entity 2433 2461	Kotak Institutional Equities
+T31	Named_Entity 2697 2700	Jio
+T32	Part_of_Named_Entity 2535 2543	Reliance
+T33	Part_of_Named_Entity 2545 2548	Jio
+R1	Split_Named_Entity Arg1:T32 Arg2:T33	
+T34	Named_Entity 2626 2632	Airtel
+T35	Named_Entity 2634 2639	Kotak
+T36	Named_Entity 2718 2737	Reliance Industries
+T37	Named_Entity 2752 2767	Financial Times
+T38	Named_Entity 3014 3022	Reliance
+T39	Named_Entity 3090 3093	Jio
+T40	Named_Entity 3251 3254	Jio
+T41	Named_Entity 3295 3298	Jio
+T42	Named_Entity 3647 3653	Ambani
+T43	Named_Entity 3697 3702	India
+T44	Term 3833 3840	fintech
+T45	Named_Entity 3942 3950	Reliance
+T46	Named_Entity 4077 4080	Jio
+T47	Named_Entity 4152 4155	Jio
+T48	Named_Entity 4217 4238	Vivekanand Subbaraman
+T49	Term_Common 4254 4263	brokerage
+T50	Named_Entity 4264 4277	Ambit Capital

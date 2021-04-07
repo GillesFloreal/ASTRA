@@ -1,0 +1,56 @@
+T1	Term_Common 4 13	investors
+T2	Named_Entity 61 68	America
+T3	Term_Common 182 203	stockmarket investors
+T4	Term_Common 182 193	stockmarket
+T5	Term_Common 194 203	investors
+T6	Named_Entity 251 258	s&p 500
+T7	Term 263 268	index
+T8	Named_Entity 272 279	America
+T9	Term_Common 472 481	Investors
+T10	Term_Common 850 860	financiers
+T12	Named_Entity 913 916	vix
+T13	Term 917 924	futures
+T14	Term 926 937	derivatives
+T15	Term 964 974	volatility
+T16	Term_Common 978 984	stocks
+T17	Term 1015 1025	volatility
+T18	Term_Common 1055 1067	share prices
+T19	Term_Common 1055 1060	share
+T21	Named_Entity 1069 1072	vix
+T22	Term 1073 1080	futures
+T23	Term_Common 1091 1097	traded
+T24	Term_Common 1101 1110	investors
+T25	Named_Entity 1156 1163	s&p 500
+T26	Term 1209 1219	volatility
+T28	Named_Entity 1260 1263	vix
+T29	Term 1264 1271	futures
+T30	Term 1377 1387	volatility
+T31	Term_Common 1425 1446	central-bank meetings
+T32	Term_Common 1425 1437	central-bank
+T33	Term_Common 1433 1437	bank
+T34	Term_Common 1449 1458	Investors
+T35	Named_Entity 1546 1559	Cameron Crise
+T36	Named_Entity 1577 1586	Bloomberg
+T39	Named_Entity 1599 1602	vix
+T40	Term 1603 1610	futures
+T41	Term_Common 1611 1618	markets
+T43	Named_Entity 1701 1704	vix
+T44	Term 1705 1712	futures
+T45	Term_Common 1910 1919	investors
+T48	Named_Entity 2314 2326	Donald Trump
+T49	Term_Common 2468 2474	market
+T50	Named_Entity 2544 2551	Al Gore
+T51	Named_Entity 2556 2567	George Bush
+T52	Term_Common 2657 2664	Markets
+T53	Named_Entity 2761 2768	s&p 500
+T54	Term 2882 2893	dotcom bust
+T55	Term_Common 2919 2928	investors
+T56	Term_Common 3025 3034	investors
+T57	Named_Entity 3136 3141	Trump
+T59	Named_Entity 3180 3183	vix
+T60	Term 3184 3191	futures
+T61	Term 3226 3233	futures
+T62	Named_Entity 3427 3436	Joe Biden
+T63	Named_Entity 3441 3446	Trump
+T64	Term_Common 3538 3547	investors
+T11	Term 1603 1618	futures markets

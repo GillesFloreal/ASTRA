@@ -1,0 +1,112 @@
+T1	Named_Entity 0 5	China
+T2	Term 17 31	finance groups
+T3	Term_Common 17 24	finance
+T4	Named_Entity 41 50	Singapore
+T5	Named_Entity 124 126	US
+T6	Named_Entity 131 136	India
+T7	Named_Entity 139 144	China
+T8	Term 170 198	financial services companies
+T9	Term 170 188	financial services
+T10	Term_Common 170 179	financial
+T11	Named_Entity 236 245	Singapore
+T12	Named_Entity 296 298	US
+T13	Named_Entity 303 308	India
+T14	Term 324 335	finance hub
+T15	Term_Common 324 331	finance
+T16	Named_Entity 371 378	Alibaba
+T17	Named_Entity 386 395	Ant Group
+T18	Named_Entity 397 402	China
+T19	Term 420 429	brokerage
+T20	Named_Entity 430 448	Haitong Securities
+T21	Named_Entity 450 456	Huawei
+T22	Term_Out_of_Domain 459 473	cloud division
+T23	Named_Entity 478 485	Tencent
+T24	Term_Common 493 505	digital bank
+T25	Term_Common 501 505	bank
+T26	Named_Entity 506 512	WeBank
+T27	Named_Entity 575 584	Singapore
+T28	Named_Entity 648 694	Investment Management Association of Singapore
+T29	Named_Entity 762 767	China
+T30	Named_Entity 827 836	Singapore
+T31	Named_Entity 890 894	Asia
+T32	Named_Entity 1073 1078	India
+T33	Named_Entity 1087 1089	US
+T34	Named_Entity 1100 1109	Hong Kong
+T35	Named_Entity 1138 1142	Sino
+T36	Named_Entity 1143 1145	US
+T37	Named_Entity 1200 1206	TikTok
+T38	Named_Entity 1231 1233	US
+T39	Named_Entity 1238 1243	India
+T40	Named_Entity 1348 1354	Huawei
+T41	Named_Entity 1373 1375	US
+T42	Named_Entity 1389 1398	Singapore
+T43	Term_Out_of_Domain 1418 1439	geopolitical tensions
+T44	Named_Entity 1447 1460	Chia Hock Lai
+T45	Named_Entity 1479 1508	Singapore Fintech Association
+T46	Term_Out_of_Domain 1646 1671	geopolitical relationship
+T47	Named_Entity 1681 1688	Beijing
+T48	Named_Entity 1693 1703	Washington
+T49	Term_Common 1753 1763	investment
+T50	Named_Entity 1771 1776	China
+T51	Named_Entity 1787 1791	Chia
+T52	Term_Common 1798 1803	funds
+T53	Named_Entity 1835 1844	Singapore
+T54	Named_Entity 1851 1877	Variable Capital Companies
+T55	Term_Common 1907 1913	assets
+T56	Term 1917 1930	fund managers
+T57	Term_Common 1917 1921	fund
+T58	Named_Entity 1970 1973	VCC
+T59	Term_Common 1974 1979	funds
+T60	Named_Entity 2015 2046	Monetary Authority of Singapore
+T61	Named_Entity 2055 2081	Economic Development Board
+T62	Term_Common 2136 2145	financial
+T63	Part_of_Term_Common 2136 2145	financial
+T64	Part_of_Term_Common 2154 2163	companies
+R1	Split_Term_Com Arg1:T63 Arg2:T64	
+T65	Named_Entity 2183 2192	Singapore
+T66	Named_Entity 2195 2199	IMAS
+T67	Named_Entity 2220 2229	Singapore
+T68	Named_Entity 2244 2247	SFA
+T69	Named_Entity 2296 2306	Carmen Wee
+T70	Named_Entity 2320 2324	IMAS
+T71	Named_Entity 2355 2364	Singapore
+T72	Term 2369 2383	asset managers
+T73	Term_Common 2369 2374	asset
+T74	Named_Entity 2409 2424	south-east Asia
+T75	Named_Entity 2471 2480	Singapore
+T76	Named_Entity 2505 2520	south-east Asia
+T77	Term 2562 2584	asset management firms
+T78	Term 2562 2578	asset management
+T79	Term_Common 2562 2567	asset
+T80	Named_Entity 2631 2634	Wee
+T81	Named_Entity 2640 2644	IMAS
+T82	Named_Entity 2715 2719	Chia
+T83	Named_Entity 2795 2798	SFA
+T84	Named_Entity 2814 2821	Haitong
+T85	Named_Entity 2892 2898	Huawei
+T86	Named_Entity 2918 2927	Singapore
+T87	Term_Out_of_Domain 2977 2997	cloud computing unit
+T88	Term_Out_of_Domain 3024 3047	artificial intelligence
+T89	Named_Entity 3079 3088	Ant Group
+T90	Named_Entity 3113 3122	Singapore
+T91	Named_Entity 3127 3142	south-east Asia
+T92	Term 3164 3184	digital bank licence
+T93	Term_Common 3164 3176	digital bank
+T94	Term_Common 3172 3176	bank
+T95	Named_Entity 3205 3212	Haitong
+T96	Term 3247 3264	corporate finance
+T97	Term_Common 3257 3264	finance
+T98	Term 3266 3283	wealth management
+T99	Term 3288 3304	asset management
+T100	Term_Common 3288 3293	asset
+T101	Named_Entity 3308 3317	Singapore
+T102	Named_Entity 3366 3381	south-east Asia
+T103	Named_Entity 3395 3406	Zhang Fufei
+T104	Named_Entity 3457 3478	Haitong International
+T105	Named_Entity 3481 3490	Singapore
+T106	Named_Entity 3498 3507	Ant Group
+T107	Named_Entity 3512 3518	Huawei
+T108	Named_Entity 3674 3683	Singapore
+T109	Term_Common 3695 3710	finance sectors
+T110	Term_Common 3695 3702	finance
+T111	Term_Common 3382 3388	market

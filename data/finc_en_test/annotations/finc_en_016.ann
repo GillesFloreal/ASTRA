@@ -1,0 +1,22 @@
+T1	Named_Entity 0 4	Opec
+T2	Named_Entity 146 150	Opec
+T3	Named_Entity 842 846	Opec
+T4	Named_Entity 916 920	Opec
+T5	Named_Entity 1519 1523	Opec
+T6	Named_Entity 1815 1819	Opec
+T7	Named_Entity 2989 2993	Opec
+T8	Named_Entity 851 857	Russia
+T9	Term_Common 901 907	market
+T10	Term_Common 1134 1150	emerging markets
+T11	Term_Common 1143 1150	markets
+T12	Term_Common 1225 1235	investment
+T13	Named_Entity 1609 1611	BP
+T14	Term_Common 2595 2605	investment
+T15	Named_Entity 2788 2798	ExxonMobil
+T16	Named_Entity 2803 2810	Chevron
+T17	Named_Entity 2818 2820	US
+T18	Named_Entity 2856 2858	BP
+T19	Named_Entity 2860 2877	Royal Dutch Shell
+T20	Term_Common 2911 2917	invest
+T21	Term_Common 2977 2986	investors
+T22	Named_Entity 3180 3207	International Energy Agency

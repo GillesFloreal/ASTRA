@@ -1,0 +1,77 @@
+	Who’s on top in the first sustainable finance league table?
+The latest news on sustainability: ESG investors react to new proxy rules, green junk bonds in Europe and the pandemic’s plastics problem
+
+
+	Welcome to Moral Money. Today we have:
+
+Refinitiv launches the first-ever sustainable finance league tables
+
+How the pandemic and PPE are adding to the plastic pollution problem
+
+Junk bonds go green in Europe
+
+ESG proponents optimistic about US proxy adviser regulation
+
+Investors fire back at US anti-ESG rule for retirement market
+
+ESG joins the big league
+Refinitiv this week launched the first-ever league tables for sustainable finance, which represents an important milestone for the maturation of the ESG investing market.
+
+The rankings cover a breadth of different sectors, listing the top banks and deals across debt and equity capital markets, syndicated loans and mergers and acquisitions.
+
+While we are certainly interested in seeing who’s on top, and will be tracking these rankings closely, this news is particularly important because of what it shows about how ESG fits into the big picture of finance.
+
+While ESG may still be a tertiary concern for some, it is clear there are enough market participants taking the sector seriously and treating it like any other subset of the finance industry.
+
+
+A new survey from EY bears this out too, indicating that only 2 per cent of investors conduct “little or no review” of companies’ non-financial disclosures. That’s a stark change from 2013, when one out of every three investors told the accounting giant they were ignoring ESG data.
+
+The Refinitiv tables also show that sustainable finance is growing, despite the pandemic-driven economic slowdown. Sustainable bonds, in particular, have surged this year. In the second quarter alone there was more than $130bn in issuance. Even with Covid-19 dragging down markets, 2020 is on track to be a banner year. “Sustainable bonds totalled $194.5bn during the first half of 2020, up 47 per cent from the same period in 2019 and more than double the value recorded during the first six months of 2018,” Refinitiv reports.
+
+Europe has predictably dominated the sustainable debt, loans and M&A markets this year, but 79 per cent of all equity capital markets activity came from the Americas, led by a $2.4bn issuance from NextEra Energy.
+
+The top banks in the sustainability market vary from sector to sector. The top book runners for capital markets debt were HSBC, Barclays and JPMorgan. For syndicated loans it was Mitsubishi UFJ, Mizuho and BNP Paribas. US banks including Bank of America, JPMorgan, Wells Fargo and Morgan Stanley topped the equity rankings. And the top M&A advisers were Goldman Sachs, Credit Suisse, Nomura and Lazard. (Billy Nauman)
+
+
+	Why have US companies been fighting for months to compel the US Securities and Exchange Commission to write regulations for Institutional Shareholder Services and Glass Lewis, the investor advisory firms? Here is one suggestion: the two play an under-appreciated role in ESG.
+
+The duo’s recommendations on shareholder proposals concerning climate change or human rights can sway investors at annual general meetings and can prompt management to take the petition seriously. A report this year by ShareAction, a network of charity investors, found that in 2019 ISS recommended that investors voted for an environmental or social shareholder resolution 79 per cent of the time.
+
+And the proxy advisers’ recent focus on ESG issues was probably a key reason why US companies have urged the SEC to write regulations for the investor advisory firms. In the event the SEC acted on Wednesday, but the agency’s final proxy adviser regulations are unlikely to hinder ESG. The SEC dropped a provision that would have required the influential firms to give corporate executives advance notice of their advice.
+
+“The final rules are very good news for ESG proponents when compared to the [initial] proposal,” said Paul Rodel, a partner at Debevoise & Plimpton. “Gone is the requirement for company review and comment of draft proxy adviser recommendations,” he said. “That is probably a good thing for an ESG proponent. The company does not get a behind-the-scenes chance to beat back Glass Lewis or ISS.”
+
+Not everyone was sanguine. The SEC’s guidance to mutual fund managers about how to use proxy advisers might sow confusion, said Heather Slavkin Corzo, head of US policy at the UN Principles for Responsible Investment. “We are concerned that this [rule] will lead some investors to conclude that the safest thing to do is to simply vote with management on ESG proposals,” she said. (Patrick Temple-West)
+
+	This month, Christine Lagarde told the FT the European Central Bank is exploring using its €2.8tn asset purchase programme to bolster environmental objectives and fight climate change.
+
+This announcement, combined with recent investment bank research showing green bonds have outperformed their conventional counterparts, probably prompted some market participants to look at new ways to give debt the green halo.
+
+On Wednesday, the Association for Financial Markets in Europe, which represents banks and investors, published its first-ever ESG guidelines for the European high-yield debt market.
+
+The guidelines recommend how investors should consider transparency and disclosure consistency for green and transition bonds. The AFME’s effort is “an important first step in helping companies navigate the subject and ensuring appropriate disclosure is produced”, said Dominic Ashcroft, co-head of Emea leveraged capital markets at Goldman Sachs.
+
+Questions AFME said investors should consider when evaluating high-yield green debt covered the spectrum of environmental and social issues, for example: “Are workers permitted to join a union or otherwise engage in collective bargaining?”
+
+Notably, AFME recommended that a company consider getting a third party to verify that a sustainability-linked bond actually delivers on its sustainable promises. Last year, Enel launched the first sustainability-linked bond, but the product has yet to catch on with investors when compared with green bonds.
+
+With the ECB’s increasing interest in green investments, efforts to squash greenwashing must rise too. Ms Lagarde and Europe’s other central bank chiefs would be criticised for scooping up green debt that appears rather brown under closer inspection. Industry efforts to police the green market are likely to accelerate in the second half of the year. (Patrick Temple-West)
+
+Investors decry anti-ESG rule proposal
+A few weeks ago, we warned of a brewing fight between the investment management industry and the US Department of Labor over a new proposed rule that would stymie the growth of ESG among retirement investors.
+
+This week, the comment letters started rolling in and they do not disappoint.
+
+Shareholder advisory group ValueEdge Advisors wrote to the DoL to express its “strongest possible objections to the proposed rule”.
+
+“Portions of this proposal read like they have been substantially drafted by lobbyists for the fossil-fuel industry rather than the reliably meticulous and expert staff of [the Employee Benefits Security Administration],” the letter states, requesting that the DoL disclose any contact it had with outside groups regarding the drafting of the proposal.
+
+Institutional Shareholder Services (one of the most prominent proxy advisers in the US) and investment data powerhouse Morningstar have expressed similar concerns.
+
+“Simply stated, the department’s proposed rule is out of step with the best practices asset managers and financial advisers use to integrate ESG considerations into their investment processes and selections,” writes Morningstar, which recently acquired ESG data company Sustainalytics. “Were the department to keep the rule as proposed, it would lead to worse outcomes for plan participants as plan sponsors shied away from assessing ESG risks in selecting investments.”
+
+The comment period is open until July 30, so there will be more arguments to come. As Morningstar points out, the DoL’s guidance is in stark contrast to the direction of travel in the asset management industry and the regulations being enacted in other regions like Europe. And US investment managers have been putting a lot of effort into building their ESG capabilities.
+
+However, numerous industry sources have indicated to Moral Money that they expect the DoL to push the rule through quickly without changing much.
+
+“The DoL has a strong incentive to finalise the rule this year,” the Groom Law Group explains. If Joe Biden wins the presidency in November, it is likely the Democrats will try to overturn the rule, Groom notes. “That is considerably easier to do if the rule is not final and effective.” (Billy Nauman)

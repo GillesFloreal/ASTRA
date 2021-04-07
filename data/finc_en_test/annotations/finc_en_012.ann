@@ -1,0 +1,133 @@
+T1	Named_Entity 0 14	Morgan Stanley
+T2	Named_Entity 22 33	Eaton Vance
+T3	Named_Entity 47 54	Wall St
+T4	Term_Common 55 59	bank
+T5	Term_Common 62 76	investment arm
+T6	Term_Common 62 72	investment
+T7	Term 89 95	assets
+T8	Named_Entity 124 126	US
+T9	Term 127 137	fund house
+T10	Term 127 131	fund
+T11	Named_Entity 141 155	Morgan Stanley
+T12	Term_Common 191 197	shares
+T13	Term 205 223	investment manager
+T14	Term_Common 205 215	investment
+T15	Named_Entity 224 235	Eaton Vance
+T16	Term 290 304	asset managers
+T17	Term 290 295	asset
+T18	Named_Entity 307 343	Morgan Stanley Investment Management
+T19	Term 384 390	assets
+T20	Named_Entity 412 423	Eaton Vance
+T21	Named_Entity 432 439	America
+T22	Named_Entity 563 572	BlackRock
+T23	Term 449 460	fund houses
+T24	Term 449 453	fund
+T25	Named_Entity 577 585	Vanguard
+T26	Term 610 626	asset management
+T27	Term 610 615	asset
+T28	Term_Common 641 646	banks
+T29	Named_Entity 647 655	JPMorgan
+T30	Named_Entity 660 673	Goldman Sachs
+T31	Named_Entity 733 747	Morgan Stanley
+T32	Term_Common 782 791	brokerage
+T33	Named_Entity 792 798	ETrade
+T34	Term 854 882	employee stock plans manager
+T35	Term_Common 863 868	stock
+T36	Named_Entity 883 889	Solium
+T37	Named_Entity 893 904	Eaton Vance
+T38	Named_Entity 926 940	Morgan Stanley
+T39	Named_Entity 948 960	James Gorman
+T40	Named_Entity 998 1000	US
+T41	Term_Common 1001 1005	bank
+T42	Named_Entity 1155 1166	Eaton Vance
+T43	Named_Entity 1189 1191	US
+T44	Named_Entity 1197 1211	Morgan Stanley
+T45	Term_Common 1274 1292	financial benefits
+T46	Term_Common 1274 1283	financial
+T47	Named_Entity 1333 1347	Morgan Stanley
+T48	Term 1396 1421	asset management industry
+T49	Term 1396 1412	asset management
+T50	Term 1396 1401	asset
+T51	Term_Common 1429 1443	profit margins
+T52	Term 1464 1476	stockpickers
+T53	Term 1536 1553	passive investing
+T54	Term_Common 1544 1553	investing
+T55	Named_Entity 1558 1564	Gorman
+T56	Term_Common 1613 1632	investment division
+T57	Term_Common 1613 1623	investment
+T58	Term 1703 1709	assets
+T59	Named_Entity 1730 1734	MSIM
+T60	Term 1789 1835	environmental, social and governance investing
+T62	Term_Common 1826 1835	investing
+T63	Term_Common 1907 1911	bank
+T64	Named_Entity 1946 1952	Gorman
+T65	Named_Entity 2034 2048	Morgan Stanley
+T66	Named_Entity 2094 2105	Eaton Vance
+T67	Named_Entity 2332 2338	Gorman
+T68	Term 2442 2456	asset managers
+T69	Term 2442 2447	asset
+T70	Named_Entity 2536 2550	Morgan Stanley
+T71	Named_Entity 2565 2576	Eaton Vance
+T72	Term 2624 2638	asset managers
+T73	Term 2624 2629	asset
+T74	Named_Entity 2732 2745	Standard Life
+T75	Named_Entity 2750 2758	Aberdeen
+T76	Named_Entity 2768 2775	Invesco
+T77	Named_Entity 2790 2801	Oppenheimer
+T78	Named_Entity 2817 2835	Franklin Templeton
+T79	Named_Entity 2850 2860	Legg Mason
+T80	Term_Common 2893 2897	debt
+T81	Term 2915 2925	hedge fund
+T82	Term 2921 2925	fund
+T83	Named_Entity 2933 2945	Nelson Peltz
+T84	Term_Common 2965 2971	stakes
+T85	Term 2975 2989	asset managers
+T86	Term 2975 2980	asset
+T87	Named_Entity 2990 2997	Invesco
+T88	Named_Entity 3002 3017	Janus Henderson
+T89	Named_Entity 3078 3091	Dan Simkowtiz
+T90	Named_Entity 3101 3105	MSIM
+T91	Term 3168 3198	investment management industry
+T92	Term 3168 3189	investment management
+T93	Term_Common 3168 3178	investment
+T94	Named_Entity 3246 3260	Morgan Stanley
+T95	Term 3298 3303	asset
+T96	Named_Entity 3330 3341	Eaton Vance
+T97	Term_Common 3342 3354	shareholders
+T98	Named_Entity 3397 3411	Morgan Stanley
+T99	Term_Common 3412 3418	shares
+T100	Term 3537 3550	cash dividend
+T101	Term 3542 3550	dividend
+T102	Named_Entity 3557 3568	Eaton Vance
+T103	Named_Entity 3621 3632	Eaton Vance
+T104	Term_Common 3611 3617	Shares
+T105	Named_Entity 3678 3684	Gorman
+T106	Named_Entity 3721 3735	Morgan Stanley
+T107	Term_Common 3777 3801	investment bank revenues
+T108	Term_Common 3777 3792	investment bank
+T109	Term_Common 3788 3792	bank
+T110	Term 3856 3872	asset management
+T111	Term 3856 3861	asset
+T112	Part_of_Term 3845 3851	wealth
+R1	Split_Term Arg1:T112 Arg2:T127	
+T113	Term 3903 3919	asset management
+T114	Term 3903 3908	asset
+T115	Term 3924 3941	wealth management
+T116	Named_Entity 4136 4138	US
+T117	Term_Common 4139 4143	bank
+T118	Named_Entity 4221 4232	Eaton Vance
+T119	Named_Entity 4237 4241	MSIM
+T120	Term_Common 4336 4341	share
+T121	Named_Entity 4401 4415	Morgan Stanley
+T122	Named_Entity 4490 4501	Wall Street
+T123	Term_Common 4502 4506	bank
+T124	Named_Entity 4558 4569	Eaton Vance
+T125	Named_Entity 4810 4821	Chris Flood
+T126	Named_Entity 4825 4831	London
+T127	Part_of_Term 3862 3872	management
+T128	Term 854 874	employee stock plans
+T61	Term_Common 4283 4287	bank
+T129	Term 1057 1078	fixed income business
+T130	Term 1057 1069	fixed income
+T131	Term 1772 1784	fixed income
+T132	Term_Common 3665 3672	trading

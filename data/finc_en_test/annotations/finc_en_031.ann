@@ -1,0 +1,161 @@
+T1	Term 27 33	assets
+T2	Term_Common 64 81	Foreign investors
+T3	Term_Common 72 81	investors
+T4	Term_Common 117 121	debt
+T5	Term_Common 144 156	central bank
+T6	Term_Common 152 156	bank
+T7	Named_Entity 160 167	Beijing
+T8	Term 202 208	assets
+T9	Term_Common 291 308	Foreign investors
+T10	Term_Common 299 308	investors
+T11	Term_Common 333 337	debt
+T12	Named_Entity 475 497	People’s Bank of China
+T13	Named_Entity 640 644	PBoC
+T14	Term_Common 750 767	foreign investors
+T15	Term_Common 758 767	investors
+T16	Term_Common 828 849	foreign central banks
+T17	Term_Common 836 849	central banks
+T18	Term_Common 844 849	banks
+T20	Term 904 918	reserve assets
+T21	Term 912 918	assets
+T19	Term 893 899	assets
+T22	Term_Common 922 931	Investors
+T23	Term_Common 957 974	foreign investors
+T24	Term_Common 965 974	investors
+T25	Term_Common 1006 1014	holdings
+T27	Term 1166 1177	bond market
+T28	Term 1166 1170	bond
+T29	Term_Common 1171 1177	market
+T26	Named_Entity 1215 1227	Denise Simon
+T30	Term_Common 1240 1260	emerging market debt
+T31	Term_Common 1240 1255	emerging market
+T32	Term_Common 1249 1255	market
+T33	Term_Common 1256 1260	debt
+T34	Named_Entity 1264 1287	Lazard Asset Management
+T35	Term_Common 1393 1403	investment
+T36	Named_Entity 1446 1448	US
+T37	Named_Entity 1506 1509	IMF
+T38	Named_Entity 1540 1545	China
+T39	Term_Common 1548 1560	central bank
+T40	Term_Common 1556 1560	bank
+T41	Term_Common 1636 1645	investors
+T42	Term 1677 1691	onshore assets
+T43	Term 1685 1691	assets
+T44	Named_Entity 1829 1834	China
+T45	Term_Common 1857 1871	fiscal support
+T46	Term_Common 1857 1863	fiscal
+T47	Term_Common 1885 1894	main rate
+T48	Term_Common 1890 1894	rate
+T49	Term 1925 1931	assets
+T50	Term_Common 1948 1961	interest rate
+T51	Term_Common 1957 1962	rates
+T52	Term_Common 2094 2103	investors
+T53	Named_Entity 2171 2182	Paul Mackel
+T54	Term_Common 2192 2234	emerging markets foreign exchange research
+T55	Term_Common 2192 2208	emerging markets
+T56	Term_Common 2201 2208	markets
+T57	Term_Common 2209 2234	foreign exchange research
+T58	Term_Common 2209 2225	foreign exchange
+T59	Term_Common 2217 2225	exchange
+T60	Named_Entity 2238 2242	HSBC
+T61	Term_Common 2245 2254	Investors
+T62	Term 2291 2297	assets
+T63	Named_Entity 2323 2325	US
+T64	Term_Common 2398 2411	interest rate
+T65	Term_Common 2407 2411	rate
+T66	Term_Common 2398 2416	interest rate cuts
+T67	Named_Entity 2447 2452	China
+T68	Named_Entity 2604 2616	Kaspar Hense
+T69	Term 2620 2637	portfolio manager
+T70	Term 2620 2629	portfolio
+T71	Named_Entity 2641 2665	BlueBay Asset Management
+T72	Term_Common 2668 2677	Investors
+T73	Term_Common 2736 2751	government debt
+T74	Term_Common 2747 2751	debt
+T76	Term 2807 2815	Treasury
+T77	Named_Entity 2829 2834	China
+T78	Term 2837 2857	onshore bond markets
+T79	Term 2845 2857	bond markets
+T80	Term 2845 2849	bond
+T82	Term_Common 2914 2930	foreign holdings
+T83	Term_Common 2922 2930	holdings
+T84	Term 2948 2969	equity market inflows
+T85	Term 2948 2954	equity
+T86	Term_Common 2955 2961	market
+T87	Term 2948 2961	equity market
+T88	Term_Common 3011 3027	foreign holdings
+T89	Term_Common 3019 3027	holdings
+T90	Term_Common 3057 3066	investors
+T91	Term 3099 3119	exchange rate shifts
+T92	Term_Common 3099 3112	exchange rate
+T93	Term_Common 3108 3112	rate
+T94	Named_Entity 3194 3198	PBoC
+T95	Term_Common 3214 3223	investors
+T96	Term_Common 3254 3267	exchange rate
+T97	Term_Common 3263 3267	rate
+T98	Term_Common 3307 3313	market
+T99	Named_Entity 3483 3488	Simon
+T100	Term 3553 3567	onshore-traded
+T101	Term_Common 3382 3399	market-determined
+T102	Term_Common 3595 3618	global financial crisis
+T103	Term_Common 3602 3618	financial crisis
+T104	Term_Common 3602 3611	financial
+T105	Named_Entity 3761 3765	PBoC
+T106	Term 3768 3797	Central bank reserve managers
+T107	Term_Common 3768 3780	Central bank
+T108	Term_Common 3776 3780	bank
+T109	Term 3781 3797	reserve managers
+T110	Term 1614 1630	reserve managers
+T111	Term 3815 3824	diversify
+T112	Term_Common 3831 3839	holdings
+T113	Named_Entity 3841 3861	UBS Asset Management
+T114	Named_Entity 3916 3918	US
+T115	Term 4050 4079	central bank reserve managers
+T116	Term_Common 4050 4062	central bank
+T117	Term_Common 4058 4062	bank
+T118	Term 4063 4079	reserve managers
+T119	Term_Common 4098 4108	trade wars
+T120	Term 4156 4172	reserve managers
+T121	Named_Entity 4333 4336	IMF
+T122	Term 4338 4354	reserve managers
+T123	Term 4449 4464	reserve manager
+T124	Term 4497 4525	fixed income investment case
+T125	Term 4497 4509	fixed income
+T126	Term_Common 4510 4520	investment
+T127	Named_Entity 4558 4570	Max Castelli
+T128	Named_Entity 4619 4639	UBS Asset Management
+T129	Term 4771 4784	asset manager
+T130	Term 4771 4776	asset
+T131	Named_Entity 4830 4833	IMF
+T132	Named_Entity 4989 4997	Castelli
+T133	Term_Common 5019 5034	government debt
+T134	Term_Common 5030 5034	debt
+T135	Term 5079 5091	bond indices
+T136	Term 5079 5083	bond
+T137	Term 5198 5204	assets
+T138	Term 5216 5220	bond
+T139	Term 5225 5231	equity
+T140	Term 5225 5239	equity indices
+T141	Part_of_Term 5232 5239	indices
+T142	Part_of_Term 5216 5220	bond
+R1	Split_Term Arg1:T142 Arg2:T141	
+T143	Named_Entity 5275 5279	PBoC
+T144	Term_Common 5352 5364	central bank
+T145	Term_Common 5360 5364	bank
+T146	Term_Common 5409 5416	markets
+T147	Named_Entity 5424 5437	Gaurav Mallik
+T148	Term 5439 5465	chief portfolio strategist
+T149	Term 5445 5454	portfolio
+T150	Named_Entity 5469 5497	State Street Global Advisors
+T153	Term 740 746	assets
+T75	Named_Entity 2804 2806	US
+T81	Term_Common 2850 2857	markets
+T157	Term_Common 4098 4103	trade
+T158	Term 5084 5091	indices
+T159	Term 5232 5239	indices
+T151	Term 1159 1165	liquid
+T152	Term 1159 1177	liquid bond market
+T160	Part_of_Term 990 997	onshore
+T161	Part_of_Term 1006 1014	holdings
+R2	Split_Term_Com Arg1:T160 Arg2:T161	
+T162	Term_Common 1776 1781	rates

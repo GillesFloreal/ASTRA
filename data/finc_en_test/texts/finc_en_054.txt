@@ -1,0 +1,101 @@
+Lex in-depth: why rescue finance will slow recovery for businesses
+US and UK-listed companies raised unprecedented amounts as pandemic hit, but at what cost?
+
+	“Shared pain is halved pain,” says Fritz Joussen, chief executive of Tui, Europe’s largest holiday group. The towering German is referring to phone conversations with a US cruise line boss during the first chaotic days of national lockdowns. But he might as well have been talking about state backed-loans. Billions of euros from a Frankfurt development bank saved Tui from imminent collapse, stockholders from wipeout and unlocked private credit.
+
+“One Monday we woke up and our levels of business were zero”, says Mr Joussen. “Our loan application was already with the government”.
+
+Since the outbreak of coronavirus, businesses across the world have raised unprecedented sums from public and private sources. In the US, S&P 500 non-financial companies were sitting on $1.35tn of cash and equivalents at the end of June, according to a Lex analysis of quarterly and half-year earnings data. That is a 39 per cent increase on their position six months earlier, reflecting a fear that they might run out of ready funds.
+
+Cash and equivalents have also ballooned 30 per cent — to £205bn — at the largest UK-listed non-financial companies on the FTSE 350 index, which includes Tui.
+
+Soaring UK and US cash balances have forestalled a domino run of collapses among big businesses whose viability was threatened by tumbling earnings. Globally corporations have raised $2tn so far this year in bonds alone, a $600bn increase on the same period of 2019, according to rating agency S&P.
+
+The cash surge reflects a focus on resilience, and the need for companies to bounce back quickly after the shock of the pandemic. Many are trying to build up operational robustness in tandem with cash balances, expanding inventories and building safety margins into supply chains previously stretched thin to boost profits. Tui is considering raising extra liquidity after recording a €2.3bn loss in the last three quarters.
+
+But defensively managed corporations will inevitably generate lower returns, creating yet another drag on economies that are already struggling to recover. Government bailouts will have delayed rather than prevented the collapse of many “zombie” businesses, ultimately making it harder for economies to bounce back.
+
+	A dash for cash
+The US Federal Reserve signalled its willingness to meet the upfront cost to business of coronavirus in March, when it unveiled plans to buy corporate bonds as a financial backstop. This opened the floodgates for US companies to borrow. And since the start of the year, they have issued a record $1.25tn of debt, according to data from Refinitiv. Of this, $963bn was raised after the Fed’s March 23 announcement.
+
+“It’s been intense,” says Richard Zogheb, head of global debt capital markets at Citi in New York. His team has handled financings that range from Boeing’s $25bn debt sale to Ford’s $8bn bond offering. “In my 30 years here at Citi, this is the busiest I have ever been,” he says.
+
+Wall Street and City of London financiers see the slew of cash raisings as a quiet triumph. “The industry did its job of capital formation. That’s something to feel pleased about. It has so often made a mess of things, for example in the financial crisis,” says one UK brokerage executive.
+
+	These emergency financings averted a wave of big corporate collapses, as Lex predicted they would in April. Another of our forecasts, however, has so far been wrong: that the financial resilience of US-listed businesses would decline.
+
+The pre-tax earnings of S&P 500 non-financial companies crashed 26 per cent in the first half of the year. But the proportion of S&P 500 companies we grade as “strong” or “robust” increased during the 12 months to the end of June by more than 3 percentage points to 59 per cent, compared with the same period a year earlier.
+
+Our model, a simplified version of the kind used by rating agencies and brokers, balances solvency measures, such as leverage, against liquidity. US corporations have raised so much cash — via equity as well as debt — that it has helped outweigh the earnings impact.
+
+An $11bn financing by Walt Disney in May has allowed the entertainment giant to keep its “strong” ranking. The ranking was retained despite the company losing nearly $5bn during its June quarter, after the pandemic forced it to shut its theme park, resorts and cruise operations.
+
+“It’s an insurance policy,” said Christine McCarthy, Disney’s chief financial officer, of the bond sale during an earnings call in August. “We took the position ‘get it when we can’. And because the demand was so high, we decided to take it . . . we see Covid continuing for a while.”
+
+Large, successful sectors such as tech and pharmaceuticals have built in an earnings hedge. Many tech companies have either been unscathed by the pandemic or benefited from it. Amazon, for example, doubled second-quarter net income to $5.2bn, thanks to the surge in online shopping.
+
+	Private equity power
+Access to abundant private equity capital further bolsters US corporate resilience. US-based buyout groups are sitting on nearly $806bn, according to data provider Preqin. Some have used their cash pile to extend high-interest loans to companies. Others have started buying minority stakes in publicly listed corporations. KKR combined elements of both approaches when it agreed to inject $750m into debt-laden cosmetics maker Coty in May.
+
+The vast bulk of financings has been for investment grade corporations such as Disney. But investors seeking higher returns have also been pouring money into riskier debt. Junk-rated companies have sold $220bn worth of bonds so far this year, according to Refinitiv. This puts 2020 on track to be one of the best years for high-yield issuance since 2012.
+
+	But it all comes at a price. Fresh debt will quickly become a millstone around the necks of issuers if consumer demand recovers slowly or if any second waves of infection prove severe.
+
+Even under a more moderate scenario, S&P estimates the default rate for junk-rated US companies will rise as high as 15.5 per cent by March 2021, topping the 2009 peak.
+
+Despite raising billions of dollars during the second quarter, junk-rated American Airlines and United Continental remain near the bottom of Lex’s resilience screening of the S&P 500. It could take years before passenger volumes return to previous levels. Hotel, cruise and cinema operators all face similar constraints.
+
+The longer the pandemic drags on, the greater the likelihood that airlines will have to return to the markets. Unfortunately, US airline operators have already pledged in the past few months nearly all their assets, from aircraft down to frequent flyer programmes.
+
+	Benighted Britain
+Big UK-listed companies look much weaker as a group than their S&P 500 equivalents. Less hard data is available on the impact of Covid-19 because fewer non-financial UK corporations publish quarterly numbers or half-year figures to the end of June. Yet, the emerging picture is of a steeper earnings collapse.
+
+Half-year pre-tax profits have slumped 70 per cent to £16.7bn among FTSE 350 non-financial companies that have reported so far. Large UK companies are still doing better in real life than in Lex’s stress test in April. The proportion graded as “vulnerable” or “weak” has only risen 1 percentage point or so to 9.4 per cent, less than we anticipated.
+
+IAG, which owns British Airways and Iberia, has slipped into that unhappy group. European airlines are struggling with intermittent resumptions of lockdowns and quarantines.
+
+	Companies in the “robust” category have dwindled 7 percentage points to 27.1 per cent of our small sample. However, analysts’ estimates for the next 12 months echo Lex’s original forecast. Or at least they do after a 10 per cent discount: this is the percentage by which analysts — an optimistic breed — are typically forced to cut their predictions over the course of a year.
+
+Their forecasts would then point to a doubling in the number of FTSE 350 listed companies in the weak and vulnerable category and a halving of the robust group. Taylor Wimpey, a UK housebuilder and one of the first to put builders back on site during the lockdown, would move from “robust” down to “strong”, for example.
+
+Repeat the predictive exercise for the S&P 500, and only a modest weakening is apparent in resilience scores, underlining the incredible strength the tech sector has given the US.
+
+	Follow the money
+A chunk of the cash raised by businesses is evaporating just to keep them ticking over. Financial resilience should automatically slip among the companies most exposed to the downturn as gross cash declines and net debt rises.
+
+Meanwhile, as the world slowly returns to some kind of normality, stronger businesses will have unusually high liquidity, which begs the question, what will happen to it?
+
+A three-way split is likely. The first tranche will simply be repaid. Shareholders that will be reaching into their pockets to provide fresh equity for companies such as IAG will — all being well — get some of it back in dividends and buybacks.
+
+Some loan capital will be returned to sender, including governments. Benjamin Nelson, a vice-president and senior credit officer at rating agency Moody’s, says: “Companies who drew down cash from revolving credit facilities [a form of standby financing] may consider returning it.”
+
+A second slug of cash may turn into expansion capital. That approach is exemplified by Whitbread. The UK-listed business shut the bulk of its Premier Inn budget hotels for lockdown in April. Chief executive Alison Brittain says: “We thought we had a scenario for everything. It turned out we had no scenario for the complete closure of our business.”
+
+In May, Whitbread renegotiated covenants on its plentiful credit. It also launched a £1bn equity offering.
+
+All the hotels have now reopened. More of the cash is therefore likely to support a pre-existing push into the German budget hotel business rather than cover fresh losses. Ms Brittain believes coronavirus has increased the opportunity in this fragmented market.
+
+Jean-Francois Astier, head of global capital markets at Barclays, says the scale of financings reflects a simple rationale: “It is not enough simply to be in a position to survive. You also have to be able to pursue opportunities for M&A”. In some sectors, taking out cost through consolidation will represent the best chance to raise returns.
+
+	Covid-19 ‘liquidity funds’
+The third block of capital will have no such ambitious but risky application. The enthusiasm of boards and their backers for financial resilience means businesses will simply hold more cash. Returns will be minimal. One-month US Treasury bills yield only 0.081 per cent and 10-year gilts return 0.264 per cent.
+
+Mr Astier refers to corporate cash buffers as “Covid-19 liquidity funds”. “Investors have become more conservative,” he says. “They are now OK with the negative carry [opportunity cost] of extra cash on the balance sheet.”
+
+“There will be a cash drag,” adds Richard Taylor, head of Emea equity research at Jefferies. If cash balances and working capital are permanently higher, returns will be permanently lower, unless there is compensatory cost cutting or innovation.
+
+Many mature businesses have slashed investment. They are correspondingly unlikely to fund exciting new ventures. Nor are investors who are starved of payouts. Returns in the UK are set to remain depressed, beyond the 50 per cent drop in UK earnings per share in 2020 followed by a 35 per cent recovery in 2021 predicted by Citi analysts.
+
+	“By definition, business has become less competitive,” says Luke Templeman, a Deutsche Bank analyst. He predicts a proliferation of zombie businesses.
+
+These are technically defined as companies whose operating profits do not cover interest costs. Around 15 per cent of junk-rated borrowers had unsustainable capital structures or posed nearer-term default risks at the end of June 2020, according to Gregg Lemos-Stein, global head of research for corporate ratings at S&P.
+
+“We had expected defaults to rise substantially among them,” he says. “But the stimulus has flattened the prospective curve, pushing out the timing.”
+
+Lacking true zombie status — but sharing many of their ills — will be a larger group of sluggish businesses. Their returns will be low because debts are high and they are run defensively, not just because economies are struggling.
+
+This will be a problem for politicians, who need to recoup the cost of bailouts and wage support schemes in part through taxes on corporate profits. Public debts are set to rise above 130 per cent of gross domestic product in developed economies this year, according to the IMF.
+
+No one seriously thinks governments should have denied support to big employers such as Tui, prompting private investors to withhold capital too. Intervention forestalled snap collapses that would have been hard to excuse, even in the name of “creative destruction” — the notional efficiency gain that follows the demise of struggling companies.
+
+Cumbersome and compromised balance sheets will nevertheless figure as a serious second-order problem created by coronavirus. “There is always a bill to pay,” says Mr Taylor.

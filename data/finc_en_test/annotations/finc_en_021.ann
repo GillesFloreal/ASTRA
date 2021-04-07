@@ -1,0 +1,46 @@
+T1	Named_Entity 0 2	UK
+T2	Named_Entity 64 67	FRC
+T3	Named_Entity 160 162	UK
+T4	Named_Entity 320 322	UK
+T5	Named_Entity 394 421	Financial Reporting Council
+T6	Term_Common 549 561	stakeholders
+T7	Term_Common 932 943	stakeholder
+T8	Named_Entity 1033 1036	FRC
+T9	Term_Common 1101 1126	non-financial information
+T10	Term_Common 1101 1114	non-financial
+T11	Term_Common 1200 1220	financial statements
+T12	Term_Common 1200 1209	financial
+T13	Term_Common 1290 1302	stakeholders
+T14	Term_Common 1370 1392	investor presentations
+T15	Term_Common 1370 1378	investor
+T16	Named_Entity 1476 1490	Mark Babington
+T17	Named_Entity 1496 1499	FRC
+T18	Named_Entity 1560 1562	UK
+T19	Named_Entity 2060 2063	BHS
+T20	Named_Entity 2065 2074	Carillion
+T21	Named_Entity 2080 2091	Thomas Cook
+T22	Term 2116 2124	Treasury
+T23	Term 2116 2133	Treasury official
+T24	Named_Entity 2134 2146	John Kingman
+T25	Named_Entity 2213 2226	Donald Brydon
+T26	Named_Entity 2248 2269	London Stock Exchange
+T27	Named_Entity 2342 2345	FRC
+T28	Term_Common 2543 2555	shareholders
+T29	Term_Common 2608 2628	financial statements
+T30	Term_Common 2608 2617	financial
+T31	Named_Entity 2654 2660	Brydon
+T32	Named_Entity 2426 2433	Kingman
+T33	Named_Entity 2438 2444	Brydon
+T34	Named_Entity 2709 2716	Kingman
+T35	Named_Entity 2808 2822	Richard Martin
+T36	Named_Entity 2859 2905	Association of Chartered Certified Accountants
+T37	Named_Entity 2916 2919	FRC
+T38	Named_Entity 3026 3029	FRC
+T39	Term_Common 3118 3130	stakeholders
+T40	Term_Common 3146 3158	shareholders
+T41	Term_Common 3163 3172	investors
+T42	Named_Entity 3193 3195	EY
+T43	Named_Entity 3205 3208	FRC
+T44	Named_Entity 3473 3483	Hywel Ball
+T45	Named_Entity 3485 3487	EY
+T46	Named_Entity 3490 3492	UK

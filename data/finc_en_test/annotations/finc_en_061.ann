@@ -1,0 +1,105 @@
+T1	Named_Entity 0 2	US
+T2	Named_Entity 3 8	China
+T3	Named_Entity 22 28	Kioxia
+T4	Term 38 41	IPO
+T5	Term 104 111	listing
+T6	Named_Entity 124 139	Kioxia Holdings
+T7	Term_Out_of_Domain 145 154	chip unit
+T8	Named_Entity 165 177	Bain Capital
+T9	Named_Entity 211 218	Toshiba
+T10	Named_Entity 88 93	Japan
+T11	Named_Entity 234 239	Japan
+T12	Term 250 273	initial public offering
+T13	Named_Entity 306 316	Washington
+T14	Named_Entity 321 328	Beijing
+T15	Named_Entity 378 384	Kioxia
+T16	Term_Out_of_Domain 425 448	NAND flash memory chips
+T17	Term 491 498	listing
+T18	Named_Entity 596 603	Toshiba
+T19	Term_Common 604 610	shares
+T20	Term 671 674	IPO
+T21	Named_Entity 695 700	Japan
+T22	Named_Entity 881 883	US
+T23	Named_Entity 888 893	China
+T24	Term_Common 905 920	investor demand
+T25	Term_Common 905 913	investor
+T26	Named_Entity 1071 1085	Nobuo Hayasaka
+T27	Named_Entity 1087 1093	Kioxia
+T28	Term 1144 1161	market volatility
+T29	Term 1151 1161	volatility
+T30	Term_Common 1144 1150	market
+T31	Term 1243 1246	IPO
+T32	Named_Entity 1297 1305	Hayasaka
+T33	Named_Entity 1352 1354	US
+T34	Named_Entity 1396 1449	Semiconductor Manufacturing International Corporation
+T35	Named_Entity 1451 1456	China
+T36	Term_Out_of_Domain 1467 1476	chipmaker
+T37	Named_Entity 1492 1498	Huawei
+T38	Term_Out_of_Domain 1512 1526	chip suppliers
+T39	Term 1581 1584	IPO
+T40	Named_Entity 1663 1667	Bain
+T41	Named_Entity 1673 1675	US
+T42	Term 1676 1696	private equity group
+T43	Term 1676 1690	private equity
+T44	Term 1684 1690	equity
+T45	Named_Entity 1720 1726	Kioxia
+T46	Named_Entity 1732 1739	Toshiba
+T47	Named_Entity 1798 1805	Toshiba
+T48	Term_Common 1806 1812	shares
+T49	Named_Entity 1863 1865	US
+T50	Term_Out_of_Domain 1943 1963	memory chip business
+T51	Term_Out_of_Domain 1943 1954	memory chip
+T52	Named_Entity 1986 1992	Kioxia
+T53	Term 1993 1996	IPO
+T54	Named_Entity 2027 2029	US
+T55	Named_Entity 2051 2057	Huawei
+T56	Named_Entity 2088 2094	Kioxia
+T57	Named_Entity 2143 2148	China
+T58	Term_Common 2168 2175	markets
+T59	Term 2230 2247	listing documents
+T60	Term 2230 2237	listing
+T61	Named_Entity 2249 2255	Kioxia
+T62	Term_Common 2267 2276	investors
+T63	Named_Entity 2301 2303	US
+T64	Named_Entity 2304 2309	China
+T65	Term 2390 2413	institutional investors
+T66	Term_Common 2404 2413	investors
+T67	Named_Entity 2422 2427	Japan
+T70	Term_Out_of_Domain 2507 2520	chip industry
+T71	Named_Entity 2545 2551	Kioxia
+T72	Term_Common 2643 2648	share
+T73	Named_Entity 2697 2701	Bain
+T74	Term_Common 2776 2782	shares
+T75	Term_Common 2790 2802	market value
+T76	Term_Common 2790 2796	market
+T77	Named_Entity 2833 2837	Bain
+T78	Named_Entity 2857 2859	US
+T79	Term 2860 2880	private equity group
+T80	Term 2860 2874	private equity
+T81	Term 2868 2874	equity
+T83	Term 2976 2979	IPO
+T84	Term_Common 3036 3045	investors
+T85	Term 3064 3067	IPO
+T86	Named_Entity 3073 3079	Kioxia
+T87	Named_Entity 3189 3196	Toshiba
+T88	Term 3247 3254	listing
+T89	Named_Entity 3354 3360	Kioxia
+T90	Term 3361 3364	IPO
+T91	Term_Common 3372 3384	shareholders
+T92	Named_Entity 3396 3403	Toshiba
+T93	Term_Common 3431 3445	financial ruin
+T94	Term_Common 3431 3440	financial
+T95	Named_Entity 3468 3470	US
+T96	Term_Common 3600 3608	finances
+T97	Named_Entity 3610 3617	Toshiba
+T98	Term_Out_of_Domain 3636 3656	memory chip business
+T99	Term_Out_of_Domain 3636 3647	memory chip
+T100	Term_Common 3697 3706	investors
+T101	Named_Entity 3791 3796	Tokyo
+T102	Named_Entity 3817 3822	Japan
+T103	Term_Out_of_Domain 3824 3834	consortium
+T104	Named_Entity 3842 3856	Toshiba Memory
+T105	Term_Out_of_Domain 3885 3895	consortium
+T106	Named_Entity 3903 3907	Bain
+T107	Term 265 273	offering
+T108	Term 1768 1776	offering

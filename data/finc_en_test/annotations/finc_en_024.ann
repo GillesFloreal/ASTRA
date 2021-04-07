@@ -1,0 +1,26 @@
+T1	Named_Entity 5 7	FT
+T2	Term_Common 38 57	investment strategy
+T3	Term_Common 38 48	investment
+T4	Term_Common 58 75	Private investors
+T5	Term_Common 66 75	investors
+T6	Term_Common 112 130	investment experts
+T7	Term_Common 112 122	investment
+T8	Term_Common 172 189	private investors
+T9	Term_Common 180 189	investors
+T10	Term_Common 245 264	investment strategy
+T11	Term_Common 245 255	investment
+T12	Named_Entity 277 285	FT Money
+T13	Named_Entity 328 345	Digital Dialogues
+T14	Named_Entity 378 380	UK
+T15	Named_Entity 425 438	Claer Barrett
+T16	Term_Common 461 479	investment experts
+T17	Term_Common 461 471	investment
+T18	Term_Common 556 562	invest
+T19	Named_Entity 601 615	Ian McCafferty
+T20	Named_Entity 638 681	Bank of England’s Monetary Policy Committee
+T21	Named_Entity 683 694	Jenny Davis
+T22	Term 696 714	investment manager
+T23	Term_Common 696 706	investment
+T24	Named_Entity 718 733	Baillie Gifford
+T25	Named_Entity 739 752	Nick Fletcher
+T26	Named_Entity 772 792	London Wall Partners

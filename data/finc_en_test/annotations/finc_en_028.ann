@@ -1,0 +1,77 @@
+T1	Term 5 8	IPO
+T2	Term_Common 32 41	investors
+T3	Named_Entity 70 83	SCG Packaging
+T4	Named_Entity 133 150	Siam Cement Group
+T5	Term 204 227	initial public offering
+T6	Term_Common 240 248	investor
+T7	Named_Entity 270 278	Thailand
+T8	Named_Entity 355 368	SCG Packaging
+T10	Term_Common 388 394	shares
+T9	Term 478 481	IPO
+T11	Named_Entity 491 506	Financial Times
+T12	Named_Entity 508 511	SCG
+T13	Named_Entity 596 603	Reuters
+T14	Term 610 624	share offering
+T15	Term_Common 610 615	share
+T17	Named_Entity 628 636	Thailand
+T18	Named_Entity 653 667	Central Retail
+T19	Term 677 697	stock market listing
+T20	Term 690 697	listing
+T21	Term_Common 677 689	stock market
+T22	Term_Common 677 682	stock
+T23	Term_Common 683 689	market
+T24	Term 785 788	IPO
+T25	Named_Entity 828 843	south-east Asia
+T26	Named_Entity 866 869	SCG
+T27	Named_Entity 880 888	Thailand
+T28	Named_Entity 938 953	south-east Asia
+T29	Term_Common 1167 1178	shareholder
+T30	Named_Entity 1187 1206	Maha Vajiralongkorn
+T31	Term_Common 1233 1238	stake
+T32	Term_Common 1281 1287	shares
+T33	Named_Entity 1333 1341	Thailand
+T34	Named_Entity 1353 1368	south-east Asia
+T35	Term_Common 1437 1449	central bank
+T36	Term_Common 1445 1449	bank
+T37	Named_Entity 1655 1672	Prayuth Chan-ocha
+T38	Term_Common 1718 1741	institutional investors
+T39	Term_Common 1732 1741	investors
+T40	Term_Common 1754 1759	funds
+T41	Named_Entity 1765 1773	Thailand
+T42	Term_Common 1789 1801	stock market
+T43	Term_Common 1789 1794	stock
+T44	Term_Common 1795 1801	market
+T45	Named_Entity 1844 1847	SCG
+T46	Named_Entity 1893 1900	Vietnam
+T47	Named_Entity 1941 1946	China
+T48	Term_Common 1978 1993	trade frictions
+T49	Term_Common 1978 1983	trade
+T50	Named_Entity 2002 2012	Washington
+T51	Named_Entity 2017 2024	Beijing
+T52	Named_Entity 2061 2068	Vietnam
+T53	Named_Entity 2080 2084	Asia
+T54	Named_Entity 2188 2205	Siam Cement Group
+T55	Named_Entity 2213 2231	Suchart Techaposai
+T56	Named_Entity 2241 2249	Thailand
+T58	Term_Common 2262 2271	brokerage
+T57	Named_Entity 2272 2276	CLSA
+T59	Named_Entity 2390 2397	Vietnam
+T60	Term 2402 2423	Stock market listings
+T62	Term_Common 2402 2414	Stock market
+T63	Term_Common 2402 2407	Stock
+T64	Term_Common 2408 2414	market
+T65	Named_Entity 2427 2442	south-east Asia
+T66	Named_Entity 2500 2509	Refinitiv
+T67	Term 2525 2529	IPOs
+T68	Named_Entity 2571 2584	SCG Packaging
+T69	Term 2596 2603	listing
+T70	Named_Entity 2685 2696	Philippines
+T71	Named_Entity 2717 2739	Converge ICT Solutions
+T72	Term 2773 2787	share offering
+T74	Term_Common 2773 2778	share
+T75	Term 2881 2884	IPO
+T16	Term 219 227	offering
+T73	Term 616 624	offering
+T76	Term 2779 2787	offering
+T61	Term 59 66	Listing
+T77	Term 2415 2423	listings

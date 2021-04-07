@@ -1,0 +1,37 @@
+The strange IPO of Jonathan Rowland’s “bitcoin bank”
+You might remember a story we wrote in September about a new “bitcoin bank” with aspirations to become a challenger to Monzo.
+
+Mode, headed up by serial hype-meister entrepreneur Jonathan Rowland, was planning a £40m float on the London Stock Exchange, which came to fruition on Monday. Rowland, as it turns out, is the son of the property tycoon, Tory donor David “Spotty” Rowland (who’s also mates with Prince Andrew). So it’s safe to say he has friends in high places.
+
+We suggested that this “bitcoin bank” was in fact not really like a bank at all, but rather just another high risk crypto start-up with no distinguishing features, and seemed to us just the latest in a succession of attempts by Rowland to clamber on to a bandwagon (before crypto there was the dotcom bubble, social media and digital banking).
+
+Suffice to say, our Jonathan, Mode’s chairman and CEO, was not best pleased with the piece, as he let us know in no uncertain terms via Twitter (he deleted the tweet once we had retweeted it but here’s a screenshot):
+In the press release confirming Monday’s listing on LSE, Rowland was quoted thus (emphasis ours):
+
+The Mode offering was oversubscribed and well supported by existing investors and a range of new institutional investors. Today marks a pivotal moment for Mode, as one of the first publicly listed financial services companies with a consumer focused-digital asset offering to list on the LSE Main Market. Mode's admission is a vote of confidence in our business strategy and our mission to reduce fragmentation and inefficiencies across the banking, payments, investment and loyalty industries.
+
+Alex Ryvkin
+But some other rather interesting details were kept out. Anyone who managed to make it to page 112 of the Mode IPO prospectus, which the company released in the late-afternoon last Wednesday, might have been intrigued to come across this under “Other Information”:
+
+Mode Global has received a claim from a former contractor which is for a monetary sum in lieu of notice and fees equal to £90,258. The contractor is also claiming that he was offered 10% of the share capital of Fibermode Limited. Mode Global refutes each of these claims in the strongest of terms.
+
+They might have wondered who this apparently deluded former contractor was. A disgruntled builder, perhaps? A cleaner? Security guard? Well not quite. It turns out the contractor in question is in fact the company’s former CEO, a Russian national called Alex Ryvkin, who is even named elsewhere in the prospectus as not just a mere former contractor, but a director:
+Funny they didn’t feel inclined to specify.
+
+According to Companies House filings, Ryvkin was in fact only officially a director for less than three months, between May and August 2019 (the company was at that point formally called R8 Ltd, though in a press release from May 2019 Ryvkin is named as CEO of Mode).
+
+Ryvkin did indeed begin as a mere contractor, in May 2018, but according to his claim, was made CEO in November 2018 of Mode subsidiary Fibermode Ltd, its operating company. He alleges he was wrongfully dismissed, in July 2019, and says he is contractually owed £27,258 in unpaid salary; £60,000 for his notice period; and around £3,000 for accrued but untaken holiday allowance. He also says Mode has breached an oral contract in which he was promised a 10 per cent stake in the company.
+
+Mode, per its prospectus, refutes all these claims “in the strongest of terms”. The company declined to respond to our request for further comment on this.
+
+The “oversubscribed” IPO
+Another slightly odd thing is that Mode’s “oversubscribed” market offering with its “range of new institutional investors” does not seem to have included many new investors at all. In fact the only new significant shareholder without an obvious link to the company is Premier Miton, which according to the prospectus has invested just under £1.8m of the £7.5m raised in the IPO. Here are the top shareholders, according the prospectus:
+As you can see, the top shareholder after Jonathan Rowland is Ruskin Capital, which as you can see in the small print is Jonathan’s father, old Spotty. Aside from Premier Miton, the other new investors are Keve Family Ltd Partnership which, again per the small print, is connected to Mode director Ryan Moore, and then Liwathon Limited and Linley Limited. Both of these are registered to the same Mayfair address, according to Companies House, and their directors include various Rowland family members. Together, these three new investors account for about £4m, with Jonathan and Spotty’s additional investments amounting to £1.5m between them. So that’s £5.5m from investors with direct links to the company’s directors, in a £7.5m raise.
+
+When The Telegraph reported on Mode’s plans to list last month, they mentioned that Christopher Isaac “Biz” Stone, was an investor in the company (what is it with obscure British start-ups bringing in Twitter-Big-Dogs-with-three-letter-pseudonyms ending in Z?) The billionaire’s investment can’t be very large, however, as he is not listed as a significant shareholder.
+
+And if you tot up the new shares issued to the top shareholders in the table above, you get to about 17m. Only 15m new shares were issued, so there must have been some share sales as well as purchases.
+
+All of this has got us wondering: why did Mode bother to IPO at all? The cost of the listing, according to its prospectus, was north of half a million pounds. Was this some kind of vanity project, or why did they decide to go public? And quite how “oversubscribed” was this IPO?
+
+We have asked the company about this too but they have so far declined to comment. We will update the story if we get any further details — either via our inboxes, or via deleted tweets.

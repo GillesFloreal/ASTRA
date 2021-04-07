@@ -1,0 +1,150 @@
+T1	Named_Entity 0 4	Laos
+T2	Term 11 28	sovereign default
+T3	Term 21 28	default
+T4	Term 32 46	forex reserves
+T5	Term 32 37	forex
+T6	Term_Common 62 78	Finance ministry
+T7	Term_Common 62 69	Finance
+T8	Named_Entity 84 89	China
+T9	Term_Common 122 126	debt
+T10	Named_Entity 129 133	Laos
+T11	Term 158 171	debt distress
+T12	Term_Common 158 162	debt
+T13	Term 176 193	sovereign default
+T14	Term 186 193	default
+T15	Term_Common 208 230	credit rating agencies
+T16	Term_Common 208 214	credit
+T17	Term_Common 275 279	debt
+T18	Named_Entity 325 329	Asia
+T19	Term 367 392	foreign exchange reserves
+T20	Named_Entity 427 431	Laos
+T21	Term_Common 433 453	annual debt payments
+T22	Term_Common 440 453	debt payments
+T23	Term_Common 440 444	debt
+T24	Term_Common 459 478	ministry of finance
+T25	Term_Common 471 478	finance
+T26	Named_Entity 500 505	China
+T27	Term_Common 529 537	creditor
+T28	Named_Entity 583 598	Financial Times
+T29	Named_Entity 636 645	Refinitiv
+T30	Term 673 680	default
+T31	Term 688 702	sovereign debt
+T32	Term_Common 698 702	debt
+T33	Named_Entity 707 714	Myanmar
+T34	Named_Entity 725 730	Moody
+T35	Named_Entity 733 750	Investors Service
+T36	Named_Entity 773 777	Laos
+T37	Named_Entity 804 808	Caa2
+T38	Named_Entity 814 816	B3
+T39	Term 920 936	liquidity stress
+T40	Term 920 929	liquidity
+T41	Term_Common 957 970	debt payments
+T42	Term_Common 957 961	debt
+T43	Term_Common 1063 1083	commercial financing
+T44	Term_Common 1074 1083	financing
+T45	Named_Entity 1094 1098	Laos
+T46	Term 1106 1117	bond market
+T47	Term 1106 1110	bond
+T48	Term_Common 1111 1117	market
+T49	Named_Entity 1134 1142	Thailand
+T50	Named_Entity 1251 1255	Laos
+T51	Term 1266 1292	international bond markets
+T52	Term 1280 1292	bond markets
+T53	Term 1280 1284	bond
+T54	Term_Common 1285 1292	markets
+T55	Term 1382 1393	bond market
+T56	Term 1382 1386	bond
+T57	Term_Common 1387 1393	market
+T58	Named_Entity 1433 1444	Jeremy Zook
+T59	Named_Entity 1458 1462	Asia
+T60	Named_Entity 1486 1499	Fitch Ratings
+T61	Term_Common 1528 1543	commercial bank
+T62	Term_Common 1539 1543	bank
+T63	Term_Common 1558 1567	financing
+T64	Part_of_Term_Common 1558 1567	financing
+T65	Part_of_Term_Common 1528 1543	commercial bank
+R1	Split_Term_Com Arg1:T65 Arg2:T64	
+T66	Term 1548 1567	bilateral financing
+T67	Named_Entity 1588 1593	Fitch
+T68	Named_Entity 1599 1603	Laos
+T69	Term_Common 1605 1609	debt
+T70	Term 1680 1697	sovereign default
+T71	Term 1727 1744	fiscal operations
+T72	Term 1727 1733	fiscal
+T73	Named_Entity 1749 1753	Laos
+T74	Named_Entity 1803 1807	Laos
+T75	Named_Entity 1809 1826	Toshiro Nishizawa
+T76	Named_Entity 1828 1847	University of Tokyo
+T77	Term_Common 1866 1886	annual debt payments
+T78	Term_Common 1873 1886	debt payments
+T79	Term_Common 1873 1877	debt
+T80	Term 1935 1943	reserves
+T81	Named_Entity 2020 2037	Toshiro Nishizawa
+T82	Named_Entity 2058 2077	University of Tokyo
+T83	Named_Entity 2080 2112	Graduate School of Public Policy
+T84	Term 2131 2149	fiscal policy team
+T85	Term 2131 2137	fiscal
+T86	Term 2131 2144	fiscal policy
+T87	Named_Entity 2159 2163	Laos
+T88	Term 2256 2273	sovereign default
+T89	Term 2266 2273	default
+T90	Term 1690 1697	default
+T91	Term 2303 2320	fiscal operations
+T92	Term 2303 2309	fiscal
+T93	Named_Entity 2325 2329	Laos
+T94	Named_Entity 2379 2383	Laos
+T95	Named_Entity 2396 2405	Nishizawa
+T96	Term 2408 2430	External debt services
+T97	Term 2417 2430	debt services
+T98	Term_Common 2417 2421	debt
+T99	Term 2474 2499	foreign exchange reserves
+T101	Named_Entity 2631 2635	Laos
+T102	Term_Common 2637 2648	debt levels
+T103	Term_Common 2637 2641	debt
+T104	Named_Entity 2724 2730	Mekong
+T105	Named_Entity 2873 2875	FT
+T106	Term_Common 2889 2906	finance officials
+T107	Term_Common 2889 2896	finance
+T108	Term_Common 2963 2974	debt relief
+T109	Term_Common 2963 2967	debt
+T110	Named_Entity 2981 2984	G20
+T111	Named_Entity 2995 3000	China
+T112	Named_Entity 3016 3050	Debt Service Suspension Initiative
+T113	Named_Entity 3084 3087	IMF
+T114	Named_Entity 3092 3102	World Bank
+T115	Named_Entity 3108 3112	Laos
+T116	Term 3180 3194	sovereign debt
+T117	Term_Common 3190 3194	debt
+T118	Named_Entity 3202 3207	Fitch
+T119	Named_Entity 3272 3291	Ėlectricité du Laos
+T120	Named_Entity 3293 3296	EDL
+T121	Term_Common 3349 3353	debt
+T122	Named_Entity 3356 3359	EDL
+T123	Named_Entity 3405 3430	China Southern Power Grid
+T124	Named_Entity 3442 3446	Laos
+T125	Term_Out_of_Domain 3448 3465	transmission grid
+T126	Named_Entity 3540 3546	Mekong
+T127	Named_Entity 3559 3561	FT
+T128	Named_Entity 3582 3586	Laos
+T129	Term_Common 3588 3607	ministry of finance
+T130	Term_Common 3600 3607	finance
+T131	Named_Entity 3613 3616	EDL
+T133	Named_Entity 3829 3833	Laos
+T134	Term_Common 3910 3923	debt payments
+T135	Term_Common 3910 3914	debt
+T136	Named_Entity 3959 3966	Beijing
+T137	Term_Common 3978 3982	debt
+T138	Term 3986 3992	equity
+T139	Named_Entity 3995 4004	Sri Lanka
+T140	Named_Entity 4098 4102	Asia
+T141	Term_Common 4110 4120	debt traps
+T142	Term_Common 4110 4114	debt
+T143	Named_Entity 4124 4131	Vietnam
+T144	Named_Entity 4133 4137	Laos
+T145	Named_Entity 4226 4231	China
+T146	Term_Common 4271 4275	debt
+T147	Named_Entity 4291 4298	Beijing
+T100	Term_Common 367 383	foreign exchange
+T132	Term_Common 375 383	exchange
+T148	Term_Common 2474 2490	foreign exchange
+T149	Term_Common 2482 2490	exchange

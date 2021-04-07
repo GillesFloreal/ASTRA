@@ -1,0 +1,53 @@
+T1	Named_Entity 0 9	HEC Paris
+T4	Named_Entity 135 137	FT
+T2	Term_Common 31 38	finance
+T3	Term_Common 151 158	finance
+T5	Named_Entity 183 195	Donald Trump
+T6	Named_Entity 217 231	The Apprentice
+T8	Named_Entity 396 405	HEC Paris
+T9	Term_Common 777 791	finance sector
+T10	Term_Common 777 784	finance
+T11	Named_Entity 879 888	HEC Paris
+T12	Named_Entity 935 940	Edhec
+T13	Term_Common 1029 1045	financial uplift
+T14	Term_Common 1029 1038	financial
+T15	Named_Entity 1253 1256	HEC
+T16	Term_Out_of_Domain 1471 1494	purchasing power parity
+T17	Named_Entity 1528 1530	US
+T18	Term_Common 1632 1635	MiF
+T19	Term_Common 532 535	MiF
+T20	Term_Common 1693 1696	MiF
+T21	Named_Entity 1837 1843	Europe
+T22	Named_Entity 1961 1963	UK
+T23	Named_Entity 2629 2649	ESCP Business School
+T24	Named_Entity 2671 2676	Skema
+T25	Named_Entity 2708 2713	Essec
+T26	Named_Entity 2725 2730	Edhec
+T27	Term_Common 2802 2805	MiF
+T28	Term_Common 2802 2814	MiF rankings
+T29	Term_Common 2874 2888	MiF programmes
+T30	Term_Common 2874 2877	MiF
+T31	Term_Common 2916 2930	finance sector
+T32	Term_Common 2916 2923	finance
+T33	Named_Entity 2969 2973	ESCP
+T34	Named_Entity 3224 3263	University of Hong Kong Business School
+T35	Named_Entity 3363 3367	CUHK
+T36	Named_Entity 3488 3491	WHU
+T37	Named_Entity 3494 3528	Otto Beisheim School of Management
+T38	Named_Entity 3533 3540	Germany
+T39	Named_Entity 3676 3686	MIT: Sloan
+T40	Named_Entity 3744 3746	US
+T41	Named_Entity 3819 3821	US
+T42	Named_Entity 3878 3888	MIT: Sloan
+T43	Named_Entity 4021 4043	London Business School
+T44	Named_Entity 4045 4048	LBS
+T45	Named_Entity 4076 4106	University of Cambridge: Judge
+T46	Named_Entity 4111 4158	Singapore Management University: Lee Kong Chian
+T47	Named_Entity 4162 4165	LBS
+T48	Named_Entity 4302 4318	Cambridge: Judge
+T49	Named_Entity 4449 4463	Lee Kong Chian
+T50	Term_Common 4634 4644	MiF course
+T51	Term_Common 4634 4637	MiF
+T52	Term_Common 4801 4812	MiF ranking
+T53	Term_Common 4801 4804	MiF
+T7	Term_Common 512 530	masters in finance

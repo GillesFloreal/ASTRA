@@ -1,0 +1,34 @@
+	Investors are facing a conundrum in the run-up to what is expected to be a uniquely turbulent US presidential election: how to insulate their portfolios from a stock market sell-off.
+
+Traditional safe assets have recently served investors poorly as an equity hedge, with government bonds barely moving and gold prices falling during September’s stock market wobble.
+
+Ahead of a potentially disputed result on November 3, fund managers are casting around for new harbours to shelter from a potential storm. Popular strategies include short-selling currencies that mirror stock movements; derivatives that provide insurance against falls; and emerging market bonds that offer a higher yielding, though riskier, hedge for equity holdings.
+
+“Relying on the traditional safe havens is like skydiving with a ripped parachute,” said Pilar Gomez-Bravo, director of fixed income for Europe at MFS Investment Management. “Since the summer we’ve looked for alternatives to US Treasuries.” 
+
+Ms Gomez-Bravo has bought options that would profit from a decline in the Australian dollar and Norwegian krone — currencies that tend to move in tandem with risky assets such as stocks. Betting on them falling against the Japanese yen, which typically rises when equities come under pressure, amplifies the effect. Both these trades helped protect her portfolio in the September sell-off.
+
+In the past, government bonds have tended to rise in value when stocks declined, cushioning losses in one part of a portfolio with gains in another. But the huge intervention in bond markets by the Federal Reserve and other central banks since the outbreak of coronavirus has damped this effect. 
+“If you are a multi-asset manager, the traditional approach that you’ve taken to investing is certainly being challenged,” said Michael DePass, global head of Treasury trading at Citadel Securities. “It is requiring you to think differently.”
+
+Investors have sought protection by snapping up insurance against equity market turbulence in the weeks surrounding the election, sending the price of futures contracts for the Vix volatility index — also known as Wall Street’s fear gauge — soaring. But the rising cost of such protection has added urgency to the search for alternatives.
+
+Buying options on the S&P 500 “becomes very expensive very quickly”, said Scott DiMaggio, co-head of fixed income at AllianceBernstein, who also prefers to use short positions in currencies, including the Australian and New Zealand dollars, whose values fluctuate closely with the price of certain commodities.
+
+Another popular trade involves emerging market currencies. According to Bob Michele, chief investment officer at JPMorgan Asset Management, the new “flavour du jour” is placing bets on the likes of the Mexican peso, Turkish lira and Indonesian rupiah to depreciate as a hedge against sell-offs in equities, high-yield credit and other risky assets. “It is a correlation that is recent and looks very strong,” he said.
+
+
+	For Pramol Dhawan, head of emerging markets portfolio management at Pimco, alternatives are also available in the fixed income space.
+
+“While by no means a substitute for US Treasuries, Chinese bonds do contain similar hedging properties albeit with an elevated risk profile,” he wrote in a recent note co-authored by Ran Duan, a quantitative research analyst. 
+
+Unlike five-year Treasury notes, which have already gained significantly in value since financial markets became unglued in March, Chinese bonds — which now constitute the world’s second largest bond market and have seen a significant uptick in foreign participation — have moved higher by a much smaller magnitude. As such, the Pimco analysts see “ample room” for a rally.
+
+Beyond China, Mr Dhawan singles out government bonds issued by Poland, the Czech Republic, Israel, Singapore, South Korea, Peru and Chile as other candidates to counter equity risks. Rather than wagering on individual countries, however, he advocates a “basket approach” that bundles together 10 high quality EM bonds, arguing that this more closely tracks the behaviour of US Treasuries during times of stress.
+
+
+	While many fund managers have sought new strategies that thrive during an exodus from risky assets, most are reluctant to abandon government bond markets — particularly US Treasuries — entirely. At a yield of roughly 1.5 per cent, ultra-long 30-year Treasury notes offer some value, says Mr DiMaggio, especially given the Fed’s reluctance to intervene as heavily in such long-term debt.
+
+Moreover, investors cannot look past the fact that the $20tn Treasury market offers unparalleled liquidity, making it easier to jump in and out of trades. Despite the plunge in yields to all-time lows this year it still offers investors a positive yield on their hedge — just — unlike strategies that require investors to pay a premium. Bets such as Chinese bonds, meanwhile, offer useful diversification. But with their relatively short record as a haven asset, few investors believe they will be the safest corner of financial markets in an acute crisis.
+
+“If we put 20 per cent of our portfolio into China, our risk guys would have something to say,” said Luca Paolini, chief strategist at Pictet Asset Management. “At the end of the day, you can’t avoid holding US Treasuries.”

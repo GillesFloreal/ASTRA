@@ -1,0 +1,51 @@
+T1	Named_Entity 0 6	Danske
+T2	Named_Entity 7 13	Nordic
+T3	Term_Common 14 19	banks
+T4	Term_Common 77 83	lender
+T5	Named_Entity 118 129	Danske Bank
+T6	Term_Common 289 298	borrowers
+T7	Term 321 338	wealth management
+T8	Named_Entity 421 428	Baltics
+T9	Term_Common 465 469	bank
+T10	Named_Entity 495 510	Chris Vogelzang
+T11	Term 635 677	anti-money-laundering compliance processes
+T12	Term_Common 635 656	anti-money-laundering
+T13	Named_Entity 689 695	Danske
+T14	Term 759 779	loan loss provisions
+T15	Term 759 768	loan loss
+T16	Term_Common 759 763	loan
+T17	Term 801 807	equity
+T18	Term_Common 869 874	banks
+T19	Term_Common 876 882	Danske
+T20	Term_Common 1010 1015	banks
+T21	Named_Entity 1042 1048	Europe
+T22	Term 1093 1111	investment banking
+T23	Term_Common 1093 1103	investment
+T24	Term_Common 1104 1111	banking
+T25	Term_Common 1130 1135	banks
+T26	Term_Common 1137 1158	cost-to-income ratios
+T27	Term_Common 1137 1151	cost-to-income
+T28	Term_Common 1207 1219	transactions
+T29	Named_Entity 1257 1263	Sweden
+T30	Named_Entity 1283 1290	Denmark
+T31	Named_Entity 1304 1313	Vogelzang
+T32	Named_Entity 1340 1346	Danske
+T33	Term_Common 1349 1369	cost-to-income ratio
+T34	Term_Common 1349 1363	cost-to-income
+T35	Named_Entity 1514 1527	Handelsbanken
+T36	Term_Common 1653 1673	cost-to-income ratio
+T37	Term_Common 1653 1667	cost-to-income
+T38	Named_Entity 1706 1710	Citi
+T39	Named_Entity 1712 1719	Denmark
+T40	Named_Entity 1747 1750	DNB
+T41	Term_Common 1780 1800	cost-to-income ratio
+T42	Term_Common 1780 1794	cost-to-income
+T43	Named_Entity 1813 1826	Handelsbanken
+T44	Named_Entity 1831 1834	DNB
+T45	Term_Common 1835 1840	trade
+T46	Term 1850 1860	book value
+T47	Term 960 970	book value
+T48	Term 1877 1883	equity
+T49	Named_Entity 1921 1927	Danske
+T50	Named_Entity 2058 2064	Danske
+T51	Term_Common 2088 2094	market

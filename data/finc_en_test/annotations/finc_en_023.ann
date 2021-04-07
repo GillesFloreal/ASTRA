@@ -1,0 +1,84 @@
+T1	Named_Entity 0 16	Dominic Chappell
+T2	Term_Common 24 37	tax liability
+T3	Term_Common 24 27	tax
+T4	Named_Entity 44 47	BHS
+T5	Named_Entity 95 97	UK
+T6	Named_Entity 139 146	Bentley
+T7	Named_Entity 157 173	Dominic Chappell
+T8	Named_Entity 218 221	BHS
+T9	Named_Entity 245 257	Philip Green
+T10	Term_Common 326 332	income
+T11	Named_Entity 388 395	Bentley
+T12	Named_Entity 444 452	Chappell
+T13	Named_Entity 466 469	BHS
+T14	Named_Entity 512 533	Southwark Crown Court
+T15	Term_Common 554 565	tax evasion
+T16	Term_Common 554 557	tax
+T17	Named_Entity 598 608	Swiss Rock
+T18	Named_Entity 683 703	Mark Bryant-Heron QC
+T19	Named_Entity 726 734	Chappell
+T20	Term_Common 760 775	corporation tax
+T21	Term_Common 772 775	tax
+T22	Term_Common 777 787	income tax
+T23	Term_Common 784 787	tax
+T24	Named_Entity 855 863	Chappell
+T25	Named_Entity 919 925	Philip
+T26	Named_Entity 947 950	BHS
+T27	Term_Common 1012 1025	tax liability
+T28	Term_Common 1012 1015	tax
+T29	Named_Entity 1086 1098	Philip Green
+T30	Named_Entity 1129 1132	BHS
+T31	Named_Entity 1163 1166	BHS
+T32	Named_Entity 1332 1335	BHS
+T33	Named_Entity 1352 1364	Bryant-Heron
+T34	Term 1178 1198	pension fund deficit
+T35	Named_Entity 1413 1425	Bryant-Heron
+T36	Named_Entity 1385 1393	Chappell
+T37	Named_Entity 1451 1454	BHS
+T38	Named_Entity 1524 1527	BHS
+T39	Named_Entity 1569 1576	Brixton
+T40	Named_Entity 1640 1647	Britain
+T41	Named_Entity 1578 1590	south London
+T42	Named_Entity 1823 1831	Chappell
+T43	Named_Entity 1848 1858	Swiss Rock
+T44	Named_Entity 1944 1947	BHS
+T45	Named_Entity 1956 1979	Retail Acquisitions Ltd
+T46	Named_Entity 1981 1984	RAL
+T47	Named_Entity 2113 2125	Bryant-Heron
+T48	Named_Entity 2376 2384	Chappell
+T49	Named_Entity 2395 2398	RAL
+T50	Named_Entity 2428 2431	BHS
+T51	Named_Entity 2667 2670	BHS
+T52	Named_Entity 2731 2739	Chappell
+T53	Named_Entity 2831 2839	Chappell
+T54	Named_Entity 3019 3031	Bryant-Heron
+T55	Named_Entity 3077 3087	Swiss Rock
+T56	Named_Entity 3312 3320	Chappell
+T57	Named_Entity 3528 3536	Chappell
+T58	Named_Entity 3613 3621	Chappell
+T59	Named_Entity 3347 3354	Bahamas
+T60	Named_Entity 3397 3404	Bentley
+T61	Named_Entity 3425 3432	Beretta
+T62	Term 1186 1190	fund
+T63	Term_Common 1191 1198	deficit
+T64	Term_Common 1490 1495	funds
+T65	Term_Common 1507 1520	tax liability
+T66	Term_Common 1507 1510	tax
+T68	Term_Common 2092 2102	evaded tax
+T69	Term_Common 2099 2102	tax
+T70	Term_Common 2169 2172	tax
+T71	Term_Common 2179 2182	tax
+T72	Term_Common 2268 2271	tax
+T73	Term_Common 2742 2763	personal bank account
+T74	Term_Common 2751 2763	bank account
+T75	Term_Common 2751 2755	bank
+T76	Term_Common 3223 3236	tax liability
+T77	Term_Common 3223 3226	tax
+T78	Named_Entity 3471 3478	Bahamas
+T79	Term_Common 3685 3700	corporation tax
+T80	Term_Common 3697 3700	tax
+T81	Term_Common 3710 3720	income tax
+T82	Term_Common 3717 3720	tax
+T85	Term 1178 1190	pension fund
+T83	Term_Common 792 795	VAT
+T67	Term_Common 3702 3705	VAT

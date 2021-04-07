@@ -1,0 +1,50 @@
+How best to invest for Brexit
+Finance experts look at the options as the risk of a no-deal remains high
+
+	As we enter crunch time for trade talks between the UK and its largest trading partner, the EU, it is worth taking stock of your investments and considering how markets might be affected when the transition period ends. 
+
+Even though the UK formally left the EU at the end of January, there has been little progress in negotiations, partly because political leaders and businesses have been focused on dealing with the implications of the pandemic. This means that although the transition period ends on December 31, the risk of a no-deal remains very real. 
+
+For equities, the worst-case scenario is the UK and EU default to World Trade Organization rules, which would introduce an array of tariffs and stricter regulatory barriers, at the end of the year. Given that half of all UK imports came from the EU in 2019, and over 40 per cent of all exports were sold to the EU, this could be very disruptive, particularly in sectors vulnerable to high tariffs or anticipated border queues such as food and automotive industries.
+
+If a deal permitting frictionless trade is achieved, this should boost investor confidence and smaller companies dependent on EU trade could see the greatest uplift.
+
+Thinking through what you see as the most likely outcome could help you make decisions on how to position your portfolio. We talk to experts in the finance industry and ask how they would go about choosing ETFs that could benefit from alternative scenarios.
+
+ETFs for a no-deal
+If no trade deal is reached, it is widely anticipated there will be disruption at the borders and the value of sterling will go down as it did following the Brexit referendum. A falling pound and increased costs of imports heighten inflation expectations and could lead to higher interest rates.
+
+Ben Seager-Scott, head of multi-asset funds at Tilney, a financial advisory company, suggested the iShares GBP Index-Linked Gilts Ucits ETF could be boosted by fresh bidding for inflation-protected government bonds. The fund has a low annual charge of 0.1 per cent, but a relatively high duration with an average weighted maturity of 22.5 years, so the risk is that if interest rates were to rise, the ETF price could fall quite significantly. But Mr Seager-Scott said the Bank of England, and central banks generally, have signalled monetary policy will remain supportive for a while, making inflation-protected bond funds an attractive option.
+
+Another way of positioning your portfolio for a no-deal break could be to move assets out of the UK or Europe into a currency like the US dollar. Peter Sleep, senior portfolio manager at Seven Investment Management, recommends JPMorgan USD Ultra-Short Income ETF as a near-cash product. The fund, launched in 2018, targets a portfolio duration of less than one year, which could reduce a portfolio’s overall sensitivity to rising interest rates. It has an annual fee of 0.18 per cent. 
+
+Mr Sleep said he also liked the high-yield market in the US and suggested another way to avoid exposure to Brexit risks might be to invest in the iShares $ High Yield ETF. The US government has been buying this ETF as part of its quantitative easing to support the economy, which should help shore up prices, following the pandemic. “You have a nice [distribution] yield of about 5.3 per cent and the chance of capital gain in US dollar terms especially if economic activity picks up in the US, which seems very likely,” Mr Sleep said. The distribution yield represents the ratio of the total amount paid to investors over the past 12 months to the fund net asset value.
+
+As with many ETFs, you can choose to have the income paid out to you, by investing in the distribution share class, or automatically reinvest it, by choosing the accumulation share class. If your ETF is denominated in a foreign currency, be aware that currency fluctuations can have a significant impact on regular income payments. You should also check the foreign exchange charge on your platform if you are converting each payment into sterling, as this can eat away at your returns.
+
+On the equities side, the currency effect of owning assets in overseas markets could boost your returns. This is because if you are a UK investor buying US equities, for example, and the pound loses value, you will get more pounds per dollar when you sell your ETF or receive income, although gains are likely to be damped by foreign exchange charges.
+
+Matt Brennan, head of passive portfolios at AJ Bell, an investment platform, said he would expect equities to move in the same direction as they did after the 2016 referendum and noted that Xtrackers FTSE All-World ex-UK ETF was strong in 2016 owing to the falling pound, with the bonus of having no UK exposure. The fund tracks an index with over 3,800 companies from 55 countries, and has an annual yield of 2.24 per cent, which is automatically reinvested.
+
+
+	ETFs for a trade deal
+If you want to bank on a trade deal being reached, Sam Dickens, portfolio manager at IG, another investment platform, suggested the Vanguard FTSE 250 Ucits ETF could be a way of benefiting from a renewed confidence in UK assets. The fund has accumulation and distribution share classes, a low annual fee of 0.10 per cent and a low tracking difference of -0.12 per cent, which is the discrepancy between ETF performance and the index it aims to track.
+
+UK smaller companies underperformed large ones in the aftermath of the EU referendum, with the FTSE 250 finishing 12.4 per cent behind the FTSE 100 index in 2016, so you might expect this to be reversed, to an extent, with a good deal.
+
+This divergence is partly due to the fact that large companies tend to have more international revenues so when the pound falls their products become cheaper overseas. 
+
+Mr Sleep said a comprehensive trade deal would also probably boost European manufacturers: he thought the iShares STOXX Europe 600 Industrial Goods & Services Ucits ETF, listed in Germany, could do well in those circumstances. The fund has 103 holdings across nine countries in Europe and an charge of 0.46 per cent.
+
+Experts warn investors should be wary of seeing things in too simplistic a fashion
+
+The value of sterling is likely to rise if a deal is achieved, so an investor might consider how this would affect international investments. For UK investors a stronger pound will mean they will receive less on foreign currency conversion when they come to take profits.
+
+If you are a UK investor and have significant exposure to US equities, for example, Mr Dickens said you could reduce dollar exposure with a currency hedged ETF such as iShares Core S&P 500 ETF GBP. However, make sure you are happy paying a premium for the hedged share class, because it comes with much higher costs. iShares Core S&P 500 Ucits ETF has an expense ratio of 0.07 per cent, while the cost for its sterling-hedged share class is 0.1 per cent. The cost difference may appear small but it progressively reduces returns in the long term. 
+
+However, Rachel Winter, associate investment director at wealth manager Killik & Co, advises her clients against hedging currencies and believes they are more likely to benefit by diversifying portfolios to include investments in lots of currencies, rather than trying to predict the outcome of one currency pair. Keeping part of your portfolio in foreign currencies might also protect you from unexpected inflation in your domestic currency, should it occur.
+
+Final considerations
+Whatever your view of how Brexit trade negotiations will turn out, experts warn investors should be wary of seeing things in too simplistic a fashion — if there is a new flare-up of Covid-19 and countries are forced back into lockdown, that could have a more significant impact on companies’ fortunes than Brexit. 
+
+They also recommend that investors consider other variables before choosing any investment product. For example, before you invest in an ETF, analyse the bid-offer spread and the tracking difference on the fund, as well as the annual charges to get a picture of the total cost of investment. It is also advisable to check you fully understand what the fund is tracking.

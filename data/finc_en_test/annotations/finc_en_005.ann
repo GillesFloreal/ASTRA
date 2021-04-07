@@ -1,0 +1,63 @@
+T1	Named_Entity 1 7	Norway
+T2	Term 15 23	oil fund
+T3	Named_Entity 192 206	Nicolai Tangen
+T4	Named_Entity 216 231	Financial Times
+T5	Term 267 278	wealth fund
+T6	Term_Common 360 371	divestments
+T7	Term_Out_of_Domain 376 379	ESG
+T9	Term 582 600	hedge fund manager
+T10	Term_Common 777 783	divest
+T11	Named_Entity 809 820	AKO Capital
+T12	Term 845 858	asset manager
+T13	Named_Entity 887 893	Tangen
+T8	Named_Entity 445 451	Tangen
+T14	Named_Entity 903 905	FT
+T15	Term 1070 1074	fund
+T16	Term_Out_of_Domain 1227 1230	ESG
+T17	Named_Entity 1245 1251	Tangen
+T18	Term 1298 1302	fund
+T19	Term_Out_of_Domain 1344 1347	ESG
+T20	Named_Entity 1374 1389	Yngve Slyngstad
+T21	Term 1436 1440	fund
+T22	Term_Out_of_Domain 1486 1489	ESG
+T23	Term 1555 1572	market volatility
+T24	Term_Common 1584 1600	financial crisis
+T25	Term 1639 1647	oil fund
+T26	Term_Common 1661 1672	divestments
+T27	Term 1734 1738	fund
+T28	Term 1815 1824	portfolio
+T29	Term 1829 1837	equities
+T30	Named_Entity 1996 2002	Tangen
+T31	Term_Common 2124 2142	investment process
+T32	Named_Entity 2236 2245	Slyngstad
+T33	Term 2268 2272	fund
+T34	Term 2481 2485	fund
+T35	Term 2572 2580	oil fund
+T36	Named_Entity 2653 2659	Tangen
+T37	Term_Common 2781 2790	Investors
+T38	Term_Common 2829 2837	sell-off
+T39	Term 2838 2851	Fund managers
+T40	Term 19 23	fund
+T41	Term 274 278	fund
+T42	Term 582 592	hedge fund
+T43	Term_Common 1584 1593	financial
+T44	Term_Common 1555 1561	market
+T45	Term 1643 1647	fund
+T46	Term_Common 2124 2134	investment
+T47	Term 2576 2580	fund
+T48	Term 2838 2842	Fund
+T49	Term 845 850	asset
+T50	Term 546 550	fund
+T51	Term 588 592	fund
+T52	Term_Out_of_Domain 1227 1240	ESG standards
+T53	Term_Out_of_Domain 1344 1355	ESG matters
+T54	Term 1562 1572	volatility
+T55	Term_Out_of_Domain 1605 1616	coronavirus
+T56	Term_Common 31 35	sell
+T57	Term_Out_of_Domain 80 123	environmental, social and governance issues
+T58	Term_Out_of_Domain 376 387	ESG reasons
+T59	Term 627 631	fund
+T60	Term_Common 1075 1079	sold
+T61	Term_Common 1910 1917	Selling
+T62	Named_Entity 2817 2819	US
+T63	Term 2888 2898	Treasuries

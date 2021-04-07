@@ -1,0 +1,99 @@
+T1	Named_Entity 40 50	Washington
+T2	Named_Entity 51 53	US
+T3	Named_Entity 89 95	Ankara
+T4	Named_Entity 175 177	US
+T5	Named_Entity 222 228	Turkey
+T6	Term_Out_of_Domain 255 279	S-400 air defence system
+T7	Named_Entity 295 301	Moscow
+T8	Named_Entity 426 436	Washington
+T9	Term_Common 474 483	investors
+T10	Named_Entity 522 531	Joe Biden
+T11	Named_Entity 543 545	US
+T12	Named_Entity 619 627	Caucasus
+T13	Named_Entity 669 675	Turkey
+T14	Term_Out_of_Domain 694 718	S-400 air defence system
+T15	Named_Entity 763 769	Turkey
+T16	Term_Out_of_Domain 809 814	S-400
+T17	Named_Entity 836 858	US Department of State
+T18	Term_Out_of_Domain 921 926	S-400
+T19	Named_Entity 1001 1005	NATO
+T20	Named_Entity 1077 1083	Turkey
+T21	Term_Common 1221 1238	financial markets
+T22	Term_Common 1221 1230	financial
+T23	Term_Common 1231 1238	markets
+T24	Named_Entity 1340 1349	Black Sea
+T25	Named_Entity 1358 1363	Sinop
+T26	Term_Out_of_Domain 1435 1440	S-400
+T27	Named_Entity 1545 1558	Eurasia Group
+T28	Named_Entity 1595 1601	Turkey
+T29	Term_Out_of_Domain 1625 1630	S-400
+T30	Named_Entity 1675 1681	Russia
+T31	Named_Entity 1748 1754	Ankara
+T32	Named_Entity 1759 1765	Moscow
+T33	Named_Entity 1851 1860	Caucasian
+T34	Named_Entity 1871 1887	Nagorno-Karabakh
+T35	Named_Entity 1962 1972	Azerbaijan
+T36	Named_Entity 1991 1998	Armenia
+T37	Named_Entity 2003 2009	Turkey
+T38	Part_of_Named_Entity 2022 2034	Recep Tayyip
+T39	Part_of_Named_Entity 2036 2043	Erdogan
+R1	Split_Named_Entity Arg1:T38 Arg2:T39	
+T40	Named_Entity 2073 2079	Russia
+T41	Part_of_Named_Entity 2089 2097	Vladimir
+T42	Part_of_Named_Entity 2099 2104	Putin
+R2	Split_Named_Entity Arg1:T41 Arg2:T42	
+T43	Named_Entity 2112 2120	Caucasus
+T44	Term_Out_of_Domain 2181 2186	S-400
+T45	Named_Entity 2202 2206	NATO
+T46	Named_Entity 2225 2235	Emre Peker
+T47	Named_Entity 2237 2250	Eurasia group
+T48	Named_Entity 2253 2259	Europe
+T49	Named_Entity 2300 2311	Aaron Stein
+T50	Named_Entity 2315 2321	Turkey
+T51	Named_Entity 2336 2369	Foreign Policy Research Institute
+T52	Named_Entity 2373 2375	US
+T53	Term_Out_of_Domain 2376 2386	think-tank
+T54	Named_Entity 2393 2399	Ankara
+T55	Named_Entity 2472 2478	Moscow
+T56	Named_Entity 2496 2503	Russian
+T57	Term_Common 2504 2509	loans
+T58	Named_Entity 2559 2561	US
+T59	Named_Entity 2619 2625	Turkey
+T60	Named_Entity 2669 2674	Sinop
+T61	Named_Entity 2683 2689	Turkey
+T62	Named_Entity 2793 2803	Washington
+T63	Named_Entity 2945 2947	US
+T64	Named_Entity 2985 2987	US
+T65	Named_Entity 3004 3008	Nato
+T66	Named_Entity 3014 3020	Turkey
+T67	Term_Out_of_Domain 3147 3151	F-35
+T68	Named_Entity 3214 3216	US
+T69	Named_Entity 3231 3246	Lockheed Martin
+T70	Named_Entity 3249 3255	Turkey
+T71	Term_Out_of_Domain 3307 3312	F-35s
+T72	Term_Out_of_Domain 3402 3407	S-400
+T73	Named_Entity 3468 3470	US
+T74	Named_Entity 3481 3493	Donald Trump
+T75	Named_Entity 3572 3579	Erdogan
+T76	Named_Entity 3594 3600	Ankara
+T77	Named_Entity 3658 3664	Turkey
+T78	Named_Entity 3799 3801	US
+T79	Named_Entity 3816 3821	Biden
+T80	Named_Entity 3860 3867	Erdogan
+T81	Named_Entity 3893 3899	Europe
+T82	Named_Entity 3908 3910	US
+T83	Named_Entity 4045 4055	Democratic
+T84	Named_Entity 4076 4082	Turkey
+T85	Named_Entity 4114 4135	eastern Mediterranean
+T86	Named_Entity 4143 4149	Ankara
+T87	Named_Entity 4196 4202	Greece
+T88	Named_Entity 4241 4248	Erdogan
+T89	Named_Entity 4289 4297	Istanbul
+T90	Named_Entity 4300 4312	Hagia Sophia
+T91	Named_Entity 4391 4400	Byzantine
+T92	Term_Out_of_Domain 255 260	S-400
+T93	Term_Out_of_Domain 694 699	S-400
+T94	Term_Out_of_Domain 921 938	S-400 transaction
+T97	Term_Common 1741 1746	trade
+T98	Named_Entity 1948 1954	Turkey
+T99	Named_Entity 1977 1983	Russia

@@ -45,9 +45,9 @@ def generate_idf_list(collection_path):
 
 # create json files for the n-grams to save memory when calculating idf
 
-# for directory in os.listdir("/home/gillesfloreal/PycharmProjects/ASTRA/en_train"):
-#    dir_path = "/home/gillesfloreal/PycharmProjects/ASTRA/en_train/" + directory + "/texts/annotated"
-#    idf_path_name = "/home/gillesfloreal/PycharmProjects/ASTRA/idf_lists/" + directory + ".json"
+# for directory in os.listdir("/home/gillesfloreal/PycharmProjects/ASTRA/data/en_train"):
+#    dir_path = "/home/gillesfloreal/PycharmProjects/ASTRA/data/en_train/" + directory + "/texts/annotated"
+#    idf_path_name = "/home/gillesfloreal/PycharmProjects/ASTRA/data/idf_lists/" + directory + ".json"
 #    with open(idf_path_name, 'w') as outfile:
 #        json.dump(generate_idf_list(dir_path)
 #                 , outfile)

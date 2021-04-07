@@ -1,0 +1,64 @@
+Ant Group set for bumper IPO
+Demand for shares in what could be the world’s biggest flotation is high
+
+	Just as Chinese technology groups globally come under greater regulatory scrutiny, the world’s hottest listing on the public markets is a mainland Chinese fintech company.
+
+The dual listing of Ant Group in Hong Kong and Shanghai as early as next month could top the $29bn raised in the Saudi Aramco IPO, the biggest globally to date.
+
+Ant, which was part of Alibaba before it was spun out into a separate vehicle, dominates mobile payments in China. It has become a digital supermarket of others’ offerings, letting users buy on credit, invest in mutual funds and find insurance through established players.
+
+It has even changed its name, from Ant Financial to Ant Group, to emphasise that it is a tech, rather than a financial services, company.
+
+International demand is high. Potential investors, paranoid about not getting their hands on shares, are trying to buy secondary stock from existing shareholders before the IPO. Some wealth managers are offering loans so that their clients can offer a larger investment and have more hope of getting an allocation.
+
+Ant’s valuation could wind up as high as $300bn, more than many Wall Street banks. Analysts at Bank of America have valued Ant at up to $318bn, based on a multiple of 45 times expected 2021 profits.
+
+But the IPO coincides with an uncomfortable spotlight on Chinese technology companies, with tech champions such as Tencent, ByteDance and Huawei facing problems abroad.
+
+So why aren’t investors more circumspect about the prospects of a Chinese technology company, given the trouble — and outright bans — Chinese peers are facing in countries from the US to India?
+
+Firstly, Ant’s growth has “never been about the US” — the nation driving a lot of the antipathy towards Chinese tech — according Howard Yu, professor of management and innovation at IMD Business School in Switzerland and Singapore.
+
+“Its strategy is still in China, with headroom for growth on new financial services,” he told fintechFT. That includes investment products, loans, insurance, and other services for regional banks. There are few other viable competitors, Mr Howard added.
+
+More importantly, Ant’s international strategy looks very focused on places such as south-east Asia. The group is building up a large footprint in the fast-growing region of 655m people, including a large Asia headquarters in Singapore. It has invested in local fintech companies in Thailand, Indonesia and Myanmar, and now has a powerful group of partners — many of which are government backed.
+
+Ant is also widely expected to be granted a digital banking licence in Singapore later in the year, after winning one in Hong Kong in 2019. The wholesale licence would allow it to start lending more easily to businesses.
+
+Nor has it been impacted negatively by the Covid-19 pandemic. The company said in August that its first-half profit rose 1,000 per cent compared with the same period last year, to Rmb21.9bn ($3.2bn).
+
+That is not to say that Ant does not face challenges.
+
+The imminent introduction of a central digital currency in China, for example, poses a threat to the dominance of Alipay and that of its peer, Tencent’s WeChat Pay, especially for international settlements. And China’s digital payments network is pretty well saturated.
+
+But for now, it appears that there is very little investors do not like.
+
+Quick Fire Q&A
+Company name: iProov
+
+When founded: 2011
+
+Where based: London
+
+Chief executive: Andrew Bud
+
+What do you sell and who do you sell it to: Genuine Presence Assurance (GPA), which allows organisations to securely confirm the identity of an individual online.
+
+How did you get started: When my previous company was unwittingly used by cybercriminals, I vowed to prevent such attacks from succeeding again.
+
+How much money have you raised so far: $8m
+
+Valuation at latest fundraising: In the region of $50m
+
+Major shareholders: Chief executive, staff, and private investors from northern Europe.
+
+There are lots of fintechs out there, what makes you so special: GPA is the crucial building block for usable, ubiquitous and inclusive online biometric authentication.
+
+Further fintech fascination
+Wirecard fallout: New details have come out about what was happening at German fintech Wirecard before it collapsed. Olaf Storbeck and Dan McCrum of the Financial Times report on the “byzantine reporting lines” and “lamentable IT” at the company, where some subsidiaries provided services that were not needed.
+
+Stumbling blocks: Losses at UK peer-to-peer lender Funding Circle trebled in the first half of the year, reports the Financial Times, with the company writing down the value of loans it had hoped to sell on to other investors. Chief executive Samir Desai said that the company was hit by the speed and severity of Covid-19.
+
+Follow the money: Next Insurance, a start-up serving small businesses, has raised $250m in a fundraising that valued the company at over $2bn, says Reuters. The round was backed by Alphabet and Munich Re. Chief executive Guy Goldstein said that the company was going after a market worth $140bn in the US.
+
+AOB: European start-up Uncapped, which offers “revenue-based” finance to businesses, has raised $26m, reports TechCrunch; EasySend, which transfers manual processes in the financial industry into digital transactions, has raised £12.6m, reports Business Leader; the EU has released proposals for the supervision of crypto assets, says Finextra.

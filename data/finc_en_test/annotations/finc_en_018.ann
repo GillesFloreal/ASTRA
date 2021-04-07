@@ -1,0 +1,120 @@
+T1	Named_Entity 0 8	Euronext
+T2	Named_Entity 36 39	LSE
+T3	Term 50 56	assets
+T4	Named_Entity 57 66	UK bourse
+T5	Named_Entity 73 87	Borsa Italiana
+T6	Named_Entity 107 109	EU
+T7	Named_Entity 148 157	Refinitiv
+T8	Named_Entity 164 191	London Stock Exchange Group
+T9	Named_Entity 233 238	Milan
+T10	Term_Common 239 253	stock exchange
+T11	Term_Common 239 244	stock
+T12	Named_Entity 263 271	Euronext
+T13	Named_Entity 284 286	UK
+T14	Named_Entity 314 316	EU
+T15	Term_Common 385 398	trading group
+T16	Term_Common 385 392	trading
+T17	Named_Entity 399 408	Refinitiv
+T18	Named_Entity 442 456	Borsa Italiana
+T19	Named_Entity 487 493	Europe
+T20	Term 504 536	sovereign bond trading platforms
+T21	Term 504 518	sovereign bond
+T22	Term_Common 519 536	trading platforms
+T23	Term_Common 519 526	trading
+T24	Term 514 518	bond
+T25	Named_Entity 602 605	LSE
+T26	Named_Entity 736 739	LSE
+T27	Named_Entity 770 778	Euronext
+T28	Named_Entity 828 835	Germany
+T29	Named_Entity 838 852	Deutsche Börse
+T30	Named_Entity 857 868	Switzerland
+T31	Named_Entity 871 880	SIX Group
+T32	Named_Entity 883 898	David Schwimmer
+T33	Named_Entity 923 926	LSE
+T34	Term 959 965	assets
+T35	Named_Entity 1018 1026	Brussels
+T36	Named_Entity 1055 1064	Refinitiv
+T37	Named_Entity 1089 1092	LSE
+T38	Term_Common 1138 1168	capital markets infrastructure
+T39	Term 1138 1153	capital markets
+T40	Term_Common 1146 1153	markets
+T41	Term_Common 1188 1197	exchanges
+T42	Named_Entity 1270 1278	Brussels
+T43	Term 1340 1360	fixed income trading
+T44	Term 1340 1352	fixed income
+T45	Term_Common 1353 1360	trading
+T46	Named_Entity 1362 1376	Borsa Italiana
+T47	Named_Entity 1402 1405	MTS
+T48	Term 1415 1433	bond trading venue
+T49	Term 1415 1427	bond trading
+T50	Term 1415 1419	bond
+T51	Term_Common 1420 1427	trading
+T52	Named_Entity 1439 1458	European Commission
+T53	Named_Entity 1475 1484	Refinitiv
+T54	Named_Entity 1535 1543	Euronext
+T55	Named_Entity 1563 1577	Borsa Italiana
+T56	Term_Common 1646 1667	market infrastructure
+T57	Term_Common 1646 1652	market
+T58	Named_Entity 1675 1677	EU
+T59	Term_Common 1711 1726	stock exchanges
+T60	Term_Common 1711 1716	stock
+T61	Named_Entity 1730 1735	Paris
+T62	Named_Entity 1737 1746	Amsterdam
+T63	Named_Entity 1748 1754	Dublin
+T64	Named_Entity 1756 1760	Oslo
+T65	Named_Entity 1762 1768	Lisbon
+T66	Named_Entity 1773 1781	Brussels
+T67	Term 1826 1858	collective market capitalisation
+T68	Term 1837 1858	market capitalisation
+T69	Term_Common 1837 1843	market
+T70	Named_Entity 1896 1904	Euronext
+T71	Named_Entity 1953 1959	Europe
+T72	Term_Common 1974 1981	trading
+T73	Term 1985 1993	equities
+T74	Named_Entity 2000 2003	LSE
+T75	Named_Entity 2008 2016	Euronext
+T77	Term 2058 2078	cash equity exchange
+T78	Term 2063 2078	equity exchange
+T79	Term 2063 2069	equity
+T81	Named_Entity 2082 2088	Europe
+T82	Named_Entity 2149 2160	Mark Yockey
+T83	Term 2162 2179	portfolio manager
+T84	Term 2162 2171	portfolio
+T85	Named_Entity 2183 2199	Artisan Partners
+T86	Term 2207 2211	fund
+T87	Term_Common 2240 2251	investments
+T88	Named_Entity 2279 2287	Euronext
+T76	Term 2354 2375	cash equity exchanges
+T89	Term 2359 2375	equity exchanges
+T90	Term 2359 2365	equity
+T92	Named_Entity 2472 2486	Borsa Italiana
+T93	Named_Entity 2491 2494	MTS
+T94	Named_Entity 2506 2509	LSE
+T95	Named_Entity 2575 2580	Italy
+T96	Term 2623 2638	national assets
+T97	Term 2632 2638	assets
+T98	Term_Common 2659 2673	stock exchange
+T99	Term_Common 2659 2664	stock
+T80	Named_Entity 2756 2764	Euronext
+T91	Named_Entity 2805 2820	Intesa Sanpaolo
+T100	Named_Entity 2846 2871	Cassa Depositi e Prestiti
+T101	Named_Entity 2885 2888	CDP
+T102	Named_Entity 2923 2931	Euronext
+T103	Named_Entity 2978 2992	Borsa Italiana
+T104	Named_Entity 3008 3013	Italy
+T105	Term_Common 3076 3083	finance
+T106	Named_Entity 3052 3060	Euronext
+T107	Term_Common 3129 3133	debt
+T108	Term_Common 3162 3174	shareholders
+T109	Term 3183 3189	equity
+T110	Named_Entity 3200 3203	CDP
+T111	Named_Entity 3208 3214	Intesa
+T112	Term 1138 1145	capital
+T113	Term_Common 2800 2804	bank
+T114	Term_Common 2914 2919	stake
+T115	Part_of_Term 2705 2713	clearing
+T116	Part_of_Term 2731 2736	house
+R1	Split_Term Arg1:T115 Arg2:T116	
+T117	Term 2720 2736	settlement house
+T118	Term_Common 2837 2845	investor
+T119	Term 1199 1214	clearing houses

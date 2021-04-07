@@ -1,0 +1,28 @@
+T1	Named_Entity 8 17	Hong Kong
+T2	Term 41 58	world finance hub
+T3	Term_Common 47 54	finance
+T4	Named_Entity 64 83	Giles Conway-Gordon
+T5	Named_Entity 85 90	Ronan
+T6	Named_Entity 92 94	MT
+T7	Named_Entity 96 98	US
+T8	Named_Entity 179 190	Joshua Wong
+T9	Named_Entity 248 257	Hong Kong
+T10	Named_Entity 353 362	Hong Kong
+T11	Named_Entity 452 458	London
+T12	Term_Common 524 547	global financial system
+T13	Term_Common 531 547	financial system
+T14	Term_Common 531 540	financial
+T15	Named_Entity 550 558	New York
+T16	Named_Entity 560 566	London
+T17	Named_Entity 571 580	Hong Kong
+T18	Term_Common 866 890	global financial markets
+T19	Term_Common 873 890	financial markets
+T20	Term_Common 873 882	financial
+T21	Term_Common 883 890	markets
+T22	Named_Entity 939 948	Hong Kong
+T23	Named_Entity 1025 1034	Hong Kong
+T24	Named_Entity 1196 1205	Hong Kong
+T25	Term_Common 1258 1284	global financial community
+T26	Term_Common 1265 1284	financial community
+T27	Term_Common 1265 1274	financial
+T28	Term_Common 47 58	finance hub

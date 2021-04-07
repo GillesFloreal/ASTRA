@@ -1,0 +1,46 @@
+T1	Named_Entity 0 10	UK Finance
+T2	Named_Entity 20 28	Barclays
+T3	Term_Common 29 35	banker
+T4	Named_Entity 67 81	David Postings
+T5	Term_Common 109 127	financial industry
+T6	Term_Common 109 118	financial
+T7	Term_Common 165 184	Banking lobby group
+T8	Term_Common 165 172	Banking
+T9	Named_Entity 185 195	UK Finance
+T10	Named_Entity 213 221	Barclays
+T11	Named_Entity 232 246	David Postings
+T12	Term_Common 395 404	financier
+T13	Named_Entity 410 418	Postings
+T14	Named_Entity 582 588	Lloyds
+T15	Term_Common 617 632	commercial bank
+T16	Term_Common 628 632	bank
+T17	Named_Entity 675 699	Bibby Financial Services
+T18	Named_Entity 705 707	UK
+T19	Term 730 747	factoring company
+T20	Term 730 739	factoring
+T21	Named_Entity 800 813	Stephen Jones
+T22	Named_Entity 828 838	UK Finance
+T23	Term_Common 889 898	financier
+T24	Named_Entity 899 914	Amanda Staveley
+T25	Named_Entity 983 991	Barclays
+T26	Named_Entity 996 1001	Jones
+T27	Term_Common 1152 1170	financial industry
+T28	Term_Common 1152 1161	financial
+T29	Named_Entity 1271 1279	Treasury
+T30	Named_Entity 1346 1356	UK Finance
+T31	Term_Common 1415 1420	banks
+T32	Term 1422 1436	asset managers
+T33	Term 1422 1427	asset
+T34	Term_Out_of_Domain 1477 1483	Brexit
+T35	Named_Entity 1506 1508	EU
+T36	Named_Entity 1514 1522	Postings
+T37	Term_Common 1622 1629	finance
+T39	Named_Entity 1724 1734	Bob Wigley
+T40	Named_Entity 1831 1836	David
+T42	Named_Entity 2014 2024	UK Finance
+T43	Named_Entity 2095 2123	British Bankers’ Association
+T44	Named_Entity 2125 2136	Payments UK
+T45	Named_Entity 2138 2165	Council of Mortgage Lenders
+T46	Named_Entity 2167 2187	UK Cards Association
+T47	Named_Entity 2192 2223	Asset Based Finance Association
+T41	Term_Out_of_Domain 1992 1996	SMEs

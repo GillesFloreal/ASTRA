@@ -1,0 +1,122 @@
+T1	Named_Entity 37 42	China
+T2	Term 43 58	green investors
+T3	Term_Common 49 58	investors
+T4	Term_Common 67 82	stock exchanges
+T5	Term_Common 67 72	stock
+T7	Named_Entity 158 170	East Capital
+T8	Term_Common 171 178	invests
+T9	Term 205 218	asset manager
+T10	Term 205 210	asset
+T6	Named_Entity 356 367	Karine Hirn
+T11	Term_Common 420 436	emerging markets
+T12	Term_Common 429 436	markets
+T13	Named_Entity 525 530	China
+T14	Term_Common 781 790	investors
+T15	Named_Entity 799 803	Hirn
+T16	Term_Common 824 839	stock exchanges
+T17	Term_Common 824 829	stock
+T18	Named_Entity 1094 1102	Shenzhen
+T19	Named_Entity 1107 1115	Shanghai
+T20	Term 1116 1124	listings
+T21	Named_Entity 1175 1184	Hong Kong
+T22	Named_Entity 1276 1281	China
+T23	Term_Common 1356 1373	financial returns
+T24	Term_Common 1356 1365	financial
+T25	Term_Common 1386 1403	developed markets
+T26	Term_Common 1396 1403	markets
+T27	Term 1425 1446	sustainable investing
+T28	Term_Common 1437 1446	investing
+T29	Term_Common 1466 1475	investors
+T30	Named_Entity 1549 1554	China
+T31	Term_Common 1638 1645	markets
+T32	Named_Entity 1661 1666	China
+T33	Named_Entity 1732 1736	Hirn
+T34	Term_Common 1763 1780	foreign investors
+T35	Term_Common 1771 1780	investors
+T36	Named_Entity 1797 1805	Shenzhen
+T37	Term_Common 1806 1820	stock exchange
+T38	Term_Common 1806 1811	stock
+T39	Named_Entity 2269 2312	UN Environment Programme Finance Initiative
+T40	Named_Entity 2345 2353	Shenzhen
+T41	Term_Common 2354 2368	stock exchange
+T42	Term_Common 2354 2359	stock
+T43	Named_Entity 2543 2550	CSI 300
+T44	Term 2551 2556	index
+T45	Term_Common 2583 2589	stocks
+T46	Named_Entity 2597 2605	Shanghai
+T47	Named_Entity 2610 2618	Shenzhen
+T48	Term_Common 2763 2777	finance sector
+T49	Term_Common 2763 2770	finance
+T50	Term_Common 2869 2878	investors
+T51	Term_Common 2894 2905	shareholder
+T52	Named_Entity 2922 2924	US
+T53	Named_Entity 2929 2935	Europe
+T54	Named_Entity 3012 3017	China
+T55	Term_Out_of_Domain 329 332	ESG
+T56	Term_Out_of_Domain 98 101	ESG
+T57	Named_Entity 3225 3244	Gabriel Wilson-Otto
+T58	Named_Entity 3269 3297	BNP Paribas Asset Management
+T59	Named_Entity 3301 3313	Asia-Pacific
+T60	Named_Entity 3321 3323	UN
+T61	Term_Out_of_Domain 3347 3350	ESG
+T62	Named_Entity 3365 3370	China
+T63	Term_Common 3403 3423	stock exchange rules
+T64	Term_Common 3403 3417	stock exchange
+T65	Term_Common 3403 3408	stock
+T66	Named_Entity 3478 3489	Mervyn Tang
+T67	Term_Out_of_Domain 3506 3509	ESG
+T68	Named_Entity 3522 3535	Fitch Ratings
+T69	Named_Entity 3585 3590	China
+T70	Term_Common 3599 3614	stock exchanges
+T71	Term_Common 3599 3604	stock
+T72	Term_Common 3908 3932	international investment
+T73	Term_Common 3922 3932	investment
+T74	Term 3950 3965	capital markets
+T75	Term_Common 3958 3965	markets
+T76	Term_Out_of_Domain 3983 3986	ESG
+T77	Term 4030 4045	bourse operator
+T78	Term 4030 4036	bourse
+T79	Named_Entity 4046 4078	Hong Kong Exchanges and Clearing
+T80	Term_Out_of_Domain 4140 4143	ESG
+T81	Named_Entity 4229 4233	Tang
+T82	Term_Common 4299 4322	international investors
+T83	Term_Common 4313 4322	investors
+T84	Term_Out_of_Domain 4340 4343	ESG
+T85	Term_Common 4383 4406	international investors
+T86	Term_Common 4397 4406	investors
+T87	Term 4460 4472	asset owners
+T88	Term 4460 4465	asset
+T89	Term_Out_of_Domain 4508 4511	ESG
+T90	Named_Entity 4525 4528	BNP
+T91	Named_Entity 4534 4545	Wilson-Otto
+T92	Term 4571 4585	asset managers
+T93	Term 4571 4576	asset
+T94	Named_Entity 4589 4594	China
+T95	Term_Out_of_Domain 4649 4652	ESG
+T96	Term_Out_of_Domain 4718 4721	ESG
+T97	Named_Entity 4785 4790	China
+T98	Term_Common 4900 4907	markets
+T99	Named_Entity 5047 5049	Xi
+T100	Named_Entity 5068 5073	China
+T101	Term_Common 5115 5127	shareholders
+T102	Term_Out_of_Domain 921 934	ESG practices
+T103	Term_Out_of_Domain 921 924	ESG
+T104	Term_Out_of_Domain 1155 1171	ESG requirements
+T105	Term_Out_of_Domain 1155 1158	ESG
+T106	Term_Out_of_Domain 1865 1879	ESG disclosure
+T107	Term_Out_of_Domain 1865 1868	ESG
+T108	Term_Out_of_Domain 3347 3361	ESG disclosure
+T109	Term_Out_of_Domain 3506 3518	ESG research
+T110	Term 3950 3957	capital
+T111	Term_Out_of_Domain 4508 4521	ESG framework
+T112	Term_Out_of_Domain 4718 4732	ESG disclosure
+T113	Term_Common 830 839	exchanges
+T114	Term 867 873	listed
+T115	Term_Common 1812 1820	exchange
+T116	Term_Common 1985 1993	exchange
+T117	Named_Entity 1976 1984	Shanghai
+T118	Term_Common 2360 2368	exchange
+T119	Term_Common 2619 2628	exchanges
+T120	Term_Common 3409 3417	exchange
+T121	Term_Common 3605 3614	exchanges
+T122	Named_Entity 5084 5095	Wilson-Otto

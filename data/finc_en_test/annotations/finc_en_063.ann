@@ -1,0 +1,104 @@
+T1	Term_Out_of_Domain 5 14	takeovers
+T2	Term 18 31	fund managers
+T3	Term 18 22	fund
+T4	Term_Common 47 54	markets
+T5	Term 65 84	activist hedge fund
+T6	Term 74 84	hedge fund
+T7	Term 110 124	asset managers
+T8	Term 110 115	asset
+T9	Term_Out_of_Domain 133 140	mergers
+T10	Named_Entity 154 165	Martin amis
+T11	Term_Common 300 307	finance
+T12	Term 311 318	roll-up
+T13	Term_Common 542 549	markets
+T14	Term 654 661	roll-up
+T15	Term 670 685	fund management
+T16	Term 670 674	fund
+T17	Named_Entity 919 924	Trian
+T18	Term 928 938	hedge fund
+T19	Term 934 938	fund
+T20	Term 80 84	fund
+T21	Named_Entity 946 958	Nelson Peltz
+T22	Term_Common 1011 1017	stakes
+T23	Term 1039 1053	asset managers
+T24	Term 1039 1044	asset
+T25	Named_Entity 1055 1062	Invesco
+T26	Named_Entity 1067 1082	Janus Henderson
+T27	Term 1084 1100	Asset management
+T28	Term 1084 1089	Asset
+T29	Named_Entity 1141 1146	Trian
+T30	Named_Entity 1250 1255	Trian
+T31	Term_Common 1343 1349	stakes
+T32	Named_Entity 1357 1364	Invesco
+T33	Named_Entity 1369 1384	Janus Henderson
+T34	Named_Entity 1434 1439	Trian
+T36	Term 1520 1527	roll-up
+T37	Term_Common 1628 1635	markets
+T38	Term 1667 1682	fund management
+T39	Term 1667 1671	fund
+T40	Term_Common 1762 1776	interest rates
+T41	Term_Common 1762 1770	interest
+T42	Term_Common 1771 1776	rates
+T43	Term_Common 1898 1914	financial crisis
+T44	Term_Common 1898 1907	financial
+T45	Term 1999 2005	assets
+T46	Term_Common 2051 2065	interest rates
+T47	Term_Common 2051 2059	interest
+T48	Term_Common 2060 2065	rates
+T49	Term_Common 2067 2079	Share prices
+T50	Term_Common 2067 2072	Share
+T51	Named_Entity 2083 2090	America
+T52	Term 2151 2176	fund-management companies
+T53	Term 2151 2166	fund-management
+T54	Term 2151 2155	fund
+T55	Term_Common 2203 2208	stock
+T56	Term 2216 2222	assets
+T57	Term_Common 2238 2254	stockmarket boom
+T58	Term_Common 2238 2249	stockmarket
+T59	Term 2400 2414	asset managers
+T60	Term 2400 2405	asset
+T61	Term 2472 2487	index investing
+T62	Term 2472 2477	index
+T63	Term_Common 2478 2487	investing
+T64	Term 2492 2502	index fund
+T65	Term 2492 2497	index
+T66	Term 2498 2502	fund
+T67	Term_Common 2509 2515	shares
+T68	Term 2551 2572	market capitalisation
+T69	Term_Common 2574 2587	Trading costs
+T70	Term_Common 2574 2581	Trading
+T71	Term 2608 2612	fund
+T72	Term_Common 2618 2624	shares
+T73	Term 2651 2656	index
+T74	Term_Common 2692 2698	market
+T75	Term_Common 2724 2730	stocks
+T76	Term 2734 2740	liquid
+T77	Term 2812 2823	index funds
+T78	Term 2812 2817	index
+T79	Term 2818 2823	funds
+T80	Term 2903 2918	index investing
+T81	Term 2903 2908	index
+T82	Term_Common 2909 2918	investing
+T83	Named_Entity 2950 2959	BlackRock
+T84	Named_Entity 2961 2969	Vanguard
+T85	Named_Entity 2974 2986	State Street
+T86	Term 3051 3055	fund
+T87	Term 3138 3156	portfolio managers
+T88	Term 3138 3147	portfolio
+T89	Term_Common 3259 3271	share prices
+T90	Term_Common 3259 3264	share
+T91	Term 3322 3329	roll-up
+T93	Term_Common 3872 3879	savings
+T94	Term 3883 3899	asset management
+T95	Term 3883 3888	asset
+T96	Term 4041 4052	index funds
+T97	Term 4041 4046	index
+T98	Term 4047 4052	funds
+T100	Term 4329 4334	index
+T101	Term 4458 4481	fund-management roll-up
+T102	Term 4458 4462	fund
+T103	Term 4474 4481	roll-up
+T104	Term 4506 4521	index investing
+T105	Term 4506 4511	index
+T106	Term_Common 4512 4521	investing
+T108	Term 4613 4621	roll-ups

@@ -23,7 +23,8 @@ def tf_idf(file_path, domain):
         doc = nlp(text_clean)
         f.close()
 
-    domain_idf_list_path = "/home/gillesfloreal/PycharmProjects/ASTRA/idf_lists/" + domain + ".json"
+    domain_idf_list_path = "/home/gillesfloreal/PycharmProjects/ASTRA/data/idf_lists/"\
+                           + domain + ".json"
 
     # calculate tf for the terms
     ngrams = ngram_generator(doc)

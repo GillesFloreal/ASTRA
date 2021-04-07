@@ -1,0 +1,45 @@
+T1	Named_Entity 50 53	ECB
+T2	Term_Common 138 151	exchange rate
+T3	Term_Common 147 151	rate
+T4	Term 153 160	minutes
+T5	Named_Entity 253 274	European Central Bank
+T6	Term_Common 516 528	central bank
+T7	Term_Common 524 528	bank
+T8	Term 634 641	minutes
+T9	Named_Entity 734 737	ECB
+T10	Term 976 983	minutes
+T11	Term_Common 1059 1072	exchange rate
+T12	Term_Common 1068 1072	rate
+T13	Named_Entity 1304 1307	ECB
+T14	Term_Common 1361 1374	exchange rate
+T15	Term_Common 1370 1374	rate
+T16	Named_Entity 1760 1767	Germany
+T17	Term 1881 1888	minutes
+T18	Named_Entity 2165 2168	ECB
+T19	Term_Common 2496 2509	exchange rate
+T20	Term_Common 2505 2509	rate
+T21	Term 2600 2607	minutes
+T22	Named_Entity 2762 2765	ECB
+T23	Term 2800 2807	minutes
+T24	Named_Entity 2826 2829	ECB
+T25	Named_Entity 2896 2911	Carsten Brzeski
+T26	Named_Entity 2946 2949	ING
+T27	Term_Out_of_Domain 3197 3203	Brexit
+T28	Term 3274 3281	minutes
+T29	Named_Entity 3321 3328	Germany
+T30	Term_Common 3489 3501	global trade
+T31	Term_Common 3496 3501	trade
+T32	Named_Entity 3526 3533	Germany
+T33	Named_Entity 3811 3817	France
+T34	Named_Entity 3819 3824	Italy
+T35	Named_Entity 3829 3834	Spain
+T36	Term_Common 711 725	interest rates
+T37	Term_Common 711 719	interest
+T38	Term_Common 720 725	rates
+T39	Term_Common 895 908	exchange rate
+T40	Term_Common 904 908	rate
+T41	Term 1343 1353	volatility
+T42	Term_Common 1747 1756	VAT rates
+T43	Term_Common 1751 1756	rates
+T45	Term_Common 740 758	stimulus programme
+T46	Term_Common 740 748	stimulus

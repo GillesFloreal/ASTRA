@@ -1,0 +1,56 @@
+T1	Named_Entity 0 14	JPMorgan Chase
+T2	Term_Common 39 48	financing
+T3	Term 49 58	portfolio
+T4	Term 39 58	financing portfolio
+T6	Term_Common 118 130	shareholders
+T8	Named_Entity 485 493	JPMorgan
+T9	Term_Common 168 172	bank
+T10	Term_Common 509 513	bank
+T11	Named_Entity 536 547	Lee Raymond
+T12	Named_Entity 579 589	ExxonMobil
+T13	Named_Entity 731 742	Alec Connon
+T14	Named_Entity 750 783	Stop the Money Pipeline Coalition
+T16	Named_Entity 937 942	Chase
+T17	Term_Common 1160 1179	financial companies
+T18	Term_Common 1266 1271	banks
+T19	Named_Entity 1286 1292	Europe
+T20	Named_Entity 1304 1311	Natixis
+T21	Named_Entity 1313 1322	Santander
+T22	Named_Entity 1327 1343	Société Générale
+T23	Term 1401 1411	portfolios
+T24	Named_Entity 1414 1421	Natixis
+T25	Term_Common 1530 1538	financed
+T26	Term 1582 1594	green assets
+T27	Term 1600 1613	asset manager
+T28	Named_Entity 1614 1623	BlackRock
+T29	Term_Out_of_Domain 1654 1666	climate risk
+T30	Term_Common 1688 1707	investment strategy
+T31	Named_Entity 1710 1724	Morgan Stanley
+T32	Named_Entity 1726 1730	Citi
+T33	Named_Entity 1735 1750	Bank of America
+T34	Term_Common 1845 1861	financial sector
+T35	Named_Entity 1865 1879	JPMorgan Chase
+T36	Term_Out_of_Domain 1912 1939	emissions reduction targets
+T37	Term 2015 2024	portfolio
+T38	Term_Out_of_Domain 2042 2058	carbon intensity
+T39	Term_Common 2107 2111	bank
+T40	Named_Entity 2152 2168	Rama Variankaval
+T41	Named_Entity 2178 2186	JPMorgan
+T42	Term 2189 2220	corporate finance advisory team
+T43	Term_Common 2240 2247	finance
+T44	Named_Entity 2272 2280	JPMorgan
+T45	Term_Out_of_Domain 2315 2331	carbon emissions
+T46	Term_Common 2199 2206	finance
+T47	Term 1600 1605	asset
+T48	Term_Common 1160 1169	financial
+T49	Term 1588 1594	assets
+T50	Term_Common 1688 1698	investment
+T5	Term_Out_of_Domain 380 400	Paris climate accord
+T7	Named_Entity 165 167	US
+T15	Term 652 684	sustainable investment advocates
+T51	Term 652 674	sustainable investment
+T52	Term_Common 664 674	investment
+T53	Term_Common 806 812	lender
+T54	Term_Common 1845 1854	financial
+T55	Term_Common 1054 1061	lending
+T56	Term 2189 2206	corporate finance

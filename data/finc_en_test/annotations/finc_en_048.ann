@@ -1,0 +1,81 @@
+T1	Named_Entity 0 13	Goldman Sachs
+T2	Named_Entity 21 23	GM
+T3	Named_Entity 72 83	Wall Street
+T4	Term 107 123	consumer finance
+T5	Term_Common 116 123	finance
+T6	Named_Entity 126 139	Goldman Sachs
+T7	Named_Entity 150 164	General Motors
+T8	Term_Common 246 250	bank
+T9	Named_Entity 332 343	Wall Street
+T10	Term 368 384	consumer finance
+T11	Term_Common 377 384	finance
+T12	Named_Entity 387 394	Goldman
+T13	Term 425 434	portfolio
+T14	Named_Entity 514 525	Capital One
+T15	Named_Entity 619 642	The Wall Street Journal
+T16	Named_Entity 645 652	Goldman
+T17	Term_Common 667 677	card loans
+T18	Term_Common 672 677	loans
+T19	Term_Common 801 805	bank
+T20	Term 818 824	assets
+T21	Term_Common 865 877	bank partner
+T22	Term_Common 865 869	bank
+T23	Term 887 893	assets
+T24	Term 898 909	liabilities
+T25	Term 917 926	portfolio
+T26	Named_Entity 969 971	GM
+T27	Named_Entity 1032 1048	Brian Kleinhanzl
+T28	Term 1050 1065	banking analyst
+T29	Term_Common 1050 1057	banking
+T30	Named_Entity 1069 1072	KBW
+T31	Named_Entity 1085 1092	Goldman
+T32	Term 1141 1150	portfolio
+T33	Term 1165 1170	asset
+T34	Named_Entity 1244 1251	Goldman
+T35	Term_Common 1327 1339	investor day
+T36	Term_Common 1327 1335	investor
+T37	Named_Entity 1364 1371	Goldman
+T38	Term 1405 1420	capital markets
+T39	Term 1405 1412	capital
+T40	Term_Common 1413 1420	markets
+T41	Term_Common 1393 1400	trading
+T42	Part_of_Term 1393 1400	trading
+T43	Part_of_Term 1413 1420	markets
+R1	Split_Term Arg1:T42 Arg2:T43	
+T44	Term_Common 1470 1479	investors
+T45	Term 1495 1515	capital requirements
+T46	Term 1495 1502	capital
+T47	Term_Common 1533 1544	shareholder
+T48	Term 1557 1576	earnings volatility
+T49	Term 1566 1576	volatility
+T50	Named_Entity 1581 1594	David Solomon
+T51	Named_Entity 1596 1603	Goldman
+T52	Named_Entity 1654 1665	Main Street
+T53	Term_Common 1666 1673	finance
+T54	Term_Common 1697 1709	digital bank
+T55	Term_Common 1705 1709	bank
+T56	Named_Entity 1710 1716	Marcus
+T57	Term_Common 1737 1745	deposits
+T58	Named_Entity 1791 1796	Apple
+T59	Term_Common 1802 1813	investments
+T60	Term 1817 1834	wealth management
+T61	Term_Common 1929 1933	bank
+T62	Named_Entity 1955 1962	Goldman
+T63	Term 2030 2051	consumer finance unit
+T64	Term 2030 2046	consumer finance
+T65	Term_Common 2039 2046	finance
+T66	Term 2111 2128	wealth management
+T67	Part_of_Term 2111 2128	wealth management
+T68	Part_of_Term 2130 2138	division
+R2	Split_Term Arg1:T67 Arg2:T68	
+T69	Term_Common 2211 2215	bank
+T70	Term_Common 2228 2245	financial results
+T71	Term_Common 2228 2237	financial
+T72	Named_Entity 2267 2282	Stephanie Cohen
+T73	Named_Entity 2287 2298	Tucker York
+T74	Named_Entity 2304 2309	Cohen
+T75	Term_Common 2324 2328	bank
+T76	Named_Entity 2406 2413	Goldman
+T77	Named_Entity 2457 2470	Goldman Sachs
+T78	Named_Entity 2475 2489	General Motors
+T79	Named_Entity 2511 2522	Capital One

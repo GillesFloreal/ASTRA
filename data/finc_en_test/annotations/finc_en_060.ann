@@ -1,0 +1,279 @@
+T1	Named_Entity 0 8	SoftBank
+T2	Term 35 45	hedge fund
+T3	Term 41 45	fund
+T4	Named_Entity 79 92	Masayoshi Son
+T5	Term 126 132	assets
+T6	Named_Entity 341 354	Masayoshi Son
+T7	Named_Entity 47 50	Arm
+T8	Named_Entity 407 410	Arm
+T9	Named_Entity 483 485	UK
+T10	Term_Out_of_Domain 486 499	chip designer
+T11	Term_Common 530 538	investor
+T12	Named_Entity 615 623	SoftBank
+T13	Term_Out_of_Domain 726 735	computing
+T14	Term_Out_of_Domain 737 760	artificial intelligence
+T15	Term_Out_of_Domain 769 787	internet of things
+T16	Named_Entity 869 873	Asia
+T17	Named_Entity 926 929	Son
+T18	Term_Common 980 989	investors
+T19	Named_Entity 1083 1103	Project Crystal Ball
+T20	Named_Entity 1204 1224	SoftBank Vision Fund
+T21	Named_Entity 1239 1243	Gulf
+T22	Named_Entity 1279 1282	Arm
+T23	Term 1297 1306	portfolio
+T24	Named_Entity 1368 1371	Son
+T25	Named_Entity 1388 1391	Arm
+T26	Named_Entity 1411 1417	Nvidia
+T27	Named_Entity 1421 1423	US
+T28	Term_Out_of_Domain 1424 1436	chip company
+T29	Named_Entity 1466 1468	UK
+T30	Named_Entity 1490 1498	SoftBank
+T31	Named_Entity 1546 1557	Vision Fund
+T32	Term 1594 1603	portfolio
+T33	Term 1654 1665	sequel fund
+T34	Term 1661 1665	fund
+T35	Term_Common 1699 1710	investments
+T36	Named_Entity 1714 1720	WeWork
+T37	Named_Entity 1918 1926	SoftBank
+T38	Term 1941 1949	holdings
+T39	Named_Entity 1963 1971	T-Mobile
+T40	Named_Entity 1973 1980	Alibaba
+T41	Named_Entity 2014 2027	SoftBank Corp
+T42	Term 2116 2122	listed
+T43	Named_Entity 2123 2125	US
+T44	Term_Common 2126 2137	tech stocks
+T45	Term_Common 2131 2137	stocks
+T46	Named_Entity 2140 2148	SoftBank
+T47	Term_Common 2240 2249	investors
+T48	Named_Entity 2390 2401	Vision Fund
+T49	Named_Entity 2416 2424	SoftBank
+T50	Term_Common 2443 2455	shareholders
+T51	Named_Entity 2509 2512	Arm
+T52	Term_Out_of_Domain 2521 2539	internet of things
+T53	Term_Common 2576 2585	investing
+T54	Term 2593 2603	hedge fund
+T55	Term 2599 2603	fund
+T56	Named_Entity 2628 2636	SoftBank
+T57	Named_Entity 2677 2680	Son
+T58	Named_Entity 2729 2737	SoftBank
+T59	Term_Common 2738 2743	stock
+T60	Named_Entity 2819 2824	Japan
+T61	Term_Common 2853 2866	stock markets
+T62	Term_Common 2853 2858	stock
+T63	Term_Common 2859 2866	markets
+T64	Named_Entity 2884 2887	Arm
+T65	Named_Entity 2966 2969	Son
+T66	Named_Entity 3095 3103	SoftBank
+T67	Named_Entity 3170 3173	Son
+T68	Named_Entity 3206 3214	SoftBank
+T69	Named_Entity 3275 3283	SoftBank
+T70	Term 3328 3338	hedge fund
+T71	Term 3334 3338	fund
+T72	Named_Entity 3388 3391	Son
+T73	Named_Entity 3458 3466	SoftBank
+T74	Named_Entity 3545 3556	Bridgewater
+T75	Term 3558 3568	hedge fund
+T76	Term 3564 3568	fund
+T77	Named_Entity 3575 3585	Blackstone
+T78	Term 3587 3607	private equity group
+T79	Term 3587 3601	private equity
+T80	Term 3595 3601	equity
+T81	Named_Entity 3650 3653	Son
+T82	Term_Common 3697 3705	investor
+T83	Named_Entity 3736 3744	SoftBank
+T84	Named_Entity 3907 3915	SoftBank
+T85	Term 3942 3964	hedge fund description
+T86	Term 3942 3952	hedge fund
+T87	Term 3948 3952	fund
+T88	Term_Common 3988 4004	investment style
+T89	Term_Common 3988 3998	investment
+T90	Named_Entity 4015 4018	Son
+T93	Named_Entity 4129 4137	SoftBank
+T94	Term_Common 4184 4199	investment firm
+T95	Term_Common 4184 4194	investment
+T96	Named_Entity 4349 4352	Son
+T97	Named_Entity 4428 4431	Son
+T98	Term_Common 4455 4464	investors
+T99	Named_Entity 4519 4527	SoftBank
+T100	Named_Entity 4631 4639	SoftBank
+T101	Term_Common 4640 4646	shares
+T102	Term_Common 4683 4692	investors
+T103	Named_Entity 4721 4724	Son
+T104	Term_Common 4747 4764	investment record
+T105	Term_Common 4747 4757	investment
+T106	Named_Entity 4883 4888	Japan
+T107	Named_Entity 4965 4973	SoftBank
+T108	Term 4976 4985	asset mix
+T109	Term 4976 4981	asset
+T110	Term_Common 5005 5024	investment approach
+T111	Term_Common 5005 5015	investment
+T112	Named_Entity 5126 5130	CLSA
+T113	Named_Entity 5139 5153	Oliver Matthew
+T114	Term_Common 5164 5173	investors
+T115	Named_Entity 5185 5193	SoftBank
+T116	Named_Entity 5265 5268	Son
+T117	Term_Common 5314 5320	shares
+T118	Term_Common 5336 5341	trade
+T119	Term 5384 5392	holdings
+T120	Named_Entity 5402 5410	SoftBank
+T121	Term_Common 5411 5417	shares
+T122	Named_Entity 5506 5513	Alibaba
+T123	Term 5519 5540	market capitalisation
+T124	Term_Common 5519 5525	market
+T126	Term 5606 5615	portfolio
+T127	Named_Entity 5703 5711	SoftBank
+T128	Term 5733 5744	market rout
+T129	Term_Common 5733 5739	market
+T130	Named_Entity 5786 5789	Son
+T131	Term_Common 5838 5843	stake
+T132	Term_Common 5873 5892	personal borrowings
+T133	Term_Common 5882 5892	borrowings
+T134	Term_Common 5906 5911	stake
+T135	Named_Entity 5933 5936	Son
+T136	Term_Common 5975 5993	investment returns
+T137	Term_Common 5975 5985	investment
+T138	Named_Entity 6019 6027	SoftBank
+T139	Term_Common 6159 6173	market turmoil
+T140	Term_Common 6159 6165	market
+T141	Term_Common 6348 6359	share price
+T142	Term_Common 6348 6353	share
+T143	Named_Entity 6401 6404	Arm
+T144	Named_Entity 6408 6414	Nvidia
+T145	Named_Entity 6450 6456	Nvidia
+T146	Named_Entity 6467 6470	Son
+T147	Named_Entity 6518 6526	SoftBank
+T148	Named_Entity 6548 6555	Britain
+T149	Named_Entity 6620 6623	Arm
+T150	Named_Entity 6640 6643	Son
+T151	Term 6752 6758	assets
+T152	Named_Entity 6773 6776	Son
+T153	Term_Out_of_Domain 6820 6833	chip designer
+T154	Named_Entity 6864 6870	Nvidia
+T155	Named_Entity 6879 6881	UK
+T156	Term_Out_of_Domain 6965 6967	AI
+T157	Named_Entity 6969 6977	SoftBank
+T158	Term_Common 7019 7031	shareholders
+T159	Named_Entity 7035 7041	Nvidia
+T160	Term_Common 7049 7054	stake
+T161	Named_Entity 7080 7084	Masa
+T162	Named_Entity 7119 7125	Nvidia
+T163	Named_Entity 7130 7133	Arm
+T164	Term_Out_of_Domain 7192 7194	AI
+T165	Named_Entity 7202 7214	Jensen Huang
+T166	Named_Entity 7250 7256	Nvidia
+T167	Named_Entity 7365 7368	Arm
+T168	Named_Entity 7373 7379	Nvidia
+T169	Named_Entity 7401 7405	Masa
+T170	Term_Common 7422 7433	shareholder
+T171	Named_Entity 7476 7484	SoftBank
+T172	Term_Common 7485 7494	investors
+T173	Named_Entity 7587 7590	Son
+T176	Named_Entity 7665 7668	Son
+T177	Named_Entity 7696 7704	SoftBank
+T178	Term_Common 7751 7760	investing
+T179	Term_Common 7827 7837	investment
+T180	Named_Entity 7841 7849	SoftBank
+T181	Named_Entity 7879 7887	Vodafone
+T182	Named_Entity 7891 7896	Japan
+T183	Named_Entity 7904 7916	Richard Kaye
+T184	Term 7920 7937	portfolio manager
+T185	Term 7920 7929	portfolio
+T186	Named_Entity 7941 7948	Comgest
+T187	Named_Entity 7952 7960	SoftBank
+T188	Term_Common 7961 7972	shareholder
+T189	Term_Common 7985 7990	stake
+T190	Named_Entity 8030 8038	SoftBank
+T191	Named_Entity 8068 8072	Kaye
+T192	Named_Entity 8180 8188	SoftBank
+T193	Named_Entity 8280 8286	Nasdaq
+T194	Named_Entity 8338 8341	Son
+T195	Named_Entity 8415 8430	Financial Times
+T196	Named_Entity 8464 8472	SoftBank
+T197	Named_Entity 8482 8488	Nasdaq
+T198	Named_Entity 8533 8535	US
+T199	Term 8536 8554	equity derivatives
+T200	Term 8536 8542	equity
+T201	Term 8543 8554	derivatives
+T202	Term_Common 8569 8574	rally
+T204	Term_Common 8587 8593	stocks
+T205	Term 8626 8641	asset disposals
+T206	Term 8626 8631	asset
+T207	Term 8673 8687	share buybacks
+T208	Term_Common 8673 8678	share
+T209	Term 8692 8706	debt reduction
+T210	Term_Common 8692 8696	debt
+T211	Term_Common 8750 8761	tech stocks
+T212	Term_Common 8755 8761	stocks
+T213	Term_Common 8865 8876	share price
+T214	Term_Common 8865 8870	share
+T215	Term_Common 8877 8883	trades
+T216	Named_Entity 9071 9074	Son
+T217	Term_Common 9200 9209	investors
+T218	Term_Common 9267 9283	investment ideas
+T219	Term_Common 9267 9277	investment
+T220	Named_Entity 9308 9326	Elliott Management
+T221	Named_Entity 9332 9334	US
+T222	Term 9335 9345	hedge fund
+T223	Term 9341 9345	fund
+T224	Named_Entity 9390 9398	SoftBank
+T225	Named_Entity 9407 9418	Vision Fund
+T226	Term_Out_of_Domain 9449 9462	board members
+T227	Named_Entity 9510 9513	Son
+T228	Term 9530 9546	asset management
+T229	Term 9530 9535	asset
+T230	Named_Entity 9558 9572	Fast Retailing
+T231	Named_Entity 9589 9602	Tadashi Yanai
+T232	Named_Entity 9607 9614	Alibaba
+T233	Named_Entity 9623 9630	Jack Ma
+T234	Named_Entity 9647 9660	Chad Fentress
+T235	Term_Out_of_Domain 9690 9714	chief compliance officer
+T236	Named_Entity 9782 9790	SoftBank
+T237	Named_Entity 9820 9828	Fentress
+T238	Named_Entity 9850 9856	WeWork
+T239	Named_Entity 9983 9991	SoftBank
+T240	Named_Entity 9997 10005	Fentress
+T241	Named_Entity 10052 10060	SoftBank
+T242	Named_Entity 10188 10196	Fentress
+T243	Named_Entity 10252 10260	SoftBank
+T244	Term_Common 10293 10304	share price
+T245	Term_Common 10293 10298	share
+T246	Named_Entity 10437 10445	SoftBank
+T247	Term_Out_of_Domain 10589 10597	AI deals
+T248	Term_Out_of_Domain 10589 10591	AI
+T249	Term_Common 10687 10707	minority investments
+T250	Term_Common 10696 10707	investments
+T251	Named_Entity 10756 10767	Vision Fund
+T252	Named_Entity 10796 10804	SoftBank
+T253	Named_Entity 10931 10934	Son
+T254	Term_Out_of_Domain 10955 10964	takeovers
+T255	Term 11047 11053	assets
+T256	Named_Entity 11093 11096	Son
+T257	Term_Common 11251 11261	investment
+T258	Named_Entity 11267 11270	Son
+T259	Named_Entity 11280 11295	Financial Times
+T260	Named_Entity 11310 11313	Arm
+T261	Named_Entity 11527 11535	SoftBank
+T262	Named_Entity 11540 11543	Son
+T263	Named_Entity 11554 11562	SoftBank
+T264	Named_Entity 11744 11747	Son
+T265	Term_Common 11797 11809	market value
+T266	Term_Common 11797 11803	market
+T267	Term_Common 11933 11939	market
+T268	Named_Entity 11977 11985	SoftBank
+T269	Term 12012 12033	market capitalisation
+T270	Term_Common 12012 12018	market
+T271	Term 12261 12282	market capitalisation
+T272	Term_Common 12261 12267	market
+T273	Named_Entity 12383 12386	Son
+T274	Named_Entity 12477 12485	SoftBank
+T275	Term_Common 12570 12576	market
+T276	Term_Common 12612 12618	shares
+T277	Term_Common 12619 12624	trade
+T278	Named_Entity 12660 12668	SoftBank
+T279	Term 12671 12677	assets
+T280	Named_Entity 12690 12693	Son
+T125	Part_of_Term 2126 2137	tech stocks
+T281	Part_of_Term 2116 2122	listed
+R1	Split_Term Arg1:T281 Arg2:T125	
+T91	Term_Common 5480 5485	rally
+T92	Term 8743 8749	listed

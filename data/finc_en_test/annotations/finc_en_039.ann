@@ -1,0 +1,175 @@
+T1	Term_Common 0 16	Global investors
+T2	Term_Common 7 16	investors
+T3	Named_Entity 34 39	China
+T4	Term 42 62	green bond minefield
+T5	Term 42 52	green bond
+T6	Term 48 52	bond
+T7	Term_Common 81 87	market
+T8	Term 258 274	green bond deals
+T9	Term 258 268	green bond
+T10	Term 264 268	bond
+T11	Named_Entity 331 336	China
+T12	Term 339 365	domestic green bond market
+T13	Term 348 358	green bond
+T14	Term 354 358	bond
+T15	Term_Common 359 365	market
+T16	Term_Common 391 407	global investors
+T17	Term_Common 398 407	investors
+T18	Term 448 458	green debt
+T19	Term_Common 454 458	debt
+T20	Term_Common 534 540	market
+T21	Term_Common 599 608	investors
+T22	Term_Common 710 716	market
+T23	Named_Entity 792 810	Xuan Sheng Ou Yong
+T24	Term 814 832	green bond analyst
+T25	Term 814 824	green bond
+T26	Term 820 824	bond
+T27	Named_Entity 836 864	BNP Paribas Asset Management
+T28	Named_Entity 868 877	Hong Kong
+T29	Term 915 934	green bond issuance
+T30	Term 915 925	green bond
+T31	Term 921 925	bond
+T32	Named_Entity 1000 1008	Dealogic
+T33	Term_Common 1053 1059	market
+T34	Term 1097 1113	green bond deals
+T35	Term 1097 1107	green bond
+T36	Term 1103 1107	bond
+T37	Term 1176 1189	Green finance
+T38	Term_Common 1182 1189	finance
+T39	Term 1242 1256	asset managers
+T40	Term_Common 1261 1274	pension funds
+T41	Term_Common 1242 1247	asset
+T42	Term_Common 1269 1274	funds
+T43	Term_Common 1281 1290	investors
+T44	Term_Out_of_Domain 1344 1347	ESG
+T45	Term_Common 1380 1386	invest
+T46	Term 1507 1517	green bond
+T47	Term 1513 1517	bond
+T48	Term 1688 1711	green finance standards
+T49	Term 1688 1701	green finance
+T50	Term_Common 1694 1701	finance
+T51	Named_Entity 1717 1757	International Capital Market Association
+T52	Named_Entity 1759 1763	ICMA
+T53	Named_Entity 1790 1811	Green Bond Principles
+T54	Named_Entity 1872 1877	China
+T55	Term_Common 1880 1895	domestic market
+T56	Term_Common 1889 1895	market
+T57	Term 1918 1929	green bonds
+T58	Term 1924 1929	bonds
+T59	Term 2045 2062	green bond market
+T60	Term 2045 2055	green bond
+T61	Term 2051 2055	bond
+T62	Term_Common 2056 2062	market
+T63	Term_Common 2080 2097	foreign investors
+T64	Term_Common 2088 2097	investors
+T65	Term 2147 2174	global green bond investors
+T66	Term 2154 2174	green bond investors
+T67	Term 2160 2164	bond
+T68	Term_Common 2165 2174	investors
+T69	Named_Entity 2195 2200	China
+T70	Term 2233 2250	green bond market
+T71	Term 2233 2243	green bond
+T72	Term 2239 2243	bond
+T73	Term_Common 2244 2250	market
+T74	Named_Entity 2258 2267	Singapore
+T75	Named_Entity 2274 2290	Paul Lukaszewski
+T76	Named_Entity 2292 2321	Aberdeen Standard Investments
+T77	Term_Common 2331 2345	corporate debt
+T78	Term_Common 2341 2345	debt
+T79	Named_Entity 2350 2354	Asia
+T80	Named_Entity 2359 2368	Australia
+T81	Named_Entity 2480 2501	Green Bond Principles
+T82	Named_Entity 2509 2533	Climate Bonds Initiative
+T83	Term_Common 2543 2559	global investors
+T84	Term_Common 2550 2559	investors
+T85	Named_Entity 2656 2661	China
+T86	Term 2664 2678	onshore market
+T87	Term_Common 2672 2678	market
+T88	Term 2799 2814	working capital
+T89	Term_Common 2807 2814	capital
+T90	Term_Common 2858 2874	global investors
+T91	Term_Common 2865 2874	investors
+T92	Term_Common 2900 2906	market
+T93	Term_Common 3028 3037	investors
+T94	Named_Entity 3046 3051	China
+T95	Named_Entity 3115 3120	China
+T96	Term 3143 3156	fund managers
+T97	Term 3143 3147	fund
+T98	Named_Entity 3262 3267	China
+T99	Term_Out_of_Domain 3324 3338	carbon capture
+T100	Term_Out_of_Domain 3343 3355	coal washing
+T102	Term 3412 3423	green bonds
+T103	Term 3418 3423	bonds
+T104	Named_Entity 3427 3432	China
+T105	Term_Out_of_Domain 3500 3512	greenwashing
+T106	Term_Common 3550 3554	debt
+T107	Term_Common 3609 3618	investing
+T108	Term 3704 3716	bond issuers
+T109	Term 3704 3708	bond
+T110	Term 3784 3804	offshore green bonds
+T111	Term 3793 3804	green bonds
+T112	Term 3799 3804	bonds
+T113	Term 3901 3911	securities
+T114	Term_Common 3975 3984	investors
+T115	Term 4007 4026	green bond issuance
+T116	Term 4007 4017	green bond
+T117	Term 4013 4017	bond
+T118	Term 4034 4049	offshore market
+T119	Term_Common 4043 4049	market
+T120	Named_Entity 4062 4083	Green Bond Principles
+T121	Term_Common 4089 4112	international investors
+T122	Term_Common 4103 4112	investors
+T123	Named_Entity 4229 4243	Mushtaq Kapasi
+T124	Named_Entity 4249 4253	ICMA
+T125	Named_Entity 4285 4297	Asia-Pacific
+T126	Term_Common 4328 4332	debt
+T127	Term_Common 4389 4395	market
+T128	Term_Common 4517 4526	investors
+T129	Named_Entity 4616 4621	China
+T130	Term 4624 4638	onshore market
+T131	Term_Common 4632 4638	market
+T132	Term_Common 4672 4688	global investors
+T133	Term_Common 4679 4688	investors
+T134	Named_Entity 4701 4706	China
+T135	Term_Common 4709 4721	central bank
+T136	Term_Common 4717 4721	bank
+T137	Term_Out_of_Domain 4742 4752	clean coal
+T138	Term 4783 4802	green bonds funding
+T139	Term 4783 4794	green bonds
+T140	Term 4789 4794	bonds
+T141	Term_Common 4795 4802	funding
+T142	Term_Common 4883 4903	financial disclosure
+T143	Term_Common 4883 4892	financial
+T144	Term 4993 5004	green bonds
+T145	Term 4999 5004	bonds
+T146	Term_Common 5019 5028	investors
+T147	Term_Out_of_Domain 5072 5075	ESG
+T148	Term_Common 5104 5113	investors
+T149	Term 5137 5154	green bond market
+T150	Term_Common 5148 5154	market
+T151	Term 5137 5147	green bond
+T152	Term 5143 5147	bond
+T153	Term_Common 5160 5179	trading environment
+T154	Term_Common 5160 5167	trading
+T155	Term 5188 5198	securities
+T156	Term_Common 5246 5262	global investors
+T157	Term_Common 5253 5262	investors
+T158	Term 5274 5287	liquid market
+T159	Term_Common 5281 5287	market
+T160	Named_Entity 5294 5299	China
+T161	Term_Out_of_Domain 5318 5321	ESG
+T162	Term 5326 5342	green investment
+T163	Term_Common 5332 5342	investment
+T164	Term 5366 5378	asset owners
+T165	Term 5366 5371	asset
+T166	Named_Entity 5386 5393	Nan Luo
+T167	Named_Entity 5403 5408	China
+T168	Named_Entity 5416 5418	UN
+T169	Named_Entity 5426 5463	Principles for Responsible Investment
+T170	Term 313 328	working capital
+T171	Term 321 328	capital
+T101	Term_Out_of_Domain 3359 3369	clean coal
+T172	Term_Out_of_Domain 5072 5086	ESG frameworks
+T173	Part_of_Term 2884 2891	onshore
+T174	Part_of_Term 2900 2906	market
+R1	Split_Term Arg1:T173 Arg2:T174	

@@ -1,0 +1,122 @@
+T1	Term_Common 15 30	investment bank
+T2	Term_Common 15 25	investment
+T3	Term_Common 26 30	bank
+T4	Term 70 88	investment horizon
+T5	Term_Common 70 80	investment
+T6	Named_Entity 122 126	SNIB
+T7	Named_Entity 145 147	FT
+T8	Named_Entity 164 172	Scotland
+T9	Term_Common 179 203	national investment bank
+T10	Term_Common 188 203	investment bank
+T11	Term_Common 188 198	investment
+T12	Term_Common 199 203	bank
+T14	Term 282 289	capital
+T15	Named_Entity 442 453	Willie Watt
+T16	Named_Entity 468 483	Financial Times
+T17	Named_Entity 493 526	Scottish National Investment Bank
+T18	Term_Common 586 595	financing
+T19	Named_Entity 796 800	SNIB
+T20	Term 814 821	capital
+T22	Term_Common 911 923	growth rates
+T23	Term 1004 1023	investment horizons
+T24	Term_Common 1004 1014	investment
+T25	Term_Common 1109 1114	funds
+T26	Term_Common 1137 1158	commercial investment
+T27	Term_Common 1148 1158	investment
+T28	Named_Entity 1224 1228	Watt
+T29	Named_Entity 1273 1282	Edinburgh
+T30	Term 1283 1296	asset manager
+T31	Term 1283 1288	asset
+T32	Named_Entity 1297 1310	Martin Currie
+T33	Term_Common 1416 1425	investing
+T34	Named_Entity 1535 1539	SNIB
+T35	Named_Entity 1574 1591	Mariana Mazzucato
+T36	Named_Entity 1593 1618	University College London
+T37	Named_Entity 1619 1623	SNIB
+T38	Named_Entity 1646 1648	UK
+T39	Named_Entity 1497 1499	UK
+T41	Term_Common 1697 1707	investment
+T42	Term_Common 1711 1723	public funds
+T43	Term 1718 1723	funds
+T44	Named_Entity 1783 1785	UK
+T46	Term_Common 1850 1854	bank
+T47	Named_Entity 1908 1932	European Investment Bank
+T48	Term_Out_of_Domain 1954 1960	Brexit
+T49	Named_Entity 2046 2050	SNIB
+T50	Named_Entity 2060 2064	Watt
+T51	Named_Entity 2211 2230	European Commission
+T52	Named_Entity 2237 2239	EU
+T53	Named_Entity 2337 2341	Watt
+T54	Named_Entity 2455 2459	SNIB
+T56	Term_Out_of_Domain 2489 2514	net zero carbon emissions
+T58	Term_Common 2524 2533	investing
+T59	Term_Common 2602 2609	funding
+T60	Named_Entity 2666 2683	Mariana Mazzucato
+T61	Named_Entity 2700 2725	University College London
+T62	Named_Entity 2776 2778	UK
+T67	Term_Common 2840 2862	public investment bank
+T68	Term_Common 2847 2862	investment bank
+T69	Term_Common 2858 2862	bank
+T70	Term_Common 2847 2857	investment
+T71	Named_Entity 2885 2887	UK
+T72	Named_Entity 2923 2956	Scottish National Investment Bank
+T73	Named_Entity 2997 3006	Mazzucato
+T74	Term_Common 3061 3072	investments
+T75	Term_Common 3078 3082	bank
+T78	Term_Common 3220 3231	state banks
+T79	Term_Common 3226 3231	banks
+T80	Named_Entity 3267 3277	Ross Brown
+T81	Named_Entity 3339 3360	St Andrews university
+T83	Term_Common 3319 3335	business finance
+T84	Term_Common 3328 3335	finance
+T85	Named_Entity 3393 3397	SNIB
+T86	Term_Common 3398 3408	investment
+T87	Term_Common 3480 3484	bank
+T88	Term_Common 3539 3543	bank
+T89	Term_Common 3576 3580	bank
+T90	Term 3636 3639	SME
+T91	Named_Entity 3652 3657	Brown
+T92	Named_Entity 3677 3685	Scotland
+T93	Term_Common 3829 3836	finance
+T94	Named_Entity 3843 3847	Watt
+T95	Named_Entity 3857 3861	SNIB
+T96	Term 3864 3882	investment horizon
+T97	Term_Common 3864 3874	investment
+T98	Term 3951 3969	equity investments
+T99	Term 3951 3957	equity
+T100	Term_Common 3958 3969	investments
+T101	Term_Common 4027 4037	investment
+T102	Term_Common 4103 4113	investment
+T103	Term 4190 4215	venture capital investors
+T104	Term_Common 4206 4215	investors
+T105	Term 4190 4205	venture capital
+T106	Term 4251 4268	equity investment
+T107	Term 4251 4257	equity
+T108	Term_Common 4258 4268	investment
+T109	Named_Entity 4446 4450	Watt
+T110	Named_Entity 4663 4667	SNIB
+T111	Term_Common 4883 4890	finance
+T112	Named_Entity 4922 4926	Watt
+T113	Term_Common 5075 5082	finance
+T114	Term_Common 5194 5198	bank
+T115	Term_Common 5212 5229	private investors
+T116	Term_Common 5220 5229	investors
+T117	Named_Entity 5319 5323	Watt
+T118	Named_Entity 5478 5483	Brown
+T119	Term 5608 5642	private sector venture capitalists
+T120	Term 5623 5642	venture capitalists
+T121	Named_Entity 5703 5707	Watt
+T122	Named_Entity 5713 5717	SNIB
+T123	Term 5855 5869	private equity
+T124	Term 5863 5869	equity
+T125	Term 5873 5894	venture capital firms
+T126	Term 5873 5888	venture capital
+T21	Term_Common 61 67	lender
+T13	Term_Common 918 923	rates
+T40	Term_Common 1835 1854	infrastructure bank
+T55	Term_Out_of_Domain 2489 2522	net zero carbon emissions economy
+T63	Term 4198 4205	capital
+T64	Term_Common 4520 4526	invest
+T65	Term_Common 5515 5519	bank
+T66	Term 5881 5888	capital
+T45	Term_Common 2759 2765	lender

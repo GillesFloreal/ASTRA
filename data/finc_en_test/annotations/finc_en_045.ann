@@ -1,0 +1,113 @@
+T1	Term 0 15	Blended finance
+T2	Term_Common 8 15	finance
+T3	Term 92 107	private capital
+T4	Term 100 107	capital
+T5	Named_Entity 358 360	UN
+T6	Named_Entity 363 396	Food and Agriculture Organization
+T7	Named_Entity 569 582	Latin America
+T8	Named_Entity 584 590	Africa
+T9	Named_Entity 595 610	south-east Asia
+T10	Named_Entity 761 808	International Fund for Agricultural Development
+T11	Named_Entity 824 826	UN
+T12	Term 902 920	concessional loans
+T13	Term_Common 915 920	loans
+T14	Named_Entity 987 991	Ifad
+T15	Term 1051 1066	private capital
+T16	Term 1059 1066	capital
+T17	Term_Common 1115 1121	invest
+T18	Term 1208 1225	direct investment
+T19	Term_Common 1215 1225	investment
+T20	Term 1270 1278	fund run
+T21	Term 1270 1274	fund
+T22	Named_Entity 1282 1305	Bamboo Capital Partners
+T23	Term 1309 1338	social impact investment firm
+T24	Term_Common 1323 1338	investment firm
+T25	Term_Common 1323 1333	investment
+T26	Named_Entity 1345 1351	Bamboo
+T27	Term 1352 1356	fund
+T28	Term 1374 1389	blended finance
+T29	Term_Common 1382 1389	finance
+T30	Term 1400 1407	capital
+T32	Named_Entity 1537 1541	Ifad
+T33	Term 1554 1558	fund
+T35	Term_Common 1590 1599	investors
+T36	Term_Common 1696 1706	investment
+T37	Term_Common 1711 1718	finance
+T38	Term_Common 1711 1725	finance models
+T39	Part_of_Term_Common 1696 1706	investment
+T40	Part_of_Term_Common 1719 1725	models
+R1	Split_Term_Com Arg1:T39 Arg2:T40	
+T41	Named_Entity 1794 1805	Ron Hartman
+T42	Named_Entity 1880 1884	Ifad
+T43	Named_Entity 1891 1898	Hartman
+T44	Term_Common 2263 2269	invest
+T45	Named_Entity 2338 2345	Hartman
+T46	Named_Entity 2356 2358	UN
+T47	Named_Entity 2542 2546	Ifad
+T48	Named_Entity 2620 2624	Mars
+T49	Named_Entity 2773 2781	Sulawesi
+T50	Term_Common 2880 2887	finance
+T51	Term_Common 2917 2923	invest
+T52	Named_Entity 3098 3106	Sulawesi
+T53	Named_Entity 3209 3213	Mars
+T54	Named_Entity 3259 3263	Ifad
+T55	Term 3287 3305	concessional loans
+T56	Term_Common 3300 3305	loans
+T57	Term_Common 3309 3313	fund
+T58	Named_Entity 3516 3523	Hartman
+T59	Named_Entity 3615 3624	IDH Trade
+T60	Named_Entity 3688 3693	USAID
+T61	Named_Entity 3695 3702	Hamburg
+T62	Named_Entity 3709 3730	Neumann Kaffee Gruppe
+T63	Named_Entity 3741 3749	ABN Amro
+T64	Named_Entity 3751 3762	BNP Paribas
+T65	Named_Entity 3767 3775	Rabobank
+T66	Term 3802 3823	revolving credit line
+T67	Term 3802 3818	revolving credit
+T68	Term_Common 3812 3818	credit
+T69	Named_Entity 3835 3874	Coffee Smallholder Livelihoods Facility
+T70	Named_Entity 3877 3888	Daan de Wit
+T71	Named_Entity 3904 3913	IDH Trade
+T72	Term 3977 3998	commercial investment
+T73	Term_Common 3988 3998	investment
+T74	Term 4034 4050	creditworthiness
+T75	Term_Common 4148 4163	commercial bank
+T76	Term_Common 4159 4163	bank
+T77	Named_Entity 4241 4244	IDH
+T78	Named_Entity 4249 4263	Neumann Kaffee
+T80	Named_Entity 4305 4310	USAID
+T82	Term 4373 4388	private lenders
+T83	Term_Common 4381 4388	lenders
+T84	Named_Entity 4391 4402	Agnes Johan
+T85	Term 4412 4427	blended finance
+T86	Term_Common 4420 4427	finance
+T87	Named_Entity 4431 4439	Rabobank
+T88	Term_Common 4467 4471	bank
+T89	Term_Common 4474 4495	charitable foundation
+T90	Term_Common 4485 4495	foundation
+T91	Term_Common 4530 4545	commercial bank
+T92	Term_Common 4541 4545	bank
+T93	Term_Out_of_Domain 4797 4809	smallholders
+T94	Term_Out_of_Domain 4694 4705	smallholder
+T95	Term_Out_of_Domain 4512 4524	smallholders
+T96	Term_Out_of_Domain 2853 2865	smallholders
+T97	Term_Out_of_Domain 3459 3471	smallholders
+T98	Term_Out_of_Domain 4960 4972	smallholders
+T99	Term_Out_of_Domain 5499 5511	smallholders
+T100	Named_Entity 4842 4851	IDH Trade
+T101	Named_Entity 5043 5048	Johan
+T102	Named_Entity 5107 5110	IDH
+T103	Named_Entity 5189 5201	Farmfit Fund
+T104	Term_Common 5257 5263	borrow
+T105	Term_Common 5364 5373	investors
+T106	Named_Entity 5416 5422	de Wit
+T107	Term_Common 5464 5479	financial world
+T108	Term_Common 5464 5473	financial
+T109	Term_Common 5489 5495	invest
+T110	Named_Entity 5856 5861	Johan
+T111	Term_Common 3194 3207	market access
+T112	Term_Common 3194 3200	market
+T113	Term_Common 2946 2959	market access
+T114	Term_Common 2946 2952	market
+T31	Named_Entity 2630 2632	US
+T34	Term_Common 4814 4824	investable

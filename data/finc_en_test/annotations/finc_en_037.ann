@@ -1,0 +1,124 @@
+T1	Named_Entity 1 6	China
+T2	Term 7 20	Green Finance
+T3	Term_Common 13 20	Finance
+T4	Named_Entity 21 26	China
+T5	Term 29 46	green bond market
+T6	Term 35 46	bond market
+T7	Term 35 39	bond
+T8	Term_Common 40 46	market
+T9	Term_Common 71 94	international investors
+T10	Term_Common 85 94	investors
+T11	Named_Entity 162 167	China
+T12	Term 219 250	global green finance guidelines
+T13	Term 226 250	green finance guidelines
+T14	Term_Common 232 250	finance guidelines
+T15	Term_Common 232 239	finance
+T16	Named_Entity 254 259	China
+T17	Term 260 271	green bonds
+T18	Term 266 271	bonds
+T19	Term_Common 330 348	foreign investment
+T20	Term_Common 338 348	investment
+T21	Named_Entity 412 420	Wang Yao
+T22	Named_Entity 429 434	China
+T23	Term 445 466	green finance experts
+T24	Term 445 458	green finance
+T25	Term_Common 451 466	finance experts
+T26	Term_Common 451 458	finance
+T27	Named_Entity 484 537	Beijing’s Central University of Finance and Economics
+T28	Term 572 599	global green bond standards
+T29	Term 579 599	green bond standards
+T30	Term 579 589	green bond
+T31	Term 585 589	bond
+T32	Named_Entity 670 675	China
+T33	Term_Common 699 708	financing
+T34	Term 743 754	green bonds
+T35	Term 749 754	bonds
+T36	Term_Common 798 815	foreign investors
+T37	Term_Common 806 815	investors
+T38	Term 861 884	sustainable debt market
+T39	Term_Common 873 884	debt market
+T40	Term_Common 873 877	debt
+T41	Term_Common 878 884	market
+T42	Named_Entity 1011 1015	Wang
+T43	Named_Entity 1025 1027	FT
+T44	Named_Entity 1097 1137	International Institute of Green Finance
+T45	Term_Common 1189 1212	international investors
+T46	Term_Common 1203 1212	investors
+T47	Named_Entity 1225 1230	China
+T48	Named_Entity 1283 1307	Climate Bonds Initiative
+T49	Named_Entity 1309 1312	CBI
+T50	Named_Entity 1317 1319	UK
+T51	Term 1326 1342	markets watchdog
+T52	Term_Common 1326 1333	markets
+T53	Named_Entity 1483 1488	China
+T54	Term_Out_of_Domain 1600 1612	coal washing
+T55	Term_Out_of_Domain 1617 1631	carbon capture
+T56	Term 1689 1702	green finance
+T57	Term_Common 1695 1702	finance
+T58	Named_Entity 1710 1715	China
+T59	Named_Entity 2068 2073	China
+T60	Named_Entity 2203 2208	China
+T61	Named_Entity 2272 2280	Wang Yao
+T62	Term 2377 2388	green bonds
+T63	Term 2383 2388	bonds
+T64	Named_Entity 2443 2465	People’s Bank of China
+T65	Term_Common 2483 2495	central bank
+T66	Term_Common 2491 2495	bank
+T67	Term 2522 2541	green bond issuance
+T68	Term 2528 2532	bond
+T69	Named_Entity 2575 2580	China
+T70	Named_Entity 2642 2644	US
+T71	Named_Entity 2669 2672	CBI
+T72	Term 2696 2707	green bonds
+T73	Term 2702 2707	bonds
+T74	Named_Entity 2718 2723	China
+T75	Term_Common 2785 2791	funded
+T76	Named_Entity 2842 2845	CBI
+T77	Term 2908 2920	green assets
+T78	Term 2914 2920	assets
+T79	Term_Common 2938 2961	international investors
+T80	Term_Common 2952 2961	investors
+T81	Named_Entity 2988 2993	China
+T82	Term 3004 3021	green bond market
+T83	Term 3010 3021	bond market
+T84	Term 3010 3014	bond
+T85	Term_Common 3015 3021	market
+T86	Term_Common 3034 3038	debt
+T87	Named_Entity 3092 3096	Wang
+T88	Named_Entity 3169 3174	China
+T89	Term 3177 3197	green finance system
+T90	Term_Common 3183 3197	finance system
+T91	Term_Common 3183 3190	finance
+T92	Term_Common 3245 3257	stakeholders
+T93	Named_Entity 3265 3270	China
+T94	Term_Common 3428 3434	invest
+T95	Named_Entity 3445 3450	China
+T96	Named_Entity 3513 3518	China
+T97	Named_Entity 3588 3592	Wang
+T98	Named_Entity 3668 3675	Eurasia
+T99	Named_Entity 3686 3710	Belt and Road Initiative
+T100	Term_Common 3722 3734	trade routes
+T101	Term_Common 3722 3727	trade
+T102	Named_Entity 3743 3748	China
+T103	Term_Common 3843 3850	funding
+T104	Named_Entity 3856 3860	Wang
+T105	Named_Entity 3942 3947	China
+T106	Term 3974 3995	sustainable financing
+T107	Term_Common 3986 3995	financing
+T108	Named_Entity 4014 4019	China
+T109	Named_Entity 4165 4169	Wang
+T110	Named_Entity 4295 4300	China
+T111	Term_Common 4464 4473	investors
+T112	Named_Entity 4491 4496	China
+T113	Term_Common 4732 4741	investors
+T114	Named_Entity 4804 4808	Wang
+T115	Named_Entity 5015 5020	China
+T116	Term_Common 5154 5168	financial risk
+T117	Term_Common 5154 5163	financial
+T118	Term_Common 678 690	central bank
+T119	Term_Common 686 690	bank
+T120	Term 2585 2593	issuance
+T121	Term_Common 4580 4596	listed companies
+T122	Term_Common 4580 4586	listed
+T124	Term 2522 2532	green bond
+T125	Term 3004 3014	green bond

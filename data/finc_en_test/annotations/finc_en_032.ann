@@ -1,0 +1,121 @@
+T1	Named_Entity 1 3	US
+T2	Term_Common 4 17	stock markets
+T3	Term_Common 4 9	stock
+T4	Term_Common 10 17	markets
+T5	Term_Common 18 23	rally
+T6	Named_Entity 30 35	Trump
+T7	Term_Common 67 73	stocks
+T8	Term 93 103	volatility
+T9	Named_Entity 123 125	US
+T10	Term_Common 126 132	stocks
+T11	Named_Entity 176 188	Donald Trump
+T12	Named_Entity 316 323	S&P 500
+T13	Term 324 329	index
+T14	Named_Entity 378 394	Nasdaq Composite
+T15	Term 423 430	indices
+T16	Named_Entity 471 476	Trump
+T17	Named_Entity 529 538	Democrats
+T18	Named_Entity 612 617	Trump
+T19	Named_Entity 651 658	Twitter
+T20	Named_Entity 781 793	Nancy Pelosi
+T21	Named_Entity 825 849	House of Representatives
+T22	Named_Entity 935 941	Pelosi
+T23	Named_Entity 981 986	Trump
+T24	Named_Entity 1102 1114	Mark Meadows
+T25	Named_Entity 1120 1131	White House
+T26	Named_Entity 1152 1164	Larry Kudlow
+T27	Named_Entity 1182 1207	National Economic Council
+T29	Named_Entity 1284 1294	Yanmei Xie
+T30	Named_Entity 1318 1325	Gavekal
+T31	Named_Entity 1341 1352	Republicans
+T32	Named_Entity 1357 1366	Democrats
+T33	Term_Common 1454 1468	fiscal support
+T34	Term_Common 1454 1460	fiscal
+T35	Named_Entity 1527 1542	Kasper Elmgreen
+T36	Term 1556 1571	equity platform
+T37	Term 1556 1562	equity
+T38	Term 1575 1587	fund manager
+T39	Term 1575 1579	fund
+T40	Named_Entity 1588 1594	Amundi
+T41	Named_Entity 1764 1779	Financial Times
+T42	Named_Entity 1781 1783	US
+T43	Named_Entity 1829 1838	Joe Biden
+T44	Named_Entity 1862 1867	Trump
+T45	Named_Entity 1922 1927	House
+T46	Term_Common 1953 1976	fiscal stimulus package
+T47	Term_Common 1953 1959	fiscal
+T48	Named_Entity 2001 2006	Trump
+T49	Named_Entity 2072 2081	Democrats
+T50	Named_Entity 2107 2115	Congress
+T51	Term_Common 2142 2155	stock markets
+T52	Term_Common 2142 2147	stock
+T53	Term_Common 2148 2155	markets
+T54	Named_Entity 2189 2203	Sean Markowicz
+T55	Term 2205 2222	equity strategist
+T56	Term 2205 2211	equity
+T57	Named_Entity 2226 2235	Schroders
+T58	Term_Common 2286 2306	fiscal stimulus bill
+T59	Term_Common 2286 2301	fiscal stimulus
+T60	Term_Common 2286 2292	fiscal
+T61	Term_Common 1953 1968	fiscal stimulus
+T62	Term_Common 2331 2342	investments
+T63	Named_Entity 2380 2389	Markowicz
+T64	Named_Entity 2420 2422	US
+T65	Term_Common 2423 2436	stock markets
+T66	Term_Common 2423 2428	stock
+T67	Term_Common 2429 2436	markets
+T68	Term_Common 2469 2481	share prices
+T69	Term_Common 2469 2474	share
+T70	Named_Entity 2501 2506	Apple
+T71	Named_Entity 2508 2514	Amazon
+T72	Named_Entity 2516 2524	Facebook
+T73	Named_Entity 2529 2535	Google
+T74	Named_Entity 2545 2553	Alphabet
+T75	Named_Entity 2577 2585	Congress
+T76	Term_Common 2663 2669	shares
+T77	Named_Entity 2704 2711	S&P 500
+T78	Named_Entity 2730 2732	US
+T79	Term_Common 2733 2739	stocks
+T80	Named_Entity 2762 2777	Federal Reserve
+T81	Term 2787 2794	minutes
+T82	Term_Common 2835 2847	central bank
+T83	Term_Common 2843 2847	bank
+T84	Term_Common 2867 2872	rates
+T85	Term_Common 2942 2951	Investors
+T86	Named_Entity 2959 2961	US
+T87	Term_Common 2962 2968	stocks
+T88	Named_Entity 3034 3038	Cboe
+T89	Named_Entity 3041 3044	Vix
+T90	Term 3045 3050	index
+T91	Term 3080 3090	volatility
+T92	Named_Entity 3098 3105	S&P 500
+T93	Term_Common 2981 2988	trading
+T94	Term 3216 3233	Futures contracts
+T95	Term 3216 3223	Futures
+T96	Named_Entity 3241 3244	Vix
+T97	Term_Common 3250 3259	investors
+T98	Named_Entity 3287 3298	Wall Street
+T99	Term_Common 3369 3375	stocks
+T100	Named_Entity 3418 3429	Wall Street
+T101	Named_Entity 3449 3458	Stoxx 600
+T102	Term_Common 3465 3472	trading
+T103	Term_Common 3518 3534	trading partners
+T104	Term_Common 3518 3525	trading
+T105	Named_Entity 3637 3639	US
+T106	Term 3741 3755	Treasury bonds
+T107	Term 3750 3755	bonds
+T108	Named_Entity 3730 3732	US
+T109	Named_Entity 3899 3910	Brent crude
+T110	Term_Common 4 23	stock markets rally
+T28	Named_Entity 1435 1437	US
+T111	Named_Entity 1688 1690	US
+T112	Term 3459 3464	index
+T113	Term_Common 49 57	stimulus
+T114	Term_Common 205 218	stimulus bill
+T115	Term_Common 205 213	stimulus
+T116	Term_Common 726 741	stimulus checks
+T117	Term_Common 726 734	stimulus
+T118	Term_Common 903 911	stimulus
+T119	Term_Common 1727 1735	stimulus
+T120	Term_Common 2293 2301	stimulus
+T121	Term 3741 3749	Treasury

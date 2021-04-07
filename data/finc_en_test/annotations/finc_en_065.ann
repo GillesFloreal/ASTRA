@@ -1,0 +1,24 @@
+T1	Term_Common 17 34	Business Finances
+T2	Term_Common 26 34	Finances
+T3	Term_Common 223 228	debts
+T4	Term_Common 185 194	cash flow
+T5	Term_Common 349 368	financial situation
+T6	Term_Common 349 358	financial
+T7	Term_Common 427 435	finances
+T8	Term_Common 777 786	creditors
+T9	Term_Common 1401 1405	debt
+T10	Term_Out_of_Domain 1741 1764	supply chain management
+T11	Term_Out_of_Domain 1979 2010	supply chain management company
+T12	Term_Out_of_Domain 1979 2002	supply chain management
+T13	Term_Out_of_Domain 1741 1753	supply chain
+T14	Term_Out_of_Domain 1979 1991	supply chain
+T15	Term_Out_of_Domain 2123 2154	supply chain management company
+T16	Term_Out_of_Domain 2123 2146	supply chain management
+T17	Term_Out_of_Domain 2123 2135	supply chain
+T18	Term_Out_of_Domain 2278 2292	data analytics
+T19	Term_Out_of_Domain 2295 2309	Data analytics
+T20	Term_Out_of_Domain 2329 2341	data science
+T21	Term_Common 2519 2526	finance
+T22	Term_Common 2861 2869	finances
+T23	Term_Common 3792 3803	tax returns
+T24	Term_Common 3792 3795	tax

@@ -1,0 +1,154 @@
+T1	Term 0 11	Hedge funds
+T2	Term 6 11	funds
+T3	Term_Common 21 37	emerging markets
+T4	Term_Common 30 37	markets
+T5	Term_Common 75 96	Trading opportunities
+T6	Term_Common 75 82	Trading
+T7	Term 219 230	hedge funds
+T8	Term 225 230	funds
+T9	Term 259 278	debt restructurings
+T10	Term_Common 259 263	debt
+T11	Named_Entity 303 309	Zambia
+T12	Term_Common 330 353	international creditors
+T13	Term_Common 344 353	creditors
+T14	Term_Common 359 372	debt payments
+T15	Term_Common 359 363	debt
+T16	Term 440 450	hedge fund
+T17	Term 446 450	fund
+T18	Term 455 481	traditional bond investors
+T19	Term_Common 472 481	investors
+T20	Term 467 471	bond
+T21	Term 455 471	traditional bond
+T22	Part_of_Term 440 450	hedge fund
+T23	Part_of_Term 472 481	investors
+R1	Split_Term Arg1:T22 Arg2:T23	
+T25	Term_Common 533 543	debt-laden
+T26	Term_Common 563 585	debt interest payments
+T27	Term_Common 563 576	debt interest
+T28	Term_Common 563 567	debt
+T29	Term_Common 568 576	interest
+T30	Term_Common 628 633	debts
+T31	Named_Entity 715 721	Zambia
+T32	Term 735 740	funds
+T33	Term_Common 801 811	Debt deals
+T34	Term_Common 801 805	Debt
+T35	Named_Entity 815 822	Ecuador
+T36	Named_Entity 827 836	Argentina
+T37	Term_Common 975 984	borrowing
+T38	Term 1042 1053	hedge funds
+T39	Term 1048 1053	funds
+T40	Term_Common 1066 1087	trading opportunities
+T41	Term_Common 1066 1073	trading
+T42	Named_Entity 1135 1137	US
+T43	Term 1138 1148	hedge fund
+T44	Term 1144 1148	fund
+T45	Named_Entity 1149 1167	Elliott Management
+T46	Named_Entity 1280 1289	Argentina
+T47	Term 1340 1359	hedge fund holdouts
+T48	Term 1346 1350	fund
+T49	Named_Entity 1375 1381	Greece
+T50	Term 1445 1456	hedge funds
+T51	Term 1451 1456	funds
+T52	Term 1593 1604	hedge funds
+T53	Term 1599 1604	funds
+T54	Term_Common 1630 1634	debt
+T55	Term 1663 1682	Debt restructurings
+T56	Term_Common 1663 1667	Debt
+T57	Term 1696 1707	hedge funds
+T58	Term 1702 1707	funds
+T59	Term 1899 1904	Bonds
+T60	Term_Common 1915 1920	trade
+T61	Term 1968 1988	hedge fund executive
+T62	Term 1974 1978	fund
+T63	Term 1340 1350	hedge fund
+T64	Term 1968 1978	hedge fund
+T65	Named_Entity 2008 2017	Venezuela
+T66	Term_Common 2039 2043	debt
+T67	Term_Common 2044 2051	trading
+T68	Named_Entity 2087 2099	Lee Robinson
+T69	Named_Entity 2112 2125	Altana Wealth
+T70	Named_Entity 2151 2175	Trafalgar Asset Managers
+T71	Term 2200 2204	fund
+T72	Term_Common 2208 2214	invest
+T73	Term_Common 2222 2226	debt
+T74	Term_Common 2236 2245	investors
+T75	Term 2309 2337	sovereign debt restructuring
+T76	Term 2319 2337	debt restructuring
+T77	Term_Common 2319 2323	debt
+T78	Term 2390 2401	EM equities
+T79	Term 2393 2401	equities
+T82	Named_Entity 2448 2454	Brazil
+T83	Named_Entity 2456 2462	Russia
+T84	Named_Entity 2464 2469	India
+T85	Named_Entity 2474 2479	China
+T86	Named_Entity 2522 2524	US
+T87	Term_Common 2525 2537	stock market
+T88	Term_Common 2525 2530	stock
+T89	Term_Common 2531 2537	market
+T90	Term_Common 2578 2594	financial crisis
+T91	Term_Common 2578 2587	financial
+T92	Term 2648 2659	hedge funds
+T94	Term 2654 2659	funds
+T96	Named_Entity 2737 2746	eVestment
+T97	Term 2763 2768	funds
+T98	Term_Common 2814 2823	investors
+T99	Term 2849 2860	hedge funds
+T100	Term 2855 2860	funds
+T101	Named_Entity 2871 2877	Robeco
+T102	Named_Entity 2895 2897	US
+T103	Term_Common 2898 2904	stocks
+T105	Term_Common 3009 3016	trading
+T106	Term_Common 3079 3095	emerging markets
+T107	Term_Common 3118 3135	developed markets
+T108	Term_Common 3128 3135	markets
+T109	Named_Entity 3235 3248	Sanjiv Bhatia
+T110	Named_Entity 3262 3287	Pembroke Emerging Markets
+T111	Term 3288 3298	hedge fund
+T112	Term 3294 3298	fund
+T113	Term 3327 3341	EM hedge funds
+T114	Term_Common 3327 3329	EM
+T115	Term 3336 3341	funds
+T116	Term 3330 3341	hedge funds
+T117	Named_Entity 3439 3442	HFR
+T118	Term 3457 3476	hedge fund industry
+T119	Term 3457 3467	hedge fund
+T120	Term 3463 3467	fund
+T121	Named_Entity 3519 3524	Pharo
+T122	Term 3573 3579	assets
+T123	Term 3624 3629	funds
+T124	Term_Common 3660 3669	investors
+T125	Named_Entity 3677 3688	Greg Coffey
+T126	Named_Entity 3691 3701	Kirkoswald
+T127	Named_Entity 3734 3740	Bhatia
+T128	Named_Entity 3743 3751	Pembroke
+T129	Named_Entity 3848 3853	Greek
+T130	Term_Common 3854 3865	debt crisis
+T131	Term_Common 3854 3858	debt
+T132	Term 3867 3878	hedge funds
+T133	Term 3873 3878	funds
+T134	Term_Common 3908 3913	banks
+T135	Term 3922 3927	bonds
+T136	Named_Entity 3953 3959	Zambia
+T137	Term_Common 4000 4005	debts
+T138	Named_Entity 4014 4019	China
+T139	Named_Entity 4052 4061	Argentina
+T140	Term 4064 4069	bonds
+T141	Term_Common 4208 4211	EMs
+T142	Named_Entity 4271 4273	US
+T143	Named_Entity 4304 4313	Joe Biden
+T144	Named_Entity 4326 4335	Democrats
+T145	Named_Entity 4358 4382	House of Representatives
+T146	Term_Common 4389 4398	investors
+T147	Term_Common 4437 4440	EMs
+T148	Term 4528 4534	assets
+T149	Term_Common 4591 4594	EMs
+T150	Term 4577 4586	bull case
+T152	Term 105 124	debt restructurings
+T153	Term_Common 105 109	debt
+T156	Term_Common 677 682	stake
+T157	Term_Common 1477 1481	debt
+T158	Term_Common 3088 3095	markets
+T24	Named_Entity 2431 2435	Bric
+T80	Term_Common 2390 2392	EM
+T81	Term_Common 2415 2418	EMs
+T93	Term_Common 2993 2996	EMs

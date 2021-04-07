@@ -1,0 +1,25 @@
+Plymouth council makes first dive into swaps market 30 years after scandal
+UK local authorities were banned from such deals following 1990s case involving Hammersmith and Fulham
+Plymouth City Council has bought an interest rate swap to try to protect its finances against a rise in borrowing costs, almost 30 years after a scandal that ended with local government barred from the market in these derivatives. 
+
+The agreement with Santander is designed to hedge Plymouth’s exposure to a potential rise in interest rates as the local authority refinances £468m worth of short-term debts. The deal, which has a notional value of £75m, aims to lock in relatively low borrowing costs for 20 years and reduce the risk that the council will have to cut services or investment.
+
+It makes Plymouth the first council to take the plunge since the market was reopened to local government bodies by a law change in 2011, and reflects a hunt by UK councils for new forms of financing after a decade-long funding squeeze was exacerbated during the coronavirus crisis.
+
+In the early 1990s, London council Hammersmith and Fulham faced millions of pounds of losses on derivatives trades before the House of Lords ruled that the contracts were null and void, and legally unenforceable. The case triggered a wave of litigation from other councils, resulting in an estimated £600m loss for banks on the other side of the trades.
+
+Paul Looby, Plymouth’s head of financial planning and reporting, said other local authorities might have considered similar deals, but had been “scared off” by memories of the Hammersmith and Fulham saga. “At a time of adversity, you look for new innovative ideas,” he said, pointing to the pressure on the council’s finances.
+
+An interest rate swap is a common derivative contract which allows two parties to exchange a series of floating interest payments — typically linked to fluctuations in Bank of England interest rates — for a series of fixed payments. 
+
+Plymouth decided to seek a swap because of its reliance on short-term debt. This financing, in the form of loans from other local authorities, is cheap compared with available sources of long-term borrowing, but exposes the council to the risk of rising rates when it refinances. By paying a fixed rate of 0.56 per cent and receiving a floating rate, it hedges part of this exposure.
+
+If interest rates fell, the hit it would take on the swaps should be more than offset by the availability of cheaper short-term loans, Mr Looby added.
+
+Hammersmith and Fulham ran into trouble because its activity in the swaps market went beyond hedging into outright speculation, the Lords found. The council entered derivative positions with a notional value of more than £6bn, compared with its total debt of £390m, which were designed to profit from falling interest rates and saw it rapidly rack up losses when rates rose.
+
+In contrast, Plymouth was “just giving ourselves protection against interest rate rises,” Mr Looby said.
+
+Stuart Selby-Jerrold, of Santander UK’s risk solutions group, said he expected other councils to follow suit. “Hammersmith and Fulham was a very different situation to what’s happening now,” he added.
+
+“This is a very simple product which allows [Plymouth] to fix their interest costs. I think it will be appropriate for other local authorities, but it needs to be considered as part of an overall financing strategy.”

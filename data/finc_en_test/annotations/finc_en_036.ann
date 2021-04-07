@@ -1,0 +1,100 @@
+T1	Term 18 31	equity market
+T2	Term 18 24	equity
+T3	Term_Common 25 31	market
+T4	Term_Common 71 76	banks
+T5	Term_Common 81 94	energy stocks
+T6	Term_Common 88 94	stocks
+T7	Term 102 109	indices
+T8	Term 170 202	chief European equity strategist
+T9	Term 185 202	equity strategist
+T10	Term 185 191	equity
+T11	Named_Entity 206 220	Morgan Stanley
+T12	Term 240 253	equity market
+T13	Term 240 246	equity
+T14	Term_Common 247 253	market
+T15	Named_Entity 275 277	US
+T16	Term 384 400	equity investors
+T17	Term 384 390	equity
+T18	Term_Common 391 400	investors
+T19	Term_Common 419 425	market
+T20	Term_Common 447 456	financial
+T21	Part_of_Term_Common 447 456	financial
+T22	Part_of_Term_Common 471 478	sectors
+R1	Split_Term_Com Arg1:T21 Arg2:T22	
+T23	Term 642 655	equity market
+T24	Term 642 648	equity
+T25	Term 767 780	equity market
+T26	Term 767 773	equity
+T27	Term_Common 774 780	market
+T28	Term_Common 784 789	banks
+T29	Term_Common 873 878	banks
+T30	Named_Entity 926 937	MSCI Europe
+T31	Term 938 943	index
+T32	Term 947 968	market capitalisation
+T33	Term_Common 947 953	market
+T34	Term 1013 1018	index
+T36	Term_Common 1255 1261	market
+T37	Named_Entity 1318 1329	MSCI Europe
+T38	Term 1506 1519	equity market
+T39	Term 1506 1512	equity
+T40	Term_Common 1513 1519	market
+T41	Named_Entity 1580 1586	Europe
+T42	Named_Entity 1674 1702	MSCI All Country World Index
+T43	Named_Entity 1755 1761	Europe
+T44	Term_Common 1775 1780	trade
+T45	Term_Common 1786 1797	value stock
+T46	Term_Common 1792 1797	stock
+T47	Named_Entity 1890 1896	Europe
+T48	Named_Entity 2024 2035	MSCI Europe
+T49	Named_Entity 2164 2172	MSCI USA
+T50	Term 2375 2382	indices
+T51	Named_Entity 2544 2555	MSCI Europe
+T52	Term 2556 2561	index
+T57	Named_Entity 2653 2660	Germany
+T58	Named_Entity 2702 2708	Europe
+T59	Named_Entity 2732 2736	MSCI
+T60	Named_Entity 2861 2874	Euro Stoxx 50
+T61	Term 2913 2918	index
+T62	Term_Common 2932 2947	macro investors
+T63	Term_Common 2938 2947	investors
+T64	Named_Entity 2951 2957	Europe
+T65	Term 2982 2997	futures trading
+T66	Term 2982 2989	futures
+T67	Term_Common 2990 2997	trading
+T68	Term 3074 3079	index
+T69	Term_Common 3152 3157	Banks
+T70	Term 3358 3379	global equity markets
+T71	Term 3365 3379	equity markets
+T72	Term 3365 3371	equity
+T73	Term_Common 3372 3379	markets
+T74	Term 3463 3476	equity market
+T75	Term 3463 3469	equity
+T76	Term_Common 3470 3476	market
+T77	Term 3545 3552	indices
+T78	Term_Common 3722 3736	interest rates
+T79	Term_Common 3722 3730	interest
+T80	Term_Common 3731 3736	rates
+T81	Term 3781 3789	equities
+T82	Named_Entity 3797 3799	US
+T83	Named_Entity 3823 3829	Europe
+T84	Term 3888 3899	bond yields
+T85	Term 3888 3892	bond
+T86	Named_Entity 3989 3991	US
+T87	Term 4057 4065	cyclical
+T88	Term 4070 4078	volatile
+T89	Term 4086 4097	bond yields
+T90	Term 4086 4090	bond
+T91	Term_Common 4200 4205	rates
+T92	Term_Common 4304 4314	financials
+T93	Named_Entity 4331 4337	Europe
+T94	Named_Entity 4491 4507	EU Recovery Fund
+T95	Term_Common 4552 4567	investment case
+T96	Term_Common 4552 4562	investment
+T97	Named_Entity 4572 4578	Europe
+T53	Part_of_Term 2614 2622	regional
+T54	Part_of_Term 2634 2641	indices
+R2	Split_Term Arg1:T53 Arg2:T54	
+T55	Term 2626 2641	country indices
+T56	Term 2634 2641	indices
+T98	Term 2750 2763	capital goods
+T35	Term_Common 1631 1636	banks

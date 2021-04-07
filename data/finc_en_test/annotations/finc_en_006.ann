@@ -1,0 +1,168 @@
+T1	Term_Common 1 10	Investors
+T2	Term 143 153	portfolios
+T3	Term_Common 161 182	stock market sell-off
+T4	Term_Common 161 173	stock market
+T5	Term_Common 174 182	sell-off
+T7	Term 202 208	assets
+T8	Term_Common 230 239	investors
+T9	Term 253 265	equity hedge
+T10	Term 272 288	government bonds
+T11	Term_Common 346 365	stock market wobble
+T12	Term 422 435	fund managers
+T13	Term 422 426	fund
+T14	Term_Common 571 586	stock movements
+T15	Term 651 663	market bonds
+T16	Term_Common 651 657	market
+T17	Term 658 663	bonds
+T18	Term 720 735	equity holdings
+T19	Named_Entity 827 844	Pilar Gomez-Bravo
+T20	Named_Entity 875 881	Europe
+T21	Named_Entity 885 910	MFS Investment Management
+T23	Named_Entity 984 995	Gomez-Bravo
+T24	Term 1007 1014	options
+T26	Term 1145 1151	assets
+T27	Term_Common 1160 1166	stocks
+T28	Term 1245 1253	equities
+T29	Term_Common 1308 1314	trades
+T30	Term 1334 1343	portfolio
+T31	Term 1385 1401	government bonds
+T32	Term_Common 1436 1442	stocks
+T33	Term 1488 1497	portfolio
+T34	Term 1550 1562	bond markets
+T35	Term_Common 1555 1562	markets
+T36	Named_Entity 1570 1585	Federal Reserve
+T37	Term_Common 1596 1609	central banks
+T38	Term 1683 1702	multi-asset manager
+T39	Term_Common 1750 1759	investing
+T40	Named_Entity 1797 1811	Michael DePass
+T41	Term 1828 1844	Treasury trading
+T42	Term 1828 1836	Treasury
+T43	Term_Common 1837 1844	trading
+T44	Named_Entity 1848 1866	Citadel Securities
+T45	Term_Common 1913 1922	Investors
+T46	Term 1979 2003	equity market turbulence
+T47	Term 1979 1992	equity market
+T48	Term_Common 1986 1992	market
+T50	Named_Entity 2127 2138	Wall Street
+T51	Term 2064 2081	futures contracts
+T52	Term 2260 2267	options
+T53	Named_Entity 2275 2282	S&P 500
+T54	Named_Entity 2327 2341	Scott DiMaggio
+T55	Named_Entity 2370 2387	AllianceBernstein
+T56	Term 2413 2428	short positions
+T57	Term_Common 2581 2586	trade
+T59	Term_Common 2605 2611	market
+T60	Named_Entity 2637 2648	Bob Michele
+T61	Term 2650 2674	chief investment officer
+T62	Term_Common 2656 2666	investment
+T63	Named_Entity 2678 2703	JPMorgan Asset Management
+T64	Term_Common 2849 2858	sell-offs
+T65	Term 2862 2870	equities
+T66	Term_Common 2872 2889	high-yield credit
+T67	Term_Common 2883 2889	credit
+T69	Term 2906 2912	assets
+T70	Named_Entity 2990 3003	Pramol Dhawan
+T71	Term 3013 3050	emerging markets portfolio management
+T72	Term_Common 3013 3029	emerging markets
+T73	Term_Common 3022 3029	markets
+T74	Term 3030 3039	portfolio
+T76	Term 3030 3050	portfolio management
+T77	Named_Entity 3054 3059	Pimco
+T79	Term 3180 3185	bonds
+T80	Named_Entity 3304 3312	Ran Duan
+T81	Term 3366 3380	Treasury notes
+T82	Term_Common 3437 3454	financial markets
+T83	Term_Common 3447 3454	markets
+T84	Term 3488 3493	bonds
+T85	Term 3544 3555	bond market
+T86	Term_Common 3549 3555	market
+T87	Term 3544 3548	bond
+T88	Term_Common 3716 3721	rally
+T89	Named_Entity 3741 3747	Dhawan
+T90	Named_Entity 3731 3736	China
+T91	Term 1550 1554	bond
+T92	Term 1396 1401	bonds
+T93	Term 3760 3776	government bonds
+T94	Term 3771 3776	bonds
+T95	Named_Entity 3787 3793	Poland
+T96	Named_Entity 3799 3813	Czech Republic
+T97	Named_Entity 3815 3821	Israel
+T98	Named_Entity 3823 3832	Singapore
+T99	Named_Entity 3834 3845	South Korea
+T100	Named_Entity 3847 3851	Peru
+T101	Named_Entity 3856 3861	Chile
+T102	Term 3893 3905	equity risks
+T103	Term 3893 3899	equity
+T104	Term 4033 4041	EM bonds
+T105	Term 4036 4041	bonds
+T107	Term 4150 4163	fund managers
+T108	Term 4150 4154	fund
+T110	Term 4231 4237	assets
+T111	Term 4269 4292	government bond markets
+T112	Term 4280 4292	bond markets
+T113	Term 4280 4284	bond
+T114	Term_Common 4285 4292	markets
+T116	Term 4389 4403	Treasury notes
+T117	Named_Entity 4430 4438	DiMaggio
+T118	Term_Common 4537 4546	investors
+T120	Term_Common 4520 4524	debt
+T121	Term 4588 4603	Treasury market
+T122	Term 4624 4633	liquidity
+T123	Term_Common 4674 4680	trades
+T125	Term_Common 4754 4763	investors
+T126	Term_Common 4836 4845	investors
+T127	Term 4885 4890	bonds
+T128	Term_Common 4916 4931	diversification
+T130	Term 4983 4988	asset
+T131	Term_Common 4994 5003	investors
+T132	Term_Common 5046 5063	financial markets
+T133	Term_Common 5056 5063	markets
+T134	Term 5115 5124	portfolio
+T135	Named_Entity 5186 5198	Luca Paolini
+T136	Named_Entity 5220 5243	Pictet Asset Management
+T138	Term_Common 346 358	stock market
+T139	Term_Common 346 351	stock
+T140	Term_Common 352 358	market
+T141	Term 253 259	equity
+T142	Term 283 288	bonds
+T143	Term 720 726	equity
+T144	Term 1683 1694	multi-asset
+T145	Named_Entity 2090 2093	Vix
+T49	Term 2094 2110	volatility index
+T146	Term 2105 2110	index
+T147	Term 2064 2071	futures
+T58	Term_Common 161 166	stock
+T148	Term_Common 167 173	market
+T6	Term_Common 571 576	stock
+T22	Named_Entity 95 97	US
+T149	Named_Entity 963 965	US
+T150	Term 966 976	Treasuries
+T151	Term 858 870	fixed income
+T25	Term_Common 1604 1609	banks
+T153	Term 1979 1985	equity
+T154	Term 2094 2104	volatility
+T68	Term 3100 3118	fixed income space
+T75	Term 3100 3112	fixed income
+T78	Term 3160 3170	Treasuries
+T155	Named_Entity 3157 3159	US
+T156	Term 3366 3374	Treasury
+T106	Named_Entity 4098 4100	US
+T157	Term 4101 4111	Treasuries
+T109	Named_Entity 4308 4310	US
+T115	Term 4311 4321	Treasuries
+T158	Term 4389 4397	Treasury
+T159	Named_Entity 4461 4464	Fed
+T119	Term 4588 4596	Treasury
+T160	Term_Common 4597 4603	market
+T124	Term 5296 5306	Treasuries
+T137	Named_Entity 5293 5295	US
+T161	Term_Common 534 547	short-selling
+T162	Term_Common 548 558	currencies
+T163	Term 588 599	derivatives
+T165	Term_Common 1361 1369	sell-off
+T166	Term 2354 2366	fixed income
+T168	Term_Common 2596 2622	emerging market currencies
+T169	Term_Common 2596 2611	emerging market
+T170	Term_Common 2612 2622	currencies
+T171	Named_Entity 3678 3683	Pimco
+T129	Named_Entity 5130 5135	China

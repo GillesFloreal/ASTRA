@@ -1,0 +1,102 @@
+T1	Named_Entity 0 11	BNP Paribas
+T2	Term_Common 28 37	financing
+T3	Term 38 55	commodity traders
+T4	Term_Common 48 55	traders
+T5	Term 108 120	finance unit
+T6	Term_Common 108 115	finance
+T7	Term_Common 56 60	Bank
+T8	Named_Entity 122 133	BNP Paribas
+T9	Term_Common 155 164	financing
+T10	Term 165 182	commodity traders
+T11	Term_Common 175 182	traders
+T12	Named_Entity 186 192	Europe
+T13	Named_Entity 198 209	Middle East
+T14	Named_Entity 214 220	Africa
+T15	Term 259 282	specialist lending unit
+T16	Term 270 282	lending unit
+T17	Term_Common 270 277	lending
+T18	Term_Common 301 305	bank
+T19	Term 340 362	commodity trade houses
+T20	Term 350 362	trade houses
+T21	Term_Common 350 355	trade
+T22	Named_Entity 384 395	Coex Coffee
+T23	Named_Entity 403 405	US
+T24	Named_Entity 418 433	GP Global Group
+T25	Named_Entity 438 457	Phoenix Commodities
+T26	Named_Entity 465 476	Middle East
+T27	Term_Common 512 519	lending
+T28	Named_Entity 544 548	Emea
+T29	Term_Common 605 609	bank
+T30	Term 642 681	specialist commodity trade finance unit
+T31	Term 653 681	commodity trade finance unit
+T32	Term 653 668	commodity trade
+T33	Term_Common 663 668	trade
+T34	Term 669 681	finance unit
+T35	Term_Common 669 676	finance
+T36	Named_Entity 691 697	Geneva
+T37	Term 795 810	investment bank
+T38	Term_Common 795 805	investment
+T39	Term_Common 806 810	bank
+T40	Named_Entity 812 815	BNP
+T41	Named_Entity 890 895	Paris
+T42	Term 933 948	trade financing
+T43	Term_Common 933 938	trade
+T44	Term_Common 939 948	financing
+T45	Named_Entity 956 960	Emea
+T46	Named_Entity 987 996	Bloomberg
+T47	Named_Entity 1014 1017	BNP
+T48	Term 1064 1081	derivatives sales
+T49	Term 1064 1075	derivatives
+T50	Term_Common 1086 1093	trading
+T51	Part_of_Term 1086 1093	trading
+T52	Part_of_Term 1064 1075	derivatives
+R1	Split_Term Arg1:T52 Arg2:T51	
+T53	Term 1105 1112	futures
+T54	Term 1117 1125	clearing
+T55	Term_Common 1164 1168	bank
+T56	Named_Entity 1179 1198	Phoenix Commodities
+T57	Term 1320 1332	rogue trader
+T58	Term_Common 1326 1332	trader
+T59	Named_Entity 1334 1337	BNP
+T60	Term 1416 1433	specialist lender
+T61	Term_Common 1427 1433	lender
+T62	Named_Entity 1469 1482	Sanjeev Gupta
+T64	Named_Entity 1485 1488	BNP
+T65	Term_Common 1522 1526	bank
+T66	Term 1563 1586	commodity trade finance
+T67	Term 1563 1578	commodity trade
+T68	Term_Common 1573 1578	trade
+T69	Term_Common 1579 1586	finance
+T70	Term 1655 1675	oil trading industry
+T71	Term_Common 1659 1666	trading
+T72	Term_Common 1659 1675	trading industry
+T73	Named_Entity 1711 1713	US
+T74	Named_Entity 1794 1799	Sudan
+T75	Term_Common 1837 1848	oil trading
+T76	Term_Common 1655 1666	oil trading
+T77	Term_Common 1841 1848	trading
+T78	Term_Common 1869 1876	markets
+T79	Term 1914 1926	lending book
+T80	Term_Common 1914 1921	lending
+T81	Term_Common 2002 2006	bank
+T82	Term_Common 2059 2068	financing
+T83	Term 2069 2086	commodity traders
+T84	Term_Common 2079 2086	traders
+T85	Term_Common 2134 2140	credit
+T86	Term_Common 2191 2195	bank
+T87	Named_Entity 2208 2211	BNP
+T88	Term 2269 2298	fixed income trading revenues
+T89	Term_Common 2282 2298	trading revenues
+T90	Term_Common 2282 2289	trading
+T91	Term_Common 2342 2347	loans
+T92	Term_Common 2353 2357	bank
+T93	Term_Common 2418 2422	bank
+T94	Term 2487 2505	investment banking
+T95	Term_Common 2487 2497	investment
+T96	Term_Common 2498 2505	banking
+T97	Term_Common 2521 2534	balance sheet
+T98	Term_Common 2579 2584	loans
+T99	Term 2566 2578	underwriting
+T102	Term 2270 2281	ixed income
+T103	Named_Entity 1202 1207	Dubai
+T104	Term_Common 1356 1361	banks

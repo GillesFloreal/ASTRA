@@ -1,0 +1,20 @@
+Deutsche Börse should forget about profits for Dax entrants
+The chief executive of Deutsche Börse, Theodor Weimer, wants to enlarge Germany’s Dax and only admit profitable companies, part of a far-reaching overhaul of the country’s leading stock market index triggered by the Wirecard accounting scandal.
+
+The German exchange operator on Monday announced a series of reform proposals to revise the membership rules and improve the quality of companies that are listed in the blue-chip Dax index.
+
+The overhaul comes as German regulators seek to avoid a repeat of the supervisory failures that allowed Wirecard to build up a €1.9bn hole in its accounts before it fell into insolvency in June, becoming the first sitting member of the Dax to do so.
+The proposals can be read here, and include criteria for inclusion and exclusion, including the potential for excluding companies with “involvement with controversial weapons”. (One company would be excluded if this rule was applied, but is not named. Best guesses in the comments please.)
+
+Flicking through the deck, one proposed criterion in the total return index caught our eye. It has to do with profitability. Slide below:
+Aside from jokes about whether Deutsche Bank would make the cut if these were the rules today, it’s quite a confusing idea for a number of reasons.
+
+The obvious one to point out is that this consultation was provoked, in part, by the Wirecard scandal. Yet, as Wirecard reported positive Ebitda — which later turned out to be utter baloney — over the past decade, it wouldn’t do much to help the Dax escape being duped by another suspect enterprise. Of which, we should add, there are undoubtedly many more of in Germany as with any other developed market.
+
+Ebitda as a metric of profitability is, of course, a problem in itself. A point that’s long been made by storied investment strategist Michael Mauboussin is that while the metric does a passable job as shorthand for cash flow, it fails to capture the capital intensity of a company. In fact, an industrial company could have easily have positive Ebitda and negative free cash flow if its reinvestment needs dwarf its profits. US investors familiar with the economics of fracking will be acutely aware of this. Deutsche Börse may want to consider then whether free cash flow would be a more suitable metric for judging a corporation’s economics.
+
+That ties into the final point. The new rules for the Dax should really be based on what Deutsche Börse want the blue-chip index to represent. If it wants a 30 (or 40) strong cohort of dividend paying stocks then a free cash flow requirement would not be a bad place to start. However if it wants to include a genuine tech challenger later on, it may also want to leave some room to include a high-growth loss leader if one emerges.
+
+Whether any of the proposed changes will stop another Wirecard stealing a place in the index is really neither here or there. Fraud is always around, and the big ones are particularly good at gaming any rules that come their way. So Deutsche Börse should consider whether a profitability rule will help it develop a sustainable index, or just lead to more companies trying to manipulate their P+Ls to get included.
+
+Seeing the lengths some companies in the US have gone too to get included in the S&P 500 (namely one electric car company), perhaps Deutsche Börse would be better leaving this one proposal on the cutting room floor.

@@ -1,0 +1,318 @@
+T1	Named_Entity 0 9	BlackRock
+T2	Term 10 13	ETF
+T3	Named_Entity 72 79	Germany
+T4	Term 125 144	sovereign bond fund
+T6	Term 135 139	bond
+T7	Term 140 144	fund
+T8	Named_Entity 148 157	BlackRock
+T9	Term 173 187	sovereign bond
+T10	Term 183 187	bond
+T11	Term 188 191	ETF
+T12	Term 291 313	sustainable investment
+T13	Term_Common 303 313	investment
+T14	Term_Common 342 357	Government debt
+T15	Term_Common 353 357	debt
+T16	Named_Entity 363 370	Germany
+T17	Named_Entity 372 377	Spain
+T18	Named_Entity 379 394	the Netherlands
+T19	Named_Entity 396 403	Belgium
+T20	Named_Entity 408 415	Ireland
+T21	Term 449 452	ETF
+T23	Term_Common 591 610	government finances
+T24	Term_Common 602 610	finances
+T25	Term_Common 675 691	creditworthiness
+T26	Named_Entity 699 711	Scott Harman
+T27	Term 721 752	fixed income product management
+T28	Named_Entity 756 768	FTSE Russell
+T29	Term 789 794	index
+T30	Term 806 810	fund
+T31	Term 851 862	climate ETF
+T32	Term 859 862	ETF
+T33	Term 872 887	sovereign bonds
+T34	Term 882 887	bonds
+T35	Term_Common 903 922	investment industry
+T36	Term_Common 903 913	investment
+T37	Term 1069 1077	equities
+T38	Term 1082 1087	bonds
+T39	Term_Common 1105 1114	investing
+T40	Term_Out_of_Domain 1169 1172	ESG
+T42	Term_Out_of_Domain 1246 1259	ESG solutions
+T43	Term_Out_of_Domain 1246 1249	ESG
+T44	Term_Common 1332 1338	market
+T45	Named_Entity 1342 1351	BlackRock
+T46	Term 1522 1528	equity
+T47	Term_Common 1532 1546	corporate debt
+T48	Term_Common 1542 1546	debt
+T49	Term 1594 1610	government bonds
+T50	Term 1605 1610	bonds
+T51	Term 1621 1631	portfolios
+T52	Named_Entity 1664 1675	Brett Olson
+T53	Named_Entity 1685 1692	iShares
+T54	Term 1693 1705	fixed income
+T55	Term 721 733	fixed income
+T56	Named_Entity 1707 1711	Emea
+T57	Named_Entity 1716 1725	BlackRock
+T58	Term_Common 1742 1751	investors
+T59	Term 1806 1816	portfolios
+T60	Term 1884 1910	government bond allocation
+T61	Term 1895 1910	bond allocation
+T62	Term 1884 1899	government bond
+T63	Term 1895 1899	bond
+T64	Named_Entity 1918 1925	iShares
+T65	Named_Entity 1928 1951	Govt Bond Climate Ucits
+T66	Named_Entity 1957 1961	SECD
+T67	Term_Common 1976 1983	trading
+T68	Named_Entity 1987 1996	Frankfurt
+T69	Named_Entity 1999 2004	Xetra
+T70	Term 2005 2011	bourse
+T71	Term 2105 2110	index
+T72	Named_Entity 2537 2549	FTSE Russell
+T73	Term 2674 2695	government bond index
+T74	Term 2674 2689	government bond
+T75	Term 2685 2689	bond
+T76	Term 2690 2695	index
+T77	Term 2756 2777	sovereign bond market
+T78	Term 2756 2770	sovereign bond
+T79	Term 2766 2770	bond
+T80	Term_Common 2771 2777	market
+T81	Term 2766 2777	bond market
+T82	Term 2781 2790	portfolio
+T83	Term 2806 2819	climate index
+T84	Term 2814 2819	index
+T86	Named_Entity 2910 2917	Germany
+T87	Named_Entity 3126 3133	Germany
+T88	Term 2934 2961	climate risk-weighted index
+T89	Term 2956 2961	index
+T90	Named_Entity 3165 3180	The Netherlands
+T91	Named_Entity 3380 3387	Ireland
+T92	Named_Entity 3446 3452	France
+T93	Named_Entity 3597 3604	Finland
+T94	Named_Entity 3681 3686	Italy
+T96	Named_Entity 3723 3735	FTSE Russell
+T97	Term_Common 3770 3783	central banks
+T98	Term_Common 3778 3783	banks
+T99	Term_Common 3877 3890	national debt
+T100	Term_Common 3886 3890	debt
+T101	Named_Entity 3948 3975	World Government Bond Index
+T102	Named_Entity 3925 3929	FTSE
+T103	Term 4003 4008	funds
+T104	Named_Entity 4023 4035	South Africa
+T105	Named_Entity 4037 4043	Mexico
+T106	Named_Entity 4045 4051	Poland
+T107	Named_Entity 4053 4062	Australia
+T108	Named_Entity 4071 4073	US
+T109	Term 4165 4178	fund industry
+T110	Term 4165 4169	fund
+T111	Term 4253 4267	ESG investment
+T112	Term_Out_of_Domain 4253 4256	ESG
+T113	Term_Common 4257 4267	investment
+T114	Term_Common 4275 4281	market
+T115	Term_Common 4286 4300	sovereign debt
+T116	Term_Common 4296 4300	debt
+T117	Named_Entity 4312 4329	Stephane Degroote
+T118	Term 4339 4343	ETFs
+T119	Named_Entity 4352 4363	Emea region
+T120	Named_Entity 4367 4379	FTSE Russell
+T121	Term_Common 4387 4396	investors
+T122	Term 4579 4605	government bond valuations
+T123	Term 4590 4594	bond
+T124	Term 4590 4605	bond valuations
+T125	Named_Entity 4663 4668	Olson
+T95	Named_Entity 3711 3717	Harman
+T41	Named_Entity 1187 1193	Harman
+T128	Term_Common 4701 4715	interest rates
+T129	Term_Common 4701 4709	interest
+T130	Term 4719 4726	capital
+T134	Term_Common 5008 5015	finance
+T135	Term_Common 5058 5062	debt
+T137	Term_Common 5147 5162	borrowing costs
+T138	Term_Common 5175 5186	debt crises
+T139	Term_Common 5175 5179	debt
+T140	Term 5191 5199	defaults
+T142	Term_Common 5236 5256	financial conditions
+T143	Term_Common 5236 5245	financial
+T144	Named_Entity 5327 5337	Adam Wolfe
+T149	Named_Entity 5369 5395	Absolute Strategy Research
+T150	Term_Common 5398 5415	Foreign investors
+T151	Term_Common 5406 5415	investors
+T152	Term_Common 5443 5465	emerging market stocks
+T153	Term_Common 5459 5465	stocks
+T154	Term_Common 5443 5458	emerging market
+T155	Term_Common 5452 5458	market
+T157	Term 5515 5530	capital inflows
+T158	Term 5515 5522	capital
+T160	Term_Common 5568 5575	markets
+T161	Term 5602 5615	capital flows
+T162	Term 5602 5609	capital
+T163	Term_Common 5626 5653	domestic funding conditions
+T164	Term_Common 5626 5642	domestic funding
+T165	Term_Common 5635 5642	funding
+T166	Named_Entity 5685 5690	Wolfe
+T167	Term_Common 5732 5745	central banks
+T168	Term_Common 5740 5745	banks
+T170	Term_Common 5874 5879	banks
+T171	Named_Entity 6005 6020	Financial Times
+T174	Named_Entity 6119 6125	Mexico
+T175	Named_Entity 6127 6132	Egypt
+T176	Named_Entity 6137 6144	Nigeria
+T177	Term_Common 6209 6218	rate cuts
+T178	Term_Common 6209 6213	rate
+T179	Term_Common 6274 6287	Central banks
+T180	Term_Common 6282 6287	banks
+T181	Named_Entity 6291 6297	Turkey
+T182	Named_Entity 6302 6309	Hungary
+T183	Term_Common 6317 6331	interest rates
+T184	Term_Common 6317 6325	interest
+T185	Term_Common 6326 6331	rates
+T186	Term_Common 6360 6365	banks
+T187	Named_Entity 6476 6483	Hungary
+T188	Term_Common 6493 6509	main policy rate
+T189	Term_Common 6505 6509	rate
+T190	Term_Common 6547 6568	one-week deposit rate
+T191	Term_Common 6564 6568	rate
+T192	Term_Common 6647 6660	central banks
+T193	Term_Common 6655 6660	banks
+T194	Term_Common 6677 6682	rates
+T199	Term_Common 6900 6913	central banks
+T200	Term_Common 6908 6913	banks
+T201	Term_Common 6926 6940	exchange rates
+T202	Term_Common 6935 6940	rates
+T203	Term 7025 7041	government bonds
+T204	Term 7036 7041	bonds
+T205	Term_Common 7095 7111	national budgets
+T206	Term_Common 7104 7111	budgets
+T207	Term_Common 7186 7201	emerging market
+T208	Named_Entity 7276 7282	Brazil
+T209	Named_Entity 7284 7296	South Africa
+T210	Named_Entity 7301 7307	Russia
+T211	Term_Common 7333 7349	emerging markets
+T212	Term_Common 7342 7349	markets
+T213	Term_Common 7195 7201	market
+T214	Term 7424 7438	credit spreads
+T215	Term_Common 7424 7430	credit
+T216	Named_Entity 7446 7458	Robin Brooks
+T217	Named_Entity 7483 7517	Institute of International Finance
+T220	Term_Common 7550 7570	financial conditions
+T221	Term_Common 7550 7559	financial
+T222	Term_Common 7585 7599	funding issues
+T223	Term_Common 7585 7592	funding
+T224	Named_Entity 7648 7653	China
+T225	Named_Entity 7655 7661	Taiwan
+T226	Named_Entity 7666 7673	Vietnam
+T229	Term_Common 7846 7873	global financial conditions
+T230	Term_Common 7853 7873	financial conditions
+T231	Term_Common 7853 7862	financial
+T232	Named_Entity 7877 7881	Asia
+T233	Term_Common 7922 7938	emerging markets
+T234	Term_Common 7931 7938	markets
+T235	Named_Entity 7947 7959	Johanna Chua
+T236	Named_Entity 7969 7973	Asia
+T237	Named_Entity 7987 7991	Citi
+T238	Term_Common 8013 8027	self-financing
+T239	Term_Common 8077 8093	emerging markets
+T241	Term_Common 8086 8093	markets
+T243	Term 8232 8258	international bond markets
+T244	Term 8246 8250	bond
+T245	Term 8246 8258	bond markets
+T246	Term_Common 8318 8334	domestic markets
+T247	Term_Common 8327 8334	markets
+T248	Named_Entity 8353 8356	IIF
+T249	Term 8504 8513	liquidity
+T250	Term_Common 8526 8550	global financial markets
+T251	Term_Common 8533 8550	financial markets
+T252	Term_Common 8543 8550	markets
+T253	Named_Entity 8558 8576	US Federal Reserve
+T254	Term_Common 8607 8620	central banks
+T255	Term_Common 8615 8620	banks
+T256	Named_Entity 8679 8682	IMF
+T257	Named_Entity 8687 8697	World Bank
+T258	Term_Common 8754 8780	domestic financial systems
+T259	Term_Common 8763 8780	financial systems
+T260	Term_Common 8763 8772	financial
+T261	Term_Common 8788 8793	banks
+T262	Term 8795 8808	pension funds
+T263	Term 8803 8808	funds
+T264	Term 8844 8860	government bonds
+T265	Term 8855 8860	bonds
+T266	Term_Common 8896 8908	policy rates
+T267	Term_Common 8903 8908	rates
+T268	Term_Common 8953 8965	Policy rates
+T269	Term_Common 8960 8965	rates
+T270	Term_Common 9105 9110	rates
+T273	Term_Common 9157 9180	global financial crisis
+T274	Term_Common 9164 9180	financial crisis
+T275	Term_Common 9247 9257	high rates
+T276	Term_Common 9252 9257	rates
+T277	Named_Entity 9267 9273	Brazil
+T278	Named_Entity 9278 9284	Russia
+T280	Term 9368 9373	bonds
+T281	Term 9448 9453	bonds
+T282	Term_Common 9513 9527	interest rates
+T283	Term_Common 9522 9527	rates
+T285	Term_Common 9621 9635	interest rates
+T286	Term_Common 9621 9629	interest
+T287	Term_Common 9630 9635	rates
+T290	Named_Entity 9724 9743	Jeromin Zettelmeyer
+T291	Named_Entity 9768 9771	IMF
+T292	Term_Common 9886 9902	financial crisis
+T293	Term_Common 9886 9895	financial
+T296	Term_Common 10002 10018	emerging markets
+T297	Term_Common 10011 10018	markets
+T298	Term_Common 10055 10070	budget deficits
+T299	Term_Common 10062 10070	deficits
+T300	Term_Common 10168 10181	market access
+T301	Term_Common 10168 10174	market
+T302	Term_Common 10213 10224	debt crisis
+T303	Term_Common 10213 10217	debt
+T304	Named_Entity 10316 10362	Peterson Institute for International Economics
+T305	Term_Common 10377 10390	market access
+T306	Term_Common 10377 10383	market
+T307	Named_Entity 10442 10458	Maurice Obstfeld
+T308	Named_Entity 10490 10514	University of California
+T309	Named_Entity 10516 10524	Berkeley
+T310	Term 10552 10565	nominal rates
+T311	Term_Common 10560 10565	rates
+T312	Term_Common 10611 10625	interest rates
+T313	Term_Common 10620 10625	rates
+T316	Term_Common 10695 10700	rates
+T317	Term_Common 10763 10793	emerging market interest rates
+T318	Term_Common 10772 10778	market
+T319	Term_Common 10779 10793	interest rates
+T320	Term_Common 10779 10787	interest
+T321	Term_Common 10788 10793	rates
+T322	Term_Common 10611 10619	interest
+T126	Term_Common 5339 5355	emerging markets
+T5	Term 125 139	sovereign bond
+T127	Term 173 191	sovereign bond ETF
+T132	Term 2685 2695	bond index
+T133	Term 4719 4732	capital flows
+T136	Term_Common 5147 5156	borrowing
+T145	Term_Common 5348 5355	markets
+T146	Term_Common 8533 8542	financial
+T147	Term_Common 9164 9173	financial
+T148	Term_Common 9379 9387	borrowed
+T159	Term_Common 8935 8950	borrowing spree
+T173	Term_Common 8935 8944	borrowing
+T196	Term_Common 8442 8448	borrow
+T197	Term_Common 8652 8669	emergency lending
+T198	Term_Common 8662 8669	lending
+T219	Term 2561 2566	index
+T227	Term 4331 4343	head of ETFs
+T228	Term_Common 4770 4778	stimulus
+T240	Term_Common 4833 4850	monetary stimulus
+T242	Term_Common 4842 4850	stimulus
+T271	Term_Common 5125 5135	currencies
+T156	Part_of_Term 5470 5475	bonds
+T272	Part_of_Term 5443 5458	emerging market
+R1	Split_Term Arg1:T272 Arg2:T156	
+T279	Term_Common 5541 5554	panic selling
+T284	Term_Common 5547 5554	selling
+T288	Term_Common 4833 4841	monetary
+T294	Term_Common 5889 5894	rates
+T314	Term_Common 6159 6171	policy rates
+T315	Term_Common 6166 6171	rates
+T323	Term_Common 6498 6509	policy rate
+T329	Term_Common 6987 6994	lenders
+T22	Term_Common 10092 10107	borrowing costs
+T85	Term_Common 10092 10101	borrowing
+T131	Term_Common 10722 10731	borrowing

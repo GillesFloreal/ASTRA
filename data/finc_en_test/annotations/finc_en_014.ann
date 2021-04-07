@@ -1,0 +1,99 @@
+T1	Named_Entity 0 7	Vatican
+T2	Term 13 26	charity funds
+T3	Term 21 26	funds
+T4	Named_Entity 37 42	Hertz
+T5	Term 43 61	credit derivatives
+T6	Term 50 61	derivatives
+T7	Named_Entity 109 115	Becciu
+T8	Named_Entity 159 166	Vatican
+T9	Term_Common 167 175	invested
+T10	Term 217 228	derivatives
+T11	Term_Common 245 261	creditworthiness
+T12	Named_Entity 265 270	Hertz
+T13	Named_Entity 276 278	US
+T14	Term 303 312	defaulted
+T15	Term_Common 320 325	debts
+T16	Named_Entity 380 395	Financial Times
+T17	Named_Entity 412 419	Francis
+T18	Term 425 445	credit default swaps
+T19	Term 425 439	credit default
+T20	Term_Common 474 481	finance
+T21	Named_Entity 685 692	Vatican
+T22	Term 693 702	portfolio
+T23	Term 763 766	CDS
+T24	Named_Entity 789 794	Hertz
+T25	Term 805 812	default
+T26	Term_Common 820 825	debts
+T27	Term_Common 883 893	bankruptcy
+T28	Named_Entity 926 934	Holy See
+T29	Term_Common 958 968	investment
+T30	Term_Common 999 1009	investment
+T31	Named_Entity 1047 1069	Giovanni Angelo Becciu
+T32	Named_Entity 1123 1127	Pope
+T33	Named_Entity 1158 1164	Becciu
+T34	Term_Common 1226 1234	invested
+T35	Named_Entity 1288 1296	Holy See
+T36	Named_Entity 1353 1359	Becciu
+T37	Named_Entity 1405 1416	Secretariat
+T38	Named_Entity 1552 1559	Francis
+T39	Term_Common 1585 1595	investment
+T40	Term 1603 1606	CDS
+T41	Named_Entity 1656 1667	Secretariat
+T42	Named_Entity 1679 1690	Switzerland
+T43	Term 1753 1763	CDS trades
+T44	Term 1753 1756	CDS
+T45	Term 1799 1810	hedge funds
+T46	Term 1805 1810	funds
+T47	Named_Entity 1824 1826	US
+T48	Term_Common 1827 1849	corporate bankruptcies
+T49	Term_Common 1837 1849	bankruptcies
+T50	Named_Entity 1862 1865	CQS
+T51	Term 1884 1894	hedge fund
+T52	Term 1890 1894	fund
+T53	Term_Common 1914 1920	trader
+T54	Named_Entity 1921 1935	Michael Hintze
+T55	Term 1993 2006	flagship fund
+T56	Term 2002 2006	fund
+T57	Term 2028 2036	defaults
+T58	Named_Entity 2047 2052	Hertz
+T59	Term 2076 2097	high-risk derivatives
+T60	Term 2086 2097	derivatives
+T61	Term_Common 2106 2117	investments
+T62	Named_Entity 2143 2154	Secretariat
+T63	Named_Entity 2177 2183	Becciu
+T64	Term_Common 2192 2201	financing
+T65	Named_Entity 2216 2225	Rocketman
+T66	Named_Entity 2253 2263	Elton John
+T67	Term 2279 2293	fund documents
+T68	Term 2279 2283	fund
+T69	Named_Entity 2306 2308	FT
+T70	Named_Entity 2381 2387	London
+T71	Named_Entity 2390 2403	Knightsbridge
+T72	Named_Entity 2534 2541	Francis
+T73	Named_Entity 2557 2563	Becciu
+T74	Named_Entity 2801 2808	Vatican
+T75	Named_Entity 2889 2896	Vatican
+T76	Term 2944 2966	derivatives investment
+T77	Term 2944 2955	derivatives
+T78	Term_Common 2956 2966	investment
+T79	Term 2996 3002	assets
+T80	Term_Common 3017 3030	bank accounts
+T81	Term_Common 3017 3021	bank
+T82	Named_Entity 3047 3053	Becciu
+T83	Named_Entity 3152 3163	Secretariat
+T84	Named_Entity 3195 3201	London
+T85	Named_Entity 3222 3233	Secretariat
+T86	Term_Common 3236 3246	investment
+T87	Named_Entity 3254 3260	London
+T88	Named_Entity 3279 3295	60 Sloane Avenue
+T89	Term 3315 3319	fund
+T90	Named_Entity 3323 3333	Luxembourg
+T91	Named_Entity 3386 3392	Becciu
+T92	Named_Entity 3406 3413	Vatican
+T93	Named_Entity 3449 3457	Holy See
+T94	Term_Common 3482 3492	investment
+T95	Named_Entity 2315 2326	Secretariat
+T96	Named_Entity 1262 1282	Secretariat of State
+T97	Named_Entity 1252 1259	Vatican
+T98	Named_Entity 1476 1482	Church
+T99	Named_Entity 1486 1495	Catholics

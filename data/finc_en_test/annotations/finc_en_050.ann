@@ -1,0 +1,447 @@
+T1	Term_Out_of_Domain 0 6	Brexit
+T2	Named_Entity 21 29	Brussels
+T3	Named_Entity 51 57	London
+T4	Term_Common 61 68	finance
+T5	Named_Entity 90 92	UK
+T6	Term_Out_of_Domain 95 112	Brexit referendum
+T7	Term_Out_of_Domain 95 101	Brexit
+T8	Named_Entity 129 141	Jason Waight
+T9	Term 160 187	electronic trading platform
+T10	Term 171 187	trading platform
+T11	Term_Common 171 178	trading
+T12	Named_Entity 188 199	MarketAxess
+T13	Named_Entity 213 219	London
+T15	Named_Entity 350 354	EU27
+T16	Named_Entity 416 418	UK
+T17	Term_Common 475 482	traders
+T18	Term 503 518	corporate bonds
+T19	Term 513 518	bonds
+T20	Named_Entity 604 613	Amsterdam
+T21	Named_Entity 651 653	UK
+T22	Named_Entity 716 722	Waight
+T23	Named_Entity 748 754	London
+T24	Named_Entity 805 807	EU
+T26	Term 846 864	financial services
+T27	Term_Common 846 855	financial
+T28	Term 837 871	domestic financial services sector
+T29	Named_Entity 990 996	London
+T30	Named_Entity 1007 1013	Waight
+T31	Named_Entity 1057 1063	Europe
+T32	Named_Entity 1267 1269	EU
+T33	Named_Entity 1370 1384	City of London
+T34	Term_Common 1408 1424	financial centre
+T35	Term_Common 1408 1417	financial
+T36	Named_Entity 1451 1462	Sam Fleming
+T37	Named_Entity 1467 1479	Jim Brunsden
+T38	Named_Entity 1483 1491	Brussels
+T39	Named_Entity 1496 1511	Philip Stafford
+T40	Named_Entity 1515 1521	London
+T41	Named_Entity 1560 1562	UK
+T42	Term_Out_of_Domain 1565 1582	Brexit referendum
+T43	Term_Out_of_Domain 1565 1571	Brexit
+T44	Named_Entity 1599 1611	Jason Waight
+T45	Term 1630 1657	electronic trading platform
+T46	Term 1641 1657	trading platform
+T47	Term_Common 1641 1648	trading
+T48	Named_Entity 1658 1669	MarketAxess
+T49	Named_Entity 1683 1689	London
+T51	Named_Entity 1820 1824	EU27
+T52	Named_Entity 1886 1888	UK
+T53	Term_Common 1945 1952	traders
+T54	Term 1973 1988	corporate bonds
+T55	Term 1983 1988	bonds
+T56	Named_Entity 2074 2083	Amsterdam
+T57	Named_Entity 2121 2123	UK
+T58	Named_Entity 2186 2192	Waight
+T59	Named_Entity 2218 2224	London
+T60	Named_Entity 2275 2277	EU
+T61	Term 2307 2341	domestic financial services sector
+T62	Term 2316 2341	financial services sector
+T63	Term 2316 2334	financial services
+T64	Term_Common 2316 2325	financial
+T25	Term 846 871	financial services sector
+T65	Named_Entity 2460 2466	London
+T66	Named_Entity 2527 2533	Europe
+T67	Named_Entity 2737 2739	EU
+T68	Named_Entity 2840 2854	City of London
+T69	Term_Common 2878 2894	financial centre
+T70	Term_Common 2878 2887	financial
+T71	Named_Entity 2924 2938	City of London
+T72	Term 2960 2980	derivatives clearing
+T73	Term 2960 2971	derivatives
+T74	Term_Common 3017 3023	market
+T75	Named_Entity 3027 3033	Europe
+T76	Named_Entity 3036 3045	Andy Rain
+T77	Named_Entity 3046 3053	EPA-EFE
+T78	Named_Entity 3058 3077	European Commission
+T79	Term 3141 3156	capital markets
+T80	Term 3141 3148	capital
+T81	Term_Common 3149 3156	markets
+T82	Named_Entity 3209 3211	EU
+T85	Named_Entity 3351 3353	US
+T86	Named_Entity 3358 3363	China
+T87	Named_Entity 3412 3414	UK
+T88	Named_Entity 3474 3476	EU
+T89	Named_Entity 3526 3528	UK
+T90	Named_Entity 3589 3597	Brussels
+T91	Named_Entity 3617 3619	EU
+T92	Term 3643 3666	financial market access
+T93	Term_Common 3643 3659	financial market
+T94	Term_Common 3643 3652	financial
+T95	Named_Entity 3710 3712	UK
+T96	Term_Common 3837 3853	financial sector
+T97	Term_Common 3837 3846	financial
+T98	Named_Entity 3870 3889	European Commission
+T99	Term_Common 3995 4024	financial sector relationship
+T100	Term_Common 3995 4011	financial sector
+T101	Term_Common 3995 4004	financial
+T102	Named_Entity 4034 4036	UK
+T103	Named_Entity 4132 4134	UK
+T104	Term_Common 4157 4180	global financial centre
+T105	Term_Common 4164 4180	financial centre
+T106	Term_Common 4164 4173	financial
+T107	Term_Common 4226 4243	financial centres
+T108	Term_Common 4226 4235	financial
+T109	Named_Entity 4248 4250	EU
+T110	Term_Common 4310 4327	financial centres
+T111	Term_Common 4310 4319	financial
+T112	Named_Entity 4392 4394	EU
+T113	Term_Common 4419 4437	financial capitals
+T114	Term_Common 4419 4428	financial
+T115	Named_Entity 4528 4530	EU
+T116	Named_Entity 4606 4625	European Commission
+T117	Named_Entity 4669 4671	EU
+T118	Term_Common 4737 4746	investors
+T119	Named_Entity 4817 4819	EU
+T120	Named_Entity 4918 4925	Germany
+T121	Named_Entity 4942 4950	Wirecard
+T122	Named_Entity 4962 4980	Valdis Dombrovskis
+T123	Named_Entity 4986 5005	European Commission
+T124	Term_Common 5044 5064	financial regulation
+T125	Term_Common 5044 5053	financial
+T126	Named_Entity 5096 5098	EU
+T127	Named_Entity 5142 5148	London
+T128	Term 5193 5208	capital markets
+T129	Term 5193 5200	capital
+T130	Term_Common 5201 5208	markets
+T131	Term_Common 5224 5231	finance
+T132	Named_Entity 5294 5315	Capital Markets Union
+T133	Term_Out_of_Domain 5335 5341	Brexit
+T134	Named_Entity 5375 5377	EU
+T135	Term 5388 5402	capital market
+T136	Term 5388 5395	capital
+T137	Term_Common 5396 5402	market
+T138	Term_Common 5404 5420	financial centre
+T139	Term_Common 5404 5413	financial
+T140	Named_Entity 5435 5437	EU
+T141	Named_Entity 5510 5524	City of London
+T142	Term_Common 5558 5571	financial hub
+T143	Term_Common 5558 5567	financial
+T144	Term 5614 5638	capital markets activity
+T145	Term 5614 5629	capital markets
+T146	Term 5614 5621	capital
+T147	Term_Common 5622 5629	markets
+T148	Named_Entity 5653 5666	New Financial
+T149	Named_Entity 5670 5672	UK
+T150	Term_Out_of_Domain 5673 5683	think-tank
+T151	Term_Common 5688 5694	trades
+T152	Term_Common 5700 5716	foreign exchange
+T153	Term 5718 5729	derivatives
+T154	Term_Common 5734 5740	shares
+T155	Term 5759 5765	assets
+T156	Named_Entity 5807 5813	Europe
+T157	Named_Entity 5828 5834	Europe
+T158	Term_Common 5869 5886	financial centres
+T159	Term_Common 5869 5878	financial
+T160	Term_Common 5910 5917	trading
+T161	Named_Entity 5991 5995	City
+T162	Named_Entity 6013 6022	Frankfurt
+T163	Named_Entity 6027 6032	Paris
+T164	Term_Common 6044 6062	banking industries
+T165	Term_Common 6044 6051	banking
+T166	Named_Entity 6064 6070	Dublin
+T167	Named_Entity 6075 6085	Luxembourg
+T168	Term 6102 6118	investment funds
+T169	Term_Common 6102 6112	investment
+T170	Term 6113 6118	funds
+T171	Named_Entity 6123 6132	Amsterdam
+T172	Term_Out_of_Domain 6172 6185	market makers
+T173	Named_Entity 6188 6202	Michel Barnier
+T174	Named_Entity 6208 6210	EU
+T175	Term_Out_of_Domain 6213 6236	chief Brexit negotiator
+T176	Term_Out_of_Domain 6219 6225	Brexit
+T177	Named_Entity 6249 6251	EU
+T178	Named_Entity 6362 6376	City of London
+T179	Named_Entity 6599 6606	Barnier
+T180	Named_Entity 6672 6674	EU
+T181	Named_Entity 6692 6694	UK
+T182	Named_Entity 6793 6801	Brussels
+T183	Term_Out_of_Domain 6819 6825	Brexit
+T184	Named_Entity 6865 6867	EU
+T185	Term_Common 6902 6918	financial system
+T186	Term_Common 6902 6911	financial
+T187	Named_Entity 6959 6961	UK
+T188	Named_Entity 6992 6994	EU
+T189	Named_Entity 7007 7009	EU
+T190	Named_Entity 7250 7258	Brussels
+T191	Named_Entity 7287 7289	EU
+T192	Term_Common 7303 7308	trade
+T193	Term_Common 7309 7315	shares
+T194	Named_Entity 7438 7440	EU
+T195	Named_Entity 7490 7492	US
+T196	Named_Entity 7497 7506	Singapore
+T197	Named_Entity 7606 7608	EU
+T198	Term 6743 6754	equivalence
+T199	Term 3673 3684	equivalence
+T200	Term 7620 7631	equivalence
+T201	Term 7864 7875	equivalence
+T202	Term 8058 8069	equivalence
+T203	Term 8412 8423	equivalence
+T204	Term 10898 10909	equivalence
+T205	Named_Entity 7638 7640	UK
+T206	Term_Common 7641 7659	financial industry
+T207	Term_Common 7641 7650	financial
+T208	Named_Entity 7742 7744	EU
+T209	Named_Entity 7787 7789	EU
+T210	Named_Entity 7886 7888	UK
+T211	Named_Entity 8017 8019	EU
+T212	Term_Common 8163 8180	financial centres
+T213	Term_Common 8163 8172	financial
+T214	Named_Entity 8182 8184	EU
+T215	Term_Out_of_Domain 8238 8244	Brexit
+T216	Named_Entity 8344 8346	UK
+T217	Named_Entity 8379 8387	Brussels
+T218	Term_Out_of_Domain 8583 8602	Brexit policy paper
+T219	Term_Out_of_Domain 8583 8589	Brexit
+T220	Named_Entity 8661 8663	UK
+T221	Named_Entity 8759 8767	Brussels
+T222	Term_Out_of_Domain 8784 8804	pan-EU access rights
+T223	Term_Common 8820 8836	investment firms
+T224	Term_Common 8820 8830	investment
+T225	Named_Entity 8872 8883	Dombrovskis
+T226	Named_Entity 8920 8922	EU
+T227	Named_Entity 8988 8990	EU
+T228	Named_Entity 9054 9061	Britain
+T229	Term_Common 9119 9135	financial sector
+T230	Term_Common 9119 9128	financial
+T231	Named_Entity 9156 9158	EU
+T232	Term 9328 9335	default
+T233	Term_Common 9363 9379	financial system
+T234	Term_Common 9363 9372	financial
+T235	Named_Entity 9382 9388	London
+T236	Term 9399 9419	derivatives clearing
+T237	Term 9399 9410	derivatives
+T238	Named_Entity 9466 9472	Europe
+T239	Named_Entity 9474 9501	London Stock Exchange Group
+T240	Term_Common 9456 9462	market
+T241	Named_Entity 9504 9507	LCH
+T242	Term 9557 9588	interest rate swap transactions
+T243	Term 9557 9575	interest rate swap
+T244	Term_Common 9557 9570	interest rate
+T245	Term_Common 9557 9565	interest
+T246	Term_Common 9566 9570	rate
+T247	Named_Entity 9690 9711	European Central Bank
+T248	Named_Entity 9720 9735	Bank of England
+T249	Term_Common 9763 9782	financial stability
+T250	Term_Common 9763 9772	financial
+T251	Named_Entity 9796 9802	London
+T252	Named_Entity 9858 9866	Brussels
+T253	Named_Entity 9887 9893	France
+T254	Named_Entity 9932 9934	EU
+T255	Named_Entity 9999 10018	European Commission
+T256	Term_Common 10051 10056	banks
+T257	Named_Entity 10077 10079	UK
+T258	Term 10080 10095	clearing houses
+T259	Named_Entity 10190 10192	EU
+T260	Named_Entity 10200 10202	EU
+T261	Named_Entity 10330 10338	Brussels
+T262	Term 10354 10368	clearing house
+T263	Named_Entity 10479 10481	EU
+T264	Named_Entity 10541 10544	LCH
+T265	Named_Entity 10624 10665	European Securities and Markets Authority
+T266	Named_Entity 10681 10683	EU
+T267	Term 10767 10783	investment funds
+T268	Term_Common 10767 10777	investment
+T269	Term 10778 10783	funds
+T270	Named_Entity 10812 10814	EU
+T271	Named_Entity 10867 10869	UK
+T272	Named_Entity 10883 10891	Brussels
+T273	Term_Common 10963 10982	financial stability
+T274	Term_Common 10963 10972	financial
+T275	Named_Entity 10993 10995	EU
+T276	Term_Out_of_Domain 11018 11031	zero-sum game
+T277	Named_Entity 11072 11074	EU
+T278	Named_Entity 11108 11110	UK
+T279	Named_Entity 11152 11154	EU
+T280	Named_Entity 11207 11213	France
+T281	Named_Entity 11253 11255	UK
+T282	Named_Entity 11286 11291	Paris
+T283	Named_Entity 11312 11322	Luxembourg
+T284	Named_Entity 11381 11385	City
+T285	Named_Entity 11390 11392	EU
+T286	Term_Common 11393 11410	financial centres
+T287	Term_Common 11393 11402	financial
+T288	Named_Entity 11487 11489	EU
+T289	Term_Common 11567 11572	share
+T290	Term 11577 11588	derivatives
+T291	Term_Common 11589 11596	trading
+T292	Term 11577 11596	derivatives trading
+T293	Part_of_Term 11589 11596	trading
+T294	Part_of_Term 11567 11572	share
+R1	Split_Term Arg1:T294 Arg2:T293	
+T295	Term 11601 11622	hedge-fund management
+T296	Term 11601 11611	hedge-fund
+T297	Term 11607 11611	fund
+T298	Named_Entity 11625 11627	EU
+T299	Named_Entity 11677 11683	London
+T300	Term_Common 11732 11747	financial world
+T301	Term_Common 11732 11741	financial
+T302	Named_Entity 11875 11877	EU
+T303	Named_Entity 11925 11941	Stéphane Boujnah
+T304	Named_Entity 11962 11970	Euronext
+T305	Term_Common 11992 12007	stock exchanges
+T306	Term_Common 11992 11997	stock
+T307	Named_Entity 12011 12016	Paris
+T308	Named_Entity 12018 12027	Amsterdam
+T309	Named_Entity 12029 12035	Dublin
+T310	Named_Entity 12037 12045	Brussels
+T311	Named_Entity 12047 12053	Lisbon
+T312	Named_Entity 12058 12062	Oslo
+T313	Named_Entity 12076 12078	EU
+T314	Term_Common 12116 12133	financial centres
+T315	Term_Common 12116 12125	financial
+T316	Term 12203 12217	capital market
+T317	Term 12203 12210	capital
+T318	Term_Common 12211 12217	market
+T319	Named_Entity 12245 12247	EU
+T320	Term_Common 12294 12299	Banks
+T321	Named_Entity 12350 12364	Pablo Portugal
+T322	Term_Out_of_Domain 12388 12396	advocacy
+T323	Named_Entity 12404 12447	Association for Financial Markets in Europe
+T324	Term 12478 12497	trading obligations
+T325	Term_Common 12478 12485	trading
+T326	Named_Entity 12505 12507	EU
+T327	Named_Entity 12512 12514	UK
+T328	Term_Common 12556 12565	investors
+T329	Term 12691 12706	Capital markets
+T330	Term 12691 12698	Capital
+T331	Term_Common 12699 12706	markets
+T332	Term 12691 12712	Capital markets union
+T333	Named_Entity 12767 12769	UK
+T334	Named_Entity 12775 12777	EU
+T335	Term 12809 12833	capital markets capacity
+T336	Term 12809 12824	capital markets
+T337	Term 12809 12816	capital
+T338	Term_Common 12817 12824	markets
+T339	Named_Entity 12857 12859	EU
+T340	Term_Common 12860 12877	financial centres
+T341	Term_Common 12860 12869	financial
+T342	Named_Entity 12995 13003	Brussels
+T343	Term_Common 13100 13117	financial trading
+T344	Term_Common 13100 13109	financial
+T345	Term_Common 13110 13117	trading
+T347	Term 13309 13316	capital
+T348	Named_Entity 13329 13331	UK
+T349	Named_Entity 13340 13342	US
+T350	Term 13345 13368	Corporate bond issuance
+T351	Term 13345 13359	Corporate bond
+T352	Term 13355 13359	bond
+T353	Term 13386 13402	investment funds
+T354	Term_Common 13386 13396	investment
+T355	Term 13397 13402	funds
+T356	Named_Entity 13410 13414	EU27
+T357	Named_Entity 13439 13441	UK
+T358	Named_Entity 13478 13491	New Financial
+T359	Named_Entity 13497 13503	London
+T360	Term_Common 13525 13532	markets
+T361	Term_Common 12936 12943	markets
+T362	Term_Common 4684 4691	markets
+T363	Term_Common 13580 13586	market
+T364	Term 13591 13615	foreign exchange trading
+T365	Term_Common 13608 13615	trading
+T366	Term 13646 13658	swaps market
+T367	Term 13646 13651	swaps
+T368	Term_Common 13652 13658	market
+T369	Named_Entity 13698 13706	New York
+T370	Named_Entity 13711 13715	Asia
+T371	Named_Entity 13736 13744	Brussels
+T372	Term 13811 13832	capital markets union
+T373	Term 13811 13826	capital markets
+T374	Term 13811 13818	capital
+T375	Term_Common 13819 13826	markets
+T376	Named_Entity 14044 14057	Thomas Wieser
+T377	Named_Entity 14075 14077	EU
+T379	Term 14121 14150	capital markets union project
+T380	Term 14121 14142	capital markets union
+T381	Term 14121 14136	capital markets
+T382	Term 14121 14128	capital
+T383	Term_Common 14129 14136	markets
+T384	Named_Entity 14181 14183	EU
+T385	Named_Entity 14251 14253	EU
+T386	Term 14285 14300	capital markets
+T387	Term 14285 14292	capital
+T388	Term_Common 14293 14300	markets
+T389	Named_Entity 14307 14309	UK
+T390	Named_Entity 14311 14317	Sweden
+T391	Named_Entity 14322 14333	Netherlands
+T392	Named_Entity 14364 14366	EU
+T393	Term 14395 14398	CMU
+T394	Named_Entity 14417 14423	Europe
+T395	Term 14461 14468	capital
+T396	Named_Entity 14564 14566	UK
+T397	Named_Entity 14711 14713	EU
+T398	Term_Common 14730 14747	financial trading
+T399	Term_Common 14730 14739	financial
+T400	Term_Out_of_Domain 14929 14940	post-Brexit
+T401	Named_Entity 14941 14943	EU
+T402	Term_Common 14944 14960	financial system
+T403	Term_Common 14944 14953	financial
+T404	Named_Entity 14995 15008	Nicolas Véron
+T405	Named_Entity 15016 15062	Peterson Institute for International Economics
+T406	Named_Entity 15066 15076	Washington
+T407	Named_Entity 15086 15088	EU
+T408	Term 15149 15162	banking union
+T409	Term_Common 15149 15156	banking
+T410	Term_Common 15219 15233	banking sector
+T411	Term_Common 15219 15226	banking
+T412	Named_Entity 15250 15252	EU
+T413	Term 15293 15318	centralised debt issuance
+T414	Term 15305 15318	debt issuance
+T415	Term_Common 15305 15309	debt
+T418	Term 15421 15443	financial risk-sharing
+T419	Term_Common 15421 15430	financial
+T420	Term_Common 15474 15495	financial integration
+T421	Term_Common 15474 15483	financial
+T422	Term_Common 15545 15561	financial system
+T423	Term_Common 15545 15554	financial
+T424	Named_Entity 15572 15577	Veron
+T425	Term 15582 15597	capital markets
+T426	Term 15582 15589	capital
+T427	Term_Common 15590 15597	markets
+T428	Term_Common 15623 15638	financial space
+T429	Term_Common 15623 15632	financial
+T430	Term 15670 15683	banking union
+T431	Term_Common 15670 15677	banking
+T432	Named_Entity 15713 15715	EU
+T433	Term_Common 15833 15850	financial centres
+T434	Term_Common 15833 15842	financial
+T435	Named_Entity 15859 15868	Amsterdam
+T436	Term_Common 15925 15941	financial market
+T437	Term_Common 15925 15934	financial
+T438	Term_Common 15935 15941	market
+T439	Named_Entity 16055 16067	Enrico Bruni
+T440	Named_Entity 16077 16101	Europe and Asia Business
+T441	Named_Entity 16105 16113	Tradeweb
+T442	Term_Out_of_Domain 16169 16180	Brexit vote
+T443	Term_Out_of_Domain 16169 16175	Brexit
+T444	Named_Entity 16275 16281	Europe
+T447	Term_Out_of_Domain 6819 6831	Brexit talks
+T449	Named_Entity 8409 8411	UK
+T346	Term 13839 13871	financial services professionals
+T451	Term 13839 13857	financial services
+T452	Term_Common 13839 13848	financial
+T14	Named_Entity 278 284	Europe
+T50	Named_Entity 1748 1754	Europe
+T83	Term_Common 5708 5716	exchange
+T84	Term 9245 9260	clearing houses
+T378	Term_Common 11998 12007	exchanges

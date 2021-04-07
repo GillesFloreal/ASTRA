@@ -1,0 +1,127 @@
+T1	Term_Out_of_Domain 39 46	bitcoin
+T2	Term_Common 47 51	bank
+T3	Named_Entity 19 35	Jonathan Rowland
+T4	Term 12 15	IPO
+T5	Term 39 51	bitcoin bank
+T6	Term 115 127	bitcoin bank
+T7	Term_Out_of_Domain 115 122	bitcoin
+T8	Term_Common 123 127	bank
+T9	Named_Entity 172 177	Monzo
+T10	Named_Entity 180 184	Mode
+T11	Named_Entity 232 248	Jonathan Rowland
+T12	Term 270 275	float
+T13	Named_Entity 283 304	London Stock Exchange
+T14	Named_Entity 340 347	Rowland
+T15	Named_Entity 401 405	Tory
+T16	Named_Entity 412 434	David “Spotty” Rowland
+T17	Named_Entity 458 471	Prince Andrew
+T18	Term 550 562	bitcoin bank
+T19	Term_Out_of_Domain 550 557	bitcoin
+T20	Term_Common 558 562	bank
+T21	Term_Common 594 598	bank
+T22	Term_Out_of_Domain 641 647	crypto
+T23	Named_Entity 754 761	Rowland
+T24	Term_Common 852 867	digital banking
+T25	Term_Common 860 867	banking
+T26	Named_Entity 891 899	Jonathan
+T27	Named_Entity 901 905	Mode
+T28	Named_Entity 1007 1014	Twitter
+T29	Named_Entity 1140 1143	LSE
+T30	Named_Entity 1145 1152	Rowland
+T31	Named_Entity 1191 1195	Mode
+T33	Term_Common 1255 1264	investors
+T34	Term_Common 1284 1307	institutional investors
+T35	Term_Common 1298 1307	investors
+T36	Named_Entity 1342 1346	Mode
+T37	Term_Common 1384 1402	financial services
+T38	Term_Common 1384 1393	financial
+T39	Term 1437 1459	digital asset offering
+T41	Term 1437 1450	digital asset
+T42	Term 1445 1450	asset
+T43	Named_Entity 1475 1490	LSE Main Market
+T44	Named_Entity 1492 1496	Mode
+T45	Term_Common 1628 1635	banking
+T46	Term_Common 1647 1657	investment
+T47	Part_of_Term_Common 1628 1635	banking
+T48	Part_of_Term_Common 1647 1657	investment
+T49	Part_of_Term_Common 1670 1680	industries
+T50	Part_of_Term_Common 1670 1680	industries
+R1	Split_Term_Com Arg1:T47 Arg2:T50	
+R2	Split_Term_Com Arg1:T48 Arg2:T49	
+T51	Named_Entity 1683 1694	Alex Ryvkin
+T52	Named_Entity 1801 1805	Mode
+T53	Term 1806 1809	IPO
+T54	Named_Entity 1961 1972	Mode Global
+T55	Term 2155 2168	share capital
+T56	Term_Common 2155 2160	share
+T57	Term 2161 2168	capital
+T58	Named_Entity 2172 2189	Fibermode Limited
+T59	Named_Entity 2191 2202	Mode Global
+T60	Named_Entity 2514 2525	Alex Ryvkin
+T61	Named_Entity 2685 2700	Companies House
+T62	Named_Entity 2710 2716	Ryvkin
+T63	Named_Entity 2859 2865	R8 Ltd
+T64	Named_Entity 2907 2913	Ryvkin
+T65	Named_Entity 2933 2937	Mode
+T66	Named_Entity 2941 2947	Ryvkin
+T67	Named_Entity 3061 3065	Mode
+T68	Named_Entity 3077 3090	Fibermode Ltd
+T69	Named_Entity 3334 3338	Mode
+T70	Term_Common 3408 3413	stake
+T71	Named_Entity 3431 3435	Mode
+T72	Term 3609 3612	IPO
+T73	Named_Entity 3648 3652	Mode
+T74	Term 3672 3687	market offering
+T75	Term_Common 3672 3678	market
+T77	Term_Common 3711 3734	institutional investors
+T78	Term_Common 3725 3734	investors
+T79	Term_Common 3776 3785	investors
+T80	Term_Common 3827 3838	shareholder
+T81	Named_Entity 3881 3894	Premier Miton
+T82	Term 3987 3990	IPO
+T83	Term_Common 4009 4021	shareholders
+T84	Term_Common 4073 4084	shareholder
+T85	Named_Entity 4091 4107	Jonathan Rowland
+T86	Named_Entity 4111 4125	Ruskin Capital
+T87	Named_Entity 4170 4178	Jonathan
+T88	Named_Entity 4193 4199	Spotty
+T89	Named_Entity 4212 4225	Premier Miton
+T90	Term_Common 4241 4250	investors
+T91	Named_Entity 4255 4282	Keve Family Ltd Partnership
+T92	Named_Entity 4333 4337	Mode
+T93	Named_Entity 4347 4357	Ryan Moore
+T94	Named_Entity 4368 4384	Liwathon Limited
+T95	Named_Entity 4389 4403	Linley Limited
+T96	Named_Entity 4446 4453	Mayfair
+T97	Named_Entity 4476 4491	Companies House
+T98	Named_Entity 4529 4536	Rowland
+T99	Term_Common 4579 4588	investors
+T100	Named_Entity 4617 4625	Jonathan
+T101	Named_Entity 4630 4636	Spotty
+T102	Term_Common 4716 4725	investors
+T103	Named_Entity 4796 4809	The Telegraph
+T104	Named_Entity 4822 4826	Mode
+T105	Named_Entity 4875 4904	Christopher Isaac “Biz” Stone
+T106	Term_Common 4913 4921	investor
+T107	Named_Entity 4962 4969	British
+T108	Named_Entity 4992 4999	Twitter
+T109	Term_Common 5070 5080	investment
+T110	Term_Common 5148 5159	shareholder
+T111	Term_Common 5188 5194	shares
+T112	Term_Common 5213 5225	shareholders
+T113	Term_Common 5281 5287	shares
+T114	Term_Common 5330 5341	share sales
+T115	Term_Common 5330 5335	share
+T116	Named_Entity 5407 5411	Mode
+T117	Term 5422 5425	IPO
+T118	Term 5639 5642	IPO
+T119	Term_Out_of_Domain 641 656	crypto start-up
+T120	Term_Out_of_Domain 799 805	crypto
+T121	Term 820 833	dotcom bubble
+T32	Term 1451 1459	offering
+T40	Term 3679 3687	offering
+T122	Term_Common 4650 4661	investments
+T76	Term 5450 5457	listing
+T123	Term 1129 1136	listing
+T124	Term 1463 1467	list
+T125	Term 4838 4842	list

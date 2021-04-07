@@ -1,0 +1,96 @@
+BlackRock ETF thrusts climate change into political sphere
+Coal-reliant Germany falls foul of first environmentally-weighted sovereign bond fund
+
+
+	BlackRock has launched a sovereign bond ETF designed to weight countries on their level of risk from climate change, thrusting the debate over sustainable investment into the political sphere.
+
+Government debt from Germany, Spain, the Netherlands, Belgium and Ireland will be underweighted in the new ETF because of their higher greenhouse gas emissions or greater exposure to climate change risks.
+
+“Climate change could significantly impact government finances. We have argued that there is a link between climate change and creditworthiness,” said Scott Harman, head of fixed income product management at FTSE Russell, which designed the index behind the fund. He added that it was the world’s first climate ETF to track sovereign bonds.
+
+To date, the investment industry has largely focused on climate risk at the corporate level, with companies perceived as being particularly exposed to global warming seeing their equities and bonds shunned by those investing on the basis of environmental, social and governance (ESG) factors.
+
+Mr Harman said there was a chronic lack of climate change and ESG solutions in the sovereign space, “which is a big paradox because it’s such a big market”.
+
+BlackRock said 78 per cent of global fossil fuel reserves were owned by governments rather than private-sector companies.
+
+“To date, investors have considered climate risk from an equity or corporate debt perspective, despite the average allocation to government bonds in client portfolios being around 17 per cent,” said Brett Olson, head of iShares fixed income, Emea, at BlackRock.
+
+“As a result, investors have overlooked the impact of climate change on their portfolios, without a robust solution to addressing climate risk within their government bond allocation.”
+
+The iShares € Govt Bond Climate Ucits ETF (SECD), which began trading on Frankfurt’s Xetra bourse on Monday, is designed to help fill the void.
+
+Each country’s benchmark weighting in the new index is calculated using three climate-risk “pillars”.
+
+Transition risk reflects the work needed to be done by a country to meet the goal of limiting global temperature rise to 2 degrees Centigrade; physical risk represents a country’s economic exposure to the physical effects of climate change; while resilience encapsulates a country’s preparedness and the actions it is taking to cope with its climate-related risk exposure.
+
+	FTSE Russell claims the index is 26 per cent better aligned to a 2 degrees Centigrade pathway than its equivalent plain vanilla eurozone government bond index, in which countries’ weights are based on the size of their sovereign bond market. A portfolio built with the climate index would have 7 per cent lower greenhouse gas emissions than the traditional one, it added.
+
+Germany’s weight in the climate risk-weighted index is only 12 per cent, compared to 18.7 per cent in the underlying benchmark. Hard coal and lignite, the most polluting grade of coal, accounted for 28.2 per cent of Germany’s power production last year.
+
+The Netherlands’ share falls from 4.8 per cent to just 0.22 per cent, reflecting the low-lying country’s vulnerability to rising sea levels and the small size of its renewable energy sector, a factor that also cuts Ireland’s weighting from 2 per cent to 0.25 per cent.
+
+Conversely France, with the continent’s largest nuclear industry, sees its weight rise from 25.8 per cent in the underlying index to 34.9 per cent, while that of Finland, heavily reliant on nuclear and hydropower, almost triples to 4.2 per cent. Italy also scores highly.
+
+Mr Harman said FTSE Russell had “already had discussions with central banks keen to know their climate score”, given that it could start to feed into appetite for their national debt.
+
+
+	A separate climate version of FTSE’s widely followed World Government Bond Index, not as yet tracked by any funds, underweights South Africa, Mexico, Poland, Australia and the US, while overweighting Scandinavian countries.
+
+The development comes amid concerns that the fund industry’s unwillingness to criticise governments is holding back the expansion of ESG investment to the market for sovereign debt.
+
+However, Stephane Degroote, head of ETFs for the Emea region at FTSE Russell, said “investors are recognising that climate risk will impact on the macro and country level, not just the corporate level”.
+
+“Research shows that little climate-related risk is priced into current government bond valuations. This is unlikely to continue in the long term,” said Mr Olson.
+Emerging economies face rising interest rates as capital flows ebb
+Policy loosening cycle stalls as stimulus that cushioned pandemic impact fades
+The vast wave of monetary stimulus that has kept emerging economies afloat since the coronavirus pandemic hit earlier this year has begun to ebb, just as pressure mounts on these countries to finance their recovery and their huge build-up of debt.
+
+The combination risks creating a damaging spiral of falling currencies and rising borrowing costs, triggering debt crises and defaults, economists have warned.
+
+“External financial conditions have stopped loosening and maybe tightened over the past month,” said Adam Wolfe, emerging markets economist at Absolute Strategy Research.
+
+Foreign investors have become net sellers of emerging market stocks and bonds in recent weeks, following a period of capital inflows after the panic selling that gripped markets in March. The reversal of capital flows will make domestic funding conditions tougher for many countries, Mr Wolfe said.
+
+The changing conditions mean that central banks that loosened monetary policy as part of their initial response to the crisis will find it harder to do so again. The number of banks lowering rates shrank to a trickle in September, after a wave of loosening in the second quarter of the year, according to a Financial Times analysis of monetary policy in 25 developing countries.
+
+
+	Of the economies in the analysis, only Mexico, Egypt and Nigeria lowered their policy rates in September, the smallest number of rate cuts since April 2019 and down from a peak of 20 in March.
+
+Central banks in Turkey and Hungary raised interest rates in late September, the only banks among the 25 to tighten policy this year and the first sign that the loosening cycle may be about to reverse. Hungary left its main policy rate unchanged but raised its influential one-week deposit rate for the second time after its currency depreciated steeply.
+
+In normal times, central banks typically raise rates to ward off inflation, which can be stoked by a weakening currency. But the collapse in economic activity since the pandemic began means that subdued demand will probably keep pressure on prices to a minimum.
+
+Today, central banks worry about exchange rates for other reasons. A devaluing currency means lenders will demand higher returns on government bonds, making borrowing more expensive at a time when many national budgets are under severe strain.
+
+
+	Along with the lira and forint, several other emerging market currencies have depreciated sharply during the crisis, including those of Brazil, South Africa and Russia.
+
+“Falling currencies in emerging markets raise the fear of further devaluation and add risk premia to all kinds of credit spreads,” said Robin Brooks, chief economist at the Institute of International Finance. “They are a sign of tightening financial conditions and potential funding issues.”
+
+Not all governments face such challenges. In China, Taiwan and Vietnam, for example, the virus has been brought under control and economic activity is close to or above pre-crisis levels, leaving governments less vulnerable to a tightening of global financial conditions.
+
+“Asia is very different from the rest of [the emerging markets],” said Johanna Chua, head of Asia economics at Citi. “Many countries are self-financing so they don’t have the same constraints as other emerging markets.”
+
+Other countries have so far kept going by taking on large amounts of new borrowing. Overall, emerging economies raised about $145bn on international bond markets between January and September, and an additional $630bn on domestic markets, according to the IIF. That is about $135bn more than the same period last year.
+
+
+	They have been able to borrow so freely thanks partly to the trillions of dollars of liquidity poured into global financial markets by the US Federal Reserve and other advanced economies’ central banks. Many have also benefited from emergency lending from the IMF and World Bank, while others have been able to draw on relatively deep domestic financial systems, where banks, pension funds and others can be relied on to buy government bonds.
+
+But it is their historically low policy rates that have underpinned the borrowing spree.
+
+Policy rates are at or below 1 per cent in seven of the 25 countries surveyed — even though, adjusted for inflation, they have not fallen by as much as rates in advanced economies in the decade since the global financial crisis.
+
+In places that have in the past been known for their relatively high rates, such as Brazil and Russia, rates are at all-time lows. Several governments that previously sold longer-dated bonds have borrowed much more cheaply during the pandemic by issuing short-term bonds, a risky strategy because they must be repaid quickly.
+
+If interest rates remain low and economies bounce back quickly, the gamble will pay off, analysts said. But if interest rates rise and economies fail to regain economic ground, this could lead to serious trouble.
+
+Jeromin Zettelmeyer, deputy director of the IMF strategy, policy and review department, recently warned that the number of countries at high risk of falling into financial crisis had risen during the pandemic from three to eight among advanced economies and from 15 to 35 among emerging markets.
+
+He cited an alarming expansion in budget deficits and a recent rise in borrowing costs, to the extent that a handful of countries had already lost market access.
+
+“The increase in the risk of debt crisis over the short and medium term is going to be very high,” he said at a forum hosted by the Peterson Institute for International Economics. “If you lose market access, you are in trouble.”
+
+Also speaking at the forum, Maurice Obstfeld, professor of economics at the University of California, Berkeley, said that recent falls in nominal rates should not disguise the relatively high real interest rates in emerging economies compared with advanced ones, and that low real rates and cheap government borrowing may not be sustained.
+
+“Where [emerging market interest rates] are going to go in the next few years is unclear, but we should worry about this,” he said.

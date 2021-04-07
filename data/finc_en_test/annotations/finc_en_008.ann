@@ -1,0 +1,62 @@
+T1	Named_Entity 0 14	Deutsche Börse
+T2	Term_Common 35 42	profits
+T3	Named_Entity 47 50	Dax
+T4	Named_Entity 83 97	Deutsche Börse
+T5	Named_Entity 99 113	Theodor Weimer
+T6	Named_Entity 132 139	Germany
+T7	Named_Entity 142 145	Dax
+T8	Term 240 258	stock market index
+T9	Term_Common 240 252	stock market
+T10	Term_Common 246 252	market
+T11	Term 253 258	index
+T12	Named_Entity 276 284	Wirecard
+T13	Named_Entity 310 316	German
+T15	Named_Entity 485 488	Dax
+T16	Part_of_Term 489 494	index
+T17	Named_Entity 601 609	Wirecard
+T18	Term_Common 643 651	accounts
+T19	Term 672 682	insolvency
+T20	Named_Entity 733 736	Dax
+T21	Term 1095 1113	total return index
+T23	Term 1108 1113	index
+T24	Named_Entity 1207 1220	Deutsche Bank
+T25	Named_Entity 1410 1418	Wirecard
+T26	Named_Entity 1436 1444	Wirecard
+T27	Term 1463 1469	Ebitda
+T28	Named_Entity 1571 1574	Dax
+T29	Named_Entity 1688 1695	Germany
+T30	Term_Common 1714 1730	developed market
+T31	Term_Common 1724 1730	market
+T32	Term 1733 1739	Ebitda
+T33	Named_Entity 1868 1886	Michael Mauboussin
+T35	Term 1984 2001	capital intensity
+T36	Term 1984 1991	capital
+T37	Term 2079 2085	Ebitda
+T34	Term_Common 2162 2171	investors
+T38	Named_Entity 2243 2257	Deutsche Börse
+T40	Named_Entity 2433 2436	Dax
+T41	Named_Entity 2468 2482	Deutsche Börse
+T42	Term 2492 2507	blue-chip index
+T43	Term 2502 2507	index
+T44	Term_Common 2564 2586	dividend paying stocks
+T45	Term 2564 2572	dividend
+T46	Term_Common 2580 2586	stocks
+T47	Named_Entity 2867 2875	Wirecard
+T48	Term 2900 2905	index
+T50	Named_Entity 3046 3060	Deutsche Börse
+T51	Term 3129 3146	sustainable index
+T52	Term 3141 3146	index
+T53	Term 3206 3210	P+Ls
+T54	Named_Entity 3310 3317	S&P 500
+T55	Named_Entity 3361 3375	Deutsche Börse
+T39	Term_Common 317 325	exchange
+T22	Term_Common 1846 1867	investment strategist
+T56	Term_Common 1846 1856	investment
+T57	Named_Entity 2159 2161	US
+T49	Named_Entity 3270 3272	US
+T14	Part_of_Term 475 484	blue-chip
+R1	Split_Term Arg1:T14 Arg2:T16	
+T58	Term 475 484	blue-chip
+T59	Term 489 494	index
+T60	Term_Common 2121 2133	reinvestment
+T61	Term 2492 2501	blue-chip

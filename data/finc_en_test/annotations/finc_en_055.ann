@@ -1,0 +1,66 @@
+T1	Named_Entity 0 9	Ant Group
+T2	Named_Entity 46 48	US
+T3	Named_Entity 69 78	Hong Kong
+T4	Named_Entity 83 91	Shanghai
+T5	Term 92 95	IPO
+T6	Term_Common 122 129	finance
+T7	Named_Entity 159 165	Huawei
+T8	Named_Entity 170 179	ByteDance
+T9	Named_Entity 256 258	US
+T10	Named_Entity 290 295	China
+T11	Term_Common 298 314	financial sector
+T12	Term_Common 298 307	financial
+T13	Named_Entity 332 341	Ant Group
+T14	Named_Entity 347 354	Alibaba
+T15	Term 355 372	fintech affiliate
+T16	Term 355 362	fintech
+T17	Term_Common 383 388	banks
+T18	Named_Entity 442 447	Trump
+T19	Named_Entity 551 560	Ant Group
+T20	Named_Entity 565 572	Tencent
+T21	Named_Entity 647 650	Ant
+T22	Named_Entity 662 664	US
+T23	Named_Entity 676 683	America
+T24	Named_Entity 686 694	Vanguard
+T25	Term 717 748	investment advisory partnership
+T26	Term_Common 717 727	investment
+T27	Named_Entity 760 763	Ant
+T28	Named_Entity 817 820	Ant
+T29	Named_Entity 829 838	Hong Kong
+T30	Named_Entity 843 851	Shanghai
+T31	Term 852 855	IPO
+T32	Term_Common 970 977	bankers
+T33	Term 961 968	listing
+T34	Term 11 15	list
+T35	Term_Common 989 1005	market valuation
+T36	Term_Common 989 995	market
+T37	Term_Common 1043 1055	global banks
+T38	Term_Common 1050 1055	banks
+T39	Named_Entity 1072 1075	Ant
+T40	Named_Entity 1143 1147	Visa
+T41	Named_Entity 1149 1159	Mastercard
+T42	Named_Entity 1163 1169	PayPal
+T43	Named_Entity 1232 1235	Ant
+T44	Named_Entity 1345 1352	Tencent
+T45	Named_Entity 1379 1382	Ant
+T47	Term_Common 1456 1463	markets
+T48	Named_Entity 1480 1482	US
+T49	Named_Entity 1537 1540	Ant
+T50	Named_Entity 1556 1558	US
+T51	Named_Entity 1580 1593	Neiman Marcus
+T52	Named_Entity 1597 1606	Walgreens
+T53	Named_Entity 1620 1626	Alipay
+T54	Named_Entity 1628 1635	Alibaba
+T55	Named_Entity 1673 1678	Trump
+T56	Named_Entity 1790 1793	Ant
+T57	Named_Entity 1852 1857	China
+T58	Named_Entity 1867 1873	Alipay
+T59	Term 1937 1964	financial services provider
+T60	Term 1937 1955	financial services
+T61	Term_Common 1937 1946	financial
+T62	Term 1996 2010	consumer loans
+T63	Term_Common 2005 2010	loans
+T64	Named_Entity 2048 2050	US
+T65	Named_Entity 2069 2075	Huawei
+T66	Named_Entity 2142 2144	US
+T67	Term 2105 2132	earnings valuation discount

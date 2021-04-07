@@ -1,0 +1,33 @@
+The total addressable market craze is detached from reality
+
+When market historians look back at 2020, the Spac craze, the March sell-off and negative oil will undoubtedly take centre stage (apart from that other thing, that is).
+
+Yet this year has also been marked by another unavoidable trend: the rise of the TAM, or total addressable market, investment thesis.
+
+You should know the schtick by now. Company A comes to market, either via an IPO, direct listing or Spac, with the promise of an almost boundless market opportunity and an equally boundless dollar number. The number is then swallowed whole by investors and analysts, without any question as to whether Company A’s stated TAM is remotely realistic. Or, for that matter, how the economics might look if it eventually reaches those blue skies.
+
+Think Uber’s initial public offering in 2019, which boasted of a “$5.7 trillion market opportunity in 175 countries” for its personal mobility (read: ride-sharing) business alone, or man-child fantasy vehicle Virgin Galactic’s claim that commercial space travel represents a future $1.5tn market opportunity for the company.
+
+It’s a trend that’s almost as exponential as the prospective market sizes. According to financial data company Sentieo, September saw a record number of companies using the term in their pre-IPO S-1 filings relative to the past five years:
+
+
+And that’s not including sellside research, or even existing public companies claiming new markets. Bubbly no?
+
+Speaking of the sellside, we came across a particularly egregious TAM definition from a Bank of America note last week on $22bn Russian tech company Yandex. (Thanks to a friend of FT Alphaville for pointing this out.)
+
+Now regardless of whether you think any of the total addressable market claims are fair, it’s generally accepted that when you speak of a market opportunity it constitutes revenue opportunity. For instance, if Uber took 10 per cent of the $5.7tn transport market it mentioned, that would mean potential revenues of $570bn.
+
+Well not any more it seems. Following Yandex’s $5.5bn acquisition of Russia’s top digital bank Tinkoff, Bank of America reckons a total addressable market is not just about revenues, but an entire sector’s stock and flows.
+
+From the note (TCS is Tinkoff):
+
+Fast-tracked entry into $2 trillion TAM
+
+Yandex's TAM is c.$800bn today (we have not considered total transport for ride hailing TAM). Given TCS currently has c.10 per cent market share in credit card lending and 10m customers this could in principle give exposure to an additional c.$150bn TAM (retail loans ex-mortgage) or even $2.2tn if we include payments ($1.4tn) and retail wealth (c.$650bn) besides lending.
+
+Yet even if Yandex does manage to get a foothold in this $2.2tn market opportunity, it will only make a much smaller slice of revenues — whether it be from the fees from wealth management or transaction charges on payments. So really, it’s not a $2.2tn TAM at all.
+
+FT Alphaville does not mean to pick on the BofA analysts here; we’re sure they’re not the only ones at the moment using a rather broad definition of TAM to justify a share price, an acquisition or an IPO. But still, it does say something about the apparent suspension of sanity in equity markets at the moment, where whoever can paint a rosier picture of the future, no matter how far-fetched, is crowned the winner.
+
+Norway’s new oil fund chief seeks more ESG-driven divestments
+Nicolai Tangen says $1tn sovereign wealth fund should improve its use of risk to boost returns

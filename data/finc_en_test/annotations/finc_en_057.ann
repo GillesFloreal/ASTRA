@@ -1,0 +1,140 @@
+T1	Named_Entity 0 9	Ant Group
+T2	Term 25 28	IPO
+T3	Term_Common 40 46	shares
+T4	Term 84 93	flotation
+T5	Term 207 214	listing
+T6	Term_Common 222 236	public markets
+T7	Term_Common 229 236	markets
+T8	Term 259 274	fintech company
+T9	Term 259 266	fintech
+T10	Named_Entity 297 306	Ant Group
+T11	Term 281 293	dual listing
+T12	Term 286 293	listing
+T13	Named_Entity 310 319	Hong Kong
+T14	Named_Entity 324 332	Shanghai
+T15	Named_Entity 396 402	Aramco
+T16	Term 403 406	IPO
+T17	Named_Entity 439 442	Ant
+T18	Named_Entity 462 469	Alibaba
+T19	Named_Entity 547 552	China
+T20	Term_Common 633 639	credit
+T21	Term_Common 641 647	invest
+T22	Term 651 663	mutual funds
+T23	Term 658 663	funds
+T24	Named_Entity 748 761	Ant Financial
+T25	Named_Entity 765 774	Ant Group
+T26	Term 822 840	financial services
+T27	Term_Common 822 831	financial
+T28	Term_Common 892 901	investors
+T29	Term_Common 945 951	shares
+T30	Term 971 986	secondary stock
+T31	Term_Common 981 986	stock
+T32	Term_Common 1001 1013	shareholders
+T33	Term 1025 1028	IPO
+T34	Term 1035 1050	wealth managers
+T35	Term_Common 1064 1069	loans
+T36	Term_Common 1111 1121	investment
+T38	Named_Entity 1168 1171	Ant
+T39	Named_Entity 1232 1243	Wall Street
+T40	Term_Common 1244 1249	banks
+T41	Named_Entity 1263 1278	Bank of America
+T42	Named_Entity 1291 1294	Ant
+T43	Term 1376 1379	IPO
+T44	Named_Entity 1483 1490	Tencent
+T45	Named_Entity 1492 1501	ByteDance
+T46	Named_Entity 1506 1512	Huawei
+T47	Term_Common 1552 1561	investors
+T48	Named_Entity 1719 1721	US
+T49	Named_Entity 1725 1730	India
+T50	Named_Entity 1742 1745	Ant
+T51	Named_Entity 1781 1783	US
+T52	Named_Entity 1862 1871	Howard Yu
+T53	Named_Entity 1915 1934	IMD Business School
+T54	Named_Entity 1938 1949	Switzerland
+T55	Named_Entity 1954 1963	Singapore
+T56	Named_Entity 1992 1997	China
+T57	Term 2031 2049	financial services
+T58	Term_Common 2031 2040	financial
+T59	Named_Entity 2060 2069	fintechFT
+T60	Term 2085 2104	investment products
+T61	Term_Common 2085 2095	investment
+T62	Term_Common 2106 2111	loans
+T63	Term_Common 2147 2161	regional banks
+T64	Term_Common 2156 2161	banks
+T65	Named_Entity 2206 2212	Howard
+T66	Named_Entity 2239 2242	Ant
+T67	Named_Entity 2305 2320	south-east Asia
+T68	Named_Entity 2426 2430	Asia
+T69	Named_Entity 2447 2456	Singapore
+T70	Term_Common 2465 2473	invested
+T71	Term 2483 2500	fintech companies
+T72	Term 2483 2490	fintech
+T73	Named_Entity 2504 2512	Thailand
+T74	Named_Entity 2514 2523	Indonesia
+T75	Named_Entity 2528 2535	Myanmar
+T76	Named_Entity 2618 2621	Ant
+T77	Term 2662 2685	digital banking licence
+T78	Term 2662 2677	digital banking
+T79	Term_Common 2670 2677	banking
+T80	Named_Entity 2689 2698	Singapore
+T81	Named_Entity 2739 2748	Hong Kong
+T82	Term_Common 2804 2811	lending
+T83	Named_Entity 3065 3068	Ant
+T84	Named_Entity 3155 3160	China
+T85	Named_Entity 3210 3216	Alipay
+T86	Named_Entity 3239 3246	Tencent
+T87	Named_Entity 3249 3259	WeChat Pay
+T88	Term 3276 3301	international settlements
+T89	Term 3290 3301	settlements
+T90	Named_Entity 3307 3312	China
+T91	Term_Common 3417 3426	investors
+T92	Named_Entity 3470 3476	iProov
+T93	Named_Entity 3511 3517	London
+T94	Named_Entity 3536 3546	Andrew Bud
+T95	Named_Entity 3592 3618	Genuine Presence Assurance
+T96	Named_Entity 3620 3623	GPA
+T97	Term_Out_of_Domain 3786 3800	cybercriminals
+T98	Term_Common 3964 3976	shareholders
+T99	Term_Common 4006 4023	private investors
+T100	Term_Common 4014 4023	investors
+T101	Named_Entity 4029 4044	northern Europe
+T102	Term 4065 4073	fintechs
+T103	Named_Entity 4112 4115	GPA
+T104	Term_Out_of_Domain 4183 4214	online biometric authentication
+T105	Term_Out_of_Domain 4190 4214	biometric authentication
+T106	Term_Out_of_Domain 4190 4199	biometric
+T107	Term 4225 4232	fintech
+T108	Named_Entity 4245 4253	Wirecard
+T109	Term 4324 4331	fintech
+T110	Named_Entity 4332 4340	Wirecard
+T111	Named_Entity 4362 4375	Olaf Storbeck
+T112	Named_Entity 4380 4390	Dan McCrum
+T113	Named_Entity 4398 4413	Financial Times
+T114	Named_Entity 4585 4587	UK
+T115	Term 4588 4607	peer-to-peer lender
+T116	Term_Common 4601 4607	lender
+T117	Named_Entity 4608 4622	Funding Circle
+T118	Named_Entity 4674 4689	Financial Times
+T119	Term_Common 4734 4739	loans
+T120	Term_Common 4773 4782	investors
+T121	Named_Entity 4800 4811	Samir Desai
+T122	Named_Entity 4900 4914	Next Insurance
+T123	Term_Common 4975 4986	fundraising
+T124	Named_Entity 5030 5037	Reuters
+T125	Named_Entity 5063 5071	Alphabet
+T126	Named_Entity 5076 5085	Munich Re
+T127	Named_Entity 5103 5116	Guy Goldstein
+T128	Term_Common 5157 5163	market
+T129	Named_Entity 5184 5186	US
+T130	Named_Entity 5212 5220	Uncapped
+T131	Term_Common 5251 5258	finance
+T132	Named_Entity 5299 5309	TechCrunch
+T133	Named_Entity 5311 5319	EasySend
+T134	Term_Common 5361 5379	financial industry
+T135	Term_Common 5361 5370	financial
+T136	Named_Entity 5434 5449	Business Leader
+T137	Named_Entity 5455 5457	EU
+T138	Term 5504 5517	crypto assets
+T139	Term_Out_of_Domain 5504 5510	crypto
+T140	Term 5511 5517	assets
+T141	Named_Entity 5524 5532	Finextra

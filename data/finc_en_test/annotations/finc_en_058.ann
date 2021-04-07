@@ -1,0 +1,93 @@
+T1	Named_Entity 0 5	India
+T2	Term 6 18	equity sales
+T3	Term 6 12	equity
+T4	Term 59 63	IPOs
+T5	Term_Common 101 106	stock
+T6	Term 151 169	Equity fundraising
+T7	Term 151 157	Equity
+T8	Term_Common 158 169	fundraising
+T9	Named_Entity 173 178	India
+T10	Term 181 197	listed companies
+T11	Term 181 187	listed
+T12	Term 237 261	initial public offerings
+T13	Named_Entity 382 386	Asia
+T14	Named_Entity 473 481	Dealogic
+T15	Term_Common 510 516	stocks
+T16	Term_Common 574 580	shares
+T17	Term 648 652	IPOs
+T18	Term 799 818	follow-on offerings
+T19	Named_Entity 860 868	Dealogic
+T20	Term 883 886	IPO
+T21	Named_Entity 899 904	India
+T22	Named_Entity 954 963	SBI Cards
+T23	Named_Entity 992 1011	State Bank of India
+T32	Named_Entity 1222 1224	EY
+T33	Term 1134 1142	listings
+T34	Named_Entity 1390 1403	Sunil Khaitan
+T35	Term 1419 1441	global capital markets
+T36	Term 1426 1441	capital markets
+T37	Term 1426 1433	capital
+T38	Term_Common 1434 1441	markets
+T39	Named_Entity 1445 1460	Bank of America
+T40	Term_Common 1330 1345	primary markets
+T41	Term_Common 1338 1345	markets
+T42	Term 753 768	primary markets
+T43	Term_Common 761 768	markets
+T44	Term 1563 1567	IPOs
+T45	Term_Common 1598 1617	stock market debuts
+T46	Term_Common 1598 1610	stock market
+T47	Term_Common 1598 1603	stock
+T48	Term_Common 1604 1610	market
+T49	Term_Common 1652 1659	markets
+T50	Named_Entity 1669 1678	Hong Kong
+T51	Named_Entity 1692 1697	China
+T52	Term 1762 1770	equities
+T53	Part_of_Term 1803 1810	primary
+T54	Term 1815 1834	secondary offerings
+T55	Part_of_Term 1825 1834	offerings
+R1	Split_Term Arg1:T53 Arg2:T55	
+T56	Named_Entity 1882 1887	India
+T57	Term_Out_of_Domain 1914 1928	market leaders
+T58	Term_Common 1967 1976	investors
+T59	Term_Common 2029 2036	markets
+T60	Term_Common 1914 1920	market
+T61	Named_Entity 2039 2058	Reliance Industries
+T62	Named_Entity 2060 2065	India
+T63	Named_Entity 2113 2126	Mukesh Ambani
+T64	Term 2153 2165	rights issue
+T65	Term_Common 2196 2203	Lenders
+T66	Named_Entity 2214 2228	Kotak Mahindra
+T67	Named_Entity 2230 2233	SBI
+T68	Named_Entity 2238 2243	ICICI
+T69	Term_Common 2271 2280	investors
+T70	Term_Common 2291 2303	central bank
+T71	Term_Common 2299 2303	bank
+T72	Term 2335 2348	capital bases
+T73	Term 2335 2342	capital
+T74	Term_Out_of_Domain 2425 2437	market share
+T75	Term_Common 2425 2431	market
+T76	Named_Entity 2481 2496	Prabodh Agrawal
+T77	Term_Common 2530 2545	financial group
+T78	Term_Common 2530 2539	financial
+T79	Term_Common 2548 2555	Traders
+T80	Term 2586 2598	IPO activity
+T81	Term 2586 2589	IPO
+T82	Named_Entity 2649 2654	India
+T85	Term 2664 2669	index
+T83	Named_Entity 2657 2663	Sensex
+T84	Term 2705 2721	retail investors
+T86	Term_Common 2712 2721	investors
+T87	Named_Entity 2755 2765	H Nemkumar
+T88	Term 2775 2797	institutional equities
+T89	Term 2789 2797	equities
+T90	Named_Entity 2801 2805	IIFL
+T91	Named_Entity 2864 2878	Happiest Minds
+T92	Term 2903 2911	listings
+T95	Term 3037 3041	IPOs
+T96	Named_Entity 3051 3086	Life Insurance Corporation of India
+T97	Term 3200 3207	listing
+T98	Term 252 261	offerings
+T99	Term 809 818	offerings
+T100	Named_Entity 1405 1410	India
+T101	Term 2160 2165	issue
+T102	Named_Entity 2840 2849	Bangalore

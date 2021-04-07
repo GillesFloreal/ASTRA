@@ -1,0 +1,79 @@
+T1	Term 8 15	VC firm
+T2	Named_Entity 20 25	Dubai
+T3	Term_Common 47 59	tech funding
+T4	Named_Entity 84 92	OurCrowd
+T5	Named_Entity 97 108	Al Naboodah
+T6	Term 177 197	venture capital firm
+T7	Term_Common 259 275	funding platform
+T8	Term_Common 290 312	technology investments
+T9	Named_Entity 325 345	United Arab Emirates
+T10	Named_Entity 470 478	OurCrowd
+T11	Named_Entity 483 503	Abdullah Al Naboodah
+T12	Named_Entity 540 555	Phoenix Capital
+T14	Term_Common 671 680	investors
+T15	Named_Entity 683 690	Phoenix
+T16	Named_Entity 746 754	OurCrowd
+T17	Term 761 780	portfolio companies
+T18	Named_Entity 820 823	UAE
+T19	Term 913 917	fund
+T20	Term 931 938	capital
+T21	Term_Common 975 984	investors
+T22	Named_Entity 1025 1028	UAE
+T23	Named_Entity 1076 1093	Al Naboodah Group
+T24	Named_Entity 1242 1252	Jon Medved
+T25	Named_Entity 1254 1262	OurCrowd
+T26	Named_Entity 1321 1327	Israel
+T27	Term 1354 1373	portfolio companies
+T28	Named_Entity 1471 1477	Medved
+T29	Named_Entity 1487 1502	Financial Times
+T30	Named_Entity 1782 1785	UAE
+T31	Named_Entity 1790 1796	Israel
+T33	Named_Entity 1906 1914	Naboodah
+T34	Named_Entity 1928 1945	Al Naboodah Group
+T35	Term_Common 1948 1962	investment arm
+T36	Term_Common 2024 2035	investments
+T37	Term_Out_of_Domain 2053 2061	agritech
+T38	Term_Out_of_Domain 2066 2074	robotics
+T39	Named_Entity 2118 2122	Gulf
+T40	Named_Entity 2158 2166	OurCrowd
+T42	Term_Common 2173 2178	funds
+T43	Term_Common 2182 2188	invest
+T44	Named_Entity 2201 2204	UAE
+T45	Named_Entity 2209 2215	Israel
+T46	Term 2268 2275	capital
+T47	Named_Entity 2347 2362	Sabah al-Binali
+T48	Term 2383 2406	private equity investor
+T49	Named_Entity 2430 2438	OurCrowd
+T50	Named_Entity 2453 2457	Gulf
+T51	Term 2519 2536	financial capital
+T52	Named_Entity 2544 2547	UAE
+T53	Named_Entity 2563 2569	Israel
+T54	Term_Common 2639 2648	investing
+T55	Named_Entity 2674 2680	Israel
+T56	Named_Entity 2689 2692	UAE
+T57	Named_Entity 2699 2705	Medved
+T58	Term_Common 2810 2815	trade
+T59	Term_Common 2820 2830	investment
+T60	Term_Out_of_Domain 2874 2892	desert agriculture
+T62	Term_Out_of_Domain 2911 2923	smart cities
+T63	Term_Common 2964 2975	investments
+T64	Named_Entity 2993 3001	OurCrowd
+T41	Term_Common 52 59	funding
+T65	Term_Common 259 266	funding
+T66	Term_Common 301 312	investments
+T67	Term 588 603	venture-funding
+T68	Term 761 770	portfolio
+T69	Term 1354 1363	portfolio
+T70	Term_Common 1948 1958	investment
+T71	Term_Common 2519 2528	financial
+T72	Term 177 192	venture capital
+T73	Term 185 192	capital
+T74	Named_Entity 225 230	Dubai
+T13	Term 588 612	venture-funding corridor
+T75	Named_Entity 725 729	Gulf
+T76	Term_Common 730 740	investment
+T32	Term_Common 2398 2406	investor
+T77	Term 2383 2397	private equity
+T78	Term 2391 2397	equity
+T79	Term 2529 2536	capital
+T61	Term 578 612	bilateral venture-funding corridor

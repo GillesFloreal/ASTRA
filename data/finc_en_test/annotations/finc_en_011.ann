@@ -1,0 +1,60 @@
+T1	Named_Entity 0 9	Instacart
+T2	Term 49 52	IPO
+T3	Term_Common 24 29	banks
+T4	Named_Entity 53 55	US
+T5	Term_Common 97 113	investment banks
+T6	Term_Common 108 113	banks
+T7	Named_Entity 168 177	Instacart
+T8	Named_Entity 183 185	US
+T9	Term_Common 228 244	investment banks
+T10	Term_Common 97 107	investment
+T11	Term_Common 228 238	investment
+T12	Term_Common 239 244	banks
+T13	Term_Common 427 434	funding
+T14	Term_Common 451 460	investors
+T15	Named_Entity 461 487	Valiant Capital Management
+T16	Named_Entity 492 502	D1 Capital
+T17	Named_Entity 565 574	Instacart
+T18	Term_Common 577 588	fundraising
+T19	Term_Common 622 627	banks
+T20	Term 649 664	public offering
+T21	Term_Common 810 821	fundraising
+T22	Named_Entity 856 865	Instacart
+T23	Term_Common 989 999	investment
+T24	Named_Entity 1157 1171	Danny Karubian
+T25	Named_Entity 1186 1193	Valiant
+T26	Term_Common 1207 1215	invested
+T27	Named_Entity 1337 1346	Instacart
+T28	Named_Entity 1550 1557	Walmart
+T29	Named_Entity 1577 1587	California
+T30	Named_Entity 1592 1600	Oklahoma
+T31	Named_Entity 1788 1802	Second Measure
+T32	Named_Entity 1832 1839	Walmart
+T33	Named_Entity 1843 1845	US
+T34	Named_Entity 1927 1933	Amazon
+T36	Named_Entity 1986 1995	Instacart
+T37	Named_Entity 2038 2040	US
+T38	Term_Common 2117 2131	public markets
+T39	Term_Common 2124 2131	markets
+T40	Named_Entity 2133 2141	DoorDash
+T41	Named_Entity 2238 2247	Instacart
+T42	Named_Entity 2384 2386	US
+T43	Term_Common 2450 2463	balance sheet
+T44	Term_Common 2450 2457	balance
+T45	Term_Common 2476 2487	fundraising
+T46	Term_Common 2543 2552	financing
+T47	Term_Common 2558 2563	funds
+T48	Named_Entity 2575 2587	T Rowe Price
+T49	Term_Common 2601 2610	valuation
+T50	Named_Entity 2624 2633	Instacart
+T51	Named_Entity 2761 2771	California
+T52	Named_Entity 2773 2782	Instacart
+T53	Named_Entity 2825 2833	DoorDash
+T54	Named_Entity 2838 2842	Uber
+T55	Term 1959 1982	initial public offering
+T35	Term 656 664	offering
+T56	Term 1974 1982	offering
+T57	Term 260 274	public listing
+T58	Term 267 274	listing
+T59	Term 848 855	capital
+T60	Term 119 126	listing
