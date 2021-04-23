@@ -84,7 +84,10 @@ for fin_text in os.listdir(fin_texts_dir):
 
 target_path = "/home/gillesfloreal/PycharmProjects/ASTRA/data/ling_prepr/pos_tags.json"
 
+
 with open(target_path, 'w', encoding='utf8') as target:
     json.dump(list(set(pos_labels_global)), target)
 
+
 # results in 134 unique POS-tags
+# max length POS = 7

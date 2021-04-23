@@ -8,7 +8,7 @@ def ngram_generator(doc):
     ngrams_doc = []
     for sentence in doc.sents:  # loop over sentences to get all n-grams within the sentence
         sent_list = [i.text for i in sentence]
-        for i in range(1, 6):  # n-grams chosen between 1 and 4
+        for i in range(1, 7):  # n-grams chosen between 1 and 7
             ngrams = list(nltk.ngrams(sent_list, i))
             ngram_string = [" ".join(ngram) for ngram in ngrams]
             ngrams_doc.extend(ngram_string)
