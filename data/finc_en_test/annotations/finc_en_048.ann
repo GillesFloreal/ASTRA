@@ -32,7 +32,6 @@ T31	Named_Entity 1085 1092	Goldman
 T32	Term 1141 1150	portfolio
 T33	Term 1165 1170	asset
 T34	Named_Entity 1244 1251	Goldman
-T35	Term_Common 1327 1339	investor day
 T36	Term_Common 1327 1335	investor
 T37	Named_Entity 1364 1371	Goldman
 T38	Term 1405 1420	capital markets
@@ -61,15 +60,10 @@ T59	Term_Common 1802 1813	investments
 T60	Term 1817 1834	wealth management
 T61	Term_Common 1929 1933	bank
 T62	Named_Entity 1955 1962	Goldman
-T63	Term 2030 2051	consumer finance unit
 T64	Term 2030 2046	consumer finance
 T65	Term_Common 2039 2046	finance
 T66	Term 2111 2128	wealth management
-T67	Part_of_Term 2111 2128	wealth management
-T68	Part_of_Term 2130 2138	division
-R2	Split_Term Arg1:T67 Arg2:T68	
 T69	Term_Common 2211 2215	bank
-T70	Term_Common 2228 2245	financial results
 T71	Term_Common 2228 2237	financial
 T72	Named_Entity 2267 2282	Stephanie Cohen
 T73	Named_Entity 2287 2298	Tucker York
@@ -79,3 +73,6 @@ T76	Named_Entity 2406 2413	Goldman
 T77	Named_Entity 2457 2470	Goldman Sachs
 T78	Named_Entity 2475 2489	General Motors
 T79	Named_Entity 2511 2522	Capital One
+T35	Term_Common 1557 1565	earnings
+T80	Term_Common 1762 1773	credit card
+T63	Term_Common 1189 1194	yield

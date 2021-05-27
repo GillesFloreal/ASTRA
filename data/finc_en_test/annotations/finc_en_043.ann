@@ -31,7 +31,6 @@ T30	Named_Entity 1346 1356	UK Finance
 T31	Term_Common 1415 1420	banks
 T32	Term 1422 1436	asset managers
 T33	Term 1422 1427	asset
-T34	Term_Out_of_Domain 1477 1483	Brexit
 T35	Named_Entity 1506 1508	EU
 T36	Named_Entity 1514 1522	Postings
 T37	Term_Common 1622 1629	finance

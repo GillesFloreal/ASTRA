@@ -1,4 +1,3 @@
-T1	Term_Out_of_Domain 5 14	takeovers
 T2	Term 18 31	fund managers
 T3	Term 18 22	fund
 T4	Term_Common 47 54	markets
@@ -6,7 +5,6 @@ T5	Term 65 84	activist hedge fund
 T6	Term 74 84	hedge fund
 T7	Term 110 124	asset managers
 T8	Term 110 115	asset
-T9	Term_Out_of_Domain 133 140	mergers
 T10	Named_Entity 154 165	Martin amis
 T11	Term_Common 300 307	finance
 T12	Term 311 318	roll-up
@@ -102,3 +100,9 @@ T104	Term 4506 4521	index investing
 T105	Term 4506 4511	index
 T106	Term_Common 4512 4521	investing
 T108	Term 4613 4621	roll-ups
+T1	Term_Out_of_Domain 133 140	mergers
+T9	Term_Out_of_Domain 3755 3761	merger
+T35	Term_Out_of_Domain 1420 1427	mergers
+T92	Term_Out_of_Domain 4171 4178	mergers
+T99	Term_Out_of_Domain 4546 4553	Mergers
+T107	Term_Common 2771 2780	purchases

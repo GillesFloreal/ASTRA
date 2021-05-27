@@ -6,12 +6,9 @@ T5	Named_Entity 394 421	Financial Reporting Council
 T6	Term_Common 549 561	stakeholders
 T7	Term_Common 932 943	stakeholder
 T8	Named_Entity 1033 1036	FRC
-T9	Term_Common 1101 1126	non-financial information
 T10	Term_Common 1101 1114	non-financial
-T11	Term_Common 1200 1220	financial statements
 T12	Term_Common 1200 1209	financial
 T13	Term_Common 1290 1302	stakeholders
-T14	Term_Common 1370 1392	investor presentations
 T15	Term_Common 1370 1378	investor
 T16	Named_Entity 1476 1490	Mark Babington
 T17	Named_Entity 1496 1499	FRC
@@ -26,7 +23,6 @@ T25	Named_Entity 2213 2226	Donald Brydon
 T26	Named_Entity 2248 2269	London Stock Exchange
 T27	Named_Entity 2342 2345	FRC
 T28	Term_Common 2543 2555	shareholders
-T29	Term_Common 2608 2628	financial statements
 T30	Term_Common 2608 2617	financial
 T31	Named_Entity 2654 2660	Brydon
 T32	Named_Entity 2426 2433	Kingman

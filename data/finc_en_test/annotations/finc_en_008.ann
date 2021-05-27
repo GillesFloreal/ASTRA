@@ -14,7 +14,6 @@ T13	Named_Entity 310 316	German
 T15	Named_Entity 485 488	Dax
 T16	Part_of_Term 489 494	index
 T17	Named_Entity 601 609	Wirecard
-T18	Term_Common 643 651	accounts
 T19	Term 672 682	insolvency
 T20	Named_Entity 733 736	Dax
 T21	Term 1095 1113	total return index
@@ -44,7 +43,6 @@ T46	Term_Common 2580 2586	stocks
 T47	Named_Entity 2867 2875	Wirecard
 T48	Term 2900 2905	index
 T50	Named_Entity 3046 3060	Deutsche Börse
-T51	Term 3129 3146	sustainable index
 T52	Term 3141 3146	index
 T53	Term 3206 3210	P+Ls
 T54	Named_Entity 3310 3317	S&P 500
@@ -60,3 +58,5 @@ T58	Term 475 484	blue-chip
 T59	Term 489 494	index
 T60	Term_Common 2121 2133	reinvestment
 T61	Term 2492 2501	blue-chip
+T62	Term_Common 2150 2157	profits
+T63	Term_Out_of_Domain 2203 2211	fracking

@@ -5,7 +5,6 @@ T8	Term 231 248	global imbalances
 T9	Named_Entity 344 351	America
 T10	Term 373 386	trade deficit
 T11	Term_Common 373 378	trade
-T12	Term 499 512	goods deficit
 T13	Term_Common 379 386	deficit
 T14	Term_Common 505 512	deficit
 T15	Named_Entity 557 562	China
@@ -14,7 +13,6 @@ T17	Term_Out_of_Domain 621 650	personal-protective equipment
 T18	Term 816 833	Global imbalances
 T19	Term_Common 885 901	financial crisis
 T20	Term_Common 885 894	financial
-T24	Term_Out_of_Domain 1101 1119	global saving glut
 T25	Term_Common 1174 1180	saving
 T26	Named_Entity 1334 1339	China
 T27	Term 1901 1921	Current-account gaps
@@ -31,9 +29,7 @@ T43	Term 1721 1744	current-account balance
 T49	Term_Common 1978 1988	investment
 T50	Term_Out_of_Domain 2071 2090	productive capacity
 T51	Term 2140 2151	obligations
-T52	Term_Common 2243 2268	financial vulnerabilities
 T53	Term_Common 2243 2252	financial
-T54	Term 2400 2425	current-account surpluses
 T58	Term_Out_of_Domain 2621 2649	domestic productive capacity
 T61	Term_Common 2730 2744	spending power
 T62	Term_Common 2750 2766	trading partners
@@ -62,7 +58,6 @@ T90	Term_Common 3439 3447	interest
 T91	Term_Common 3448 3453	rates
 T92	Term_Common 3508 3513	rates
 T93	Term_Common 3572 3581	borrowing
-T94	Term 3585 3602	deficit countries
 T95	Term_Common 3585 3592	deficit
 T97	Term_Common 3662 3678	financial crisis
 T98	Term_Common 3662 3671	financial
@@ -101,10 +96,31 @@ T141	Term_Out_of_Domain 5532 5542	think-tank
 T142	Named_Entity 5565 5570	China
 T143	Term 5595 5605	imbalances
 T144	Named_Entity 5715 5720	China
-T145	Term_Out_of_Domain 5777 5789	appreciation
+T145	Term_Common 5777 5789	appreciation
 T146	Term_Common 5796 5801	trade
 T147	Term 5913 5923	imbalances
 T150	Term 6157 6167	imbalances
 T2	Term_Common 4121 4129	stimulus
 T3	Term_Common 4584 4592	stimulus
 T6	Term_Common 4915 4923	stimulus
+T7	Term_Common 58 73	Monetary policy
+T21	Term_Common 58 66	Monetary
+T22	Term 1600 1615	current-account
+T23	Term 1901 1916	Current-account
+T31	Term 4048 4063	current-account
+T24	Term_Out_of_Domain 2630 2649	productive capacity
+T32	Term_Common 4064 4071	deficit
+T34	Term_Common 1616 1623	deficit
+T39	Term_Common 5766 5774	currency
+T40	Term_Common 3390 3397	deficit
+T12	Term 5796 5807	trade spats
+T41	Term 49 57	downturn
+T44	Term_Common 3338 3347	purchases
+T45	Term 950 975	current-account surpluses
+T46	Term_Common 966 975	surpluses
+T47	Term 2400 2425	current-account surpluses
+T48	Term_Common 2416 2425	surpluses
+T52	Term_Out_of_Domain 3640 3649	recession
+T54	Term_Out_of_Domain 4486 4499	protectionism
+T55	Term_Common 2114 2119	repay
+T56	Term 42 57	global downturn

@@ -1,8 +1,6 @@
 T1	Term_Common 17 34	Business Finances
 T2	Term_Common 26 34	Finances
 T3	Term_Common 223 228	debts
-T4	Term_Common 185 194	cash flow
-T5	Term_Common 349 368	financial situation
 T6	Term_Common 349 358	financial
 T7	Term_Common 427 435	finances
 T8	Term_Common 777 786	creditors
@@ -22,3 +20,23 @@ T21	Term_Common 2519 2526	finance
 T22	Term_Common 2861 2869	finances
 T23	Term_Common 3792 3803	tax returns
 T24	Term_Common 3792 3795	tax
+T4	Term_Common 1649 1654	debit
+T5	Term_Common 3288 3300	direct debit
+T25	Term_Common 1642 1654	direct debit
+T26	Term_Common 2031 2036	bills
+T27	Term_Common 2075 2082	invoice
+T28	Term_Common 2966 2971	bills
+T29	Term_Common 2976 2984	invoices
+T30	Term_Common 2106 2113	invoice
+T31	Term_Common 1496 1504	invoices
+T32	Term_Common 2899 2907	invoices
+T33	Term_Common 2881 2885	bill
+T34	Term_Common 460 468	payments
+T35	Term_Common 551 559	payments
+T36	Term_Common 1022 1030	payments
+T37	Term_Common 1441 1449	payments
+T38	Term_Common 2886 2894	payments
+T39	Term_Common 3181 3189	payments
+T40	Term_Common 1676 1683	payment
+T41	Term_Common 1543 1550	payment
+T42	Term_Common 815 822	payment

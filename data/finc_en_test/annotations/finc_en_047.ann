@@ -32,7 +32,6 @@ T33	Term_Common 2560 2569	investors
 T34	Term 2600 2620	investment portfolio
 T35	Term_Common 2600 2610	investment
 T36	Term 2611 2620	portfolio
-T37	Term_Common 2655 2672	financial cushion
 T38	Term_Common 2655 2664	financial
 T39	Term_Common 2681 2688	markets
 T40	Term_Common 2767 2775	investor
@@ -68,7 +67,6 @@ T69	Term_Common 3810 3820	investment
 T70	Named_Entity 3832 3863	Heartwood Investment Management
 T71	Named_Entity 3889 3897	FTSE 100
 T72	Term_Common 3989 3995	market
-T73	Term_Out_of_Domain 4021 4027	Brexit
 T74	Term_Common 4056 4065	investors
 T75	Term 4144 4149	index
 T78	Term_Common 4275 4284	investors
@@ -83,7 +81,6 @@ T86	Term 4511 4543	multi-asset portfolio management
 T88	Term 4523 4543	portfolio management
 T89	Term 4523 4532	portfolio
 T90	Named_Entity 4547 4580	Morningstar Investment Management
-T91	Term 4596 4601	index
 T92	Term 4612 4617	bonds
 T93	Named_Entity 4609 4611	UK
 T94	Named_Entity 4661 4663	US
@@ -136,7 +133,6 @@ T140	Term 7766 7781	DB pension fund
 T141	Term 7769 7781	pension fund
 T142	Term 7777 7781	fund
 T143	Term_Common 7850 7858	investor
-T144	Term_Common 7883 7898	investment risk
 T145	Term_Common 7883 7893	investment
 T146	Term 7906 7924	DB transfer values
 T147	Term 7906 7908	DB
@@ -192,10 +188,8 @@ T195	Term_Common 9932 9940	invested
 T196	Named_Entity 10008 10019	Nathan Long
 T197	Named_Entity 10049 10068	Hargreaves Lansdown
 T198	Term 10098 10108	volatility
-T199	Term_Common 10243 10257	tax advantages
 T200	Term_Common 10243 10246	tax
 T201	Term_Common 10291 10299	tax-free
-T203	Term_Common 10397 10406	tax rises
 T204	Term_Common 10397 10400	tax
 T205	Term_Common 10469 10472	tax
 T206	Named_Entity 10504 10515	Nimesh Shah
@@ -212,7 +206,6 @@ T216	Named_Entity 10991 10994	Aim
 T217	Term_Common 11020 11032	tax benefits
 T218	Term_Common 11020 11023	tax
 T219	Term_Common 11066 11075	investors
-T220	Term_Common 11131 11148	income tax relief
 T221	Term_Common 11131 11141	income tax
 T222	Term_Common 11138 11141	tax
 T223	Term_Common 11180 11186	shares
@@ -224,7 +217,6 @@ T229	Term 11656 11673	capital gains tax
 T230	Term 11656 11669	capital gains
 T231	Term_Common 11670 11673	tax
 T232	Term 11675 11678	CGT
-T233	Term_Common 11745 11755	tax change
 T234	Term_Common 11745 11748	tax
 T235	Term 11835 11840	asset
 T236	Term_Common 11895 11898	tax
@@ -244,7 +236,6 @@ T249	Term_Common 12253 12264	investments
 T250	Term_Common 12297 12300	tax
 T251	Term_Common 12339 12349	investment
 T252	Term_Common 12393 12396	tax
-T253	Term_Common 12562 12576	company shares
 T254	Term_Common 12570 12576	shares
 T255	Term 12582 12588	trusts
 T256	Named_Entity 12599 12610	Tim Stovold
@@ -255,15 +246,11 @@ T260	Term_Common 12899 12912	tax exemption
 T261	Term_Common 12899 12902	tax
 T262	Term_Common 12925 12931	shares
 T263	Term 12940 12943	EOT
-T264	Term 13025 13049	capital gains tax charge
-T265	Term 13025 13038	capital gains
-T266	Term_Common 13039 13049	tax charge
 T267	Term_Common 13039 13042	tax
 T268	Named_Entity 13055 13062	Stovold
 T269	Term 13095 13103	CGT rate
 T270	Term_Common 13099 13103	rate
 T271	Term 13095 13098	CGT
-T272	Term 13139 13153	EOT structures
 T273	Term 13139 13142	EOT
 T274	Term_Common 13588 13604	financial crisis
 T275	Term_Common 13588 13597	financial
@@ -299,7 +286,6 @@ T304	Term_Common 15061 15068	brokers
 T305	Term_Common 15357 15362	loans
 T306	Term_Common 15425 15430	Banks
 T307	Term_Common 15530 15535	rates
-T308	Term 15472 15491	loan-to-value deals
 T309	Term 15472 15485	loan-to-value
 T310	Term 15574 15584	LTV market
 T311	Term 15574 15577	LTV
@@ -308,7 +294,6 @@ T313	Named_Entity 15595 15607	Hollingworth
 T314	Named_Entity 15649 15668	Bank of Mum and Dad
 T315	Term_Common 15732 15739	deposit
 T316	Named_Entity 15797 15799	UK
-T317	Term_Common 15826 15841	finance website
 T318	Term_Common 15826 15833	finance
 T319	Named_Entity 15842 15852	Moneyfacts
 T320	Term_Common 15932 15941	investors
@@ -320,7 +305,6 @@ T326	Term_Common 16144 16152	interest
 T327	Term_Common 16190 16211	offset mortgage rates
 T328	Term_Common 16197 16211	mortgage rates
 T329	Term_Common 16206 16211	rates
-T330	Term 16228 16252	standard fixed rate deal
 T331	Term_Common 16237 16247	fixed rate
 T332	Term_Common 16243 16247	rate
 T334	Named_Entity 16348 16360	Hollingworth
@@ -329,11 +313,9 @@ T336	Term_Common 16417 16421	rate
 T337	Term_Common 16444 16447	tax
 T338	Term_Common 16477 16486	borrowers
 T339	Term 486 494	volatile
-T341	Term_Common 1714 1732	investment options
 T342	Term_Common 1714 1724	investment
 T343	Term 3306 3318	fixed income
 T77	Term 4511 4522	multi-asset
-T87	Term 5600 5613	unlisted tech
 T344	Term 5600 5608	unlisted
 T202	Term 10733 10740	capital
 T228	Term_Common 11546 11554	tax-free
@@ -341,19 +323,15 @@ T346	Term 11656 11663	capital
 T347	Term 13025 13032	capital
 T10	Term_Common 1170 1187	mortgage payments
 T15	Term_Common 1170 1178	mortgage
-T76	Term_Common 1213 1240	mortgage holiday initiative
 T340	Term_Common 1213 1221	mortgage
-T350	Term_Common 1370 1387	trading relations
 T351	Term_Common 1370 1377	trading
 T352	Term 1917 1924	bullish
 T353	Term 3380 3387	Bullish
 T354	Term 4471 4476	gilts
 T355	Term_Common 4819 4825	trades
-T356	Term 5661 5678	listed incubators
 T357	Term 5661 5667	listed
 T345	Term 5844 5862	unlisted companies
 T358	Term 5844 5852	unlisted
-T359	Term_Common 6011 6036	infrastructure investment
 T360	Term_Common 6026 6036	investment
 T361	Term_Common 7162 7171	investing
 T362	Term 7296 7311	diversification
@@ -366,12 +344,10 @@ T367	Term 10741 10747	trusts
 T368	Term 10946 10952	listed
 T348	Term_Common 13373 13387	housing market
 T349	Term_Common 13381 13387	market
-T369	Term_Common 13616 13634	mortgage providers
 T370	Term_Common 13616 13624	mortgage
 T371	Term_Common 13822 13832	remortgage
 T372	Term_Common 13883 13891	mortgage
 T373	Term_Common 14077 14085	mortgage
-T374	Term_Common 14155 14175	mortgage application
 T375	Term_Common 14155 14163	mortgage
 T376	Term_Common 14326 14334	mortgage
 T377	Term_Common 14401 14410	mortgages
@@ -382,3 +358,54 @@ T381	Term_Common 15991 15999	mortgage
 T382	Term_Common 15984 15999	offset mortgage
 T383	Term_Common 16190 16205	offset mortgage
 T323	Term_Common 16408 16416	mortgage
+T333	Term_Common 3108 3117	inflation
+T384	Term_Common 3939 3947	sterling
+T385	Term_Common 4105 4110	pound
+T73	Term_Common 4631 4640	inflation
+T386	Term_Common 4715 4724	inflation
+T387	Term_Common 4959 4968	inflation
+T388	Term_Common 6342 6352	currencies
+T389	Term_Common 6398 6402	euro
+T390	Term_Common 6407 6415	renminbi
+T391	Term_Common 6434 6440	dollar
+T392	Term_Common 6456 6466	depreciate
+T393	Term 9125 9130	hedge
+T394	Term_Common 13566 13573	selling
+T395	Term_Common 13555 13561	buying
+T396	Term_Common 15320 15326	buyers
+T397	Term_Common 15616 15622	buyers
+T398	Term_Common 15726 15739	buyer deposit
+T399	Term_Common 15726 15731	buyer
+T400	Term_Common 16079 16087	mortgage
+T37	Term_Common 2655 2672	financial cushion
+T76	Term 13025 13042	capital gains tax
+T87	Term 4408 4414	hedges
+T144	Term_Common 8003 8006	dip
+T203	Term 5600 5613	unlisted tech
+T199	Term_Common 7819 7826	pension
+T220	Term_Common 7769 7776	pension
+T233	Term_Common 8180 8187	pension
+T253	Term_Common 8604 8611	pension
+T264	Term_Common 9838 9845	pension
+T265	Term_Common 10028 10035	pension
+T266	Term_Common 10646 10653	pension
+T272	Term_Out_of_Domain 11288 11305	economic downturn
+T308	Term 11297 11305	downturn
+T317	Term 9320 9328	downturn
+T330	Term_Common 10627 10636	allowance
+T341	Term_Common 10661 10670	allowance
+T350	Term_Common 11968 11977	allowance
+T356	Term_Common 12138 12147	allowance
+T359	Term_Common 7553 7561	pensions
+T369	Term_Common 7717 7725	pensions
+T374	Term_Out_of_Domain 5668 5678	incubators
+T401	Term_Common 1179 1187	payments
+T402	Term_Common 13807 13815	payments
+T403	Term_Common 15210 15226	mortgage payment
+T404	Term_Common 15219 15226	payment
+T405	Term 4391 4403	diversifiers
+T406	Term_Common 4844 4849	yield
+T91	Term 4596 4608	index-linked
+T407	Part_of_Term 4612 4617	bonds
+T408	Part_of_Term 4596 4608	index-linked
+R3	Split_Term Arg1:T408 Arg2:T407	

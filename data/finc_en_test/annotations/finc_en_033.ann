@@ -3,7 +3,6 @@ T2	Named_Entity 51 53	US
 T3	Named_Entity 89 95	Ankara
 T4	Named_Entity 175 177	US
 T5	Named_Entity 222 228	Turkey
-T6	Term_Out_of_Domain 255 279	S-400 air defence system
 T7	Named_Entity 295 301	Moscow
 T8	Named_Entity 426 436	Washington
 T9	Term_Common 474 483	investors
@@ -11,7 +10,6 @@ T10	Named_Entity 522 531	Joe Biden
 T11	Named_Entity 543 545	US
 T12	Named_Entity 619 627	Caucasus
 T13	Named_Entity 669 675	Turkey
-T14	Term_Out_of_Domain 694 718	S-400 air defence system
 T15	Named_Entity 763 769	Turkey
 T16	Term_Out_of_Domain 809 814	S-400
 T17	Named_Entity 836 858	US Department of State
@@ -52,7 +50,6 @@ T49	Named_Entity 2300 2311	Aaron Stein
 T50	Named_Entity 2315 2321	Turkey
 T51	Named_Entity 2336 2369	Foreign Policy Research Institute
 T52	Named_Entity 2373 2375	US
-T53	Term_Out_of_Domain 2376 2386	think-tank
 T54	Named_Entity 2393 2399	Ankara
 T55	Named_Entity 2472 2478	Moscow
 T56	Named_Entity 2496 2503	Russian
@@ -93,7 +90,13 @@ T90	Named_Entity 4300 4312	Hagia Sophia
 T91	Named_Entity 4391 4400	Byzantine
 T92	Term_Out_of_Domain 255 260	S-400
 T93	Term_Out_of_Domain 694 699	S-400
-T94	Term_Out_of_Domain 921 938	S-400 transaction
 T97	Term_Common 1741 1746	trade
 T98	Named_Entity 1948 1954	Turkey
 T99	Named_Entity 1977 1983	Russia
+T95	Term_Common 0 12	Turkish lira
+T96	Term_Common 8 12	lira
+T100	Term_Common 138 150	Turkish lira
+T101	Term_Common 146 150	lira
+T102	Term_Common 318 326	currency
+T103	Term_Common 374 380	dollar
+T53	Term_Out_of_Domain 2376 2386	think-tank

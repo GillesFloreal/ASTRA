@@ -1,18 +1,14 @@
-T1	Term 27 59	sustainable finance league table
-T2	Term 27 53	sustainable finance league
 T3	Term 27 46	sustainable finance
 T4	Term_Common 39 46	finance
 T5	Term 96 109	ESG investors
 T6	Term_Out_of_Domain 96 99	ESG
 T7	Term_Common 100 109	investors
-T8	Term_Out_of_Domain 123 134	proxy rules
 T9	Term 136 152	green junk bonds
 T10	Term 142 152	junk bonds
 T11	Term 147 152	bonds
 T12	Named_Entity 156 162	Europe
 T13	Named_Entity 213 224	Moral Money
 T14	Named_Entity 242 251	Refinitiv
-T15	Term 276 309	sustainable finance league tables
 T16	Term 276 295	sustainable finance
 T17	Term_Common 288 295	finance
 T18	Term_Out_of_Domain 332 335	PPE
@@ -21,10 +17,8 @@ T20	Term 386 391	bonds
 T21	Named_Entity 404 410	Europe
 T22	Term_Out_of_Domain 412 415	ESG
 T23	Named_Entity 444 446	US
-T24	Term_Out_of_Domain 447 471	proxy adviser regulation
 T25	Term_Common 473 482	Investors
 T26	Named_Entity 496 498	US
-T27	Term_Out_of_Domain 499 512	anti-ESG rule
 T28	Term_Out_of_Domain 499 507	anti-ESG
 T29	Term 517 534	retirement market
 T30	Term_Common 528 534	market
@@ -55,10 +49,8 @@ T56	Term_Common 1295 1311	finance industry
 T57	Term_Common 1295 1302	finance
 T58	Named_Entity 1333 1335	EY
 T59	Term_Common 1391 1400	investors
-T60	Term 1445 1470	non-financial disclosures
 T61	Term_Common 1445 1458	non-financial
 T62	Term_Common 1533 1542	investors
-T63	Term_Out_of_Domain 1588 1596	ESG data
 T64	Term_Out_of_Domain 1588 1591	ESG
 T65	Named_Entity 1603 1612	Refinitiv
 T66	Term 1635 1654	sustainable finance
@@ -107,10 +99,8 @@ T110	Named_Entity 2581 2596	Bank of America
 T111	Named_Entity 2598 2606	JPMorgan
 T112	Named_Entity 2608 2619	Wells Fargo
 T113	Named_Entity 2624 2638	Morgan Stanley
-T114	Term 2650 2665	equity rankings
 T115	Term 2650 2656	equity
 T116	Term_Out_of_Domain 2194 2205	M&A markets
-T117	Term_Out_of_Domain 2195 2196	&
 T118	Term_Out_of_Domain 2679 2691	M&A advisers
 T119	Term_Out_of_Domain 2679 2682	M&A
 T120	Named_Entity 2697 2710	Goldman Sachs
@@ -125,7 +115,6 @@ T128	Named_Entity 2927 2938	Glass Lewis
 T129	Term 2944 2967	investor advisory firms
 T130	Term_Common 2944 2952	investor
 T131	Term_Out_of_Domain 3035 3038	ESG
-T132	Term_Common 3070 3091	shareholder proposals
 T133	Term_Common 3070 3081	shareholder
 T134	Term_Common 3143 3152	investors
 T135	Named_Entity 3260 3271	ShareAction
@@ -133,13 +122,8 @@ T136	Term_Common 3286 3303	charity investors
 T137	Term_Common 3294 3303	investors
 T138	Named_Entity 3324 3327	ISS
 T139	Term_Common 3345 3354	investors
-T140	Term 3385 3414	social shareholder resolution
 T141	Term 3392 3414	shareholder resolution
-T142	Part_of_Term 3392 3414	shareholder resolution
-T143	Part_of_Term 3368 3381	environmental
 T144	Term_Common 3392 3403	shareholder
-R4	Split_Term Arg1:T143 Arg2:T142	
-T145	Term_Out_of_Domain 3481 3491	ESG issues
 T146	Term_Out_of_Domain 3481 3484	ESG
 T147	Named_Entity 3522 3524	US
 T148	Named_Entity 3550 3553	SEC
@@ -147,14 +131,10 @@ T149	Term 3583 3606	investor advisory firms
 T150	Term_Common 3583 3591	investor
 T151	Named_Entity 3625 3628	SEC
 T152	Term_Out_of_Domain 3721 3724	ESG
-T153	Term_Out_of_Domain 3672 3697	proxy adviser regulations
 T154	Named_Entity 3730 3733	SEC
-T155	Term_Out_of_Domain 3903 3917	ESG proponents
 T156	Term_Out_of_Domain 3903 3906	ESG
 T157	Named_Entity 3965 3975	Paul Rodel
 T158	Named_Entity 3990 4010	Debevoise & Plimpton
-T159	Term_Out_of_Domain 4071 4106	draft proxy adviser recommendations
-T160	Term_Out_of_Domain 4156 4169	ESG proponent
 T161	Term_Out_of_Domain 4156 4159	ESG
 T162	Named_Entity 4236 4247	Glass Lewis
 T163	Named_Entity 4251 4254	ISS
@@ -168,7 +148,6 @@ T170	Named_Entity 4386 4407	Heather Slavkin Corzo
 T171	Named_Entity 4417 4419	US
 T172	Named_Entity 4434 4474	UN Principles for Responsible Investment
 T173	Term_Common 4526 4535	investors
-T174	Term_Out_of_Domain 4613 4626	ESG proposals
 T175	Term_Out_of_Domain 4613 4616	ESG
 T176	Named_Entity 4640 4659	Patrick Temple-West
 T177	Named_Entity 4675 4692	Christine Lagarde
@@ -176,7 +155,6 @@ T178	Named_Entity 4702 4704	FT
 T179	Named_Entity 4709 4730	European Central Bank
 T180	Term 4761 4785	asset purchase programme
 T181	Term 4761 4766	asset
-T182	Term 4889 4913	investment bank research
 T183	Term 4889 4904	investment bank
 T184	Term_Common 4889 4899	investment
 T185	Term_Common 4900 4904	bank
@@ -188,7 +166,6 @@ T190	Term_Common 5056 5060	debt
 T191	Named_Entity 5096 5139	Association for Financial Markets in Europe
 T192	Term_Common 5158 5163	banks
 T193	Term_Common 5168 5177	investors
-T194	Term_Out_of_Domain 5204 5218	ESG guidelines
 T195	Term_Out_of_Domain 5204 5207	ESG
 T196	Term 5247 5258	debt market
 T197	Term_Common 5247 5251	debt
@@ -197,7 +174,6 @@ T199	Term_Common 5290 5299	investors
 T200	Part_of_Term 5360 5365	green
 T201	Part_of_Term 5381 5386	bonds
 R5	Split_Term Arg1:T200 Arg2:T201	
-T202	Term 5370 5387	transition bonds.
 T203	Term 5381 5386	bonds
 T204	Named_Entity 5392 5396	AFME
 T205	Named_Entity 5531 5547	Dominic Ashcroft
@@ -226,7 +202,6 @@ T227	Term_Common 6205 6216	investments
 T228	Term_Out_of_Domain 6236 6248	greenwashing
 T229	Named_Entity 6267 6274	Lagarde
 T230	Named_Entity 6279 6285	Europe
-T231	Term_Common 6294 6313	central bank chiefs
 T232	Term_Common 6294 6306	central bank
 T233	Term_Common 6302 6306	bank
 T234	Term 6350 6360	green debt
@@ -235,7 +210,6 @@ T236	Term 6443 6455	green market
 T237	Term_Common 6449 6455	market
 T238	Named_Entity 6514 6533	Patrick Temple-West
 T239	Term_Common 6536 6545	Investors
-T240	Term_Out_of_Domain 6552 6565	anti-ESG rule
 T241	Term_Out_of_Domain 6552 6560	anti-ESG
 T242	Term 6633 6663	investment management industry
 T243	Term 6633 6654	investment management
@@ -253,23 +227,17 @@ T254	Named_Entity 7258 7261	DoL
 T255	Named_Entity 7351 7385	Institutional Shareholder Services
 T256	Term_Out_of_Domain 7413 7427	proxy advisers
 T257	Named_Entity 7435 7437	US
-T258	Term 7443 7469	investment data powerhouse
-T259	Term_Common 7443 7458	investment data
 T260	Term_Common 7443 7453	investment
 T261	Named_Entity 7470 7481	Morningstar
 T262	Term 7602 7616	asset managers
 T263	Term 7602 7607	asset
 T264	Term 7621 7639	financial advisers
 T265	Term_Common 7621 7630	financial
-T266	Term_Out_of_Domain 7657 7675	ESG considerations
 T267	Term_Out_of_Domain 7657 7660	ESG
-T268	Term_Common 7687 7707	investment processes
 T269	Term_Common 7687 7697	investment
 T270	Named_Entity 7732 7743	Morningstar
-T271	Term_Out_of_Domain 7769 7785	ESG data company
 T272	Term_Out_of_Domain 7769 7772	ESG
 T273	Named_Entity 7786 7800	Sustainalytics
-T274	Term_Out_of_Domain 7950 7959	ESG risks
 T275	Term_Out_of_Domain 7950 7953	ESG
 T276	Term_Common 7973 7984	investments
 T277	Named_Entity 8074 8085	Morningstar
@@ -281,7 +249,6 @@ T282	Named_Entity 8254 8260	Europe
 T283	Named_Entity 8266 8268	US
 T284	Term 8269 8288	investment managers
 T285	Term_Common 8269 8279	investment
-T286	Term_Out_of_Domain 8343 8359	ESG capabilities
 T287	Term_Out_of_Domain 8343 8346	ESG
 T288	Named_Entity 8415 8426	Moral Money
 T289	Named_Entity 8448 8451	DoL
@@ -297,4 +264,11 @@ R1	Split_Term_Com Arg1:T48 Arg2:T47
 T85	Term 2240 2254	equity capital
 T296	Term_Out_of_Domain 4077 4090	proxy adviser
 T297	Term_Out_of_Domain 3672 3685	proxy adviser
-T298	Term_Out_of_Domain 447 460	proxy adviser
+T70	Term 1829 1837	issuance
+T72	Term 2312 2320	issuance
+T1	Term_Out_of_Domain 447 460	proxy adviser
+T2	Term_Out_of_Domain 877 884	mergers
+T8	Term_Out_of_Domain 889 901	acquisitions
+T24	Term_Out_of_Domain 2194 2197	M&A
+T15	Term 5370 5386	transition bonds
+T27	Term 2422 2434	book runners

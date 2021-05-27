@@ -1,19 +1,16 @@
 import json
 
-paths = ["/home/gillesfloreal/PycharmProjects/ASTRA/data/ling_prepr/c_value_corp_CT.json",
-         "/home/gillesfloreal/PycharmProjects/ASTRA/data/ling_prepr/c_value_equi_CT.json",
-         "/home/gillesfloreal/PycharmProjects/ASTRA/data/ling_prepr/c_value_htfl_CT.json",
-         "/home/gillesfloreal/PycharmProjects/ASTRA/data/ling_prepr/c_value_wind_CT.json"]
+with open('/home/gillesfloreal/PycharmProjects/ASTRA/data/mapr/false_neg.json', 'r', encoding='utf-8') as f:
+    false_neg_list = json.load(f)
+    f.close()
 
-max = 0
+ngram_dict = dict()
 
-for path in paths:
-    with open(path, 'r') as f:
-        c_value = json.load(f)
-        f.close()
-    ct_sorted = sorted(c_value.items(), key=lambda item: item[1], reverse=True)
+for ann in false_neg_list:
+    ann_split = ann.split()
+    if len(ann_split) in ngram_dict:
+        ngram_dict[len(ann_split)] += 1
+    else:
+        ngram_dict[len(ann_split)] = 1
 
-    if ct_sorted[0][1] > max:
-        max = ct_sorted[0][1]
-
-print(max)
+print(ngram_dict)

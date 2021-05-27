@@ -44,17 +44,14 @@ T43	Term 1685 1691	assets
 T44	Named_Entity 1829 1834	China
 T45	Term_Common 1857 1871	fiscal support
 T46	Term_Common 1857 1863	fiscal
-T47	Term_Common 1885 1894	main rate
 T48	Term_Common 1890 1894	rate
 T49	Term 1925 1931	assets
 T50	Term_Common 1948 1961	interest rate
 T51	Term_Common 1957 1962	rates
 T52	Term_Common 2094 2103	investors
 T53	Named_Entity 2171 2182	Paul Mackel
-T54	Term_Common 2192 2234	emerging markets foreign exchange research
 T55	Term_Common 2192 2208	emerging markets
 T56	Term_Common 2201 2208	markets
-T57	Term_Common 2209 2234	foreign exchange research
 T58	Term_Common 2209 2225	foreign exchange
 T59	Term_Common 2217 2225	exchange
 T60	Named_Entity 2238 2242	HSBC
@@ -79,14 +76,12 @@ T79	Term 2845 2857	bond markets
 T80	Term 2845 2849	bond
 T82	Term_Common 2914 2930	foreign holdings
 T83	Term_Common 2922 2930	holdings
-T84	Term 2948 2969	equity market inflows
 T85	Term 2948 2954	equity
 T86	Term_Common 2955 2961	market
 T87	Term 2948 2961	equity market
 T88	Term_Common 3011 3027	foreign holdings
 T89	Term_Common 3019 3027	holdings
 T90	Term_Common 3057 3066	investors
-T91	Term 3099 3119	exchange rate shifts
 T92	Term_Common 3099 3112	exchange rate
 T93	Term_Common 3108 3112	rate
 T94	Named_Entity 3194 3198	PBoC
@@ -96,12 +91,10 @@ T97	Term_Common 3263 3267	rate
 T98	Term_Common 3307 3313	market
 T99	Named_Entity 3483 3488	Simon
 T100	Term 3553 3567	onshore-traded
-T101	Term_Common 3382 3399	market-determined
 T102	Term_Common 3595 3618	global financial crisis
 T103	Term_Common 3602 3618	financial crisis
 T104	Term_Common 3602 3611	financial
 T105	Named_Entity 3761 3765	PBoC
-T106	Term 3768 3797	Central bank reserve managers
 T107	Term_Common 3768 3780	Central bank
 T108	Term_Common 3776 3780	bank
 T109	Term 3781 3797	reserve managers
@@ -110,16 +103,13 @@ T111	Term 3815 3824	diversify
 T112	Term_Common 3831 3839	holdings
 T113	Named_Entity 3841 3861	UBS Asset Management
 T114	Named_Entity 3916 3918	US
-T115	Term 4050 4079	central bank reserve managers
 T116	Term_Common 4050 4062	central bank
 T117	Term_Common 4058 4062	bank
 T118	Term 4063 4079	reserve managers
-T119	Term_Common 4098 4108	trade wars
 T120	Term 4156 4172	reserve managers
 T121	Named_Entity 4333 4336	IMF
 T122	Term 4338 4354	reserve managers
 T123	Term 4449 4464	reserve manager
-T124	Term 4497 4525	fixed income investment case
 T125	Term 4497 4509	fixed income
 T126	Term_Common 4510 4520	investment
 T127	Named_Entity 4558 4570	Max Castelli
@@ -159,3 +149,29 @@ T160	Part_of_Term 990 997	onshore
 T161	Part_of_Term 1006 1014	holdings
 R2	Split_Term_Com Arg1:T160 Arg2:T161	
 T162	Term_Common 1776 1781	rates
+T154	Term_Common 5310 5318	renminbi
+T155	Term_Common 1367 1375	renminbi
+T156	Term_Common 1449 1455	dollar
+T163	Term_Common 1472 1480	currency
+T164	Term_Common 1593 1601	currency
+T165	Term_Common 2077 2085	renminbi
+T166	Term_Common 2962 2969	inflows
+T101	Term_Common 3654 3662	renminbi
+T167	Term_Common 3703 3709	dollar
+T106	Term_Common 4399 4407	currency
+T115	Term 4497 4520	fixed income investment
+T124	Term_Common 4653 4661	renminbi
+T168	Term_Common 4737 4743	dollar
+T169	Term_Common 4894 4901	dollars
+T170	Term_Common 4920 4928	renminbi
+T171	Term_Common 4942 4950	currency
+T172	Term_Common 5162 5169	inflows
+T54	Term 2192 2225	emerging markets foreign exchange
+T57	Term_Common 3099 3107	exchange
+T91	Term_Common 553 560	rallies
+T173	Term_Common 625 633	currency
+T47	Term 713 723	allocation
+T84	Term 4216 4226	allocation
+T119	Term_Common 1380 1388	payments
+T174	Term_Common 2689 2694	yield
+T175	Term_Common 374 380	yields

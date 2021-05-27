@@ -39,7 +39,6 @@ T38	Named_Entity 1255 1258	SEC
 T39	Named_Entity 1260 1265	Lufax
 T40	Named_Entity 1342 1351	Hong Kong
 T41	Named_Entity 1356 1358	US
-T42	Term_Common 1472 1491	financial condition
 T43	Term_Common 1472 1481	financial
 T44	Named_Entity 1522 1524	US
 T45	Term_Common 1525 1534	investors
@@ -59,9 +58,7 @@ T58	Named_Entity 2060 2062	US
 T59	Term_Common 2063 2070	markets
 T60	Term_Common 2109 2129	financial technology
 T61	Term_Common 2109 2118	financial
-T62	Term_Common 2142 2153	stock price
 T63	Term_Common 2142 2147	stock
-T64	Term_Common 2252 2263	stock price
 T65	Term_Common 2252 2257	stock
 T66	Term_Common 2306 2314	investor
 T67	Term_Common 2335 2341	stocks
@@ -109,3 +106,15 @@ T108	Term 258 266	offering
 T111	Term 1599 1616	fintech companies
 T112	Term 103 108	float
 T113	Term 938 944	delist
+T109	Term_Common 1158 1165	dollars
+T110	Term 1182 1187	hedge
+T115	Term_Common 2712 2719	profits
+T116	Term_Common 3229 3233	sell
+T117	Term_Out_of_Domain 790 811	geopolitical tensions
+T118	Term_Out_of_Domain 790 802	geopolitical
+T119	Term_Out_of_Domain 2380 2401	geopolitical tensions
+T120	Term_Out_of_Domain 2380 2392	geopolitical
+T114	Term_Common 2518 2538	peer-to-peer lending
+T42	Term 3658 3670	underwriters
+T62	Term_Common 3182 3190	payments
+T64	Term_Common 3175 3190	online payments

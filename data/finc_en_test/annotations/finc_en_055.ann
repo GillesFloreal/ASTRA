@@ -12,7 +12,6 @@ T11	Term_Common 298 314	financial sector
 T12	Term_Common 298 307	financial
 T13	Named_Entity 332 341	Ant Group
 T14	Named_Entity 347 354	Alibaba
-T15	Term 355 372	fintech affiliate
 T16	Term 355 362	fintech
 T17	Term_Common 383 388	banks
 T18	Named_Entity 442 447	Trump
@@ -63,4 +62,13 @@ T63	Term_Common 2005 2010	loans
 T64	Named_Entity 2048 2050	US
 T65	Named_Entity 2069 2075	Huawei
 T66	Named_Entity 2142 2144	US
-T67	Term 2105 2132	earnings valuation discount
+T15	Term 355 372	fintech affiliate
+T46	Term 2105 2123	earnings valuation
+T67	Term_Common 2105 2113	earnings
+T68	Term_Common 2114 2123	valuation
+T69	Term_Common 1199 1214	digital payment
+T70	Term_Common 1207 1214	payment
+T71	Term_Common 1199 1221	digital payment market
+T72	Term_Common 1489 1504	digital payment
+T73	Term_Common 1497 1504	payment
+T74	Term_Common 1645 1652	payment

@@ -12,7 +12,6 @@ T16	Term 956 972	asset management
 T17	Named_Entity 1008 1023	Financial Times
 T19	Named_Entity 1282 1290	Brussels
 T21	Term_Common 1439 1458	investment industry
-T23	Term_Out_of_Domain 866 882	green transition
 T25	Term_Common 307 326	investment industry
 T26	Named_Entity 1578 1586	Brussels
 T28	Named_Entity 1951 1953	EU
@@ -28,7 +27,6 @@ T22	Term_Common 793 804	investments
 T33	Term_Common 982 994	trade bodies
 T18	Term 1137 1151	asset managers
 T20	Term_Out_of_Domain 1408 1411	ESG
-T34	Term_Out_of_Domain 1408 1419	ESG metrics
 T35	Term_Out_of_Domain 713 716	ESG
 T29	Term 2018 2029	fund groups
 T36	Term 2283 2299	fund disclosures
@@ -58,22 +56,15 @@ T24	Term 502 512	portfolios
 T58	Term 956 961	asset
 T59	Term_Common 982 987	trade
 T60	Term 1137 1142	asset
-T61	Term_Out_of_Domain 1898 1918	coronavirus pandemic
-T62	Term_Out_of_Domain 1898 1909	coronavirus
 T63	Term 2093 2122	asset management trade bodies
 T64	Term_Common 2110 2122	trade bodies
 T65	Term_Common 2110 2115	trade
 T66	Term 956 994	asset management industry trade bodies
 T67	Term 956 981	asset management industry
-T68	Term 2667 2690	financial services unit
 T69	Term 2667 2685	financial services
 T70	Term_Common 2667 2676	financial
-T71	Term 3015 3046	sustainable finance association
-T72	Term 3015 3034	sustainable finance
 T73	Term_Common 3027 3034	finance
 T74	Term 3189 3194	asset
 T75	Term 107 120	ESG portfolio
-T76	Term 108 125	SG portfolio risk
-T77	Term_Out_of_Domain 450 492	environmental, social and governance risks
-T78	Term 618 645	sustainable investing rules
-T79	Term 618 639	sustainable investing
+T61	Term_Common 630 639	investing
+T23	Term 3027 3046	finance association

@@ -34,7 +34,6 @@ T41	Term_Common 1338 1345	markets
 T42	Term 753 768	primary markets
 T43	Term_Common 761 768	markets
 T44	Term 1563 1567	IPOs
-T45	Term_Common 1598 1617	stock market debuts
 T46	Term_Common 1598 1610	stock market
 T47	Term_Common 1598 1603	stock
 T48	Term_Common 1604 1610	market
@@ -47,7 +46,6 @@ T54	Term 1815 1834	secondary offerings
 T55	Part_of_Term 1825 1834	offerings
 R1	Split_Term Arg1:T53 Arg2:T55	
 T56	Named_Entity 1882 1887	India
-T57	Term_Out_of_Domain 1914 1928	market leaders
 T58	Term_Common 1967 1976	investors
 T59	Term_Common 2029 2036	markets
 T60	Term_Common 1914 1920	market
@@ -70,7 +68,6 @@ T76	Named_Entity 2481 2496	Prabodh Agrawal
 T77	Term_Common 2530 2545	financial group
 T78	Term_Common 2530 2539	financial
 T79	Term_Common 2548 2555	Traders
-T80	Term 2586 2598	IPO activity
 T81	Term 2586 2589	IPO
 T82	Named_Entity 2649 2654	India
 T85	Term 2664 2669	index
@@ -91,3 +88,6 @@ T99	Term 809 818	offerings
 T100	Named_Entity 1405 1410	India
 T101	Term 2160 2165	issue
 T102	Named_Entity 2840 2849	Bangalore
+T24	Term 934 941	listing
+T25	Term 493 500	rebound
+T26	Term 2638 2645	rebound

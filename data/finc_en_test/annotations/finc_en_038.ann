@@ -60,7 +60,6 @@ T59	Named_Entity 3301 3313	Asia-Pacific
 T60	Named_Entity 3321 3323	UN
 T61	Term_Out_of_Domain 3347 3350	ESG
 T62	Named_Entity 3365 3370	China
-T63	Term_Common 3403 3423	stock exchange rules
 T64	Term_Common 3403 3417	stock exchange
 T65	Term_Common 3403 3408	stock
 T66	Named_Entity 3478 3489	Mervyn Tang
@@ -69,7 +68,6 @@ T68	Named_Entity 3522 3535	Fitch Ratings
 T69	Named_Entity 3585 3590	China
 T70	Term_Common 3599 3614	stock exchanges
 T71	Term_Common 3599 3604	stock
-T72	Term_Common 3908 3932	international investment
 T73	Term_Common 3922 3932	investment
 T74	Term 3950 3965	capital markets
 T75	Term_Common 3958 3965	markets
@@ -84,7 +82,6 @@ T83	Term_Common 4313 4322	investors
 T84	Term_Out_of_Domain 4340 4343	ESG
 T85	Term_Common 4383 4406	international investors
 T86	Term_Common 4397 4406	investors
-T87	Term 4460 4472	asset owners
 T88	Term 4460 4465	asset
 T89	Term_Out_of_Domain 4508 4511	ESG
 T90	Named_Entity 4525 4528	BNP
@@ -99,17 +96,10 @@ T98	Term_Common 4900 4907	markets
 T99	Named_Entity 5047 5049	Xi
 T100	Named_Entity 5068 5073	China
 T101	Term_Common 5115 5127	shareholders
-T102	Term_Out_of_Domain 921 934	ESG practices
 T103	Term_Out_of_Domain 921 924	ESG
-T104	Term_Out_of_Domain 1155 1171	ESG requirements
 T105	Term_Out_of_Domain 1155 1158	ESG
-T106	Term_Out_of_Domain 1865 1879	ESG disclosure
 T107	Term_Out_of_Domain 1865 1868	ESG
-T108	Term_Out_of_Domain 3347 3361	ESG disclosure
-T109	Term_Out_of_Domain 3506 3518	ESG research
 T110	Term 3950 3957	capital
-T111	Term_Out_of_Domain 4508 4521	ESG framework
-T112	Term_Out_of_Domain 4718 4732	ESG disclosure
 T113	Term_Common 830 839	exchanges
 T114	Term 867 873	listed
 T115	Term_Common 1812 1820	exchange
@@ -120,3 +110,4 @@ T119	Term_Common 2619 2628	exchanges
 T120	Term_Common 3409 3417	exchange
 T121	Term_Common 3605 3614	exchanges
 T122	Named_Entity 5084 5095	Wilson-Otto
+T102	Term_Common 73 82	exchanges

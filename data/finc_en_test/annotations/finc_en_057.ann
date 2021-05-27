@@ -93,16 +93,13 @@ T93	Named_Entity 3511 3517	London
 T94	Named_Entity 3536 3546	Andrew Bud
 T95	Named_Entity 3592 3618	Genuine Presence Assurance
 T96	Named_Entity 3620 3623	GPA
-T97	Term_Out_of_Domain 3786 3800	cybercriminals
 T98	Term_Common 3964 3976	shareholders
 T99	Term_Common 4006 4023	private investors
 T100	Term_Common 4014 4023	investors
 T101	Named_Entity 4029 4044	northern Europe
 T102	Term 4065 4073	fintechs
 T103	Named_Entity 4112 4115	GPA
-T104	Term_Out_of_Domain 4183 4214	online biometric authentication
 T105	Term_Out_of_Domain 4190 4214	biometric authentication
-T106	Term_Out_of_Domain 4190 4199	biometric
 T107	Term 4225 4232	fintech
 T108	Named_Entity 4245 4253	Wirecard
 T109	Term 4324 4331	fintech
@@ -138,3 +135,15 @@ T138	Term 5504 5517	crypto assets
 T139	Term_Out_of_Domain 5504 5510	crypto
 T140	Term 5511 5517	assets
 T141	Named_Entity 5524 5532	Finextra
+T37	Term_Out_of_Domain 3786 3800	cybercriminals
+T97	Term_Common 3922 3933	fundraising
+T104	Term_Common 3902 3911	Valuation
+T106	Term 3127 3151	central digital currency
+T142	Term 3135 3151	digital currency
+T143	Term_Common 3143 3151	currency
+T144	Term_Out_of_Domain 4503 4515	subsidiaries
+T145	Term 1155 1165	allocation
+T146	Term_Common 3315 3331	digital payments
+T147	Term_Common 3323 3331	payments
+T148	Term_Common 535 543	payments
+T149	Term_Common 528 543	mobile payments

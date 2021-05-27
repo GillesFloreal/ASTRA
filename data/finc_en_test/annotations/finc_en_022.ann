@@ -8,11 +8,9 @@ T7	Term 321 338	wealth management
 T8	Named_Entity 421 428	Baltics
 T9	Term_Common 465 469	bank
 T10	Named_Entity 495 510	Chris Vogelzang
-T11	Term 635 677	anti-money-laundering compliance processes
 T12	Term_Common 635 656	anti-money-laundering
 T13	Named_Entity 689 695	Danske
 T14	Term 759 779	loan loss provisions
-T15	Term 759 768	loan loss
 T16	Term_Common 759 763	loan
 T17	Term 801 807	equity
 T18	Term_Common 869 874	banks
@@ -49,3 +47,8 @@ T48	Term 1877 1883	equity
 T49	Named_Entity 1921 1927	Danske
 T50	Named_Entity 2058 2064	Danske
 T51	Term_Common 2088 2094	market
+T11	Term_Common 1052 1068	digital payments
+T15	Term_Common 1060 1068	payments
+T52	Term_Common 1722 1738	digital payments
+T53	Term_Common 1730 1738	payments
+T54	Term_Common 1245 1253	payments

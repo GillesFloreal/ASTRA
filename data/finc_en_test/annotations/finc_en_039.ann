@@ -1,11 +1,9 @@
 T1	Term_Common 0 16	Global investors
 T2	Term_Common 7 16	investors
 T3	Named_Entity 34 39	China
-T4	Term 42 62	green bond minefield
 T5	Term 42 52	green bond
 T6	Term 48 52	bond
 T7	Term_Common 81 87	market
-T8	Term 258 274	green bond deals
 T9	Term 258 268	green bond
 T10	Term 264 268	bond
 T11	Named_Entity 331 336	China
@@ -21,7 +19,6 @@ T20	Term_Common 534 540	market
 T21	Term_Common 599 608	investors
 T22	Term_Common 710 716	market
 T23	Named_Entity 792 810	Xuan Sheng Ou Yong
-T24	Term 814 832	green bond analyst
 T25	Term 814 824	green bond
 T26	Term 820 824	bond
 T27	Named_Entity 836 864	BNP Paribas Asset Management
@@ -31,7 +28,6 @@ T30	Term 915 925	green bond
 T31	Term 921 925	bond
 T32	Named_Entity 1000 1008	Dealogic
 T33	Term_Common 1053 1059	market
-T34	Term 1097 1113	green bond deals
 T35	Term 1097 1107	green bond
 T36	Term 1103 1107	bond
 T37	Term 1176 1189	Green finance
@@ -45,7 +41,6 @@ T44	Term_Out_of_Domain 1344 1347	ESG
 T45	Term_Common 1380 1386	invest
 T46	Term 1507 1517	green bond
 T47	Term 1513 1517	bond
-T48	Term 1688 1711	green finance standards
 T49	Term 1688 1701	green finance
 T50	Term_Common 1694 1701	finance
 T51	Named_Entity 1717 1757	International Capital Market Association
@@ -96,7 +91,6 @@ T95	Named_Entity 3115 3120	China
 T96	Term 3143 3156	fund managers
 T97	Term 3143 3147	fund
 T98	Named_Entity 3262 3267	China
-T99	Term_Out_of_Domain 3324 3338	carbon capture
 T100	Term_Out_of_Domain 3343 3355	coal washing
 T102	Term 3412 3423	green bonds
 T103	Term 3418 3423	bonds
@@ -133,8 +127,6 @@ T133	Term_Common 4679 4688	investors
 T134	Named_Entity 4701 4706	China
 T135	Term_Common 4709 4721	central bank
 T136	Term_Common 4717 4721	bank
-T137	Term_Out_of_Domain 4742 4752	clean coal
-T138	Term 4783 4802	green bonds funding
 T139	Term 4783 4794	green bonds
 T140	Term 4789 4794	bonds
 T141	Term_Common 4795 4802	funding
@@ -160,7 +152,6 @@ T160	Named_Entity 5294 5299	China
 T161	Term_Out_of_Domain 5318 5321	ESG
 T162	Term 5326 5342	green investment
 T163	Term_Common 5332 5342	investment
-T164	Term 5366 5378	asset owners
 T165	Term 5366 5371	asset
 T166	Named_Entity 5386 5393	Nan Luo
 T167	Named_Entity 5403 5408	China
@@ -168,8 +159,18 @@ T168	Named_Entity 5416 5418	UN
 T169	Named_Entity 5426 5463	Principles for Responsible Investment
 T170	Term 313 328	working capital
 T171	Term 321 328	capital
-T101	Term_Out_of_Domain 3359 3369	clean coal
-T172	Term_Out_of_Domain 5072 5086	ESG frameworks
 T173	Part_of_Term 2884 2891	onshore
 T174	Part_of_Term 2900 2906	market
 R1	Split_Term Arg1:T173 Arg2:T174	
+T175	Term 921 934	bond issuance
+T176	Term 1103 1113	bond deals
+T177	Term_Common 2212 2220	renminbi
+T178	Term_Common 3820 3830	currencies
+T179	Term_Common 3846 3854	renminbi
+T180	Term_Common 4307 4315	Renminbi
+T4	Term 926 934	issuance
+T8	Term 4018 4026	issuance
+T24	Term 2160 2174	bond investors
+T34	Term 820 832	bond analyst
+T48	Term 814 832	green bond analyst
+T99	Term_Common 1261 1268	pension

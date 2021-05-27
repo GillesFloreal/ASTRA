@@ -24,7 +24,6 @@ T23	Term 2800 2807	minutes
 T24	Named_Entity 2826 2829	ECB
 T25	Named_Entity 2896 2911	Carsten Brzeski
 T26	Named_Entity 2946 2949	ING
-T27	Term_Out_of_Domain 3197 3203	Brexit
 T28	Term 3274 3281	minutes
 T29	Named_Entity 3321 3328	Germany
 T30	Term_Common 3489 3501	global trade
@@ -43,3 +42,42 @@ T42	Term_Common 1747 1756	VAT rates
 T43	Term_Common 1751 1756	rates
 T45	Term_Common 740 758	stimulus programme
 T46	Term_Common 740 748	stimulus
+T44	Term_Common 82 90	currency
+T47	Term_Common 93 105	appreciation
+T48	Term_Common 8 12	euro
+T49	Term_Common 39 48	inflation
+T50	Term_Common 190 194	euro
+T51	Term_Common 231 240	inflation
+T52	Term_Common 312 321	inflation
+T53	Term_Common 424 439	single currency
+T54	Term_Common 431 439	currency
+T55	Term_Common 947 956	inflation
+T56	Term_Common 1009 1013	euro
+T57	Term_Common 1016 1028	appreciation
+T58	Term_Common 1142 1146	euro
+T59	Term_Common 1177 1183	dollar
+T60	Term_Common 1226 1238	appreciation
+T61	Term_Common 1269 1278	inflation
+T62	Term_Common 1382 1386	euro
+T63	Term_Common 1550 1559	deflation
+T64	Term_Common 1628 1637	inflation
+T65	Term 1604 1637	headline consumer price inflation
+T66	Term 1794 1817	headline inflation rate
+T67	Term_Common 1803 1817	inflation rate
+T68	Term_Common 1803 1812	inflation
+T69	Term_Common 1747 1750	VAT
+T70	Term_Common 1917 1926	inflation
+T71	Term_Common 1983 1995	appreciation
+T72	Term_Common 2003 2007	euro
+T73	Term_Common 2055 2064	inflation
+T74	Term_Common 2491 2495	euro
+T75	Term_Common 2653 2662	inflation
+T76	Term_Common 2852 2861	inflation
+T27	Term_Common 875 887	appreciation
+T77	Term 303 311	eurozone
+T78	Term 1531 1539	eurozone
+T79	Term 1785 1793	eurozone
+T80	Term 2046 2054	Eurozone
+T81	Term 3407 3415	eurozone
+T82	Term_Out_of_Domain 2928 2942	macroeconomics
+T83	Term 431 444	currency bloc

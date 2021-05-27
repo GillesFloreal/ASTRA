@@ -9,7 +9,6 @@ T9	Term_Common 777 791	finance sector
 T10	Term_Common 777 784	finance
 T11	Named_Entity 879 888	HEC Paris
 T12	Named_Entity 935 940	Edhec
-T13	Term_Common 1029 1045	financial uplift
 T14	Term_Common 1029 1038	financial
 T15	Named_Entity 1253 1256	HEC
 T16	Term_Out_of_Domain 1471 1494	purchasing power parity
@@ -24,8 +23,6 @@ T24	Named_Entity 2671 2676	Skema
 T25	Named_Entity 2708 2713	Essec
 T26	Named_Entity 2725 2730	Edhec
 T27	Term_Common 2802 2805	MiF
-T28	Term_Common 2802 2814	MiF rankings
-T29	Term_Common 2874 2888	MiF programmes
 T30	Term_Common 2874 2877	MiF
 T31	Term_Common 2916 2930	finance sector
 T32	Term_Common 2916 2923	finance
@@ -46,8 +43,7 @@ T46	Named_Entity 4111 4158	Singapore Management University: Lee Kong Chian
 T47	Named_Entity 4162 4165	LBS
 T48	Named_Entity 4302 4318	Cambridge: Judge
 T49	Named_Entity 4449 4463	Lee Kong Chian
-T50	Term_Common 4634 4644	MiF course
 T51	Term_Common 4634 4637	MiF
-T52	Term_Common 4801 4812	MiF ranking
 T53	Term_Common 4801 4804	MiF
 T7	Term_Common 512 530	masters in finance
+T13	Term_Out_of_Domain 278 293	microbiologists

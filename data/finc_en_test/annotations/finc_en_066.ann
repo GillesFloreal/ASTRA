@@ -1,9 +1,7 @@
 T1	Named_Entity 0 19	European Commission
 T2	Named_Entity 65 67	EU
-T3	Term_Common 68 81	banking rules
 T4	Term_Common 68 75	banking
 T5	Named_Entity 102 121	European Commission
-T6	Term_Common 134 149	banking package
 T7	Term_Common 134 141	banking
 T8	Term_Common 173 185	bank-lending
 T9	Term_Common 173 177	bank
@@ -11,7 +9,6 @@ T10	Term_Common 178 185	lending
 T13	Term_Common 322 327	banks
 T14	Named_Entity 366 368	EU
 T15	Named_Entity 456 458	EU
-T16	Term_Common 459 472	banking rules
 T17	Term_Common 459 466	banking
 T18	Named_Entity 487 515	Interpretative Communication
 T19	Named_Entity 523 525	EU
@@ -38,7 +35,6 @@ T42	Named_Entity 1627 1637	Commission
 T43	Term_Common 1659 1664	banks
 T44	Named_Entity 1808 1836	Interpretative Communication
 T45	Term_Common 1875 1880	banks
-T46	Term 1901 1928	digital finance development
 T47	Term 1901 1916	digital finance
 T48	Term_Common 1909 1916	finance
 T49	Named_Entity 1943 1953	Commission
@@ -50,7 +46,6 @@ T54	Term_Common 2027 2036	financial
 T56	Named_Entity 2127 2146	European Commission
 T57	Named_Entity 2187 2189	EU
 T58	Term_Common 2201 2208	banking
-T59	Term_Common 2201 2214	banking rules
 T61	Named_Entity 2291 2322	Capital Requirements Regulation
 T62	Named_Entity 2324 2327	CRR
 T63	Term_Common 2368 2373	banks
@@ -60,10 +55,8 @@ T67	Named_Entity 2501 2557	European Commission for An Economy that Works for Peo
 T69	Term_Common 2685 2699	banking sector
 T70	Term_Common 2685 2692	banking
 T71	Named_Entity 2768 2770	EU
-T72	Term_Common 2773 2786	banking rules
 T73	Term_Common 2773 2780	banking
 T74	Term_Common 2840 2845	banks
-T75	Term 2858 2872	liquidity taps
 T76	Term 2858 2867	liquidity
 T77	Term_Common 2929 2938	financing
 T78	Term_Common 3059 3075	financial sector
@@ -91,17 +84,14 @@ T99	Term_Common 4129 4136	finance
 T100	Named_Entity 4161 4171	Commission
 T101	Term_Common 4187 4192	banks
 T102	Named_Entity 4240 4242	EU
-T103	Term_Common 4243 4256	banking rules
 T104	Term_Common 4243 4250	banking
 T105	Term_Common 4320 4325	banks
 T106	Term 4334 4343	liquidity
 T107	Term_Common 4401 4410	financing
-T108	Term_Common 4446 4470	banking accounting rules
 T109	Term_Common 4446 4453	banking
 T110	Term_Common 4471 4478	lenders
 T111	Term_Common 4510 4515	loans
 T112	Named_Entity 4600 4602	EU
-T113	Term_Common 4619 4640	financial implication
 T114	Term_Common 4619 4628	financial
 T115	Named_Entity 4719 4729	Commission
 T116	Term_Common 4785 4801	financial sector
@@ -111,5 +101,13 @@ T119	Term_Common 4944 4959	digital banking
 T120	Term_Common 4952 4959	banking
 T121	Named_Entity 5021 5040	European Parliament
 T122	Named_Entity 5045 5062	Council of the EU
-T11	Term 1580 1610	variable remuneration payments
 T12	Term 1580 1601	variable remuneration
+T3	Term 1448 1460	remuneration
+T6	Term 1589 1601	remuneration
+T11	Term_Common 4001 4008	pension
+T16	Term_Common 1786 1802	digital payments
+T28	Term_Common 1794 1802	payments
+T29	Term_Common 1602 1610	payments
+T41	Term_Out_of_Domain 1223 1232	moratoria
+T46	Term_Common 897 902	repay
+T55	Term_Out_of_Domain 2644 2660	economic fallout

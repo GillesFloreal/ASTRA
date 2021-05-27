@@ -54,7 +54,6 @@ T54	Named_Entity 2189 2203	Sean Markowicz
 T55	Term 2205 2222	equity strategist
 T56	Term 2205 2211	equity
 T57	Named_Entity 2226 2235	Schroders
-T58	Term_Common 2286 2306	fiscal stimulus bill
 T59	Term_Common 2286 2301	fiscal stimulus
 T60	Term_Common 2286 2292	fiscal
 T61	Term_Common 1953 1968	fiscal stimulus
@@ -64,7 +63,6 @@ T64	Named_Entity 2420 2422	US
 T65	Term_Common 2423 2436	stock markets
 T66	Term_Common 2423 2428	stock
 T67	Term_Common 2429 2436	markets
-T68	Term_Common 2469 2481	share prices
 T69	Term_Common 2469 2474	share
 T70	Named_Entity 2501 2506	Apple
 T71	Named_Entity 2508 2514	Amazon
@@ -99,7 +97,6 @@ T99	Term_Common 3369 3375	stocks
 T100	Named_Entity 3418 3429	Wall Street
 T101	Named_Entity 3449 3458	Stoxx 600
 T102	Term_Common 3465 3472	trading
-T103	Term_Common 3518 3534	trading partners
 T104	Term_Common 3518 3525	trading
 T105	Named_Entity 3637 3639	US
 T106	Term 3741 3755	Treasury bonds
@@ -111,7 +108,6 @@ T28	Named_Entity 1435 1437	US
 T111	Named_Entity 1688 1690	US
 T112	Term 3459 3464	index
 T113	Term_Common 49 57	stimulus
-T114	Term_Common 205 218	stimulus bill
 T115	Term_Common 205 213	stimulus
 T116	Term_Common 726 741	stimulus checks
 T117	Term_Common 726 734	stimulus
@@ -119,3 +115,16 @@ T118	Term_Common 903 911	stimulus
 T119	Term_Common 1727 1735	stimulus
 T120	Term_Common 2293 2301	stimulus
 T121	Term 3741 3749	Treasury
+T122	Term_Common 3489 3495	dollar
+T123	Term_Common 3536 3546	currencies
+T124	Term_Common 3563 3567	euro
+T125	Term_Common 3600 3606	dollar
+T126	Term_Common 3640 3648	currency
+T127	Term_Common 3687 3699	Japanese yen
+T128	Term_Common 3696 3699	yen
+T58	Term_Common 566 573	bailout
+T68	Term_Common 1395 1410	bailout package
+T103	Term_Common 1395 1402	bailout
+T114	Term_Common 1672 1679	bailout
+T129	Term_Common 3851 3854	dip
+T130	Term_Common 3721 3726	yield

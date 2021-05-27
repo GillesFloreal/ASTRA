@@ -9,7 +9,6 @@ T8	Term_Common 40 46	market
 T9	Term_Common 71 94	international investors
 T10	Term_Common 85 94	investors
 T11	Named_Entity 162 167	China
-T12	Term 219 250	global green finance guidelines
 T13	Term 226 250	green finance guidelines
 T14	Term_Common 232 250	finance guidelines
 T15	Term_Common 232 239	finance
@@ -25,8 +24,6 @@ T24	Term 445 458	green finance
 T25	Term_Common 451 466	finance experts
 T26	Term_Common 451 458	finance
 T27	Named_Entity 484 537	Beijing’s Central University of Finance and Economics
-T28	Term 572 599	global green bond standards
-T29	Term 579 599	green bond standards
 T30	Term 579 589	green bond
 T31	Term 585 589	bond
 T32	Named_Entity 670 675	China
@@ -51,8 +48,6 @@ T50	Named_Entity 1317 1319	UK
 T51	Term 1326 1342	markets watchdog
 T52	Term_Common 1326 1333	markets
 T53	Named_Entity 1483 1488	China
-T54	Term_Out_of_Domain 1600 1612	coal washing
-T55	Term_Out_of_Domain 1617 1631	carbon capture
 T56	Term 1689 1702	green finance
 T57	Term_Common 1695 1702	finance
 T58	Named_Entity 1710 1715	China
@@ -86,8 +81,6 @@ T85	Term_Common 3015 3021	market
 T86	Term_Common 3034 3038	debt
 T87	Named_Entity 3092 3096	Wang
 T88	Named_Entity 3169 3174	China
-T89	Term 3177 3197	green finance system
-T90	Term_Common 3183 3197	finance system
 T91	Term_Common 3183 3190	finance
 T92	Term_Common 3245 3257	stakeholders
 T93	Named_Entity 3265 3270	China
@@ -97,7 +90,6 @@ T96	Named_Entity 3513 3518	China
 T97	Named_Entity 3588 3592	Wang
 T98	Named_Entity 3668 3675	Eurasia
 T99	Named_Entity 3686 3710	Belt and Road Initiative
-T100	Term_Common 3722 3734	trade routes
 T101	Term_Common 3722 3727	trade
 T102	Named_Entity 3743 3748	China
 T103	Term_Common 3843 3850	funding
@@ -113,12 +105,12 @@ T112	Named_Entity 4491 4496	China
 T113	Term_Common 4732 4741	investors
 T114	Named_Entity 4804 4808	Wang
 T115	Named_Entity 5015 5020	China
-T116	Term_Common 5154 5168	financial risk
 T117	Term_Common 5154 5163	financial
 T118	Term_Common 678 690	central bank
 T119	Term_Common 686 690	bank
 T120	Term 2585 2593	issuance
-T121	Term_Common 4580 4596	listed companies
-T122	Term_Common 4580 4586	listed
+T122	Term 4580 4586	listed
 T124	Term 2522 2532	green bond
 T125	Term 3004 3014	green bond
+T12	Term 2533 2541	issuance
+T28	Term 3177 3190	green finance

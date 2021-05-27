@@ -45,18 +45,15 @@ T44	Term 1753 1756	CDS
 T45	Term 1799 1810	hedge funds
 T46	Term 1805 1810	funds
 T47	Named_Entity 1824 1826	US
-T48	Term_Common 1827 1849	corporate bankruptcies
 T49	Term_Common 1837 1849	bankruptcies
 T50	Named_Entity 1862 1865	CQS
 T51	Term 1884 1894	hedge fund
 T52	Term 1890 1894	fund
 T53	Term_Common 1914 1920	trader
 T54	Named_Entity 1921 1935	Michael Hintze
-T55	Term 1993 2006	flagship fund
 T56	Term 2002 2006	fund
 T57	Term 2028 2036	defaults
 T58	Named_Entity 2047 2052	Hertz
-T59	Term 2076 2097	high-risk derivatives
 T60	Term 2086 2097	derivatives
 T61	Term_Common 2106 2117	investments
 T62	Named_Entity 2143 2154	Secretariat
@@ -73,7 +70,6 @@ T72	Named_Entity 2534 2541	Francis
 T73	Named_Entity 2557 2563	Becciu
 T74	Named_Entity 2801 2808	Vatican
 T75	Named_Entity 2889 2896	Vatican
-T76	Term 2944 2966	derivatives investment
 T77	Term 2944 2955	derivatives
 T78	Term_Common 2956 2966	investment
 T79	Term 2996 3002	assets
@@ -97,3 +93,11 @@ T96	Named_Entity 1262 1282	Secretariat of State
 T97	Named_Entity 1252 1259	Vatican
 T98	Named_Entity 1476 1482	Church
 T99	Named_Entity 1486 1495	Catholics
+T100	Named_Entity 1871 1877	London
+T101	Term_Common 2066 2072	losses
+T102	Term_Common 3506 3512	losses
+T103	Term 43 49	credit
+T104	Term 425 431	credit
+T48	Term 432 445	default swaps
+T55	Term_Common 2443 2451	invoices
+T59	Term 2409 2424	securitisations

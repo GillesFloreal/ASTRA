@@ -19,7 +19,6 @@ T18	Term_Common 747 759	stock market
 T19	Term_Common 753 759	market
 T20	Named_Entity 780 787	Charles
 T21	Term_Common 795 801	shares
-T22	Term_Common 808 823	unlisted entity
 T23	Named_Entity 851 858	Charles
 T24	Named_Entity 882 890	TalkTalk
 T25	Named_Entity 1089 1097	TalkTalk
@@ -43,15 +42,10 @@ T42	Term_Common 2358 2364	shares
 T43	Term_Common 2383 2387	debt
 T44	Term 2463 2469	ebitda
 T45	Named_Entity 2624 2634	Hargreaves
-T46	Term_Out_of_Domain 2636 2642	Brexit
-T47	Term_Out_of_Domain 2650 2656	Brexit
 T48	Term_Common 2665 2674	investors
 T49	Named_Entity 2713 2732	Hargreaves Lansdown
 T50	Named_Entity 2761 2778	Cat Rutter Pooley
-T51	Term_Out_of_Domain 2833 2839	Brexit
 T52	Named_Entity 2891 2893	HL
-T53	Term_Out_of_Domain 2964 2970	Brexit
-T54	Term_Out_of_Domain 3044 3050	Brexit
 T55	Term_Common 3132 3143	day traders
 T56	Term_Common 3136 3143	traders
 T57	Term_Common 3157 3169	stock market
@@ -86,9 +80,6 @@ T85	Term_Common 4378 4391	central banks
 T86	Term_Common 4386 4391	banks
 T87	Term_Common 4451 4456	rates
 T88	Named_Entity 4554 4556	HL
-T89	Term_Common 4586 4606	stockbroking clients
-T90	Term_Out_of_Domain 4756 4762	Brexit
-T91	Term_Out_of_Domain 4783 4789	Brexit
 T92	Named_Entity 4810 4820	Hargreaves
 T93	Term_Common 4961 4967	invest
 T94	Term_Common 5046 5058	stock market
@@ -101,3 +92,16 @@ T100	Term_Common 4586 4598	stockbroking
 T101	Term 4616 4622	assets
 T102	Term_Common 747 752	stock
 T103	Term_Common 3157 3162	stock
+T104	Term_Common 553 559	shares
+T105	Term_Common 565 572	trading
+T106	Term_Common 631 636	share
+T107	Term_Common 808 816	unlisted
+T108	Term_Common 1100 1106	shares
+T109	Term_Common 1149 1157	Revenues
+T110	Term_Common 1421 1428	selling
+T111	Term_Common 2991 3000	investors
+T22	Term_Common 808 823	unlisted entity
+T46	Term_Common 1595 1605	churn rate
+T47	Term_Common 1601 1605	rate
+T51	Term_Common 4196 4203	profits
+T53	Term_Common 2733 2744	moneymaking

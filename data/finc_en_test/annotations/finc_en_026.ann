@@ -2,7 +2,6 @@ T1	Term 0 11	Hedge funds
 T2	Term 6 11	funds
 T3	Term_Common 21 37	emerging markets
 T4	Term_Common 30 37	markets
-T5	Term_Common 75 96	Trading opportunities
 T6	Term_Common 75 82	Trading
 T7	Term 219 230	hedge funds
 T8	Term 225 230	funds
@@ -37,14 +36,12 @@ T36	Named_Entity 827 836	Argentina
 T37	Term_Common 975 984	borrowing
 T38	Term 1042 1053	hedge funds
 T39	Term 1048 1053	funds
-T40	Term_Common 1066 1087	trading opportunities
 T41	Term_Common 1066 1073	trading
 T42	Named_Entity 1135 1137	US
 T43	Term 1138 1148	hedge fund
 T44	Term 1144 1148	fund
 T45	Named_Entity 1149 1167	Elliott Management
 T46	Named_Entity 1280 1289	Argentina
-T47	Term 1340 1359	hedge fund holdouts
 T48	Term 1346 1350	fund
 T49	Named_Entity 1375 1381	Greece
 T50	Term 1445 1456	hedge funds
@@ -58,7 +55,6 @@ T57	Term 1696 1707	hedge funds
 T58	Term 1702 1707	funds
 T59	Term 1899 1904	Bonds
 T60	Term_Common 1915 1920	trade
-T61	Term 1968 1988	hedge fund executive
 T62	Term 1974 1978	fund
 T63	Term 1340 1350	hedge fund
 T64	Term 1968 1978	hedge fund
@@ -142,7 +138,6 @@ T146	Term_Common 4389 4398	investors
 T147	Term_Common 4437 4440	EMs
 T148	Term 4528 4534	assets
 T149	Term_Common 4591 4594	EMs
-T150	Term 4577 4586	bull case
 T152	Term 105 124	debt restructurings
 T153	Term_Common 105 109	debt
 T156	Term_Common 677 682	stake
@@ -152,3 +147,14 @@ T24	Named_Entity 2431 2435	Bric
 T80	Term_Common 2390 2392	EM
 T81	Term_Common 2415 2418	EMs
 T93	Term_Common 2993 2996	EMs
+T95	Term_Common 133 143	valuations
+T104	Term_Common 4415 4421	dollar
+T151	Term_Common 4565 4571	dollar
+T5	Term 110 124	restructurings
+T154	Term 264 278	restructurings
+T47	Term 1668 1682	restructurings
+T61	Term 2324 2337	restructuring
+T40	Term 467 481	bond investors
+T150	Term 1936 1949	restructuring
+T155	Term_Common 364 372	payments
+T159	Term_Common 577 585	payments

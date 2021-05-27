@@ -18,7 +18,6 @@ T17	Term_Common 275 279	debt
 T18	Named_Entity 325 329	Asia
 T19	Term 367 392	foreign exchange reserves
 T20	Named_Entity 427 431	Laos
-T21	Term_Common 433 453	annual debt payments
 T22	Term_Common 440 453	debt payments
 T23	Term_Common 440 444	debt
 T24	Term_Common 459 478	ministry of finance
@@ -38,7 +37,6 @@ T37	Named_Entity 804 808	Caa2
 T38	Named_Entity 814 816	B3
 T39	Term 920 936	liquidity stress
 T40	Term 920 929	liquidity
-T41	Term_Common 957 970	debt payments
 T42	Term_Common 957 961	debt
 T43	Term_Common 1063 1083	commercial financing
 T44	Term_Common 1074 1083	financing
@@ -58,13 +56,9 @@ T57	Term_Common 1387 1393	market
 T58	Named_Entity 1433 1444	Jeremy Zook
 T59	Named_Entity 1458 1462	Asia
 T60	Named_Entity 1486 1499	Fitch Ratings
-T61	Term_Common 1528 1543	commercial bank
 T62	Term_Common 1539 1543	bank
 T63	Term_Common 1558 1567	financing
-T64	Part_of_Term_Common 1558 1567	financing
-T65	Part_of_Term_Common 1528 1543	commercial bank
-R1	Split_Term_Com Arg1:T65 Arg2:T64	
-T66	Term 1548 1567	bilateral financing
+T65	Term_Common 1528 1543	commercial bank
 T67	Named_Entity 1588 1593	Fitch
 T68	Named_Entity 1599 1603	Laos
 T69	Term_Common 1605 1609	debt
@@ -75,14 +69,10 @@ T73	Named_Entity 1749 1753	Laos
 T74	Named_Entity 1803 1807	Laos
 T75	Named_Entity 1809 1826	Toshiro Nishizawa
 T76	Named_Entity 1828 1847	University of Tokyo
-T77	Term_Common 1866 1886	annual debt payments
-T78	Term_Common 1873 1886	debt payments
 T79	Term_Common 1873 1877	debt
-T80	Term 1935 1943	reserves
 T81	Named_Entity 2020 2037	Toshiro Nishizawa
 T82	Named_Entity 2058 2077	University of Tokyo
 T83	Named_Entity 2080 2112	Graduate School of Public Policy
-T84	Term 2131 2149	fiscal policy team
 T85	Term 2131 2137	fiscal
 T86	Term 2131 2144	fiscal policy
 T87	Named_Entity 2159 2163	Laos
@@ -122,7 +112,6 @@ T121	Term_Common 3349 3353	debt
 T122	Named_Entity 3356 3359	EDL
 T123	Named_Entity 3405 3430	China Southern Power Grid
 T124	Named_Entity 3442 3446	Laos
-T125	Term_Out_of_Domain 3448 3465	transmission grid
 T126	Named_Entity 3540 3546	Mekong
 T127	Named_Entity 3559 3561	FT
 T128	Named_Entity 3582 3586	Laos
@@ -137,7 +126,6 @@ T137	Term_Common 3978 3982	debt
 T138	Term 3986 3992	equity
 T139	Named_Entity 3995 4004	Sri Lanka
 T140	Named_Entity 4098 4102	Asia
-T141	Term_Common 4110 4120	debt traps
 T142	Term_Common 4110 4114	debt
 T143	Named_Entity 4124 4131	Vietnam
 T144	Named_Entity 4133 4137	Laos
@@ -148,3 +136,14 @@ T100	Term_Common 367 383	foreign exchange
 T132	Term_Common 375 383	exchange
 T148	Term_Common 2474 2490	foreign exchange
 T149	Term_Common 2482 2490	exchange
+T150	Term 375 392	exchange reserves
+T21	Term 564 577	restructuring
+T41	Term 2482 2499	exchange reserves
+T61	Term 4110 4120	debt traps
+T64	Term 1266 1284	international bond
+T66	Term_Common 445 453	payments
+T77	Term_Common 957 970	debt payments
+T78	Term_Common 962 970	payments
+T80	Term_Common 1873 1886	debt payments
+T84	Term_Common 1878 1886	payments
+T125	Term_Common 3915 3923	payments

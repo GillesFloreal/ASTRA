@@ -23,3 +23,9 @@ T45	Named_Entity 2325 2341	Kayleigh McEnany
 T46	Named_Entity 2362 2367	Trump
 T47	Term_Common 2408 2421	national debt
 T48	Term_Common 2417 2421	debt
+T1	Term_Common 2092 2106	budget deficit
+T4	Term_Common 2099 2106	deficit
+T5	Term_Common 2132 2146	budget surplus
+T6	Term_Common 2139 2146	surplus
+T8	Term_Out_of_Domain 1876 1894	economic downturns
+T9	Term 1885 1894	downturns

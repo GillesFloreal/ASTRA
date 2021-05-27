@@ -1,4 +1,3 @@
-T1	Term_Common 123 142	financial decisions
 T2	Term_Common 123 132	financial
 T3	Term_Common 546 553	deposit
 T4	Term_Common 646 662	financial wealth
@@ -6,13 +5,9 @@ T5	Term_Common 646 655	financial
 T6	Term_Common 1060 1069	investors
 T7	Term 1310 1317	capital
 T8	Term_Common 1635 1642	markets
-T11	Term_Common 1762 1779	financial choices
 T12	Term_Common 1762 1771	financial
-T13	Term_Common 2315 2334	financial decisions
 T14	Term_Common 2315 2324	financial
-T15	Term_Common 2845 2862	financial choices
 T16	Term_Common 2845 2854	financial
-T17	Term 3397 3413	hedge fund world
 T18	Term 3397 3407	hedge fund
 T19	Term 3403 3407	fund
 T20	Named_Entity 3590 3601	Bill Ackman
@@ -22,7 +17,6 @@ T23	Term 3819 3823	fund
 T24	Term_Common 3826 3834	holdings
 T25	Term_Common 3885 3895	investment
 T26	Term_Common 3885 3900	investment guru
-T27	Term_Common 3975 3992	financial success
 T28	Term_Common 3975 3984	financial
 T29	Term_Common 4551 4568	Investment writer
 T30	Term_Common 4551 4561	Investment
@@ -30,10 +24,7 @@ T31	Named_Entity 4569 4580	Nick Murray
 T32	Term_Common 4623 4629	invest
 T33	Named_Entity 4833 4847	Charlie Munger
 T34	Named_Entity 4851 4869	Berkshire Hathaway
-T35	Term_Common 5097 5116	financial decisions
 T36	Term_Common 5097 5106	financial
-T37	Term 5358 5379	share option proceeds
-T38	Term 5364 5379	option proceeds
 T39	Term_Common 5358 5363	share
 T40	Term_Common 5387 5393	invest
 T41	Term_Common 5713 5719	funded
@@ -41,7 +32,6 @@ T42	Term_Common 5897 5915	investment markets
 T43	Term_Common 5897 5907	investment
 T44	Term_Common 5908 5915	markets
 T45	Named_Entity 6061 6073	Jason Butler
-T46	Term_Common 6090 6109	financial wellbeing
 T47	Term_Common 6090 6099	financial
 T48	Named_Entity 6132 6150	Real Money Stories
 T9	Named_Entity 184 188	Anil
@@ -49,7 +39,12 @@ T10	Named_Entity 494 505	Help to Buy
 T49	Term_Common 524 530	borrow
 T50	Named_Entity 801 805	Anil
 T51	Term_Common 1395 1406	financially
-T52	Term_Out_of_Domain 1690 1710	coronavirus pandemic
-T53	Term_Out_of_Domain 1690 1701	coronavirus
-T54	Term_Common 3240 3259	investment strategy
 T55	Term_Common 3240 3250	investment
+T52	Named_Entity 225 228	MBA
+T53	Term_Common 2190 2201	financially
+T56	Term_Common 3733 3738	stock
+T57	Term_Common 5131 5136	pound
+T58	Term_Common 5138 5142	euro
+T59	Term_Common 5146 5152	dollar
+T1	Term 5358 5370	share option
+T11	Term_Common 934 945	moneymaking

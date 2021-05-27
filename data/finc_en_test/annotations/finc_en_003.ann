@@ -54,14 +54,11 @@ T56	Named_Entity 2689 2692	UAE
 T57	Named_Entity 2699 2705	Medved
 T58	Term_Common 2810 2815	trade
 T59	Term_Common 2820 2830	investment
-T60	Term_Out_of_Domain 2874 2892	desert agriculture
-T62	Term_Out_of_Domain 2911 2923	smart cities
 T63	Term_Common 2964 2975	investments
 T64	Named_Entity 2993 3001	OurCrowd
 T41	Term_Common 52 59	funding
 T65	Term_Common 259 266	funding
 T66	Term_Common 301 312	investments
-T67	Term 588 603	venture-funding
 T68	Term 761 770	portfolio
 T69	Term 1354 1363	portfolio
 T70	Term_Common 1948 1958	investment
@@ -69,11 +66,12 @@ T71	Term_Common 2519 2528	financial
 T72	Term 177 192	venture capital
 T73	Term 185 192	capital
 T74	Named_Entity 225 230	Dubai
-T13	Term 588 612	venture-funding corridor
 T75	Named_Entity 725 729	Gulf
 T76	Term_Common 730 740	investment
 T32	Term_Common 2398 2406	investor
 T77	Term 2383 2397	private equity
 T78	Term 2391 2397	equity
 T79	Term 2529 2536	capital
-T61	Term 578 612	bilateral venture-funding corridor
+T80	Term_Common 2798 2805	dollars
+T81	Term_Common 3060 3067	dollars
+T13	Term_Out_of_Domain 1094 1106	conglomerate

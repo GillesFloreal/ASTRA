@@ -8,7 +8,6 @@ T8	Named_Entity 148 157	BlackRock
 T9	Term 173 187	sovereign bond
 T10	Term 183 187	bond
 T11	Term 188 191	ETF
-T12	Term 291 313	sustainable investment
 T13	Term_Common 303 313	investment
 T14	Term_Common 342 357	Government debt
 T15	Term_Common 353 357	debt
@@ -26,7 +25,6 @@ T27	Term 721 752	fixed income product management
 T28	Named_Entity 756 768	FTSE Russell
 T29	Term 789 794	index
 T30	Term 806 810	fund
-T31	Term 851 862	climate ETF
 T32	Term 859 862	ETF
 T33	Term 872 887	sovereign bonds
 T34	Term 882 887	bonds
@@ -36,7 +34,6 @@ T37	Term 1069 1077	equities
 T38	Term 1082 1087	bonds
 T39	Term_Common 1105 1114	investing
 T40	Term_Out_of_Domain 1169 1172	ESG
-T42	Term_Out_of_Domain 1246 1259	ESG solutions
 T43	Term_Out_of_Domain 1246 1249	ESG
 T44	Term_Common 1332 1338	market
 T45	Named_Entity 1342 1351	BlackRock
@@ -77,11 +74,9 @@ T79	Term 2766 2770	bond
 T80	Term_Common 2771 2777	market
 T81	Term 2766 2777	bond market
 T82	Term 2781 2790	portfolio
-T83	Term 2806 2819	climate index
 T84	Term 2814 2819	index
 T86	Named_Entity 2910 2917	Germany
 T87	Named_Entity 3126 3133	Germany
-T88	Term 2934 2961	climate risk-weighted index
 T89	Term 2956 2961	index
 T90	Named_Entity 3165 3180	The Netherlands
 T91	Named_Entity 3380 3387	Ireland
@@ -91,7 +86,6 @@ T94	Named_Entity 3681 3686	Italy
 T96	Named_Entity 3723 3735	FTSE Russell
 T97	Term_Common 3770 3783	central banks
 T98	Term_Common 3778 3783	banks
-T99	Term_Common 3877 3890	national debt
 T100	Term_Common 3886 3890	debt
 T101	Named_Entity 3948 3975	World Government Bond Index
 T102	Named_Entity 3925 3929	FTSE
@@ -129,7 +123,6 @@ T137	Term_Common 5147 5162	borrowing costs
 T138	Term_Common 5175 5186	debt crises
 T139	Term_Common 5175 5179	debt
 T140	Term 5191 5199	defaults
-T142	Term_Common 5236 5256	financial conditions
 T143	Term_Common 5236 5245	financial
 T144	Named_Entity 5327 5337	Adam Wolfe
 T149	Named_Entity 5369 5395	Absolute Strategy Research
@@ -144,7 +137,6 @@ T158	Term 5515 5522	capital
 T160	Term_Common 5568 5575	markets
 T161	Term 5602 5615	capital flows
 T162	Term 5602 5609	capital
-T163	Term_Common 5626 5653	domestic funding conditions
 T164	Term_Common 5626 5642	domestic funding
 T165	Term_Common 5635 5642	funding
 T166	Named_Entity 5685 5690	Wolfe
@@ -166,9 +158,7 @@ T184	Term_Common 6317 6325	interest
 T185	Term_Common 6326 6331	rates
 T186	Term_Common 6360 6365	banks
 T187	Named_Entity 6476 6483	Hungary
-T188	Term_Common 6493 6509	main policy rate
 T189	Term_Common 6505 6509	rate
-T190	Term_Common 6547 6568	one-week deposit rate
 T191	Term_Common 6564 6568	rate
 T192	Term_Common 6647 6660	central banks
 T193	Term_Common 6655 6660	banks
@@ -192,15 +182,11 @@ T214	Term 7424 7438	credit spreads
 T215	Term_Common 7424 7430	credit
 T216	Named_Entity 7446 7458	Robin Brooks
 T217	Named_Entity 7483 7517	Institute of International Finance
-T220	Term_Common 7550 7570	financial conditions
 T221	Term_Common 7550 7559	financial
-T222	Term_Common 7585 7599	funding issues
 T223	Term_Common 7585 7592	funding
 T224	Named_Entity 7648 7653	China
 T225	Named_Entity 7655 7661	Taiwan
 T226	Named_Entity 7666 7673	Vietnam
-T229	Term_Common 7846 7873	global financial conditions
-T230	Term_Common 7853 7873	financial conditions
 T231	Term_Common 7853 7862	financial
 T232	Named_Entity 7877 7881	Asia
 T233	Term_Common 7922 7938	emerging markets
@@ -211,14 +197,12 @@ T237	Named_Entity 7987 7991	Citi
 T238	Term_Common 8013 8027	self-financing
 T239	Term_Common 8077 8093	emerging markets
 T241	Term_Common 8086 8093	markets
-T243	Term 8232 8258	international bond markets
 T244	Term 8246 8250	bond
 T245	Term 8246 8258	bond markets
 T246	Term_Common 8318 8334	domestic markets
 T247	Term_Common 8327 8334	markets
 T248	Named_Entity 8353 8356	IIF
 T249	Term 8504 8513	liquidity
-T250	Term_Common 8526 8550	global financial markets
 T251	Term_Common 8533 8550	financial markets
 T252	Term_Common 8543 8550	markets
 T253	Named_Entity 8558 8576	US Federal Reserve
@@ -226,7 +210,6 @@ T254	Term_Common 8607 8620	central banks
 T255	Term_Common 8615 8620	banks
 T256	Named_Entity 8679 8682	IMF
 T257	Named_Entity 8687 8697	World Bank
-T258	Term_Common 8754 8780	domestic financial systems
 T259	Term_Common 8763 8780	financial systems
 T260	Term_Common 8763 8772	financial
 T261	Term_Common 8788 8793	banks
@@ -241,7 +224,6 @@ T269	Term_Common 8960 8965	rates
 T270	Term_Common 9105 9110	rates
 T273	Term_Common 9157 9180	global financial crisis
 T274	Term_Common 9164 9180	financial crisis
-T275	Term_Common 9247 9257	high rates
 T276	Term_Common 9252 9257	rates
 T277	Named_Entity 9267 9273	Brazil
 T278	Named_Entity 9278 9284	Russia
@@ -275,7 +257,6 @@ T311	Term_Common 10560 10565	rates
 T312	Term_Common 10611 10625	interest rates
 T313	Term_Common 10620 10625	rates
 T316	Term_Common 10695 10700	rates
-T317	Term_Common 10763 10793	emerging market interest rates
 T318	Term_Common 10772 10778	market
 T319	Term_Common 10779 10793	interest rates
 T320	Term_Common 10779 10787	interest
@@ -291,13 +272,10 @@ T145	Term_Common 5348 5355	markets
 T146	Term_Common 8533 8542	financial
 T147	Term_Common 9164 9173	financial
 T148	Term_Common 9379 9387	borrowed
-T159	Term_Common 8935 8950	borrowing spree
 T173	Term_Common 8935 8944	borrowing
 T196	Term_Common 8442 8448	borrow
-T197	Term_Common 8652 8669	emergency lending
 T198	Term_Common 8662 8669	lending
 T219	Term 2561 2566	index
-T227	Term 4331 4343	head of ETFs
 T228	Term_Common 4770 4778	stimulus
 T240	Term_Common 4833 4850	monetary stimulus
 T242	Term_Common 4842 4850	stimulus
@@ -316,3 +294,37 @@ T329	Term_Common 6987 6994	lenders
 T22	Term_Common 10092 10107	borrowing costs
 T85	Term_Common 10092 10101	borrowing
 T131	Term_Common 10722 10731	borrowing
+T141	Term 3559 3564	index
+T169	Term_Common 5760 5775	monetary policy
+T172	Term_Common 5760 5768	monetary
+T195	Term_Common 6033 6048	monetary policy
+T218	Term_Common 6033 6041	monetary
+T289	Term_Common 6599 6607	currency
+T295	Term_Common 6608 6619	depreciated
+T324	Term_Common 6695 6704	inflation
+T325	Term_Common 6741 6749	currency
+T326	Term_Common 6962 6980	devaluing currency
+T327	Term_Common 6962 6971	devaluing
+T328	Term_Common 6972 6980	currency
+T330	Term_Common 7050 7059	borrowing
+T331	Term_Common 7155 7159	lira
+T332	Term_Common 7164 7170	forint
+T333	Term_Common 7186 7212	emerging market currencies
+T334	Term_Common 7218 7229	depreciated
+T335	Term_Common 7202 7212	currencies
+T336	Term_Common 7376 7387	devaluation
+T337	Term_Common 8170 8179	borrowing
+T338	Term_Common 9059 9068	inflation
+T12	Term 4595 4605	valuations
+T42	Term 5523 5530	inflows
+T83	Term_Common 7319 7329	currencies
+T88	Term_Common 8493 8500	dollars
+T99	Term_Common 8652 8669	emergency lending
+T159	Term_Common 10763 10778	emerging market
+T31	Term 135 144	bond fund
+T142	Term 8232 8258	international bond markets
+T163	Term 8232 8250	international bond
+T188	Term 1580 1590	allocation
+T190	Term 1900 1910	allocation
+T197	Term 2665 2673	eurozone
+T220	Term 7396 7407	risk premia

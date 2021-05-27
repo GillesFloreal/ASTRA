@@ -5,7 +5,6 @@ T4	Named_Entity 216 231	Financial Times
 T5	Term 267 278	wealth fund
 T6	Term_Common 360 371	divestments
 T7	Term_Out_of_Domain 376 379	ESG
-T9	Term 582 600	hedge fund manager
 T10	Term_Common 777 783	divest
 T11	Named_Entity 809 820	AKO Capital
 T12	Term 845 858	asset manager
@@ -28,7 +27,6 @@ T27	Term 1734 1738	fund
 T28	Term 1815 1824	portfolio
 T29	Term 1829 1837	equities
 T30	Named_Entity 1996 2002	Tangen
-T31	Term_Common 2124 2142	investment process
 T32	Named_Entity 2236 2245	Slyngstad
 T33	Term 2268 2272	fund
 T34	Term 2481 2485	fund
@@ -49,15 +47,17 @@ T48	Term 2838 2842	Fund
 T49	Term 845 850	asset
 T50	Term 546 550	fund
 T51	Term 588 592	fund
-T52	Term_Out_of_Domain 1227 1240	ESG standards
-T53	Term_Out_of_Domain 1344 1355	ESG matters
 T54	Term 1562 1572	volatility
-T55	Term_Out_of_Domain 1605 1616	coronavirus
 T56	Term_Common 31 35	sell
-T57	Term_Out_of_Domain 80 123	environmental, social and governance issues
-T58	Term_Out_of_Domain 376 387	ESG reasons
 T59	Term 627 631	fund
 T60	Term_Common 1075 1079	sold
 T61	Term_Common 1910 1917	Selling
 T62	Named_Entity 2817 2819	US
 T63	Term 2888 2898	Treasuries
+T55	Named_Entity 832 838	London
+T57	Term_Common 144 151	returns
+T9	Term 675 681	listed
+T58	Term_Common 969 976	returns
+T31	Term 2800 2806	hedges
+T52	Term 257 278	sovereign wealth fund
+T53	Term 1650 1672	risk-based divestments

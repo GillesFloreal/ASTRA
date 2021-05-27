@@ -31,7 +31,6 @@ T30	Named_Entity 1129 1132	BHS
 T31	Named_Entity 1163 1166	BHS
 T32	Named_Entity 1332 1335	BHS
 T33	Named_Entity 1352 1364	Bryant-Heron
-T34	Term 1178 1198	pension fund deficit
 T35	Named_Entity 1413 1425	Bryant-Heron
 T36	Named_Entity 1385 1393	Chappell
 T37	Named_Entity 1451 1454	BHS
@@ -64,7 +63,6 @@ T63	Term_Common 1191 1198	deficit
 T64	Term_Common 1490 1495	funds
 T65	Term_Common 1507 1520	tax liability
 T66	Term_Common 1507 1510	tax
-T68	Term_Common 2092 2102	evaded tax
 T69	Term_Common 2099 2102	tax
 T70	Term_Common 2169 2172	tax
 T71	Term_Common 2179 2182	tax
@@ -82,3 +80,8 @@ T82	Term_Common 3717 3720	tax
 T85	Term 1178 1190	pension fund
 T83	Term_Common 792 795	VAT
 T67	Term_Common 3702 3705	VAT
+T84	Term_Common 310 313	tax
+T34	Term_Out_of_Domain 1914 1925	acquisition
+T68	Term_Common 1261 1267	seller
+T86	Term_Common 1295 1302	pension
+T87	Term_Common 1178 1185	pension

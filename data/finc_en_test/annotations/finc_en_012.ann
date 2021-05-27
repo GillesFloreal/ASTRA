@@ -57,7 +57,6 @@ T56	Term_Common 1613 1632	investment division
 T57	Term_Common 1613 1623	investment
 T58	Term 1703 1709	assets
 T59	Named_Entity 1730 1734	MSIM
-T60	Term 1789 1835	environmental, social and governance investing
 T62	Term_Common 1826 1835	investing
 T63	Term_Common 1907 1911	bank
 T64	Named_Entity 1946 1952	Gorman
@@ -127,7 +126,18 @@ T126	Named_Entity 4825 4831	London
 T127	Part_of_Term 3862 3872	management
 T128	Term 854 874	employee stock plans
 T61	Term_Common 4283 4287	bank
-T129	Term 1057 1078	fixed income business
 T130	Term 1057 1069	fixed income
 T131	Term 1772 1784	fixed income
 T132	Term_Common 3665 3672	trading
+T133	Term 543 562	passive fund houses
+T134	Term 551 562	fund houses
+T135	Term 551 555	fund
+T136	Term_Common 3477 3490	closing price
+T137	Term_Common 4585 4593	outflows
+T138	Term_Common 4725 4732	inflows
+T60	Term_Common 3793 3801	revenues
+T129	Term_Out_of_Domain 2722 2728	merger
+T139	Term_Out_of_Domain 2420 2426	merger
+T140	Term_Out_of_Domain 839 850	acquisition
+T141	Term_Out_of_Domain 1301 1312	acquisition
+T142	Term 775 791	online brokerage

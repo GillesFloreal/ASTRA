@@ -55,7 +55,6 @@ T54	Term_Common 1740 1748	interest
 T55	Term_Common 1740 1753	interest rate
 T56	Term 1771 1790	derivative contract
 T57	Term 1771 1781	derivative
-T58	Term 1840 1866	floating interest payments
 T59	Term_Common 1849 1857	interest
 T60	Named_Entity 1905 1920	Bank of England
 T61	Term_Common 1921 1935	interest rates
@@ -85,7 +84,6 @@ T87	Term 2577 2589	swaps market
 T88	Term 2577 2582	swaps
 T89	Term_Common 2583 2589	market
 T90	Named_Entity 2641 2646	Lords
-T91	Term 2674 2694	derivative positions
 T92	Term 2674 2684	derivative
 T93	Term 2702 2716	notional value
 T94	Term 608 622	notional value
@@ -97,7 +95,6 @@ T99	Term_Common 2860 2866	losses
 T100	Term_Common 2872 2877	rates
 T101	Named_Entity 2898 2906	Plymouth
 T102	Named_Entity 2978 2983	Looby
-T103	Term_Common 2953 2972	interest rate rises
 T104	Term_Common 2953 2966	interest rate
 T105	Term_Common 2953 2961	interest
 T106	Term_Common 2962 2966	rate
@@ -107,11 +104,19 @@ T109	Named_Entity 3026 3028	UK
 T110	Named_Entity 3102 3113	Hammersmith
 T111	Named_Entity 3118 3124	Fulham
 T112	Named_Entity 3238 3246	Plymouth
-T113	Term_Common 3261 3275	interest costs
 T114	Term_Common 3261 3269	interest
-T115	Term_Common 3389 3407	financing strategy
 T116	Term_Common 3389 3398	financing
 T117	Term_Common 504 512	interest
 T23	Term 1840 1857	floating interest
 T66	Term 990 1005	funding squeeze
 T70	Term_Common 990 997	funding
+T82	Term 2602 2609	hedging
+T118	Term_Common 2798 2804	profit
+T119	Term 455 460	hedge
+T58	Term 2326 2332	hedges
+T91	Term_Common 1954 1968	fixed payments
+T103	Term_Common 1960 1968	payments
+T113	Term_Common 1858 1866	payments
+T115	Term_Out_of_Domain 1296 1306	litigation
+T120	Term 608 616	notional
+T121	Term 2702 2710	notional

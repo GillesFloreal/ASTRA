@@ -110,12 +110,10 @@ T110	Term_Common 5148 5159	shareholder
 T111	Term_Common 5188 5194	shares
 T112	Term_Common 5213 5225	shareholders
 T113	Term_Common 5281 5287	shares
-T114	Term_Common 5330 5341	share sales
 T115	Term_Common 5330 5335	share
 T116	Named_Entity 5407 5411	Mode
 T117	Term 5422 5425	IPO
 T118	Term 5639 5642	IPO
-T119	Term_Out_of_Domain 641 656	crypto start-up
 T120	Term_Out_of_Domain 799 805	crypto
 T121	Term 820 833	dotcom bubble
 T32	Term 1451 1459	offering
@@ -125,3 +123,14 @@ T76	Term 5450 5457	listing
 T123	Term 1129 1136	listing
 T124	Term 1463 1467	list
 T125	Term 4838 4842	list
+T126	Term 1196 1204	offering
+T127	Term 1368 1383	publicly listed
+T128	Term 1377 1383	listed
+T129	Term 5124 5130	listed
+T114	Term_Out_of_Domain 3066 3076	subsidiary
+T119	Term_Common 5353 5362	purchases
+T130	Term_Common 3310 3319	allowance
+T131	Term_Common 1637 1645	payments
+T132	Part_of_Term_Common 1670 1680	industries
+T133	Part_of_Term_Common 1637 1645	payments
+R3	Split_Term_Com Arg1:T133 Arg2:T132	

@@ -41,14 +41,12 @@ T43	Term 1718 1723	funds
 T44	Named_Entity 1783 1785	UK
 T46	Term_Common 1850 1854	bank
 T47	Named_Entity 1908 1932	European Investment Bank
-T48	Term_Out_of_Domain 1954 1960	Brexit
 T49	Named_Entity 2046 2050	SNIB
 T50	Named_Entity 2060 2064	Watt
 T51	Named_Entity 2211 2230	European Commission
 T52	Named_Entity 2237 2239	EU
 T53	Named_Entity 2337 2341	Watt
 T54	Named_Entity 2455 2459	SNIB
-T56	Term_Out_of_Domain 2489 2514	net zero carbon emissions
 T58	Term_Common 2524 2533	investing
 T59	Term_Common 2602 2609	funding
 T60	Named_Entity 2666 2683	Mariana Mazzucato
@@ -103,7 +101,6 @@ T115	Term_Common 5212 5229	private investors
 T116	Term_Common 5220 5229	investors
 T117	Named_Entity 5319 5323	Watt
 T118	Named_Entity 5478 5483	Brown
-T119	Term 5608 5642	private sector venture capitalists
 T120	Term 5623 5642	venture capitalists
 T121	Named_Entity 5703 5707	Watt
 T122	Named_Entity 5713 5717	SNIB
@@ -113,10 +110,16 @@ T125	Term 5873 5894	venture capital firms
 T126	Term 5873 5888	venture capital
 T21	Term_Common 61 67	lender
 T13	Term_Common 918 923	rates
-T40	Term_Common 1835 1854	infrastructure bank
-T55	Term_Out_of_Domain 2489 2522	net zero carbon emissions economy
 T63	Term 4198 4205	capital
 T64	Term_Common 4520 4526	invest
 T65	Term_Common 5515 5519	bank
 T66	Term 5881 5888	capital
 T45	Term_Common 2759 2765	lender
+T57	Term_Common 1771 1777	profit
+T76	Term_Common 4377 4381	sold
+T77	Term_Common 4309 4316	returns
+T82	Term_Common 4778 4784	invest
+T127	Term 5991 6011	remuneration package
+T128	Term 5991 6003	remuneration
+T40	Term_Out_of_Domain 5268 5285	economic downturn
+T48	Term 5277 5285	downturn

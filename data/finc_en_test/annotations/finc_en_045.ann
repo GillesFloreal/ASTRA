@@ -15,12 +15,10 @@ T14	Named_Entity 987 991	Ifad
 T15	Term 1051 1066	private capital
 T16	Term 1059 1066	capital
 T17	Term_Common 1115 1121	invest
-T18	Term 1208 1225	direct investment
 T19	Term_Common 1215 1225	investment
 T20	Term 1270 1278	fund run
 T21	Term 1270 1274	fund
 T22	Named_Entity 1282 1305	Bamboo Capital Partners
-T23	Term 1309 1338	social impact investment firm
 T24	Term_Common 1323 1338	investment firm
 T25	Term_Common 1323 1333	investment
 T26	Named_Entity 1345 1351	Bamboo
@@ -101,7 +99,6 @@ T103	Named_Entity 5189 5201	Farmfit Fund
 T104	Term_Common 5257 5263	borrow
 T105	Term_Common 5364 5373	investors
 T106	Named_Entity 5416 5422	de Wit
-T107	Term_Common 5464 5479	financial world
 T108	Term_Common 5464 5473	financial
 T109	Term_Common 5489 5495	invest
 T110	Named_Entity 5856 5861	Johan
@@ -111,3 +108,7 @@ T113	Term_Common 2946 2959	market access
 T114	Term_Common 2946 2952	market
 T31	Named_Entity 2630 2632	US
 T34	Term_Common 4814 4824	investable
+T79	Term_Common 1478 1482	loss
+T18	Term_Common 4159 4169	bank loans
+T23	Term_Common 4148 4169	commercial bank loans
+T81	Term_Out_of_Domain 1512 1525	multilaterals

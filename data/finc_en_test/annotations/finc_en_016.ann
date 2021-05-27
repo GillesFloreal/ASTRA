@@ -20,3 +20,4 @@ T19	Named_Entity 2860 2877	Royal Dutch Shell
 T20	Term_Common 2911 2917	invest
 T21	Term_Common 2977 2986	investors
 T22	Named_Entity 3180 3207	International Energy Agency
+T23	Term_Out_of_Domain 2839 2851	hydrocarbons

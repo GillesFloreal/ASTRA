@@ -21,7 +21,6 @@ T20	Term 671 674	IPO
 T21	Named_Entity 695 700	Japan
 T22	Named_Entity 881 883	US
 T23	Named_Entity 888 893	China
-T24	Term_Common 905 920	investor demand
 T25	Term_Common 905 913	investor
 T26	Named_Entity 1071 1085	Nobuo Hayasaka
 T27	Named_Entity 1087 1093	Kioxia
@@ -56,7 +55,6 @@ T55	Named_Entity 2051 2057	Huawei
 T56	Named_Entity 2088 2094	Kioxia
 T57	Named_Entity 2143 2148	China
 T58	Term_Common 2168 2175	markets
-T59	Term 2230 2247	listing documents
 T60	Term 2230 2237	listing
 T61	Named_Entity 2249 2255	Kioxia
 T62	Term_Common 2267 2276	investors
@@ -87,12 +85,10 @@ T89	Named_Entity 3354 3360	Kioxia
 T90	Term 3361 3364	IPO
 T91	Term_Common 3372 3384	shareholders
 T92	Named_Entity 3396 3403	Toshiba
-T93	Term_Common 3431 3445	financial ruin
 T94	Term_Common 3431 3440	financial
 T95	Named_Entity 3468 3470	US
 T96	Term_Common 3600 3608	finances
 T97	Named_Entity 3610 3617	Toshiba
-T98	Term_Out_of_Domain 3636 3656	memory chip business
 T99	Term_Out_of_Domain 3636 3647	memory chip
 T100	Term_Common 3697 3706	investors
 T101	Named_Entity 3791 3796	Tokyo
@@ -103,3 +99,17 @@ T105	Term_Out_of_Domain 3885 3895	consortium
 T106	Named_Entity 3903 3907	Bain
 T107	Term 265 273	offering
 T108	Term 1768 1776	offering
+T68	Term_Out_of_Domain 436 448	memory chips
+T69	Term_Out_of_Domain 145 149	chip
+T82	Term_Out_of_Domain 443 448	chips
+T109	Term_Out_of_Domain 1512 1516	chip
+T110	Term_Out_of_Domain 1950 1954	chip
+T111	Term_Out_of_Domain 2507 2511	chip
+T98	Term_Out_of_Domain 3643 3647	chip
+T112	Term_Out_of_Domain 2097 2101	chip
+T113	Term_Out_of_Domain 2478 2490	geopolitical
+T114	Term_Out_of_Domain 2901 2913	geopolitical
+T59	Term_Common 1710 1716	buyout
+T24	Term 3082 3094	underwriters
+T93	Term_Out_of_Domain 3280 3292	conglomerate
+T115	Term_Out_of_Domain 3679 3691	conglomerate

@@ -33,10 +33,8 @@ T35	Named_Entity 2089 2097	Congress
 T36	Named_Entity 2327 2339	Donald Trump
 T37	Term_Common 2478 2483	rates
 T38	Named_Entity 2562 2575	Thanos Bardas
-T39	Term 2595 2624	investment grade fixed income
 T40	Term_Common 2595 2605	investment
 T41	Term 2612 2624	fixed income
-T42	Term 2595 2611	investment grade
 T43	Named_Entity 2628 2644	Neuberger Berman
 T44	Term 2678 2693	Treasury yields
 T45	Term 2678 2686	Treasury
@@ -51,7 +49,6 @@ T55	Term_Common 3228 3232	rate
 T56	Named_Entity 3327 3343	Praveen Korapaty
 T57	Named_Entity 3378 3391	Goldman Sachs
 T58	Named_Entity 3409 3423	Morgan Stanley
-T59	Term 3461 3472	rates scare
 T60	Term_Common 3461 3466	rates
 T61	Term 3500 3522	government bond yields
 T62	Term 3500 3515	government bond
@@ -59,20 +56,17 @@ T63	Term 3511 3515	bond
 T64	Term_Common 3543 3549	market
 T65	Term_Common 3592 3598	stocks
 T66	Named_Entity 3632 3635	Fed
-T67	Term 3656 3667	bond prices
 T68	Term 3656 3660	bond
 T69	Term_Common 3717 3729	central bank
 T70	Term_Common 3725 3729	bank
 T71	Named_Entity 3589 3591	US
 T72	Named_Entity 3714 3716	US
 T73	Term 3761 3770	liquidity
-T74	Term_Common 3781 3801	financial conditions
 T75	Term_Common 3781 3790	financial
 T76	Named_Entity 3820 3823	Fed
 T77	Term_Common 3891 3896	rates
 T78	Term_Common 3974 3986	central bank
 T79	Term_Common 3982 3986	bank
-T80	Term 4014 4044	Treasury bond-buying programme
 T81	Term 4014 4027	Treasury bond
 T82	Term 4023 4027	bond
 T83	Term_Common 4097 4101	debt
@@ -81,7 +75,6 @@ T85	Named_Entity 4143 4146	Fed
 T86	Term_Common 4196 4202	market
 T87	Named_Entity 4218 4221	Fed
 T88	Named_Entity 4229 4240	Priya Misra
-T89	Term_Common 4257 4271	rates strategy
 T90	Term_Common 4257 4262	rates
 T91	Term_Common 4288 4292	bank
 T92	Term_Common 4457 4466	investors
@@ -108,9 +101,7 @@ T112	Term 5122 5128	equity
 T113	Term_Common 5129 5136	markets
 T114	Named_Entity 5155 5161	Wilson
 T5	Named_Entity 219 221	US
-T8	Term 222 244	government bond prices
 T9	Term 222 237	government bond
-T115	Term_Common 507 524	financial effects
 T116	Term_Common 507 516	financial
 T117	Term_Common 472 484	policy rates
 T118	Term_Common 479 484	rates
@@ -123,7 +114,6 @@ T127	Term_Common 1533 1539	fiscal
 T128	Term_Common 1905 1914	investors
 T129	Named_Entity 3216 3218	US
 T130	Term_Common 3219 3227	interest
-T131	Term 3345 3374	chief global rates strategist
 T132	Term_Common 3358 3363	rates
 T133	Term_Common 4410 4425	fiscal stimulus
 T134	Term_Common 4410 4416	fiscal
@@ -135,3 +125,25 @@ T121	Term_Common 2175 2193	stimulus programme
 T122	Term_Common 2175 2183	stimulus
 T47	Term_Common 3219 3238	interest rate rises
 T48	Term_Common 4417 4425	stimulus
+T137	Term_Common 1520 1528	monetary
+T139	Part_of_Term_Common 1520 1528	monetary
+T140	Part_of_Term_Common 1540 1552	policymakers
+R1	Split_Term_Com Arg1:T139 Arg2:T140	
+T141	Term_Common 1646 1655	inflation
+T142	Term_Common 4777 4786	inflation
+T143	Term_Common 4912 4919	profits
+T39	Term_Common 2595 2611	investment grade
+T42	Term 3351 3374	global rates strategist
+T59	Term 3511 3522	bond yields
+T80	Term_Common 4615 4620	rally
+T74	Term_Common 4608 4620	market rally
+T8	Term_Common 4071 4080	purchases
+T67	Term_Common 665 670	yield
+T89	Term_Common 837 843	yields
+T115	Term_Common 1199 1205	yields
+T131	Term_Common 120 126	yields
+T144	Named_Entity 142 145	Fed
+T145	Term_Common 2687 2693	yields
+T146	Term_Common 3516 3522	yields
+T147	Term_Common 4348 4354	yields
+T148	Term_Common 4549 4555	yields

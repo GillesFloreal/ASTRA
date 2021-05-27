@@ -65,7 +65,6 @@ T69	Term 3217 3224	capital
 T70	Term_Common 3334 3350	financial crisis
 T71	Term_Common 3334 3343	financial
 T72	Named_Entity 3362 3364	UK
-T73	Term_Common 3365 3384	brokerage executive
 T74	Term_Common 3365 3374	brokerage
 T75	Term_Common 3394 3414	emergency financings
 T76	Term_Common 3404 3414	financings
@@ -93,24 +92,19 @@ T97	Term_Common 4567 4576	financial
 T98	Term 4593 4602	bond sale
 T99	Term_Common 4593 4597	bond
 T101	Named_Entity 4962 4968	Amazon
-T102	Term 5070 5090	Private equity power
 T103	Term 5070 5084	Private equity
 T104	Term 5078 5084	equity
-T105	Term 5110 5132	private equity capital
 T106	Term 5110 5124	private equity
 T107	Term 5125 5132	capital
 T108	Named_Entity 5150 5152	US
 T109	Named_Entity 5255 5261	Preqin
 T110	Term_Common 5318 5323	loans
-T111	Term_Common 5304 5323	high-interest loans
 T112	Term 5365 5380	minority stakes
 T113	Term_Common 5374 5380	stakes
 T114	Named_Entity 5414 5417	KKR
 T115	Term_Common 5491 5501	debt-laden
 T116	Named_Entity 5518 5522	Coty
 T117	Term_Common 5549 5559	financings
-T118	Term 5573 5602	investment grade corporations
-T119	Term_Common 5573 5583	investment
 T120	Named_Entity 5611 5617	Disney
 T121	Term_Common 5623 5632	investors
 T122	Term_Common 5698 5702	debt
@@ -119,7 +113,6 @@ T124	Named_Entity 5788 5797	Refinitiv
 T126	Term_Common 5924 5928	debt
 T127	Term 5981 5988	issuers
 T128	Named_Entity 6112 6115	S&P
-T129	Term_Common 6130 6142	default rate
 T130	Term_Common 6138 6142	rate
 T131	Named_Entity 6158 6160	US
 T132	Named_Entity 6319 6336	American Airlines
@@ -162,7 +155,6 @@ T168	Term 9240 9252	loan capital
 T169	Term_Common 9240 9244	loan
 T170	Term 9245 9252	capital
 T171	Named_Entity 9304 9319	Benjamin Nelson
-T172	Term 9342 9363	senior credit officer
 T173	Term_Common 9349 9355	credit
 T174	Named_Entity 9381 9386	Moody
 T175	Term 9431 9458	revolving credit facilities
@@ -196,10 +188,6 @@ T204	Term 10633 10640	capital
 T205	Term_Common 10739 10759	financial resilience
 T206	Term_Common 10739 10748	financial
 T208	Named_Entity 10929 10935	Astier
-T210	Term 10973 10997	Covid-19 liquidity funds
-T211	Part_of_Term 10587 10595	Covid-19
-T212	Part_of_Term 10597 10612	liquidity funds
-R2	Split_Term Arg1:T211 Arg2:T212	
 T213	Term 10982 10997	liquidity funds
 T214	Term 10982 10991	liquidity
 T215	Term 10992 10997	funds
@@ -207,7 +195,6 @@ T216	Term_Common 11001 11010	Investors
 T217	Term_Common 11133 11146	balance sheet
 T218	Named_Entity 11184 11198	Richard Taylor
 T219	Named_Entity 11208 11212	Emea
-T220	Term 11213 11228	equity research
 T221	Term 11213 11219	equity
 T222	Named_Entity 11232 11241	Jefferies
 T223	Term 11264 11279	working capital
@@ -221,7 +208,6 @@ T230	Term_Common 11650 11655	share
 T231	Named_Entity 11720 11724	Citi
 T232	Named_Entity 11797 11811	Luke Templeman
 T233	Named_Entity 11815 11828	Deutsche Bank
-T234	Term_Out_of_Domain 11869 11886	zombie businesses
 T235	Term_Common 12018 12027	borrowers
 T236	Term 12046 12064	capital structures
 T237	Term 12046 12053	capital
@@ -244,7 +230,6 @@ T254	Named_Entity 13388 13394	Taylor
 T255	Named_Entity 74 76	UK
 T256	Term 77 93	listed companies
 T257	Term 77 83	listed
-T258	Term_Common 693 709	loan application
 T259	Term_Common 693 697	loan
 T27	Named_Entity 1304 1312	FTSE 350
 T260	Term 5118 5124	equity
@@ -266,3 +251,26 @@ T263	Term 9623 9638	listed business
 T268	Term 9623 9629	listed
 T269	Term 9967 9975	offering
 T190	Term 10896 10901	gilts
+T200	Term 4861 4875	earnings hedge
+T209	Term 4870 4875	hedge
+T253	Term_Common 12291 12299	stimulus
+T102	Term_Common 5573 5589	investment grade
+T105	Term_Common 7143 7151	earnings
+T111	Term_Out_of_Domain 11869 11886	zombie businesses
+T118	Term_Common 2223 2242	Government bailouts
+T119	Term_Common 2234 2242	bailouts
+T129	Term_Common 12666 12674	bailouts
+T210	Term_Common 5184 5190	buyout
+T211	Term 11547 11554	payouts
+T212	Term_Common 11556 11563	Returns
+T220	Term_Common 479 484	euros
+T73	Term 8764 8772	downturn
+T172	Term 12007 12027	junk-rated borrowers
+T234	Term 6147 6156	junk-rate
+T258	Term 6308 6318	junk-rated
+T270	Term 5704 5724	Junk-rated companies
+T271	Term 5704 5714	Junk-rated
+T272	Term 12007 12017	junk-rated
+T273	Term 13147 13155	notional
+T274	Term_Common 10858 10863	yield
+T275	Term 5866 5874	issuance

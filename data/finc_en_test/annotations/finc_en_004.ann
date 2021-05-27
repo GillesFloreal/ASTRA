@@ -1,19 +1,15 @@
 T1	Term 4 28	total addressable market
-T2	Term 66 83	market historians
 T4	Term_Common 129 137	sell-off
 T5	Term 312 315	TAM
 T6	Term 320 344	total addressable market
-T7	Term_Common 346 363	investment thesis
 T8	Term 443 446	IPO
 T9	Term 448 462	direct listing
-T10	Term 466 470	Spac
 T11	Term_Common 609 618	investors
 T12	Term 687 690	TAM
 T13	Named_Entity 814 818	Uber
 T14	Term 821 844	initial public offering
 T15	Named_Entity 1017 1032	Virgin Galactic
 T16	Named_Entity 1245 1252	Sentieo
-T17	Term 1321 1340	pre-IPO S-1 filings
 T20	Term 1554 1557	TAM
 T21	Named_Entity 1576 1591	Bank of America
 T22	Named_Entity 1637 1643	Yandex
@@ -70,15 +66,11 @@ T77	Term_Common 512 518	market
 T78	Term_Common 346 356	investment
 T79	Term_Common 338 344	market
 T80	Term_Common 22 28	market
-T3	Term 107 111	Spac
 T81	Term_Common 2121 2125	bank
 T82	Term_Common 66 72	market
-T38	Term 107 117	Spac craze
 T53	Term_Common 455 462	listing
-T72	Term_Common 1195 1207	market sizes
 T83	Term_Common 1195 1201	market
 T84	Term 1222 1244	financial data company
-T85	Term 1222 1236	financial data
 T86	Term_Common 1222 1231	financial
 T18	Term_Common 1467 1474	markets
 T19	Term_Common 2489 2496	lending
@@ -87,7 +79,6 @@ T87	Term_Common 2591 2596	loans
 T57	Term 3251 3257	equity
 T88	Term_Common 3258 3265	markets
 T89	Term_Common 421 427	market
-T90	Term_Common 1401 1418	sellside research
 T91	Term_Common 1504 1512	sellside
 T92	Term_Common 1401 1409	sellside
 T93	Term_Common 2204 2212	revenues
@@ -95,4 +86,17 @@ T94	Term_Common 2247 2252	flows
 T95	Term_Common 2597 2608	ex-mortgage
 T96	Term 2661 2674	retail wealth
 T97	Term_Common 2830 2838	revenues
-T98	Term 3401 3415	oil fund chief
+T99	Term_Common 556 562	dollar
+T3	Term 107 111	Spac
+T10	Term 466 470	Spac
+T17	Term 1325 1328	IPO
+T38	Term_Common 2477 2488	credit card
+T72	Term_Common 3537 3544	returns
+T2	Term_Out_of_Domain 2085 2096	acquisition
+T98	Term_Out_of_Domain 3152 3163	acquisition
+T90	Term 3475 3496	sovereign wealth fund
+T100	Term_Common 66 83	market historians
+T7	Term_Common 2639 2647	payments
+T85	Term_Common 2918 2926	payments
+T101	Named_Entity 3013 3017	BofA
+T102	Term 3427 3449	ESG-driven divestments

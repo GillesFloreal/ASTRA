@@ -25,8 +25,6 @@ T26	Term 1209 1219	volatility
 T28	Named_Entity 1260 1263	vix
 T29	Term 1264 1271	futures
 T30	Term 1377 1387	volatility
-T31	Term_Common 1425 1446	central-bank meetings
-T32	Term_Common 1425 1437	central-bank
 T33	Term_Common 1433 1437	bank
 T34	Term_Common 1449 1458	Investors
 T35	Named_Entity 1546 1559	Cameron Crise

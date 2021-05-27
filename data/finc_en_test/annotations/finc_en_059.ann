@@ -56,7 +56,6 @@ T57	Term_Common 2094 2101	markets
 T58	Named_Entity 2104 2117	Vijay Chandok
 T59	Named_Entity 2119 2124	ICICI
 T60	Term_Common 2201 2208	trading
-T61	Term_Common 2186 2208	do-it-yourself trading
 T62	Term_Common 2243 2252	investing
 T63	Term 2261 2273	mutual funds
 T64	Term 2268 2273	funds
@@ -64,7 +63,6 @@ T65	Named_Entity 2275 2280	India
 T66	Term 2283 2303	mutual fund industry
 T67	Term 2283 2294	mutual fund
 T68	Term 2290 2294	fund
-T69	Term 2357 2375	equity-based funds
 T70	Term 2370 2375	funds
 T71	Term 2357 2363	equity
 T72	Term 2447 2458	mutual fund
@@ -125,3 +123,6 @@ T130	Term_Common 4619 4625	invest
 T131	Term 818 824	equity
 T132	Named_Entity 1236 1245	Bangalore
 T83	Term_Common 2690 2700	Brokerages
+T12	Term_Common 1976 1984	turnover
+T13	Term 220 227	rebound
+T61	Term_Out_of_Domain 3631 3643	contractions

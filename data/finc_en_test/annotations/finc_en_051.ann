@@ -1,9 +1,6 @@
 T1	Term_Common 12 18	invest
-T2	Term_Out_of_Domain 23 29	Brexit
 T3	Term_Common 30 45	Finance experts
 T4	Term_Common 30 37	Finance
-T5	Term_Out_of_Domain 83 90	no-deal
-T6	Term_Common 134 145	trade talks
 T7	Term_Common 134 139	trade
 T8	Named_Entity 158 160	UK
 T9	Term_Common 177 192	trading partner
@@ -13,19 +10,14 @@ T12	Term_Common 235 246	investments
 T13	Term_Common 267 274	markets
 T14	Named_Entity 344 346	UK
 T15	Named_Entity 365 367	EU
-T16	Term_Out_of_Domain 637 644	no-deal
 T17	Term 670 678	equities
 T18	Named_Entity 711 713	UK
 T19	Named_Entity 718 720	EU
 T20	Named_Entity 732 756	World Trade Organization
-T21	Term_Out_of_Domain 798 805	tariffs
-T22	Term_Out_of_Domain 819 838	regulatory barriers
 T23	Named_Entity 887 889	UK
 T24	Named_Entity 912 914	EU
 T25	Named_Entity 977 979	EU
-T26	Term_Out_of_Domain 1055 1062	tariffs
 T28	Term_Common 1167 1172	trade
-T29	Term_Common 1204 1223	investor confidence
 T30	Term_Common 1204 1212	investor
 T31	Named_Entity 1259 1261	EU
 T32	Term_Common 1262 1267	trade
@@ -34,12 +26,9 @@ T34	Term_Common 1448 1464	finance industry
 T35	Term_Common 1448 1455	finance
 T36	Term 1506 1510	ETFs
 T37	Term 1559 1563	ETFs
-T38	Term_Out_of_Domain 1570 1577	no-deal
 T39	Term_Common 1584 1594	trade deal
 T40	Term_Common 1584 1589	trade
-T41	Term_Out_of_Domain 1689 1697	sterling
-T42	Term_Out_of_Domain 1735 1752	Brexit referendum
-T43	Term_Out_of_Domain 1735 1741	Brexit
+T41	Term_Common 1689 1697	sterling
 T44	Term_Common 1858 1872	interest rates
 T45	Term_Common 1858 1866	interest
 T46	Term_Common 1867 1872	rates
@@ -67,13 +56,11 @@ T69	Term 2488 2498	bond funds
 T70	Term 2488 2492	bond
 T71	Term 2493 2498	funds
 T72	Term 2554 2563	portfolio
-T73	Term_Out_of_Domain 2570 2577	no-deal
 T74	Term 2601 2607	assets
 T75	Named_Entity 2619 2621	UK
 T76	Named_Entity 2625 2631	Europe
 T77	Named_Entity 2657 2659	US
 T78	Named_Entity 2668 2679	Peter Sleep
-T79	Term 2681 2705	senior portfolio manager
 T80	Term 2688 2705	portfolio manager
 T81	Term 2688 2697	portfolio
 T82	Named_Entity 2709 2736	Seven Investment Management
@@ -87,8 +74,6 @@ T90	Term_Common 2961 2966	rates
 T91	Named_Entity 3012 3017	Sleep
 T92	Term_Common 3052 3058	market
 T93	Named_Entity 3066 3068	US
-T94	Term_Out_of_Domain 3116 3128	Brexit risks
-T95	Term_Out_of_Domain 3116 3122	Brexit
 T97	Term 3176 3179	ETF
 T83	Named_Entity 2749 2757	JPMorgan
 T99	Named_Entity 1974 1981	iShares
@@ -100,10 +85,7 @@ T104	Term 3420 3427	capital
 T105	Named_Entity 3500 3502	US
 T106	Named_Entity 3533 3538	Sleep
 T107	Term_Common 3617 3626	investors
-T108	Term 3658 3678	fund net asset value
 T109	Term 3658 3662	fund
-T110	Term 3663 3678	net asset value
-T111	Term 3667 3678	asset value
 T112	Term 3667 3672	asset
 T113	Term 3694 3698	ETFs
 T114	Term_Common 3754 3763	investing
@@ -182,17 +164,14 @@ T194	Named_Entity 6599 6601	US
 T195	Term 6602 6610	equities
 T196	Named_Entity 6628 6635	Dickens
 T197	Term 6697 6700	ETF
-T198	Term 6681 6700	currency hedged ETF
 T200	Named_Entity 6709 6716	iShares
 T201	Term 6797 6815	hedged share class
 T202	Term 6804 6815	share class
 T203	Term_Common 6804 6809	share
 T206	Named_Entity 6858 6865	iShares
-T207	Term 6951 6978	sterling-hedged share class
 T208	Term 6967 6978	share class
 T209	Term_Common 6967 6972	share
 T210	Named_Entity 7099 7112	Rachel Winter
-T211	Term 7114 7143	associate investment director
 T212	Term 7124 7143	investment director
 T213	Term_Common 7124 7134	investment
 T214	Term 7147 7161	wealth manager
@@ -200,7 +179,6 @@ T215	Named_Entity 7162 7173	Killik & Co
 T216	Term 7283 7293	portfolios
 T217	Term_Common 7305 7316	investments
 T218	Term 7425 7434	portfolio
-T219	Term_Out_of_Domain 7598 7623	Brexit trade negotiations
 T220	Term_Common 7652 7661	investors
 T222	Named_Entity 7878 7884	Brexit
 T223	Term_Common 7913 7922	investors
@@ -211,7 +189,6 @@ T227	Named_Entity 8025 8028	ETF
 T229	Term 8094 8098	fund
 T231	Term_Common 8168 8178	investment
 T232	Term 8240 8244	fund
-T233	Term_Out_of_Domain 7598 7604	Brexit
 T140	Named_Entity 4722 4742	FTSE All-World ex-UK
 T54	Named_Entity 1982 2010	GBP Index-Linked Gilts Ucits
 T179	Named_Entity 5980 6030	STOXX Europe 600 Industrial Goods & Services Ucits
@@ -224,3 +201,44 @@ T199	Term 6885 6888	ETF
 T27	Term_Common 5032 5037	trade
 T68	Term_Common 6397 6408	investments
 T124	Named_Entity 6717 6737	Core S&P 500 ETF GBP
+T2	Term_Out_of_Domain 798 805	tariffs
+T5	Term_Out_of_Domain 1055 1062	tariffs
+T16	Term_Common 2409 2424	monetary policy
+T21	Term_Common 2409 2417	monetary
+T26	Term_Common 2639 2647	currency
+T38	Named_Entity 3436 3438	US
+T42	Term_Common 3439 3445	dollar
+T43	Term_Common 3909 3917	currency
+T73	Term_Common 3933 3941	currency
+T94	Term_Common 4120 4128	sterling
+T95	Term_Common 4393 4399	pounds
+T127	Term_Common 4404 4410	dollar
+T169	Term_Common 4787 4792	pound
+T187	Term_Common 6281 6289	sterling
+T189	Term_Common 6488 6496	currency
+T205	Term_Common 6531 6538	profits
+T221	Term_Common 6681 6689	currency
+T228	Term 6690 6696	hedged
+T230	Term 7203 7210	hedging
+T234	Term_Common 7211 7221	currencies
+T235	Term_Common 7328 7338	currencies
+T236	Term_Common 7389 7402	currency pair
+T237	Term_Common 7389 7397	currency
+T238	Term_Common 7446 7456	currencies
+T239	Term_Common 7496 7505	inflation
+T240	Term_Common 7523 7531	currency
+T6	Term_Common 2660 2666	dollar
+T22	Term_Common 4356 4361	pound
+T108	Term_Common 6951 6959	sterling
+T29	Term 7514 7531	domestic currency
+T79	Term 6681 6696	currency hedged
+T111	Term_Common 4003 4011	payments
+T110	Term_Common 4107 4114	payment
+T198	Term_Common 3374 3379	yield
+T207	Term_Common 3562 3567	yield
+T211	Term_Common 4923 4928	yield
+T219	Term 2053 2089	inflation-protected government bonds
+T233	Term 2053 2072	inflation-protected
+T241	Term 2468 2498	inflation-protected bond funds
+T242	Term 2468 2487	inflation-protected
+T243	Term 2468 2492	inflation-protected bond

@@ -7,7 +7,6 @@ T7	Term 202 208	assets
 T8	Term_Common 230 239	investors
 T9	Term 253 265	equity hedge
 T10	Term 272 288	government bonds
-T11	Term_Common 346 365	stock market wobble
 T12	Term 422 435	fund managers
 T13	Term 422 426	fund
 T14	Term_Common 571 586	stock movements
@@ -35,12 +34,10 @@ T37	Term_Common 1596 1609	central banks
 T38	Term 1683 1702	multi-asset manager
 T39	Term_Common 1750 1759	investing
 T40	Named_Entity 1797 1811	Michael DePass
-T41	Term 1828 1844	Treasury trading
 T42	Term 1828 1836	Treasury
 T43	Term_Common 1837 1844	trading
 T44	Named_Entity 1848 1866	Citadel Securities
 T45	Term_Common 1913 1922	Investors
-T46	Term 1979 2003	equity market turbulence
 T47	Term 1979 1992	equity market
 T48	Term_Common 1986 1992	market
 T50	Named_Entity 2127 2138	Wall Street
@@ -58,7 +55,6 @@ T62	Term_Common 2656 2666	investment
 T63	Named_Entity 2678 2703	JPMorgan Asset Management
 T64	Term_Common 2849 2858	sell-offs
 T65	Term 2862 2870	equities
-T66	Term_Common 2872 2889	high-yield credit
 T67	Term_Common 2883 2889	credit
 T69	Term 2906 2912	assets
 T70	Named_Entity 2990 3003	Pramol Dhawan
@@ -91,7 +87,6 @@ T98	Named_Entity 3823 3832	Singapore
 T99	Named_Entity 3834 3845	South Korea
 T100	Named_Entity 3847 3851	Peru
 T101	Named_Entity 3856 3861	Chile
-T102	Term 3893 3905	equity risks
 T103	Term 3893 3899	equity
 T104	Term 4033 4041	EM bonds
 T105	Term 4036 4041	bonds
@@ -166,3 +161,31 @@ T169	Term_Common 2596 2611	emerging market
 T170	Term_Common 2612 2622	currencies
 T171	Named_Entity 3678 3683	Pimco
 T129	Named_Entity 5130 5135	China
+T152	Term_Common 1213 1216	yen
+T164	Term_Common 1055 1072	Australian dollar
+T167	Term_Common 1077 1092	Norwegian krone
+T172	Term_Common 1095 1105	currencies
+T173	Part_of_Term_Common 2458 2468	Australian
+T174	Part_of_Term_Common 2473 2484	New Zealand
+T175	Part_of_Term_Common 2485 2492	dollars
+T176	Part_of_Term_Common 2485 2492	dollars
+R1	Split_Term_Com Arg1:T173 Arg2:T176	
+R2	Split_Term_Com Arg1:T174 Arg2:T175	
+T177	Term_Common 2767 2779	Mexican peso
+T178	Term_Common 2781 2793	Turkish lira
+T179	Term_Common 2775 2779	peso
+T180	Term_Common 2789 2793	lira
+T181	Term_Common 2798 2815	Indonesian rupiah
+T182	Term_Common 2809 2815	rupiah
+T183	Term 3205 3212	hedging
+T184	Term 710 715	hedge
+T185	Term 260 265	hedge
+T186	Term 2835 2840	hedge
+T187	Term 4790 4795	hedge
+T11	Term_Common 1204 1216	Japanese yen
+T41	Term_Common 2432 2442	currencies
+T46	Term_Common 4033 4035	EM
+T66	Term 4269 4284	government bond
+T102	Term_Common 4339 4344	yield
+T188	Term_Common 4775 4780	yield
+T189	Term_Common 4704 4710	yields

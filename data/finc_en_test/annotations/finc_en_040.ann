@@ -1,11 +1,5 @@
 T1	Named_Entity 0 5	China
-T2	Term 8 29	carbon trading scheme
-T3	Term_Common 15 29	trading scheme
-T4	Term_Common 15 22	trading
 T5	Named_Entity 134 139	China
-T6	Term 190 214	emissions trading scheme
-T7	Term 200 214	trading scheme
-T8	Term_Common 200 207	trading
 T9	Named_Entity 360 366	Li Gao
 T10	Named_Entity 398 403	China
 T11	Named_Entity 406 441	Ministry of Ecology and Environment
@@ -18,18 +12,12 @@ T17	Named_Entity 891 894	MIT
 T18	Named_Entity 898 911	Massachusetts
 T19	Named_Entity 939 944	China
 T20	Named_Entity 947 982	Ministry of Ecology and Environment
-T21	Term 990 1004	trading scheme
-T22	Term_Common 990 997	trading
-T23	Term 1063 1096	national emissions trading scheme
-T24	Term 1082 1096	trading scheme
-T25	Term_Common 1082 1089	trading
 T26	Named_Entity 1308 1320	Deborah Lehr
 T27	Named_Entity 1348 1365	Paulson Institute
 T28	Named_Entity 1397 1404	Beijing
 T29	Named_Entity 1581 1591	Xi Jinping
 T30	Named_Entity 1593 1598	China
 T31	Named_Entity 1614 1621	Beijing
-T32	Term 1638 1662	emissions trading system
 T33	Term 1648 1662	trading system
 T34	Term_Common 1648 1655	trading
 T35	Named_Entity 1753 1755	EU
@@ -40,7 +28,6 @@ T39	Named_Entity 1958 1963	China
 T40	Named_Entity 2003 2042	International Carbon Action Partnership
 T41	Named_Entity 2044 2048	Icap
 T42	Named_Entity 2067 2069	EU
-T43	Term 2070 2094	emissions trading system
 T44	Term 2080 2094	trading system
 T45	Term_Common 2080 2087	trading
 T46	Named_Entity 2119 2124	China
@@ -49,7 +36,6 @@ T48	Named_Entity 2622 2627	China
 T49	Named_Entity 2768 2817	US Center for Strategic and International Studies
 T50	Named_Entity 2921 2928	Beijing
 T51	Named_Entity 2933 2942	Guangdong
-T52	Term 2963 2988	emissions trading systems
 T53	Term 2973 2988	trading systems
 T54	Term_Common 2973 2980	trading
 T55	Named_Entity 3097 3099	EU
@@ -58,7 +44,6 @@ T57	Named_Entity 3391 3395	Icap
 T58	Term 3454 3468	trading scheme
 T59	Term_Common 3454 3461	trading
 T60	Named_Entity 3489 3494	China
-T61	Term 3542 3560	CO2 trading scheme
 T62	Term 3546 3560	trading scheme
 T63	Term_Common 3546 3553	trading
 T64	Named_Entity 3729 3743	David Sandalow
@@ -73,3 +58,7 @@ T72	Named_Entity 4013 4015	EU
 T73	Term_Common 4056 4067	tax evasion
 T74	Term_Common 4056 4059	tax
 T75	Named_Entity 4096 4101	China
+T2	Term 15 29	trading scheme
+T3	Term_Common 15 22	trading
+T4	Term 1082 1096	trading scheme
+T6	Term_Common 1082 1089	trading

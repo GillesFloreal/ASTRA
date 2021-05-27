@@ -11,7 +11,6 @@ T10	Term_Common 170 179	financial
 T11	Named_Entity 236 245	Singapore
 T12	Named_Entity 296 298	US
 T13	Named_Entity 303 308	India
-T14	Term 324 335	finance hub
 T15	Term_Common 324 331	finance
 T16	Named_Entity 371 378	Alibaba
 T17	Named_Entity 386 395	Ant Group
@@ -40,7 +39,6 @@ T39	Named_Entity 1238 1243	India
 T40	Named_Entity 1348 1354	Huawei
 T41	Named_Entity 1373 1375	US
 T42	Named_Entity 1389 1398	Singapore
-T43	Term_Out_of_Domain 1418 1439	geopolitical tensions
 T44	Named_Entity 1447 1460	Chia Hock Lai
 T45	Named_Entity 1479 1508	Singapore Fintech Association
 T46	Term_Out_of_Domain 1646 1671	geopolitical relationship
@@ -110,3 +108,12 @@ T108	Named_Entity 3674 3683	Singapore
 T109	Term_Common 3695 3710	finance sectors
 T110	Term_Common 3695 3702	finance
 T111	Term_Common 3382 3388	market
+T14	Term_Out_of_Domain 1418 1439	geopolitical tensions
+T43	Term_Out_of_Domain 2977 2992	cloud computing
+T112	Term_Out_of_Domain 1418 1430	geopolitical
+T113	Term_Out_of_Domain 1646 1658	geopolitical
+T114	Term_Out_of_Domain 2862 2873	acquisition
+T115	Term_Out_of_Domain 459 464	cloud
+T116	Term_Out_of_Domain 2977 2982	cloud
+T117	Term_Out_of_Domain 3052 3066	cloud services
+T118	Term_Out_of_Domain 3052 3057	cloud

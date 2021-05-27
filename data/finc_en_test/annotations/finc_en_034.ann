@@ -4,7 +4,6 @@ T3	Term_Common 46 51	rally
 T4	Named_Entity 52 62	Uzbekistan
 T5	Term_Common 121 134	Central banks
 T6	Term_Common 129 134	banks
-T7	Term 311 331	Global central banks
 T8	Term_Common 318 331	central banks
 T9	Term_Common 326 331	banks
 T10	Named_Entity 432 450	World Gold Council
@@ -15,12 +14,9 @@ T14	Named_Entity 860 874	Bernard Dahdah
 T15	Named_Entity 985 995	Uzbekistan
 T16	Term_Common 1118 1130	Central bank
 T17	Term_Common 1126 1130	bank
-T18	Term_Common 1118 1140	Central bank purchases
-T19	Term 1243 1263	gold-backed exchange
 T20	Term_Common 1255 1263	exchange
 T21	Term_Common 1264 1270	traded
 T22	Term_Common 1271 1276	funds
-T23	Term_Common 1278 1294	Global investors
 T24	Term_Common 1285 1294	investors
 T25	Term 1333 1337	ETFs
 T26	Term_Common 1358 1371	central banks
@@ -31,7 +27,6 @@ T30	Term_Common 1608 1613	banks
 T31	Named_Entity 1689 1695	Russia
 T32	Named_Entity 1697 1703	Turkey
 T33	Named_Entity 1708 1718	Kazakhstan
-T34	Term 1785 1805	global central banks
 T35	Term_Common 1792 1805	central banks
 T36	Term_Common 1800 1805	banks
 T37	Named_Entity 1834 1840	Russia
@@ -43,10 +38,23 @@ T42	Term_Common 1991 1995	bank
 T43	Named_Entity 2001 2023	People’s Bank of China
 T44	Named_Entity 2071 2077	Turkey
 T45	Term_Common 2105 2113	holdings
-T46	Term_Common 2268 2286	total net reserves
 T47	Named_Entity 2292 2295	WGC
 T48	Named_Entity 2431 2436	India
 T49	Named_Entity 2441 2446	China
-T50	Term_Common 2465 2484	investment outflows
 T51	Term_Common 2465 2475	investment
 T52	Term_Common 2577 2583	market
+T53	Term_Common 146 153	sellers
+T54	Term 302 307	rally
+T55	Term_Common 332 336	sold
+T57	Term_Common 1614 1620	bought
+T56	Term_Common 1766 1772	dollar
+T58	Term_Common 2500 2506	dollar
+T59	Term_Common 2549 2559	currencies
+T7	Term_Common 698 704	buyers
+T60	Named_Entity 890 897	Natixis
+T61	Named_Entity 901 906	Paris
+T18	Term_Common 2476 2484	outflows
+T19	Term_Common 1131 1140	purchases
+T23	Term_Common 1556 1565	purchases
+T34	Term_Common 1939 1948	purchases
+T46	Term_Common 2161 2170	purchases

@@ -11,11 +11,7 @@ T10	Term_Common 496 509	interest rate
 T11	Term_Common 496 504	interest
 T12	Term_Common 505 509	rate
 T13	Term_Common 530 538	deposits
-T14	Term_Common 791 804	cash deposits
-T15	Term_Common 796 804	deposits
 T16	Named_Entity 822 825	UBS
-T17	Term_Common 487 509	negative interest rate
-T18	Term_Common 871 894	negative interest rates
 T19	Term_Common 880 894	interest rates
 T20	Term_Common 880 888	interest
 T21	Term_Common 889 894	rates
@@ -27,7 +23,6 @@ T26	Named_Entity 1047 1050	UBS
 T27	Named_Entity 1072 1083	Switzerland
 T28	Term 1113 1130	wealth management
 T29	Term 1157 1163	assets
-T30	Term_Common 1194 1208	negative rates
 T31	Term_Common 1203 1208	rates
 T32	Term_Common 1235 1239	bank
 T33	Term_Common 1242 1258	Commercial banks
@@ -35,8 +30,6 @@ T34	Term_Common 1253 1258	banks
 T35	Named_Entity 1299 1320	European Central Bank
 T36	Named_Entity 1322 1341	Swiss National Bank
 T37	Named_Entity 1346 1359	Bank of Japan
-T38	Term_Common 1376 1407	negative interest rate policies
-T39	Term_Common 1376 1398	negative interest rate
 T40	Term_Common 1385 1398	interest rate
 T41	Term_Common 1385 1393	interest
 T42	Term_Common 1394 1398	rate
@@ -46,7 +39,6 @@ T45	Named_Entity 1483 1496	Lombard Odier
 T46	Named_Entity 1504 1506	US
 T47	Named_Entity 1508 1523	Federal Reserve
 T48	Named_Entity 1528 1543	Bank of England
-T49	Term_Common 1605 1619	negative rates
 T50	Term_Common 1614 1619	rates
 T51	Named_Entity 1668 1670	UK
 T52	Named_Entity 1696 1704	Sandaire
@@ -58,12 +50,10 @@ T57	Term_Common 1868 1881	bank accounts
 T58	Term_Common 1868 1872	bank
 T59	Term_Common 1936 1944	interest
 T60	Named_Entity 2022 2037	Bank of England
-T61	Term_Common 2069 2092	negative interest rates
 T62	Term_Common 2078 2092	interest rates
 T63	Term_Common 2078 2086	interest
 T64	Term_Common 2087 2092	rates
 T65	Named_Entity 2142 2149	Gardner
-T66	Term_Common 2222 2236	negative rates
 T67	Term_Common 2231 2236	rates
 T68	Term_Common 2272 2285	central banks
 T69	Term_Common 2280 2285	banks
@@ -81,16 +71,12 @@ T80	Named_Entity 2579 2590	Katie Nixon
 T81	Term 2592 2616	chief investment officer
 T82	Term_Common 2598 2608	investment
 T83	Named_Entity 2620 2652	Northern Trust Wealth Management
-T84	Term 2669 2694	asset management services
 T85	Term 2669 2685	asset management
 T86	Term 2669 2674	asset
-T87	Term_Common 2722 2731	low rates
 T88	Term_Common 2726 2731	rates
 T89	Named_Entity 2799 2801	US
 T90	Term_Common 2802 2814	central bank
 T91	Term_Common 2810 2814	bank
-T92	Term 2833 2858	zero-interest rate policy
-T93	Term_Common 2833 2851	zero-interest rate
 T94	Term_Common 2847 2851	rate
 T95	Term 2914 2933	investment managers
 T96	Term_Common 2914 2924	investment
@@ -140,7 +126,6 @@ T139	Named_Entity 4765 4771	Monier
 T140	Term 4798 4813	corporate bonds
 T141	Term 4808 4813	bonds
 T142	Term 4938 4943	bonds
-T143	Term_Common 4921 4931	investment
 T144	Term 4980 4991	asset class
 T145	Term 4980 4985	asset
 T146	Term_Common 5005 5018	central banks
@@ -177,7 +162,6 @@ T175	Term 6043 6049	Assets
 T176	Named_Entity 6120 6125	Nixon
 T177	Term_Common 6181 6188	funding
 T178	Term 6247 6253	assets
-T179	Term_Common 6268 6289	investment philosophy
 T180	Term_Common 6268 6278	investment
 T181	Term 6299 6305	assets
 T182	Term 6409 6418	liquidity
@@ -204,12 +188,32 @@ T202	Term 7329 7345	income portfolio
 T203	Term 7336 7345	portfolio
 T204	Named_Entity 7553 7567	Northern Trust
 T205	Named_Entity 7716 7724	Gardiner
-T206	Term 7645 7667	asset allocation model
 T207	Term 7645 7661	asset allocation
 T208	Term 7645 7650	asset
 T209	Named_Entity 7728 7738	Rothschild
 T210	Term_Common 6432 6436	fund
 T211	Term 7468 7479	liabilities
-T212	Term_Common 4862 4887	economic stimulus schemes
 T213	Term_Common 4871 4887	stimulus schemes
 T214	Term_Common 4871 4879	stimulus
+T215	Term_Common 2185 2194	inflation
+T216	Term_Common 2324 2339	monetary policy
+T217	Term_Common 2324 2332	monetary
+T218	Term_Common 2440 2449	inflation
+T219	Term_Common 4579 4583	sell
+T220	Term_Common 5216 5225	inflation
+T222	Term_Common 5363 5371	currency
+T223	Term 5372 5377	hedge
+T224	Term 5363 5377	currency hedge
+T14	Term_Common 1385 1407	interest rate policies
+T15	Term_Common 2865 2874	inflation
+T17	Term 4921 4943	investment-grade bonds
+T18	Term 4921 4937	investment-grade
+T30	Term_Common 779 790	Swiss franc
+T38	Term_Common 785 790	franc
+T39	Term 7071 7081	allocation
+T49	Term 7651 7661	allocation
+T61	Term_Common 1799 1805	yields
+T66	Term_Common 5477 5483	yields
+T84	Term 5324 5354	inflation-protected securities
+T87	Term 5289 5307	index-linked gilts
+T92	Term 5289 5301	index-linked

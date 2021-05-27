@@ -1,5 +1,4 @@
 T1	Named_Entity 8 17	Hong Kong
-T2	Term 41 58	world finance hub
 T3	Term_Common 47 54	finance
 T4	Named_Entity 64 83	Giles Conway-Gordon
 T5	Named_Entity 85 90	Ronan
@@ -22,7 +21,4 @@ T21	Term_Common 883 890	markets
 T22	Named_Entity 939 948	Hong Kong
 T23	Named_Entity 1025 1034	Hong Kong
 T24	Named_Entity 1196 1205	Hong Kong
-T25	Term_Common 1258 1284	global financial community
-T26	Term_Common 1265 1284	financial community
 T27	Term_Common 1265 1274	financial
-T28	Term_Common 47 58	finance hub

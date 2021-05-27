@@ -5,7 +5,6 @@ T4	Term_Common 71 76	banks
 T5	Term_Common 81 94	energy stocks
 T6	Term_Common 88 94	stocks
 T7	Term 102 109	indices
-T8	Term 170 202	chief European equity strategist
 T9	Term 185 202	equity strategist
 T10	Term 185 191	equity
 T11	Named_Entity 206 220	Morgan Stanley
@@ -55,15 +54,12 @@ T58	Named_Entity 2702 2708	Europe
 T59	Named_Entity 2732 2736	MSCI
 T60	Named_Entity 2861 2874	Euro Stoxx 50
 T61	Term 2913 2918	index
-T62	Term_Common 2932 2947	macro investors
 T63	Term_Common 2938 2947	investors
 T64	Named_Entity 2951 2957	Europe
-T65	Term 2982 2997	futures trading
 T66	Term 2982 2989	futures
 T67	Term_Common 2990 2997	trading
 T68	Term 3074 3079	index
 T69	Term_Common 3152 3157	Banks
-T70	Term 3358 3379	global equity markets
 T71	Term 3365 3379	equity markets
 T72	Term 3365 3371	equity
 T73	Term_Common 3372 3379	markets
@@ -88,13 +84,11 @@ T91	Term_Common 4200 4205	rates
 T92	Term_Common 4304 4314	financials
 T93	Named_Entity 4331 4337	Europe
 T94	Named_Entity 4491 4507	EU Recovery Fund
-T95	Term_Common 4552 4567	investment case
 T96	Term_Common 4552 4562	investment
 T97	Named_Entity 4572 4578	Europe
-T53	Part_of_Term 2614 2622	regional
-T54	Part_of_Term 2634 2641	indices
-R2	Split_Term Arg1:T53 Arg2:T54	
-T55	Term 2626 2641	country indices
 T56	Term 2634 2641	indices
 T98	Term 2750 2763	capital goods
 T35	Term_Common 1631 1636	banks
+T8	Term 2932 2947	macro investors
+T53	Term_Common 3893 3899	yields
+T54	Term_Common 4091 4097	yields

@@ -64,7 +64,6 @@ T63	Named_Entity 1748 1754	Dublin
 T64	Named_Entity 1756 1760	Oslo
 T65	Named_Entity 1762 1768	Lisbon
 T66	Named_Entity 1773 1781	Brussels
-T67	Term 1826 1858	collective market capitalisation
 T68	Term 1837 1858	market capitalisation
 T69	Term_Common 1837 1843	market
 T70	Named_Entity 1896 1904	Euronext
@@ -118,3 +117,14 @@ R1	Split_Term Arg1:T115 Arg2:T116
 T117	Term 2720 2736	settlement house
 T118	Term_Common 2837 2845	investor
 T119	Term 1199 1214	clearing houses
+T120	Term_Common 224 228	sell
+T121	Term_Common 816 822	bourse
+T122	Term_Common 1886 1892	listed
+T123	Named_Entity 2683 2697	Borsa Italiana
+T124	Term_Common 245 253	exchange
+T125	Term_Common 1717 1726	exchanges
+T67	Term_Common 2665 2673	exchange
+T126	Term_Out_of_Domain 361 372	acquisition
+T127	Term 1199 1207	clearing
+T128	Term 2705 2713	clearing
+T129	Term 2720 2730	settlement
